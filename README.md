@@ -17,8 +17,8 @@ One tap mobile
 +861087833177,,96925638178# China
 
 会议记录：[LFAPAC 开源布道者译道师会议记录](https://docs.qq.com/doc/DVWtzWE9vakxTYUdj)
-# 自愿者招募
-本SIG长期招募自愿者，有意参与的朋友可联系我们报名参加。
+# 志愿者招募
+本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
 联系人：赵振华 微信ID：richzhao
 
 # 待翻译内容
