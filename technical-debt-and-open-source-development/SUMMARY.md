@@ -5,6 +5,7 @@
 * [封面](face.md)
 * [摘要](README.md)
 * [技术债务](technical-debt.md)
+* [技术债务是如何累积的？](how-does-td-addumulate.md)
 * [反馈给我们](feedback.md)
 * [关于作者](about-the-authors.md)
 * [中文译者](contributor.md)
