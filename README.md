@@ -38,7 +38,7 @@ One tap mobile
 
 下面以文档《技术债务和开源开发》翻译的项目为例进行说明：
 
-一、到[翻译工程]（https://github.com/orgs/lfapac-open-source-evangelist/projects/1）中找到正在启动的项目， 例如[《Technical Debt and Open Source Development》 翻译](https://github.com/lfapac-open-source-evangelist/translation/issues/3)
+一、到[翻译工程](https://github.com/orgs/lfapac-open-source-evangelist/projects/1) 中找到正在启动的项目， 例如[《Technical Debt and Open Source Development》翻译](https://github.com/lfapac-open-source-evangelist/translation/issues/3)
 
 二、 回复这个项目的issue
 
