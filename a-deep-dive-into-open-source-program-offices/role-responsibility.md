@@ -14,7 +14,7 @@
 | 刘洁     | 翻译 | OSPO Maturity Model                                              | 8-10    | 9月10日  |
 | 滕召智    | 翻译 | OSPO Structure                                                   | 11-13   | 9月10日  |
 | 刘洁     | 翻译 | Staffing an OSPO                                                 | 14      | 9月10日  |
-| Amelia | 翻译 | OSPO Responsibilities                                            | 15-24   | 9月9号   |
+| 王玉茂 | 翻译 | OSPO Responsibilities                                            | 15-24   | 9月9号   |
 | 孙振华    | 翻译 | OSPOs and Eliminating Friction From Using or Contributing to OSS | 25-27   | 9月10日  |
 | 刘洁     | 翻译 | The TODO Group                                                   | 28      | 9月10日  |
 |        | 翻译 | Acknowledgments - Discaimer                                      | 29-31   |        |
