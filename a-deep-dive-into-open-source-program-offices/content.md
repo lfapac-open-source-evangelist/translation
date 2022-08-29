@@ -175,6 +175,8 @@ Licens](https://creativecommons.org/licenses/by-nd/4.0/)e]{.underline}
 
 # Abstract
 
+摘要
+
 Open source projects and initiatives provide enterprises with proven,
 successful models to collaborate with other organizations, create new
 technologies, and support the development of new commu- nities.
@@ -183,15 +185,23 @@ Organizations across many industries are establishing
 [[Source Program
 Offices]{.underline}](https://github.com/todogroup/ospodefinition.org)
 (OSPOs) and staffing them with highly skilled individuals to drive
-open source software(OSS) leadership and gain
+open source software(OSS) leadership and gaina critical foothold in 
+this external research and development (R&D) ecosystem.
 
-a critical foothold in this external research and development (R&D)
-ecosystem.
+
+开源项目和计划为企业提供了经过验证的、成功的范例，和其他组织协作，创建新
+技术，并支持新社区的开发。许多行业的组织正在建立开源项目办公室(OSPOs)，
+并为他们配备高技能的个人，以推动开源软件(OSS)的领导地位，并在这个外部
+研发(R&D)生态系统中获得关键的立足点。
 
 This report examines how enterprises structure their OSPOs and the
 required minimal staffing needed for their operation, discusses the
 responsibilities of such offices, and elaborates on the challenges
 that are faced in open source enterprise adoption.
+
+本报告探讨了企业如何构建他们的OSPOs，以及运营所需的最低人员配置，讨论了此
+类办公室的责任，并详细阐述了在采用开源企业中面临的挑战。
+
 
 # Introduction
 
