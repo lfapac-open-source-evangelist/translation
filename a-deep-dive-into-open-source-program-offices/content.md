@@ -269,18 +269,19 @@ characteristics:
     > facilitate open source consumption and participation.
 
 # OSPO Maturity Model
+# 开源项目办公室OSPO成熟度模型
+To better explain the evolution of OSPOs, the TODO Group has developed a model (**FIGURE 3**) to assist organizations in determining their OSPO and identifying the elements that need to be implemented to advance the maturity of their OSPO. This model is composed of the following two vari- ables and five stages:
 
-To better explain the evolution of OSPOs, the TODO Group has developed
-a model (**FIGURE 3**) to assist organizations in determining their
-OSPO and identifying the elements that need to be implemented to
-advance the maturity of their OSPO. This model is composed of the
-following two vari- ables and five stages:
+为了更好地解释OSPO的演变，TODO工作建立了一个模型（图3）来协助各组织确定其OSPO所处阶段、识别为推进其OSPO成熟度而需要实施的要素。该模型由以下两个变量和五个阶段组成：
 
 ##### MODEL VARIABLES:
-
 - Y variable: Ability to execute.
 
 - X variable: OSPO level.
+
+##### 模型变量
+Y变量：执行能力。
+X变量：OSPO级别。
 
 ##### MODEL STAGES:
 
@@ -296,39 +297,29 @@ following two vari- ables and five stages:
 
 ![](media/image37.png)
 
-### Stage 0: Ad-Hoc Approach
+#### 模型阶段
 
-Nowadays, almost all organizations use OSS, although how they adapt
-and initially use it varies. They may use OSS as a building block or
-library in a product or tool, a key part of a vendor's solution stack,
-or in support of their service offering. Modern cloud native
-applications, almost by default, use open source systems for container
-orches- tration, observability, data storage, messaging, and more. In
-other words, nearly every organization is using open source. However,
-the earliest form of adoption is ad hoc due to developers solving
-problems using readily available tools and technologies. This "ad-hoc
-adoption" usually means that little thought is given to license
-compliance outside the basic defaults or to the longer-term impacts of
-consuming OSS and distributing products that are built with OSS
-components.
+阶段0：临时采用。
+
+阶段1：法务驱动。
+
+阶段2：社区驱动。
+
+阶段3：参与驱动。
+
+阶段4：领导力驱动。
+
+### Stage 0: Ad-Hoc Approach
+### 阶段0：临时采用
+Nowadays, almost all organizations use OSS, although how they adapt and initially use it varies. 
+They may use OSS as a building block or library in a product or tool, a key part of a vendor's solution stack, or in support of their service offering. Modern cloud native applications, almost by default, use open source systems for container orches- tration, observability, data storage, messaging, and more. In other words, nearly every organization is using open source. However,the earliest form of adoption is ad hoc due to developers solving problems using readily available tools and technologies.
+This "ad-hoc adoption" usually means that little thought is given to license compliance outside the basic defaults or to the longer-term impacts of consuming OSS and distributing products that are built with OSS components.
+如今，几乎所有的组织都使用开源软件，尽管他们最初使用和适配的方式各不相同。他们可能将开源软件用作产品或工具中的构建模块或库，作为供应商解决方案堆栈的关键部分，或支持其服务产品。现代云原生应用几乎默认使用开源系统来进行容器编排、可观察性、数据存储、消息传递等。换句话说，几乎每个组织都在使用开源。然而，最早期的使用形式是临时的，起因往往是开发者使用现成的工具和技术解决问题。这种“临时采用”通常意味着，在基本默认值之外，很少考虑开源许可证合规性、以及使用开源软件和分发基于开源软件组件构建的产品的长期影响。
+
 
 ### Stage 1: Legal-Driven Adoption
-
-In general, an organization forms an OSPO when it realizes that its
-people are consuming open source products and code across nearly all
-engineering and development departments and functions. This usage is
-typically internal rather than part of its products or services to its
-customers or users. At this early stage, organizations often use many
-different names for the OSPO. For example, IBM initially called its
-programmatic open source efforts the "Open Source Steering Committee."
-
-Organizations in Stage 1 recognize that OSS is a key part of their
-business and technology strategies. They understand that the security
-practices of OSS projects differ from those of proprietary software
-organizations.
-
-Organizations must identify their legal and security risks. The risk
-miti- gation strategies include the following:
+### 阶段1：法务驱动
+In general, an organization forms an OSPO when it realizes that its people are consuming open source products and code across nearly all engineering and development departments and functions. This usage is typically internal rather than part of its products or services to its customers or users. At this early stage, organizations often use many different names for the OSPO. For example, IBM initially called its programmatic open source efforts the "Open Source Steering Committee."Organizations in Stage 1 recognize that OSS is a key part of their business and technology strategies. They understand that the security practices of OSS projects differ from those of proprietary software organizations. Organizations must identify their legal and security risks. The risk mitigation strategies include the following:
 
 - Compliant licensing.
 
@@ -338,52 +329,46 @@ miti- gation strategies include the following:
 
 ## In general, an organization forms an OSPO when it realizes that its people are consuming open source products and code across nearly all engineering and development departments and functions. This usage is typically internal rather than part of its products or services to its customers or users.
 
+一般来说，当一个组织意识到其员工在几乎所有工程和研发部门和职能模块中使用开源产品和代码时，它就会成立开源项目办公室OSPO。这种通常是内部使用，而不是其提供给客户或用户的产品、服务的一部分。在这个早期阶段，组织往往为开源项目办公室OSPO使用多种不同的名称。例如，IBM最初将其纲领性的开源努力称为“开源指导委员会”。处于阶段1的组织认识到开源软件是其业务和技术战略的关键部分。他们理解开源项目的安全实践与专有软件组织的安全实践不同。组织必须识别其法务和安全风险。风险缓解策略包括：
+
+-许可证遵从。
+
+-开发者教育。
+
+-库存跟踪。
+
+## 一般来说，当一个组织意识到其员工在几乎所有工程和研发部门和职能模块中使用开源产品和代码时，它就会成立开源项目办公室OSPO。这种通常是内部使用，而不是其提供给客户或用户的产品、服务的一部分。
+
 ### Stage 2: Community-Driven Adoption
+### 阶段2：社区驱动
 
 ##### EARLY STAGE
 
-After organizations recognize the value of OSS and the need for
-compliance, education, and a Software Bill of Materials (SBOM), they
-begin to realize the economic benefits of OSS usage and seek to expand
-it. OSPOs in Stage 2 create such internal mechanisms as ambas-
+After organizations recognize the value of OSS and the need for compliance, education, and a Software Bill of Materials (SBOM), they begin to realize the economic benefits of OSS usage and seek to expand it. 
+OSPOs in Stage 2 create such internal mechanisms as ambas-sadors who promote the usage of approved OSS products, educational programs on good OSS hygiene, and technical training or tuition reim-bursement for OSS skill building and certification. 
+With these initiatives, an organization can grow its use of OSS and amplify its message that OSS is not only important but also desirable andpreferable to propri- etary software.
 
-sadors who promote the usage of approved OSS products, educational
-programs on good OSS hygiene, and technical training or tuition reim-
-bursement for OSS skill building and certification. With these
-initiatives, an organization can grow its use of OSS and amplify its
-message that OSS is not only important but also desirable and
-preferable to propri- etary software.
+##### 早期阶段
+
+在组织认识到开源软件的价值以及合规遵从、教育和软件物料清单（SBOM）的必要性之后，他们开始意识到开源软件使用的经济益处并寻求扩大它。阶段2的开源项目办公室OSPO建立了诸如促进使用经批准的开源软件产品的大使、关于良好的开源社区行为的教育计划、开源软件技能构建及认证的技术培训或学费报销等内部机制。通过这些举措，组织可以增加对开源软件的使用，并扩大其信息，即开源软件不仅重要而且比专有软件更可取和更可取。
 
 ##### GROWTH STAGE
 
-When advancing in this stage, organizations begin encouraging their
-developers to work on OSS projects that are critical to their
-operations to the extent that the developers become highly active
-contributors or primary maintainers. During this stage, OSPOs begin to
-streamline and optimize open outbound source contributions for their
-developers and create and launch open source projects to establish
-broad credibility in the open source community.
+When advancing in this stage, organizations begin encouraging their developers to work on OSS projects that are critical to their operations to the extent that the developers become highly active contributors or primary maintainers. 
+During this stage, OSPOs begin to streamline and optimize open outbound source contributions for their developers and create and launch open source projects to establish broad credibility in the open source community.
+
+#### 成长阶段
+
+在此阶段推进时，组织开始鼓励其开发者从事对其运营至关重要的开源项目，直至其开发者成为高度活跃的贡献者或主要维护者。在这一阶段，开源项目办公室OSPO开始帮助其开发者简化和优化对外开源贡献，并创建和发起开源项目以便在开源社区建立广泛的信誉。
 
 ### Stage 3: Engagement-Driven Adoption
+### 阶段3：参与驱动
 
-During Stage 3, organizations initiate and host or act as primary
-sponsors of OSS projects. They will dedicate one or more full-time
-employees to a project, and they accept responsibility for nurturing a
-project community and ensuring its health. They do not confuse this
-level of organizational commitment with individual employees who
-decide to open source their projects. Additionally, during this stage,
-organizational leaders support incubating and launching OSS projects
-into the public sphere because they understand how these projects
-benefit their organization. Such projects tend to offer improved
-perfor- mance and economics on crucial capabilities that may be
-noncore
+During Stage 3, organizations initiate and host or act as primary sponsors of OSS projects. They will dedicate one or more full-time employees to a project, and they accept responsibility for nurturing a project community and ensuring its health. They do not confuse this level of organizational commitment with individual employees who decide to open source their projects. Additionally, during this stage,organizational leaders support incubating and launching OSS projects into the public sphere because they understand how these projects benefit their organization. Such projects tend to offer improved performance and economics on crucial capabilities that may be noncore to the organization's value proposition but critical to its technology infrastructure.
 
-to the organization's value proposition but critical to its technology
-infrastructure.
+在阶段3，组织发起和主办或充当开源项目的主要赞助人。他们将为一个项目奉献一名或多名全职员工，并承担培育项目社区和确保其健康的责任。他们不会将这种组织承诺水平与决定开源项目的个人员工混淆。此外，在该阶段，组织领导人支持孵化和发起对外开源项目，因为他们了解这些项目如何使其组织受益。这些项目往往在关键能力上提供更好的性能和经济性，且这些能力往往不是该组织价值主张的核心能力，但对其技术基础设施至关重要。
 
-Additionally, during this stage, the OSPO develops several mechanisms
-to vet, organize, and operate open source projects and prepare and
-coach their leaders, such as the following:
+Additionally, during this stage, the OSPO develops several mechanisms to vet, organize, and operate open source projects and prepare and coach their leaders, such as the following:
 
 - Internal processes.
 
@@ -392,31 +377,38 @@ coach their leaders, such as the following:
 - Checklists.
 
 - Tooling.
+此外，在该阶段，开源项目办公室OSPO开发了几种机制来审查、组织和运营开源项目，并准备及指导其领导者，例如：
+
+-内部流程。
+
+-运作手册。
+
+-检查表。
+
+-工具。
 
 ### Stage 4: Leadership-Driven Adoption
+### 阶段4：领导力驱动
+During this maturity stage, the OSPO becomes a strategic partner for technology decisions, guides choices, and shapes long-term commitments to projects. 
+Additionally, the Chief Technology Officer(CTO) and other technology leaders consult the OSPO and its leadership on 
+which open source technologies to rely and which decision criteria to use in judging open source projects. Because major open source technology choices tend to generate significant secondary and tertiary costs and affect both upstream and downstream technologies and hiring plans, the choice of open source projects becomes a major business decision. 
+The following three main types of strategic guidance take shape in this final stage:
 
-During this maturity stage, the OSPO becomes a strategic partner for
-technology decisions, guides choices, and shapes long-term commitments
-to projects. Additionally, the Chief Technology Officer
+1.  Advise the CTO and technology leadership on open source technologies to adopt/remove from the organization's technology stack.
 
-(CTO) and other technology leaders consult the OSPO and its leadership
-on which open source technologies to rely and which decision criteria
-to use in judging open source projects. Because major open source
-technology choices tend to generate significant secondary and tertiary
-costs and affect both upstream and downstream technologies and hiring
-plans, the choice of open source projects becomes a major business
-decision. The following three main types of strategic guidance take
-shape in this final stage:
-
-1.  Advise the CTO and technology leadership on open source technologies
-    to adopt/remove from the organization's technology stack.
-
-2.  Take the lead on benchmarking what constitutes an acceptable OSS
-    project.
+2.  Take the lead on benchmarking what constitutes an acceptable OSS project.
 
 3.  Help organizations understand and navigate project politics.
 
 ![](media/image42.png)
+
+在这个成熟阶段，开源项目办公室OSPO成为技术决策的战略合作伙伴，指导选择，并形成对项目的长期承诺。此外，首席技术官（CTO）和其他技术领导者咨询开源项目办公室OSPO及其领导层，应依赖哪些开源技术以及在评判开源项目时使用哪些决策标准。由于主要的开源技术选择往往会产生巨大的二级和三级成本，并影响上下游技术和招聘计划，因此开源项目的选择已成为一项主要的商业决策。在这个最后阶段，以下三类主要战略指引形成：
+
+1.就开源技术向首席技术官和技术领导层提供从组织的技术堆栈中采用/删除开源技术的建议。
+
+2.主导衡量什么是可接受的开源项目。
+
+3.帮助组织理解和指引项目政治。
 
 # OSPO Structure
 
