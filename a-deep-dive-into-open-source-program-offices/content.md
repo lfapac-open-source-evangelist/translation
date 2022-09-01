@@ -516,31 +516,39 @@ organizations, it is difficult to scale as the organization grows.
 height="9.2082239720035e-2in"}
 
 # Staffing an OSPO
+# OSPO人员配备
+The staffing of an OSPO depends on many variables. However, several roles are required, regardless of the specific structure of any given OSPO. These roles do not have to be distinct positions. In some cases, distin- guished individuals with strong sets of skills can fulfill more than one role.
+OSPO的人员配备取决于许多变量。但是，无论任何给定开源项目办公室OSPO的具体结构如何，都需要几个角色。这些角色不一定非得是不同的职位。在某些情况下，具有强大技能的杰出个人可以履行多个角色。
 
-The staffing of an OSPO depends on many variables. However, several
-roles are required, regardless of the specific structure of any given
-OSPO. These roles do not have to be distinct positions. In some cases,
-distin- guished individuals with strong sets of skills can fulfill
-more than one role.
+
+
+软件架构师
+我们认为，OSPO必须有一名高级软件架构师或首席工程师在与OSS相关的主题上担任高级技术决策者：从设计选择到技术标准，如平台和编码标准。
+
+技术传道者
+技术传道者是具有强大技术背景的个人，其主要职责是向组织的客户、潜在客户和合作伙伴以及一般开源社区宣传开源团队开发的开源贡献和解决方案。他们负责在活动中运行演示、提供技术演示、创建文档，并通常为给定技术建立关键数量的支持。
+
+合规工程师
+合规工程师支持组织的合规政策和流程的执行，并确保组织履行其产品和服务中使用的OSS的所有许可义务。一些OSPO拥有开放的完全所有权
+
+源合规功能；在这些情况下，OSPO可能需要托管多名合规工程师。
+
+法律顾问
+OSPO的工作人员中很少有法律顾问。在大多数情况下，对于中小型组织来说，获得精通开源许可的法律顾问就足够了。
 
 ### Head of OSPO
+### 开源项目办公室OSPO负责人
+The head of the OSPO is often called the director or vice president of open source, depending on the size of the organization and the open source team. The head of open source is responsible for managing and executing organization-wide open source strategies and business metrics to track the business and technical success of the program.
 
-The head of the OSPO is often called the director or vice president of
-open source, depending on the size of the organization and the open
-source team. The head of open source is responsible for managing and
-executing organization-wide open source strategies and business
-metrics to track the business and technical success of the program.
+Depending on the structure of the OSPO, the office leader could also be responsible for open source engineering resources, ensuring open source compliance, representing the organization among open source organizations, and participating in open standards efforts.
 
-Depending on the structure of the OSPO, the office leader could also
-be responsible for open source engineering resources, ensuring open
-source compliance, representing the organization among open source
-organizations, and participating in open standards efforts.
+开源项目办公室OSPO的负责人通常被称为开源总监或副总裁，这取决于组织和开源团队的规模。开源总监负责管理和执行组织范围内的开源战略和业务指标，以跟踪项目的的业务和技术成功度。
+
+根据开源项目办公室OSPO的结构，办公室负责人还可以负责开源工程资源、确保开源合规遵从、在开源组织中代表组织以及参与开放标准工作。
 
 This individual should possess the following traits:
 
-- A strong engineering background and experience in software
-
-  > development.
+- A strong engineering background and experience in software development.
 
 - Contacts with open source organizations.
 
@@ -548,55 +556,62 @@ This individual should possess the following traits:
 
 - Knowledge of industry best practices.
 
-- Knowledge and experience in establishing corporate-wide policies and
+- Knowledge and experience in establishing corporate-wide policies and processes.
 
-  > processes.
-
-- Technical knowledge related to the organization's products and
-
-  > services.
+- Technical knowledge related to the organization's products and services.
 
 - Historical perspective of open source.
 
 - Knowledge of how various technical project communities operate.
 
-The TODO Group has published a [[template job
-specification]{.underline}](https://todogroup.org/blog/%20sample-job-req)
-for this role that you can customize to your needs.
+The TODO Group has published a [[template job specification]{.underline}](https://todogroup.org/blog/%20sample-job-req) for this role that you can customize to your needs.
+
+此人应具有以下特征：
+
+-具有强大的工程背景和软件开发经验。
+
+-有与开源组织的联系。
+
+-对开源许可证有全面深入的了解。
+
+-了解业界最佳实践。
+
+-在制定全公司政策和流程方面的知识和经验。
+
+-与本组织产品和服务有关的技术知识。
+
+-开源的历史视角。
+
+-了解各种技术项目社区如何运作。
+
+TODO工作组已发布了此角色的【工作规范模板】{.underline}(https://todogroup.org/blog/%20sample-job-req) ，您可以根据自己的需要定制该规范。
 
 ### Software Architect
 
-We believe that it is mandatory for an OSPO to have a senior software
-architect or principal engineer to act as a high-level technical deci-
-sion-maker on topics that are related to OSS: from design choices to
-technical standards, such as platforms and coding standards.
+We believe that it is mandatory for an OSPO to have a senior software architect or principal engineer to act as a high-level technical decision-maker on topics that are related to OSS: from design choices to technical standards, such as platforms and coding standards.
+
+### 软件架构师
+我们认为，开源项目办公室OSPO必须有一名高级软件架构师或首席工程师在与OSS相关的主题上担任高级技术决策者：从设计选择到技术标准，如平台和编码标准。
 
 ### Technical Evangelist
 
-A technical evangelist is an individual with a strong technical back-
-ground whose primary role is to evangelize the open source contribu-
-tions and solutions that are developed by the open source group to the
-organization's customers, prospects, and partners, and the open source
-community in general. They are responsible for running demonstrations
-at events, delivering technical presentations, creating documentation,
-and generally building support to a critical mass for a given
-technology.
+A technical evangelist is an individual with a strong technical background whose primary role is to evangelize the open source contributions and solutions that are developed by the open source group to the organization's customers, prospects, and partners, and the open source community in general. They are responsible for running demonstrations at events, delivering technical presentations, creating documentation, and generally building support to a critical mass for a given technology.
+### 技术传道者
+技术传道者是具有强大技术背景的个人，其主要职责是向组织的客户、潜在客户和合作伙伴以及开源社区宣传由组织的开源团队开发的开源贡献和方案。他们负责在实践活动中做运行演示、提供技术演讲、创建文档，并通常为给定技术提供大量的构建支持。
 
 ### Compliance Engineer
 
-The compliance engineer supports the execution of the organiza- tion's
-compliance policy and process and ensures that the organization
-fulfills all license obligations for the OSS that is used in its
-products and services. Some OSPOs have complete ownership of the open
+The compliance engineer supports the execution of the organization's compliance policy and process and ensures that the organization fulfills all license obligations for the OSS that is used in its products and services. Some OSPOs have complete ownership of the open source compliance function; in these cases, the OSPO may need to host multiple compliance engineers.
 
-source compliance function; in these cases, the OSPO may need to host
-multiple compliance engineers.
+### 合规工程师
+合规工程师支持组织的合规政策和流程的执行，并确保组织履行其产品和服务中使用的开源软件的所有许可义务。一些开源项目办公室OSPO全权负责开源合规遵从的职能，在该场景下，OSPO可能需有多名合规工程师。
 
 ### Legal Counsel
 
-It is rare for an OSPO to have legal counsel among its staff. In most
-cases, having access to a legal counsel that is versed in open source
-licensing is sufficient for small and medium-sized organizations.
+It is rare for an OSPO to have legal counsel among its staff. In most cases, having access to a legal counsel that is versed in open source licensing is sufficient for small and medium-sized organizations.
+
+### 法律顾问
+开源项目办公室OSPO的工作人员中很少有法律顾问。在大多数情况下，对于中小型组织来说有渠道能获得精通开源许可的法律顾问就足够了。
 
 # OSPO Responsibilities
 
