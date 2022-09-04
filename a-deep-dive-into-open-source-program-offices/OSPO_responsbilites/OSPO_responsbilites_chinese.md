@@ -161,7 +161,8 @@ During the first stage (consumption), the OSPO needs to implement an open source
 ![](2022-08-26-17-56-02.png)
 
 ### **Prioritize and Drive Upstream Open Source Development**
-One of the primary responsibilities of an OSPO is to improve the organization’s engagement with the key open source projects that are used in products and services. The first step is to identify where the organization relies on OSS by surveying all products and reviewing the SBOM. 
+### **上游优先并驱动上游的开源开发**
+One of the primary responsibilities of an OSPO is to improve the organization’s engagement with the key open source projects that are used in products and services. The first step is to identify where the organization relies on OSS by surveying all products and reviewing the SBOM. 开源办公室（OSPO）的主要职责之一是提高组织中关键开源项目（在产品和服务中使用的）的上游参与度。第一步是通过SBOM工具来分析组织中的所有产品来确定组织那些部分最依赖开源组件。
 The next step is to prioritize the OSS that is already in use and establis a contribution strategy. Such a focused approach allows the OSPO to show a return on investment across multiple products. In an enterprise setting, where the OSPO and open source engineering are cost centers, the driving force should be to focus on open source projects that directly support product development.<br>
 FIGURE 13 illustrates the additional elements that the OSPO needs to implement to support open source contributions.
 ### **Engage with Open Source Organizations**
