@@ -48,7 +48,8 @@ magazines, follow blogs, and participate in discussion forums.鼓励员工订阅
 get involved in local open source activities.
 主办本地的开源用户组，并鼓励您的员工参与本地的开源活动。
 - Invite community members to present to your development team on topics that are related to the project.邀请社区成员在开发团队内分享开源项目相关的主题。
-### **Participant Scenario 参与者场景**
+### **Participant Scenario**
+### **参与者场景**
 Once your organization is successfully using OSS in products or services, you can expand your strategy to participate in the open source community. Unless you have already hired experienced developers, you may need to engage more closely with the community, increase your visibility, and begin attracting the talent that you need. The following action items are essential to participation:
 一旦您的组织在产品或服务中成功地使用了开源软件，您就可以扩展您的策略来参与开源社区。除非你已经聘请了有经验的开发者，否则你可能需要与社区更密切地接触，提高知名度，并开始吸引你所需的人才。下列这些活动对于参与者策略场景下至关重要：
 - Monitor community communication platforms, such as chat servers, mailing lists, forums, and websites, to keep on top of project developments.
@@ -90,7 +91,8 @@ Once your enterprise realizes the benefits of participating regularly in the com
 部署开源协作工具以支撑开源的使用和贡献。
 - Invest incrementally in engineering, product management, and legal resources to engage with external communities.
 逐步投资于工程能力、产品管理和相关法律资源，以支撑与外部社区合规高效的交互。
-### **Leadership Scenario 领导者场景**
+### **Leadership Scenario**
+### **领导者场景**
 The highest form of open source strategy is leadership. Open source leaders earn their strategic positions by establishing trust with project members and maintaining a high level of continuous contribution. Leading organizations can capitalize on emerging trends in technology.开源战略的最高阶段是领导者场景。开源领导者通过与项目成员建立信任并保持高水平的持续贡献来赢得他们的战略地位。领先的组织可以利用新兴的技术趋势来为商业目标服务；
 
 This scenario requires significant investment in targeted open source communities and consortia to establish a leadership agenda. In addition, it will require incremental investment primarily in engineering, product management, and legal to establish leadership in external communities and industry consortia. Below are some of the tactical steps that can help steer your organization toward a leadership role within a specific open source project:
@@ -131,32 +133,40 @@ While there are numerous strategic objectives to choose from, the following obje
 - 通过社区参与提高工程能力。
 - 撬动开源开发者深化和扩展在你所在的开源社区的贡献。
 ### **Oversee Open Source Compliance**
-Open source initiatives provide organizations with a vehicle to accelerate innovation through collaboration with open source communities.
-One core responsibility for organizations is their compliance with open source licenses. Open source compliance is the process by which users, integrators, and software developers observe copyright notices and satisfy the license obligations for their OSS components.
-
+### **开源合规遵从的监管**
+Open source initiatives provide organizations with a vehicle to accelerate innovation through collaboration with open source communities.开放源码促进会（OSI）为企业提供了工具/方法用于通过和开源社区的合作来加速创新
+One core responsibility for organizations is their compliance with open source licenses. Open source compliance is the process by which users, integrators, and software developers observe copyright notices and satisfy the license obligations for their OSS components.企业拥抱开源的一个核心责任是开源许可证的遵从。开源义务履行是指用户、集成商和软件开发者遵守版权声明并履行其开源组件许可义务的过程。
 Open source compliance helps to achieve the following four main objectives:
 - Comply with open source licensing obligations.
 - Facilitate effective use of OSS in commercial products and services.
 - Comply with third-party software supplier contractual obligations.
 - Protect commercial product differentiation.
+开源义务履行有助于实现以下四个主要目标:
+- 遵守开源许可义务。
+- 促进开源软件在商业产品和服务中的有效使用。
+- 遵守第三方软件供应商合同义务。
+- 保护商业产品差异化竞争力。
 OSPOs are generally involved in open source compliance in the following two ways:
-1. They are responsible for implementing and running a complete end-to-open source compliance program, which includes the policy, process, tools, automation, education, and final fulfillment of obligations for OSS integrated into products, software, or services. <br>
-Or<br>
-2. They are responsible for establishing the organization’s general open source policies, and the execution and enforcement of these policies are pushed into the various divisions across the organization. For instance, ensuring open source compliance is a great example of a scenario where the OSPO is focused on policies and processes, and dedicated teams on the product side are more trusted than the actual implementation and execution of a compliance program.
+1. They are responsible for implementing and running a complete end-to-open source compliance program, which includes the policy, process, tools, automation, education, and final fulfillment of obligations for OSS integrated into products, software, or services.
+开源办公室（OSPOS）通常有以下两种方式参与开源遵从:
+1、他们负责实施和运行一个端到到段完整的开源合规性计划，包括政策，流程，工具，自动化，赋能培训，并最终履行开源软件集成到产品，软件，或服务的义务。<br>
+Or 或者<br>
+2. They are responsible for establishing the organization’s general open source policies, and the execution and enforcement of these policies are pushed into the various divisions across the organization. For instance, ensuring open source compliance is a great example of a scenario where the OSPO is focused on policies and processes, and dedicated teams on the product side are more trusted than the actual implementation and execution of a compliance program. 2.他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，OSPO（开源办公室）专注于政策和流程并在产品端的有专门团队来落地，比直接下发和推行合规计划更受信任。
 
 The OSPO has a direct impact on the full scale of compliance responsibilities. Regardless of the specific role of an OSPO, it must have at least one individual who is very knowledgeable in open source licensing, compliance practices, and engineering.
+开源办公室（OSPO）应该对组织内开源合规职责负有全面的直接影响。无论这个职责在开源办公室（OSPO）内对应什么具体的角色，他必须至少是一个熟知开源许可证规范、合规遵从实践和工程的人。
 
-The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.
+The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了这些开源合规团队的主要角色。关于开源合规的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
 ![](2022-08-26-17-50-15.png)
 ![](2022-08-26-17-52-08.png)
 Collectively, these three roles (legal, engineering, and compliance) are responsible for the following three main tasks:
-
-1. Ensuring mutual compliance with third-party software and OSS licenses.
-
+总的来说，这三个角色(法律代表、工程产品代表和合规代表)主要负责以下三个任务:
+1. Ensuring mutual compliance with third-party software and OSS licenses.1.确保第三方软件协议和开源软件的license相互兼容。
 2. Facilitating the usage of and contributions to OSS.
-
-3. Protecting proprietary intellectual property (and product differentiation) by ensuring that open source license obligations do not propagate to proprietary or third-party software.
-Establish Open Source Policies and Processes The policies and processes that the OSPO needs to create depend on the organization’s current and target position on the strategy ladder.
+2.促进OSS的使用和贡献。
+3. Protecting proprietary intellectual property (and product differentiation) by ensuring that open source license obligations do not propagate to proprietary or third-party software. 3.确保开源许可义务履行不会感染或影响到专有或第三方软件的专有知识产权(和产品竞争力)。
+### **Establish Open Source Policies and Processes**
+ The policies and processes that the OSPO needs to create depend on the organization’s current and target position on the strategy ladder.
 During the first stage (consumption), the OSPO needs to implement an open source infrastructure that can support the consumption and compliance aspects of OSS. FIGURE 12 illustrates infrastructure that goes beyond a simple policy to define the organization’s guidelines for using OSS. It extends to encompass a strategy that covers usage and compliance, incorporates compliance checkpoints in the development process, establishes a team to supervise the proper usage of open source, provides the necessary training, enables tooling, and facilitates relationships with relevant open source organizations. 
 ![](2022-08-26-17-56-02.png)
 
