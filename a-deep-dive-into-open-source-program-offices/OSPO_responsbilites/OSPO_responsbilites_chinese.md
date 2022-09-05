@@ -217,7 +217,7 @@ It is worth noting that some OSPOs in large organizations create and manage thei
 这些IT基础设施服务的部分和全部在组织的内部也需要无障碍的获得以便高效的支撑开源开发活动；在开源实践中，典型的需求就是开源基础设施服务要比组织内部的协作环境需要更少的的限制。如果这种情况与现有的组织范围内的IT策略冲突，那么解决这些冲突并允许开源开发人员使用他们最熟悉的工具是至关重要的。
 值得注意的是，一些大型组织中的开源办公室（OSPO）是独立于企业It部门创建和管理自己的It基础设施的。
 
-> ## <font color=Blue>Saying “no” is unequivocally the author’s favorite OSPO responsibility. OSPOs act as a gating function for all major contributions that leave the organization, including new projects or contributing major proprietary code. Saying “no” is the responsibility of OSPO leaders when proposals to release open source projects or contribute significant bodies of code do not meet the proper requirements for success. 说“不”无疑是作者首肯的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门禁作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。</font>
+> ## <font color=Blue>Saying “no” is unequivocally the author’s favorite OSPO responsibility. OSPOs act as a gating function for all major contributions that leave the organization, including new projects or contributing major proprietary code. Saying “no” is the responsibility of OSPO leaders when proposals to release open source projects or contribute significant bodies of code do not meet the proper requirements for success. 说“不”无疑是作者最为赞赏的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门禁作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。</font>
 ### **ELIMINATE FRICTION FROM USING AND CONTRIBUTING TO OPEN SOURCE**
 ### **消除使用和贡献开源的阻力**
 OSPOs help organizations navigate internal politics or policies, maintain relationships with communities of strategic importance, and continuously improve processes and tools to scale and reduce the learning curve and manual effort that is required.
@@ -229,7 +229,7 @@ OSPOs should be involved with open source due diligence (technical and complianc
 ### **Mergers and Acquisitions**
 ### **并购评估**
 If an organization is considering a merger or is the target of an acquisition, the OSPO is a great source of expertise for open source technology and compliance due diligence. OSPOs can help their organization to understand the open source code that is used by the target organization and its implications as part of the due diligence process.
-如果一个组织正在考虑合并或被收购，开源办公室（OSPO）是开源技术和合规评估的一个重要专业知识来源。作为经营评估过程的一部分，开源办公室（OSPO）可以参与到经营评估的部分工作中，去帮助组织梳理分析目标企业使用的开源代码及其隐藏的风险和影响。
+如果一个组织正在考虑合并或被收购，开源办公室（OSPO）是开源技术和合规评估的一个重要专业意见的来源。作为经营评估过程的一部分，开源办公室（OSPO）可以参与到经营评估的工作中，去帮助组织梳理分析目标企业使用的开源代码及其隐藏的风险和影响。
 ### **Outsourced Development**
 ### **外包开发**
 The OSPO can also support corporate development when negotiating the outsourced development of software, which will ensure that the proper compliance procedures are followed according to the organization’s policies and processes.
@@ -237,8 +237,8 @@ The OSPO can also support corporate development when negotiating the outsourced 
 ### **COLLABORATE WITH UNIVERSITIES ON OPEN SOURCE PROJECTS**
 ### **与大学开展开源项目合作**
 Many universities are eager to work with organizations that offer learning opportunities for their students and provide them with realworld development experience. Often, this relationship is also beneficial to the organizations that are involved because it can be a great way to develop new talent in existing open source communities and attract new development talent from a trusted source. This is particularly useful for projects that have a shortage of experienced developers and are typically more difficult to hire for. As the supply of talented programmers is limited, finding a way to tap into new knowledge and influence favorable outcomes in external projects, including academia, is vital.
-许多大学都希望能与企业合作为他们的学生提供学习机会和真实业务的开发经验。通常情况下，这种关系对参与其中的组织也是有益的，因为这可能是从现有的开源社区中挖掘、吸引新的开发人才一个来源可信赖的好方法。这对于急需经验的开发人员并且又很难雇佣到员工的项目特别有用。因为有天赋的程序员是稀缺的，找到一条途径能利用新的知识体系并对外部项目产生有影响力的价值产出（包括学术产出）是至关重要和可持续发展的。
+许多大学都希望能与企业合作为他们的学生提供学习机会和真实业务的开发经验。通常情况下，这种关系对参与其中的组织也是有益的，因为这可能是从现有的开源社区中挖掘、吸引新的开发人才一个来源可信赖的好方法。这对于急需有经验的开发人员并且又很难雇佣到员工的项目特别有用。因为有天赋的程序员是稀缺的，找到一条途径能利用新的知识体系并对外部项目产生有影响力的价值产出（包括学术产出）是至关重要的。
 ### **KNOW WHEN TO SAY “NO”**
 ### **知道什么时候说“不”**
 Saying “no” is unequivocally the author’s favorite OSPO responsibility. OSPOs act as a gating function for all major contributions that leave the organization, including new projects or contributing major proprietary code. Saying “no” is the responsibility of OSPO leaders when proposals to release open source projects or contribute significant bodies of code do not meet the proper requirements for success.
-说“不”无疑是作者首肯的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门禁作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。
+说“不”无疑是作者最为赞赏的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门禁作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。
