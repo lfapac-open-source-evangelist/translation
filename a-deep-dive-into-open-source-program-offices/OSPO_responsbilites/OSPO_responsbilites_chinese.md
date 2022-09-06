@@ -7,6 +7,24 @@ The OSPO assumes different responsibilities that change over time. In the follow
 Since the beginning of the software industry, nearly every software organization has followed the same business model as follows: source code was developed by its employees or licensed from a third party, intellectual property was closely held, and software was delivered in a binary format to its clients. However, the availability of enterprise-grade OSS is changing how organizations develop and deliver products. With open access to source code and transparent development communities, software providers can reduce development costs while remaining active participants in the development process. In addition, end users of the software can also be active in the development process by contributing directly to upstream projects rather than be passive recipients of what the software vendor delivers to them. This development model enables organizations to think differently about how they procure, implement, test, deploy, and maintain software. In this report, we explore the following four basic strategies for organizations that utilize and integrate OSS in their products: consumer, participant, contributor, and leader.
 软件产业有史以来，几乎每个软件组织都遵循如下的商业模式:源代码由其员工开发或从第三方获得许可，在严格的知识产权控制下，软件以二进制包的方式交付给客户。然而，企业级开源软件的可获得性正在改变组织开发和交付产品的方式。通过对开源代码开放访问和社区的公开透明的开发方式，软件供应商可以降低开发成本，同时保持在开发过程中的积极参与。此外，软件的最终用户也可以通过直接对上游项目的贡献在开发过程中发挥积极作用，而不再是被动地接受软件供应商的产品交付。这种开发模型使得组织开始重新思考如何更好的采购、实施、测试、部署和维护软件。在这份报告中，我们探讨了在产品中使用和集成开源软件（OSS）的组织的四种基本战略:消费者、参与者、贡献者和领导者。
 ![](2022-08-26-17-49-14.png)
+<table>
+    <tr>
+        <td>FIGURE 9 <br> The four core stages of open source strategy— consumer, participant, contributor, and leader<br> 图表 9 开源战略的4个核心阶段-消费者、参与者、贡献者和领导者
+        </td> 
+   </tr>
+    <tr>
+        <td>    </td>
+        <td>CONSUMER <br>消费者</td>
+        <td>PARTICIPANT<br>参与者</td>  
+        <td>CONTRIBUTOR<br>贡献者</td>  
+        <td>LEADER<br>领导者</td>     
+    </tr>
+    <tr>
+        <td>    </td>
+        <td colspan="4">Continuous participation and contribution to open source project<br>持续的参与和贡献开源项目</td>   
+    </tr>
+</table>
+
 FIGURE 9 illustrates the following four primary OSS strategies: consumption, participation, contribution, and leadership. Each strategy requires organizations to be successful at the previous strategy. How far your organization advances up this ladder is entirely dependent upon its objectives and overall open source strategy.
 These four strategies overlap as organizations transition from one position into another. Typically, the early stages are engineering-driven due to engineers using open source components in product development. Initially, their participation in strategic projects may be limited to joining the conversation or making small contributions. Over time, this usage can grow within the organization and become part of the business strategy as it gains traction.
 图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。您的组织在这个阶梯上的位置将完全取决于它的目标和总体开源战略。
@@ -158,7 +176,102 @@ The OSPO has a direct impact on the full scale of compliance responsibilities. R
 
 The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了这些开源合规团队的主要角色。关于开源合规的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
 ![](2022-08-26-17-50-15.png)
+<table  style="text-align:center">
+    <tr>
+        <th colspan="3">FIGURE 10<br>Ensuring open source compliance is a cross-functional activity<br> 图10 确保遵循开源是一项跨职能的活动</th> 
+   </tr>
+   <tr>
+    <td colspan="3"> Corporate Development<br>公司发展 </td>
+   </tr>
+    <tr>
+        <td>Legal <br>法务</td>
+         <td>   </td>
+        <td>Engineering<br>工程师</td>     
+    </tr>
+     <tr>
+        <td>Product Team <br>产品团队</td>
+         <td>Open Source Compliance<br> 开源合规遵从</td>
+        <td>IT<br>IT团队</td>     
+    </tr>
+    <tr>
+        <td>Documentation <br>资料团队</td>
+         <td>   </td>
+        <td>Supply Chain<br>供应链</td>     
+    </tr>
+    <tr>
+        <td colspan="3">Localization<br>本地化</td>   
+    </tr>
+</table>
+
 ![](2022-08-26-17-52-08.png)
+<table >
+    <tr>
+        <td rowspan="4"> FIGURE 11 Roles and responsibilities of the core compliance team members <br>图表11 开源合规团队核心代表的角色和职责 </td>
+        <th >CORE OPEN SOURCE COMPLIANCE TEAM<br> 开源合规团队的核心角色</th> 
+        <th >PRIMARY RESPONSIBILITIES<br> 主要职责</th> 
+   </tr>
+   <tr>
+    <td > <b>Legal representative </b><br> This representation varies from a legal counsel to a paralegal, depending on the task at hand.<br><b> 法务代表</b><br> 可以根据具体工作任务的情况由法律顾问或助理律师承担 </td>
+    <td > 
+    • Review and approve the use of OSS and the contribution to OSS projects.<br>
+• Provide guidance on the incoming and outgoing licenses of all software.<br>
+• Contribute to the creation of open source training.<br>
+• Contribute to the creation and improvement of the compliance program.<br>
+• Review and approve the content of license compliance documentation and resources.<br>
+• Review and approve the list of obligations that are required for each software
+component that is included in a product.<br>•审查和批准开源使用和对上游开源项目的贡献<br>
+•提供关于所有开源软件的引入和对外贡献中许可证的指导<br>
+•参与开源培训的组建和贡献<br>
+•协助建立和改进合规程序<br>
+•审批license合规文档和资源的内容<br>
+•审查和批准需要履行开源义务的产品软件清单</td>
+   </tr>
+   <tr>
+    <td ><b> Engineering and product team representative</b><br>Some organizations do not distinguish between the engineering and product teams.<br> <b>工程代表或产品团队代表</b><br>很多组织中工程代表和产品团队代表是一个角色没有区分</td>
+    <td > • Follow compliance policies and processes.<br>
+• Integrate compliance practices into the software development process.<br>
+• Contribute to improving the compliance program.<br>
+• Follow the technical compliance guidelines.<br>
+• Respond quickly to all compliance-related questions.<br>
+• Conduct design, architecture, and code reviews.<br>
+• Implement security best practices.<br>
+• Prepare open source packages for distribution.<br>•遵循合规政策和流程
+
+•将合规实践整合到软件开发过程中
+
+•协助改进合规程序
+
+•遵循技术规范
+
+•快速回答所有与合规相关的问题
+
+•负责设计、架构和代码评审
+
+•实施安全最佳实践
+
+•准备用于分发的开源包</td>
+   </tr>
+   <tr>
+    <td > <b>Compliance representative</b><br>An open source compliance officer is not necessarily a dedicated resource. In most cases, the individual fulfills the role of the manager or director of open source.<br><b>合规代表</b><br>开源合规官员不一定是专门岗位。在大多数情况下，这个岗位通常是开源经理或主管的角色.<br> </td>
+    <td > • Drive license compliance activities, such as the execution of source code audits.<br>
+• Coordinate the distribution of open source packages as part of fulfilling open source license obligations.<br>
+• Contribute to creating compliance training.<br>
+• Contribute to improving the compliance program.<br>
+• Contribute to the creation of new tools to facilitate the automation and discovery of OSS.<br>
+• Sign off on product release from an open source compliance perspective.<br>•推动许可证合规活动，如执行源代码审计
+•作为履行开源许可义务的一部分，协调开源包的分发
+
+•协助创建合规培训
+
+•协助改进合规程序
+
+•帮助创建新的工具来促进OSS的自动化和发现
+
+•从开源合规的角度签署产品发布</td>
+   </tr>
+ 
+</table>
+
 Collectively, these three roles (legal, engineering, and compliance) are responsible for the following three main tasks:
 总的来说，这三个角色(法律代表、工程产品代表和合规代表)主要负责以下三个任务:
 1. Ensuring mutual compliance with third-party software and OSS licenses.1.确保第三方软件协议和开源软件的license相互兼容。
