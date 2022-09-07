@@ -231,42 +231,38 @@ the organization. This person also plays a critical role in
 identifying a trusted open source leader who can create and develop
 the OSPO.
 
-# OSPO Definition
+# OSPO Definition 
+# 开源项目办公室OSPO的定义
 
-An OSPO is designed to do the following: (1) be the center of compe-
-tency for an organization\'s open source operations and structure and
-(2) place a strategy and set of policies on top of an organization\'s
-open source efforts. This can include setting code use, distribution,
-selection, auditing, and other policies; training developers; ensuring
+An OSPO is designed to do the following: (1) be the center of compe-tency for an organization\'s open source operations and structure and (2) place a strategy and set of policies on top of an organization\'s open source efforts. This can include setting code use, distribution, selection, auditing, and other policies; training developers; ensuring legal compliance; and promoting and building community engagement to benefit the organization strategically. See the [OSPO definition](https://github.com/todogroup/ospodefinition.org) by the TODO for more information.
 
-legal compliance; and promoting and building community engagement to
-benefit the organization strategically. See the [OSPO
-definition](https://github.com/todogroup/ospodefinition.org) by the
-TODO for more information.
+设立开源项目办公室OSPO的目的包括：（1）成为该组织里开源运作、架构的能力中心，以及（2）在该组织的开源努力的基础上制定战略和系列策略。其中可以包括设置开源代码的使用、分发、选择、审计等策略；培训开发者；确保法务合规性；以及建立并促进社区参与来支撑组织战略。更多信息，请参见TODO的【OSPO定义】(https://github.com/todogroup/ospodefinition.org)。
 
 # OSPO Characteristics
-
-To a certain degree, an organization calling itself an OSPO indicates
-that the organization has reached a mature stage, gained critical mass
-support with its enterprise, and manifests the following five key
-characteristics:
+# 开源项目办公室OSPO的特征
+To a certain degree, an organization calling itself an OSPO indicates that the organization has reached a mature stage, gained critical mass support with its enterprise, and manifests the following five key characteristics:
 
 1.  Employees are tasked with fostering and nurturing OSS usage.
 
-2.  The organization has a formal policy regarding the use and
+2.  The organization has a formal policy regarding the use and production of OSS.
 
-    > production of OSS.
+3.  Executives recognize that OSS and open source are important strategic assets.
 
-3.  Executives recognize that OSS and open source are important
+4.  Significant numbers of employees are contributing code to open source projects.
 
-    > strategic assets.
+5.  Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation.
 
-4.  Significant numbers of employees are contributing code to open
+在一定程度上，自称为开源项目办公室OSPO表明开源在该组织到了相对成熟的阶段，已在企业内已获得达到群聚效应的支持，并表现出以下五个关键特征：
 
-    > source projects.
+1.员工的任务是培养和孵化培养开源软件的使用。
 
-5.  Processes, procedures, and tools are in place to streamline and
-    > facilitate open source consumption and participation.
+2.该组织有关于使用和生产开源软件的正式策略。
+
+3.高层认识到开源软件和开源是重要的战略资产。
+
+4.大量的员工正在为开源项目贡献代码。
+
+5.用来简化和促进开源的使用和参与的的流程、机制和工具已到位。
 
 # OSPO Maturity Model
 
