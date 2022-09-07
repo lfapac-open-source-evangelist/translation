@@ -1399,127 +1399,108 @@ If you are part of an organization that relies on OSS for products or
 services and your organization does not have a formalized OSPO yet,
 please consider this report a call to action to do exactly that.
 
-# Acknowledgments Feedback
+# Acknowledgments 
+# 致谢
+The author would like to express his sincere appreciation to his Linux Foundation and TODO Group colleagues, Chris Aniszczyk, Hilary Carter,Ana Jimenez, Jason Perlow, Melissa Schmidt, and Barry Hall, for their improvements via valuable reviews and feedback. This report has benefited immensely from their experiences and contributions.
 
-The author would like to express his sincere appreciation to his Linux
-The author apologizes in advance for any spelling mistakes or possible
-Foundation and TODO Group colleagues, Chris Aniszczyk, Hilary Carter,
-errors and is grateful to receive corrections and suggestions for
+作者衷心感谢他的Linux基金会和TODO工作组的同事们，克里斯·阿尼什切克、希拉瑞.卡特、安娜·希门尼斯、杰森·佩洛、梅丽莎·施密特和巴里·霍尔，通过宝贵的评论和反馈提供的改进。本报告从他们的经验和贡献中受益匪浅。
 
-Ana Jimenez, Jason Perlow, Melissa Schmidt, and Barry Hall, for their
-improvements via
-[[ibrahimatlinux.com/contact.html]{.underline}](http://www.ibrahimatlinux.com/contact.html).
-valuable reviews and feedback. This report has benefited immensely
+# Feedback
+# 反馈
+The author apologizes in advance for any spelling mistakes or possible errors and is grateful to receive corrections and suggestions for improvements via ibrahimatlinux.com/contact.html.
 
-from their experiences and contributions.
+作者对任何拼写错误或可能的错误提前致歉，并非常感激能通过ibrahimatlinux.com/contact.html 收到更正和改进建议。
 
 # Linux Foundation Resources
+# Linux基金会资源
 
-- [[E-book: Guide to Enterprise Open
-  Source]{.underline}](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+- [[E-book: Guide to Enterprise Open Source]{.underline}](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
 
-- [[E-book: Open Source Compliance in the
-  Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+- [[E-book: Open Source Compliance in the Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
 
-- [[E-book: Open Source Audits in Merger and
-  Acquisition]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+- [[E-book: Open Source Audits in Merger and Acquisition]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
   [[Transactions]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
 
-- [[Linux Foundation Enterprise
-  Guides]{.underline}](https://www.linuxfoundation.org/resources/open-source-guides/)
+- [[Linux Foundation Enterprise Guides]{.underline}](https://www.linuxfoundation.org/resources/open-source-guides/)
 
-- [[Linux Foundation Open Compliance
-  Program]{.underline}](https://compliance.linuxfoundation.org/) ---
-  Resources to support organizations with open source compliance.
+- [[Linux Foundation Open Compliance Program]{.underline}](https://compliance.linuxfoundation.org/) ---  Resources to support organizations with open source compliance.
 
-- [[TODO Group](http://todogroup.org/)]{.underline} --- Open community
-  of practitioners and organizations that collaborate on best
-  practices, tools, and other ways to run successful open source
-  programs.
+- [[TODO Group](http://todogroup.org/)]{.underline} --- Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
+
+
+- [[电子书：企业开源指南]{.underline}](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+
+- [[电子书：企业中的开源合规性]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+
+- [[电子书：合并收购中的开源审计]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+  [[Transactions]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+
+- [[Linux基金会企业指南]{.underline}](https://www.linuxfoundation.org/resources/open-source-guides/)
+
+- [[Linux基金会开放合规计划]{.underline}](https://compliance.linuxfoundation.org/) --- 在开源合规性上支持各组织的资源。
+
+- [[TODO工作组](http://todogroup.org/)]{.underline} ---面向从业者和组织的开放社区，旨在最佳实践、工具等他方式上协作来运作成功的开源项目。
+
+
 
 # About the Author
-
+# 关于作者
 ![](media/image54.jpeg){width="1.3351246719160106in"
-height="2.01665791776028in"}Dr. Ibrahim Haddad is Vice President of
-Strategic Programs at The Linux Foundation and the General Manager of
-LF AI & Data, which provides a trusted hub for developers to code,
-manage, and scale critical open source artificial intelligence and
-data projects. Before The Linux Foundation, he served as Vice
-President of R&D and Head of the Open Source Division at Samsung
-Electronics. Throughout his career, Haddad held technology and
-portfolio management roles at Ericsson Research, the Open Source
-Development Labs, Motorola, Palm, Hewlett-Packard, and The Linux
-Foundation. He graduated with honors from Concordia University
-(Montréal, Canada) with a Ph.D. in Computer Science.
+height="2.01665791776028in"}Dr. Ibrahim Haddad is Vice President of Strategic Programs at The Linux Foundation and the General Manager of LF AI & Data, which provides a trusted hub for developers to code, manage, and scale critical open source artificial intelligence and data projects. 
+Before The Linux Foundation, he served as Vice
+President of R&D and Head of the Open Source Division at Samsung Electronics. Throughout his career, Haddad held technology and portfolio management roles at Ericsson Research, the Open Source Development Labs, Motorola, Palm, Hewlett-Packard, and The Linux Foundation. He graduated with honors from Concordia University (Montréal, Canada) with a Ph.D. in Computer Science.
 
 **Twitter:** \@IbrahimAtLinux
 
 **Website:** IbrahimAtLinux.com
 
-# Disclaimer
+易卜拉欣·哈达德博士是Linux基金会战略项目副总裁，也是大伞项目LF AI & data的执行总监，该大伞项目提供了一个可信赖的中心平台，开发者可以写代码、管理和扩展关键的人工智能和数据开源项目。在Linux基金会之前，他曾担任副三星电子研发总裁兼开源总监。在他的职业生涯中，哈达德曾在爱立信研发、开源开发实验室、摩托罗拉、Palm、惠普和Linux基金会担任技术和产品管理职务。他以优异成绩毕业于康科迪亚大学（加拿大蒙特利尔），获得计算机科学博士学位。
 
-This report is provided "as is." The Linux Foundation and its authors,
-contributors, and sponsors expressly disclaim any warranties (express,
-implied, or otherwise), including implied warranties of
-merchantability, noninfringement, fitness for a particular purpose, or
-title, related to this report. In no event will The Linux Foundation
-and its authors, contributors, and sponsors be liable to any other
-party for lost profits or any form of indirect, special, incidental,
-or consequential damages of any character from any causes of action of
-any kind with respect to this report, whether based on breach of
-contract, tort (including negligence), or otherwise, and whether they
-have been advised of the possibility of such damage. Sponsorship of
-the creation of this report does not constitute an endorsement of its
+**推特:** \@IbrahimAtLinux
+
+**网站:** IbrahimAtLinux.com
+
+
+# Disclaimer
+# 声明
+This report is provided "as is." The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. In no event will The Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether they have been advised of the possibility of such damage. Sponsorship of the creation of this report does not constitute an endorsement of its
 findings by any of its sponsors.
+
+本报告按“原样”提供。Linux基金会及其作者、贡献者和赞助人明确不承担与本报告相关的任何保证（明示、暗示或其他），包括适销性、不侵权、适用于特定目的或标题的默示保证。在任何情况下，Linux基金会及其作者、贡献者和赞助人都不对任何其他方负责，因为与本报告有关的任何类型的诉讼原因造成的利润损失或任何形式的间接、特殊、附带或间接损害，无论是基于违约、侵权（包括疏忽）还是其他原因，以及是否已告知他们可能发生这种损害。赞助编写本报告并不构成对其任何提案国的调查结果。
 
 ![](media/image1.jpeg)
 
-Founded in 2021, [Linux Foundation Research]{.underline} explores the
-growing scale of open source collaboration, providing insight into
-emerging technology trends, best practices, and the global impact of
-open source projects. Through leveraging project databases and
-networks, and a commitment to best practices in quantitative
-
-and qualitative methodologies, Linux Foundation Research is creating
-the go to repository for open source insights for the benefit of
-organizations the world over.
+Founded in 2021, [Linux Foundation Research]{.underline} explores the growing scale of open source collaboration, providing insight into emerging technology trends, best practices, and the global impact of open source projects. Through leveraging project databases and networks, and a commitment to best practices in quantitative and qualitative methodologies, Linux Foundation Research is creating the go to repository for open source insights for the benefit of organizations the world over.
 
 [twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
 facebook.com/TheLinuxFoundation [linkedin.com/company/the linux
 foundation](https://inkedin.com/) youtube.com/user/TheLinuxFoundation
 
-Part of The Linux Foundation, LF AI & Data supports open source
-innovation in artificial intelligence, machine learning, deep
-learning, and data. LF AI & Data was established to support a
-sustainable open source AI ecosystem that makes it easy to create AI
-and data products and services using open source technologies. We
-foster collaboration under a neutral environment with an open
-governance model to support the harmonization and acceleration of open
-source technical projects.
+[Linux基金会研究]{.underline}成立于2021年，探索规模不断扩大的开源协作，深入了解新兴技术趋势、最佳实践和开源项目的全球影响。通过利用项目数据库和网络，以及对定量和定性方法的最佳实践的承诺，Linux基金会研究正在为世界各地的组织创建以开源洞见的平台宝库。
 
-[[TODO]{.underline}](https://todogroup.org/) is an open group of 70+
-organizations with years of experience running open source programs
-that want to collaborate on practices, tools, and other ways to run
-successful and effective open source projects and programs. It is a
-place to share experiences, develop best practices and guidance as
-well as work on common tooling to improve OSPO adoption and education
-worldwide across sectors. Discover more about all the ongoing TODO
-Initiatives [[here]{.underline}](https://github.com/todogroup) and
-check out the OSPO landscape:
+Part of The Linux Foundation, LF AI & Data supports open source innovation in artificial intelligence, machine learning, deep learning, and data. LF AI & Data was established to support a sustainable open source AI ecosystem that makes it easy to create AI and data products and services using open source technologies. We foster collaboration under a neutral environment with an open governance model to support the harmonization and acceleration of open source technical projects.
+作为Linux基金会的一部分，LF AI & Data支持人工智能、机器学习、深度学习和数据领域的开源创新。LF AI & Data的建立是为了支持可持续的开源人工智能生态系统，使开发者可以轻松地使用开源技术创建人工智能和数据产品和服务。我们通过开放治理模式促进中立环境下的合作，以支持开源技术项目的协调和加速。
+
+[[TODO]{.underline}](https://todogroup.org/) is an open group of 70+ organizations with years of experience running open source programs that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. It is a place to share experiences, develop best practices and guidance as well as work on common tooling to improve OSPO adoption and education worldwide across sectors. Discover more about all the ongoing TODO Initiatives [[here]{.underline}](https://github.com/todogroup) and check out the OSPO landscape:
 [[https://landscape.todogroup.org]{.underline}](https://landscape.todogroup.org/)
 
-twitter.com/todogroup facebook.com/todo
-linkedin.com/company/todo-group
+twitter.com/todogroup facebook.com/todo linkedin.com/company/todo-group
 
-Copyright © 2022 [[The Linux
-Foundation]{.underline}](https://www.linuxfoundation.org/)
+[[TODO工作组]{.underline}](https://todogroup.org/) 是一个由70+个组织组成的开放工作组，他们拥有多年的开源项目运作经验，希望在实践、工具等他方式上协作来成功、高效地运作开源项目/计划。它是一个通过分享经验、制定最佳实践和指导以及开发通用工具的地方，进而推进全球各环节采用OSPO和教育。请想了解更多进行中的TODO计划的信息。 了解有关所有正在进行的TODO计划的更多信息[[此处]{.underline}](https://github.com/todogroup) ，并查看OSPO一览图[[https://landscape.todogroup.org]{.underline}](https://landscape.todogroup.org/)
 
-This report is licensed under the [Creative Commons
-Attribution-NoDerivatives 4.0 International Public
-License]{.underline}. This material may be copied and distributed
-under the terms of the Creative Commons license.
+twitter.com/todogroup facebook.com/todo linkedin.com/company/todo-group
 
-To reference the work, please cite as follows: Ibrahim Haddad, "**A
-Deep Dive Into Open Source Program Offices: Structure, Roles,
-Responsibilities, and Challenges** " foreword by Chris Aniszczyk,
-August, 2022.
+【[TODO]{.underline}】（https://todogroup.org/）是一个由70+个组织组成的开放小组，他们拥有多年的开源程序运行经验，希望在实践、工具和其他方式上进行协作，以运行成功有效的开源项目和程序。它是一个分享经验、制定最佳做法和指导以及共同工具的地方，以改善全球各部门采用OSPO和教育。了解有关所有正在进行的TODO计划的更多信息【【此处】{.underline}】（https://github.com/todogroup），并查看OSPO格局：
+【【https://landscape.todogroup.org】{.underline}】(https://landscape.todogroup.org/)
+
+**ter.com/todogroup facebook.com/todo linkin.com/Company/todo-group
+
+Copyright © 2022 [[The Linux Foundation]{.underline}](https://www.linuxfoundation.org/)
+
+This report is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International Public License]{.underline}. This material may be copied and distributed under the terms of the Creative Commons license.
+
+To reference the work, please cite as follows: Ibrahim Haddad, "**A Deep Dive Into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges** " foreword by Chris Aniszczyk, August, 2022.
+
+版权所有 © 2022 [[Linux基金会]{.underline}](https://www.linuxfoundation.org/)
+本报告使用 [知识共享署名-禁止演绎4.0 国际许可协议（CC BY-ND 4.0）]{.underline}。可根据知识共享许可协议的条款复制和分发本材料。
+要参考这项工作时请引用以下信息：易卜拉欣·哈达德，“*深入开源项目办公室：结构、角色、责任和挑战**” 克里斯·阿尼什切克的前言，2022年8月。
