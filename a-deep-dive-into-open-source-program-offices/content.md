@@ -1358,23 +1358,10 @@ high demand for open source skills and training on the latest open
 source technologies.
 
 # The TODO Group
+# TODO工作组
+The TODO Group is an OSPO resource hub and open community of practitioners who aim to create and share knowledge and collaborate on practices, tools, and other ways to run successful and effective OSPOs or similar open source initiatives. It was formed by its 1,700+community participants and 80+ general members across different sectors and regions and managed as an open source project under The Linux Foundation. The TODO Group offers a maturity model, set of guides, mind map, 101 course, annual surveys, and case studies to help organizations advance in their OSPO journey. These OSPO resources are developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community. If you are looking to establish an OSPO in your organization, or you lead an OSPO and are looking to connect with peers at other organizations, please visit todogroup.org/community to get started and join our Slack channel or OSPO forum discussions.
 
-The TODO Group is an OSPO resource hub and open community of
-practitioners who aim to create and share knowledge and collaborate on
-practices, tools, and other ways to run successful and effective OSPOs
-or similar open source initiatives. It was formed by its 1,700+
-community participants and 80+ general members across different
-sectors and regions and managed as an open source project under The
-Linux Foundation. The TODO Group offers a maturity model, set of
-
-guides, mind map, 101 course, annual surveys, and case studies to help
-organizations advance in their OSPO journey. These OSPO resources are
-developed by the TODO Group in collaboration with The Linux Foundation
-and the larger open source community. If you are looking to establish
-an OSPO in your organization, or you lead an OSPO and are looking to
-connect with peers at other organizations, please visit
-todogroup.org/community to get started and join our Slack channel or
-OSPO forum discussions.
+TODO工作组是一个OSPO的资源中心和从业者开放社区，旨在创建和共享知识、并在实践、工具等他方式上协作，来成功、高效地运作OSPO或类似的开源项目。它由来自于不同的领域和地域的1700+名社区参与者和80多名会员组成，并被作为Linux基金会的一个开源项目管理。TODO工作组通过提供成熟度模型、系列指南、思维导图、101入门课程、年度调查和案例研究来帮助各组织在OSPO旅程中持续前进。这些OSPO资源是由TODO工作组和Linux基金会以及更大范围的开源社区合作开发的。如果您希望在您的组织中建立开源项目办公室OSPO，或者您已在一个OSPO中并希望与其他组织的OSPO人员建立联系，请从访问todogroup.org/community 开始，加入我们的Slack频道或者OSPO论坛讨论。
 
 ### Conclusion
 
