@@ -1,7 +1,7 @@
 # 上游开发的作用
 形成分支或Fork并进行开发都在意料之中，只要最终回馈上游分支即可。图2说明了这个过程。
 
-![图2](https://github.com/JuliaZhou2022/translation/blob/technical-debt/technical-debt-and-open-source-development/figure-2.png)
+![图2](https://github.com/JuliaZhou2022/translation/blob/main/technical-debt-and-open-source-development/figure-2.png)
 
 - **持续集成和持续交付/部署：** 开发人员可以更快地使用功能；新代码更快地出现在开发者树中。以更高的质量水平完成每次代码提交都需要的测试、回归，以及更容易发现漏洞。
 
