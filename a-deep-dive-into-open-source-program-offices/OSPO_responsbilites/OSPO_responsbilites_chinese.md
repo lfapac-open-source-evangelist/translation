@@ -285,6 +285,165 @@ The policies and processes that the OSPO needs to create depend on the organizat
 During the first stage (consumption), the OSPO needs to implement an open source infrastructure that can support the consumption and compliance aspects of OSS. FIGURE 12 illustrates infrastructure that goes beyond a simple policy to define the organization’s guidelines for using OSS. It extends to encompass a strategy that covers usage and compliance, incorporates compliance checkpoints in the development process, establishes a team to supervise the proper usage of open source, provides the necessary training, enables tooling, and facilitates relationships with relevant open source organizations. 
 在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，遵从规范在开发流程中的检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使能工具流程，并促进团队与外部相关开源组织的关系。
 ![](2022-08-26-17-56-02.png)
+<div style="display:inline-block; float: none;>
+    <div style="display:inline-block; margin-right:1px; float: left;">
+        <table>                                                    
+                <tr>
+                <th >FIGURE 12 Enabling infrastructure for open source consumption and compliance <br> 图表12 使能开源使用和和合规遵从的基础设施框架</th>
+                </tr>
+        </table>
+    </dive>
+    <div style="display:inline-block; margin-right:1px; float: left;">
+        <table style="font-size:0.64em">                                                    
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy 战略</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance 合规遵从</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries 需求管理 </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>M&A and corporate development<br>并购和企业发展</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>software procurement<br>软件采购</td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; margin-right:1px;float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Portals<br> IT平台入口</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>internal site（educational）<br>内部网站（赋能培训） </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td> External site<br>（obligation fulfillment,<br> source code distribution)<br> 外部网站（义务履行，源码分发） </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy1</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries 需求管理 </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>M&A and corporate development<br>并购和企业发展</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>software procurement<br>软件采购</td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; margin-right:1px;float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy2</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries<br> 需求管理 </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; margin-right:1px;float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy3</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries<br> 需求管理 </td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; margin-right:1px;float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy4</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries<br> 需求管理 </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy5</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries 需求管理 </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>M&A and corporate development<br>并购和企业发展</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>software procurement<br>软件采购</td>
+            </tr>
+        </table>
+    </div>
+    <div style="display:inline-block; float: left;">
+        <table style="font-size:0.64em">                                                        
+            <tr>
+            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy6</th>
+            </tr>
+            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Compliance </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Managing inquiries 需求管理 </td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>M&A and corporate development<br>并购和企业发展</td>
+            </tr>
+             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
+            <td>software procurement<br>软件采购</td>
+            </tr>
+        </table>
+    </div>
+</div>
+
 
 ### **Prioritize and Drive Upstream Open Source Development**
 ### **上游优先并驱动参与上游开源开发**
