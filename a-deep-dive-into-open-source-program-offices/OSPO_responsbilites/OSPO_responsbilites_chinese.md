@@ -286,166 +286,236 @@ During the first stage (consumption), the OSPO needs to implement an open source
 在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，遵从规范在开发流程中的检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使能工具流程，并促进团队与外部相关开源组织的关系。
 ![](2022-08-26-17-56-02.png)
 
-<figure>
-<div style="display:inline-block; float: none;>
-    <div style="display:inline-block; margin-right:1px; float: left;">
-        <table>                                                    
-                <tr>
-                <th >FIGURE 12 Enabling infrastructure for open source consumption and compliance <br> 图表12 使能开源使用和和合规遵从的基础设施框架</th>
-                </tr>
-        </table>
-    </dive>
-    <div style="display:inline-block; margin-right:1px; float: left;">
-        <table style="font-size:0.64em">                                                    
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy 战略</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance 合规遵从</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries 需求管理 </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>M&A and corporate development<br>并购和企业发展</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>software procurement<br>软件采购</td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; margin-right:1px;float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Portals<br> IT平台入口</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>internal site（educational）<br>内部网站（赋能培训） </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td> External site<br>（obligation fulfillment,<br> source code distribution)<br> 外部网站（义务履行，源码分发） </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy1</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries 需求管理 </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>M&A and corporate development<br>并购和企业发展</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>software procurement<br>软件采购</td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; margin-right:1px;float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy2</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries<br> 需求管理 </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; margin-right:1px;float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy3</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries<br> 需求管理 </td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; margin-right:1px;float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy4</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries<br> 需求管理 </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy5</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries 需求管理 </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>M&A and corporate development<br>并购和企业发展</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>software procurement<br>软件采购</td>
-            </tr>
-        </table>
-    </div>
-    <div style="display:inline-block; float: left;">
-        <table style="font-size:0.64em">                                                        
-            <tr>
-            <th style="white-space:nowrap;border:1px inset gray;padding: 3px">Strategy6</th>
-            </tr>
-            <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Compliance </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Managing inquiries 需求管理 </td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>Licensing and risk tolerance<br>开源许可证风险预估和规避</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>M&A and corporate development<br>并购和企业发展</td>
-            </tr>
-             <tr style="white-space:nowrap;border:1px inset gray;padding: 3px">
-            <td>software procurement<br>软件采购</td>
-            </tr>
-        </table>
-    </div>
+<div id="Figure-12_25754" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1386 style='border-collapse:
+ collapse;table-layout:fixed;width:1039pt'>
+ <col width=149 style='mso-width-source:userset;mso-width-alt:4768;width:112pt'>
+ <col width=126 style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+ <col width=175 style='mso-width-source:userset;mso-width-alt:5600;width:131pt'>
+ <col width=192 style='mso-width-source:userset;mso-width-alt:6144;width:144pt'>
+ <col width=183 style='mso-width-source:userset;mso-width-alt:5856;width:137pt'>
+ <col width=127 style='mso-width-source:userset;mso-width-alt:4064;width:95pt'>
+ <col width=172 style='mso-width-source:userset;mso-width-alt:5504;width:129pt'>
+ <col width=119 style='mso-width-source:userset;mso-width-alt:3808;width:89pt'>
+ <col width=143 style='mso-width-source:userset;mso-width-alt:4576;width:107pt'>
+ <tr height=54 style='height:40.5pt'>
+  <td rowspan=10 height=641 class=xl6925754 width=149 style='height:480.75pt;
+  width:112pt'>Figure 12 <br>
+    Enabling Infrastructure for open source consumption and compliance<br>
+    <font class="font825754">图</font><font class="font725754">12<br>
+    </font><font class="font825754">使能开源软件使用和合规的基础设施框架</font><font
+  class="font725754"><br>
+    </font></td>
+  <td class=xl6525754 width=126 style='width:95pt'>Strategy 战略</td>
+  <td class=xl6525754 width=175 style='border-left:none;width:131pt'>Portals
+  <br>
+    IT<font class="font925754">平台入口</font></td>
+  <td class=xl6525754 width=192 style='border-left:none;width:144pt'>Policy
+  &amp; Process<br>
+    <font class="font925754">策略&amp;流程</font></td>
+  <td class=xl6525754 width=183 style='border-left:none;width:137pt'>Development<br>
+    <font class="font925754">开发</font></td>
+  <td class=xl6525754 width=127 style='border-left:none;width:95pt'>Team<br>
+    <font class="font925754">团队</font></td>
+  <td class=xl6525754 width=172 style='border-left:none;width:129pt'>Education<br>
+    <font class="font925754">（培训和赋能）</font></td>
+  <td class=xl6525754 width=119 style='border-left:none;width:89pt'>Tools<br>
+    <font class="font925754">工具</font></td>
+  <td class=xl6525754 width=143 style='border-left:none;width:107pt'>Linux
+  Foundation<br>
+    Linux <font class="font925754">基金会组织（支撑组织）</font></td>
+ </tr>
+ <tr height=111 style='height:83.25pt'>
+  <td height=111 class=xl6625754 width=126 style='height:83.25pt;border-top:
+  none;width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Compliance
+  <br>
+    <font class="font1125754">合规遵从</font></td>
+  <td class=xl6625754 width=175 style='border-top:none;border-left:none;
+  width:131pt'>internal site<font class="font1125754">（</font><font
+  class="font1025754">educational</font><font class="font1125754">）<br>
+    内部网站（赋能培训）</font></td>
+  <td class=xl6625754 width=192 style='border-top:none;border-left:none;
+  width:144pt'>Usage and compliance policy<br>
+    <font class="font1125754">使用和合规策略<br>
+    </font><font class="font1025754">Distribution </font><font
+  class="font1125754">分发<br>
+    </font><font class="font1025754">Auditing </font><font class="font1125754">审计<br>
+    </font><font class="font1025754">Notices </font><font class="font1125754">声明<br>
+    </font><font class="font1025754">Usage </font><font class="font1125754">使用</font></td>
+  <td class=xl6625754 width=183 style='border-top:none;border-left:none;
+  width:137pt;box-sizing: border-box;border:var(--color-border-default)'>Integrate
+  compliance in development and QA process<br>
+    <font class="font1125754">合规遵从规范固化到产品开发和质量控制流程</font></td>
+  <td class=xl6725754 width=127 style='border-top:none;border-left:none;
+  width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Compliance
+  team<br>
+    (core and support)<br>
+    <font class="font1125754">合规团队<br>
+    （核心团队和支撑团队）</font></td>
+  <td class=xl6625754 width=172 style='border-top:none;border-left:none;
+  width:129pt'>Training on company policy<br>
+    <font class="font1125754">开源策略培训</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt;box-sizing: border-box;border:var(--color-border-default)'>Source
+  code scanning<br>
+    <font class="font1125754">源代码扫描</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt;box-sizing: border-box;border:var(--color-border-default)'>openChain</td>
+ </tr>
+ <tr height=89 style='height:66.75pt'>
+  <td height=89 class=xl6625754 width=126 style='height:66.75pt;border-top:
+  none;width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Managing
+  inquiries <br>
+    <font class="font1125754">需求管理</font></td>
+  <td class=xl6625754 width=175 style='border-top:none;border-left:none;
+  width:131pt'>External site<font class="font1125754">（</font><font
+  class="font1025754">obligation fulfillment,source code distribution)<br>
+    </font><font class="font1125754">外部网站（义务履行，源码分发）</font></td>
+  <td class=xl6625754 width=192 style='border-top:none;border-left:none;
+  width:144pt'>Obligation fulfillment<br>
+    <font class="font1125754">义务履行</font></td>
+  <td class=xl6625754 width=183 style='border-top:none;border-left:none;
+  width:137pt'>Integrate compliance tools with build systems and developer
+  workflow<br>
+    <font class="font1125754">合规遵从工具固化到系统开发工作流中</font></td>
+  <td class=xl6625754 width=127 style='border-top:none;border-left:none;
+  width:95pt'>ScoreBoard and success metrics<br>
+    <font class="font1125754">（指标矩阵和看板）</font></td>
+  <td class=xl6625754 width=172 style='border-top:none;border-left:none;
+  width:129pt'>Guidelines and best practices<br>
+    <font class="font1125754">指导原则和优秀实践</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt;box-sizing: border-box;border:var(--color-border-default)'>Linkage
+  analysis<br>
+    <font class="font1125754">二进制库连接分析</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt;box-sizing: border-box;border:var(--color-border-default)'>Software
+  Package Data Exchange</td>
+ </tr>
+ <tr height=70 style='height:52.5pt'>
+  <td height=70 class=xl6625754 width=126 style='height:52.5pt;border-top:none;
+  width:95pt'>Licensing and risk tolerance<br>
+    <font class="font1125754">开源许可证风险预估和规避</font></td>
+  <td class=xl6625754 width=175 style='border-top:none;border-left:none;
+  width:131pt'>Licensing and risk tolerance<br>
+    <font class="font1125754">开源许可证风险预估和规避</font></td>
+  <td class=xl6625754 width=192 style='border-top:none;border-left:none;
+  width:144pt'>Mixing code under different licenses<br>
+    <font class="font1125754">不同许可证兼容</font></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>New
+  employee orientation<br>
+    <font class="font1125754">新员工培训</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Dependencies analysis<br>
+    <font class="font1125754">代码依赖分析</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt'>Open Compliance Program</td>
+ </tr>
+ <tr height=57 style='height:42.75pt'>
+  <td height=57 class=xl6625754 width=126 style='height:42.75pt;border-top:
+  none;width:95pt'>M&amp;A and corporate development<br>
+    <font class="font1125754">并购和企业发展</font></td>
+  <td class=xl6825754></td>
+  <td class=xl1525754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Checklist
+  for product team<br>
+    <font class="font1125754">产品团队的检查表</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Security Vulnerabilities<br>
+    analysis<br>
+    安全漏洞分析</td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt'>Software Package Data Exchange</td>
+ </tr>
+ <tr height=54 style='height:40.5pt'>
+  <td height=54 class=xl6625754 width=126 style='height:40.5pt;border-top:none;
+  width:95pt'>software procurement<br>
+    <font class="font1125754">软件采购</font></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Checklist
+  for developers<br>
+    <font class="font1125754">开发者检查表</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Software Bill of materials <font class="font1125754">软件成分分析（SBOM）</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt'>Open Source Security Foundation</td>
+ </tr>
+ <tr height=76 style='height:57.0pt'>
+  <td height=76 class=xl6825754 style='height:57.0pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Checklist
+  for SW procurement<br>
+    <font class="font1125754">软件采购检查表</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Automation of online forms and workflow<br>
+    自动化分析表格和工作流</td>
+  <td class=xl6825754></td>
+ </tr>
+ <tr height=38 style='height:28.5pt'>
+  <td height=38 class=xl6825754 style='height:28.5pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Professional
+  formal training<br>
+    <font class="font1125754">专业正规培训（面向外部）</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>IP evaluation tool<br>
+    知识产权评估工具</td>
+  <td class=xl6825754></td>
+ </tr>
+ <tr height=54 style='height:40.5pt'>
+  <td height=54 class=xl6825754 style='height:40.5pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=119 style='border-top:none;width:89pt'>SW Inventory
+  management<br>
+    <font class="font1125754">存量软件清单管理</font></td>
+  <td class=xl6825754></td>
+ </tr>
+ <tr height=38 style='height:28.5pt'>
+  <td height=38 class=xl6825754 style='height:28.5pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=119 style='border-top:none;width:89pt'>Project
+  management<br>
+    项目管理</td>
+  <td class=xl6825754></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=149 style='width:112pt'></td>
+  <td width=126 style='width:95pt'></td>
+  <td width=175 style='width:131pt'></td>
+  <td width=192 style='width:144pt'></td>
+  <td width=183 style='width:137pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=172 style='width:129pt'></td>
+  <td width=119 style='width:89pt'></td>
+  <td width=143 style='width:107pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
 </div>
-</Figure>
 
 ### **Prioritize and Drive Upstream Open Source Development**
 ### **上游优先并驱动参与上游开源开发**
@@ -462,6 +532,125 @@ Open source foundations are a great resource to extend your impact within the op
 One of the more difficult tasks for an OSPO is decision-making on key performance indicators or metrics that the office should track to incentivize engineers toward the desired behavior. The traditional metrics, which are often used in product organizations, do not apply in the context of open source development. Therefore, new metrics are required. Many OSPOs use specialized tools to track their organization’s contributions to open source projects, analyze the type of contributions from their organization, identify contribution patterns, and provide recommendations to improve the development impact.
 对于开源办公室（OSPO）来说，更有挑战的任务之一是基于关键绩效度量指标做出对应的决策，开源办公室需要跟踪这些度量指标，以牵引工程师按预期的方向前行。在产业或商业组织中经常采用的传统的度量标准并不适用在开源开发场景下。因此，需要拟定新的度量标准。开源办公室（OSPO）使用专业化的工具来跟踪其组织对开源项目的贡献，分析来自其组织的贡献类型，确定贡献模式，并提供建议以提高组织的开源开发对生态的影响力。
 ![](2022-08-26-18-00-58.png)
+<div id="工作簿2_8855" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=620 style='border-collapse:
+ collapse;table-layout:fixed;width:465pt'>
+ <col width=244 style='mso-width-source:userset;mso-width-alt:7808;width:183pt'>
+ <col width=187 style='mso-width-source:userset;mso-width-alt:5984;width:140pt'>
+ <col width=189 style='mso-width-source:userset;mso-width-alt:6048;width:142pt'>
+ <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+  <td colspan=3 rowspan=2 height=83 class=xl638855 width=620 style='height:
+  62.25pt;width:465pt'>FIGURE 13<br>
+    Necessary infrastructure for open source contributions<br>
+    <font class="font88855">图</font><font class="font78855">13<br>
+    </font><font class="font88855">开源贡献中必要的基础设施</font></td>
+ </tr>
+ <tr height=65 style='mso-height-source:userset;height:48.75pt'>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl158855 style='height:13.5pt'></td>
+  <td class=xl158855></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=40 style='height:30.0pt'>
+  <td height=40 class=xl668855 width=244 style='height:30.0pt;width:183pt'>Contribution<br>
+    <font class="font88855">贡献</font></td>
+  <td class=xl668855 width=187 style='width:140pt'>Dedicated Group<br>
+    <font class="font88855">团队专业化</font></td>
+  <td class=xl668855 width=189 style='width:142pt'>Open Standards<br>
+    <font class="font88855">开放的标准</font></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl648855 width=244 style='height:46.5pt;width:183pt'>Policy
+  &amp; process on project contributions<br>
+    <font class="font98855">开源项目贡献的策略和流程</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Establish OSPO<br>
+    <font class="font98855">建立OSPO组织</font></td>
+  <td class=xl648855 width=189 style='width:142pt'>Participate in relevant open
+  standards<br>
+    <font class="font98855">参与到开放标准中</font></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl648855 width=244 style='height:76.5pt;width:183pt'>Guidelines
+  &amp; contribution training<br>
+    <font class="font98855">贡献的指导原则赋能</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Hire from open<br>
+    source projects<br>
+    <font class="font98855">从外部开源项目中发展团队成员</font></td>
+  <td class=xl648855 width=189 style='width:142pt'>Consider open sourcing
+  internal technology as reference implementation<br>
+    <font class="font98855">把开源技术作为标准的参考实现</font></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl648855 width=244 style='height:46.5pt;width:183pt'>Contribution
+  approval team<br>
+    <font class="font98855">贡献审查团队</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Support &amp;
+  participate<br>
+    in open source foundations<br>
+    <font class="font98855">支持并参与开源基金会</font><font class="font68855"><span
+  style='mso-spacerun:yes'>&nbsp;</span></font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl648855 width=244 style='height:46.5pt;width:183pt'>Increased
+  participation in key open source projects<br>
+    <font class="font98855">在关键开源项目上持续参与和贡献</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Host open source
+  events<br>
+    <font class="font98855">主导赞助开源活动</font><font class="font68855">/</font><font
+  class="font98855">峰会</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl158855 style='height:46.5pt'></td>
+  <td class=xl648855 width=187 style='width:140pt'>IT infrastructure to support
+  open source development<br>
+    <font class="font98855">构建开源开发的IT基础设施</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=80 style='height:60.0pt'>
+  <td height=80 class=xl158855 style='height:60.0pt'></td>
+  <td class=xl648855 width=187 style='width:140pt'>Establish/recognize open
+  source career paths<br>
+    <font class="font98855">建立并明确开源领域的职业发展路径</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=84 style='height:63.0pt'>
+  <td height=84 class=xl658855 style='height:63.0pt'></td>
+  <td class=xl648855 width=187 style='width:140pt'>Support communities of
+  projects you depend on<br>
+    <font class="font98855">支持</font><font class="font68855">/</font><font
+  class="font98855">贡献</font><font class="font68855">/</font><font
+  class="font98855">赞助你依赖的社区项目</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl158855 style='height:13.5pt'></td>
+  <td class=xl158855></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl158855 style='height:13.5pt'></td>
+  <td class=xl158855></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl648855 width=244 style='height:16.5pt;width:183pt'></td>
+  <td class=xl158855></td>
+  <td class=xl158855></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=244 style='width:183pt'></td>
+  <td width=187 style='width:140pt'></td>
+  <td width=189 style='width:142pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
 ### **IMPLEMENT INNERSOURCE PRACTICES**
 ### **实施内部开源开发实践**
 Innersource describes the process of applying the lessons that were learned from open source development methodology to internal projects.The goal is to incubate the same values in the enterprise as those that are common in the collaborative, open source development model.内源（Innersource）是指将外部开源社区中的开源方法论（包括经验教训）应用到内部项目的过程。目的是将开源开发和协作模型中通用的价值观和习惯在企业内部也培养孵化出来；<br>
