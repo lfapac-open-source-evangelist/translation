@@ -9,12 +9,12 @@
 | 孙振华    | 翻译 | Infograph                                                        | 4       | 9月10日  |
 | 阎书利    | 翻译 | Abstract                                                         | 5       | 9月10日  |
 | 孙振华    | 翻译 | Introduction                                                     | 6       | 9月10日  |
-| 刘洁     | 翻译 | OSPO Definition                                                  | 7       | 9月10日  |
-| 刘洁     | 翻译 | OSPO Characteristics                                             | 7       | 9月10日  |
-| 刘洁     | 翻译 | OSPO Maturity Model                                              | 8-10    | 9月10日  |
+| 刘洁     | 翻译 | OSPO Definition                                                  | 7       |  已完成  |
+| 刘洁     | 翻译 | OSPO Characteristics                                             | 7       |  已完成  |
+| 刘洁     | 翻译 | OSPO Maturity Model                                              | 8-10    |  已完成  |
 | 滕召智    | 翻译 | OSPO Structure                                                   | 11-13   | 9月10日  |
-| 刘洁     | 翻译 | Staffing an OSPO                                                 | 14      | 9月10日  |
+| 刘洁     | 翻译 | Staffing an OSPO                                                 | 14      |  已完成  |
 | 王玉茂 | 翻译 | OSPO Responsibilities                                            | 15-24   | 9月9号   |
 | 孙振华    | 翻译 | OSPOs and Eliminating Friction From Using or Contributing to OSS | 25-27   | 9月10日  |
-| 刘洁     | 翻译 | The TODO Group                                                   | 28      | 9月10日  |
-|        | 翻译 | Acknowledgments - Discaimer                                      | 29-31   |        |
+| 刘洁     | 翻译 | The TODO Group                                                   | 28      |  已完成  |
+| 刘洁     | 翻译 | Acknowledgments - Discaimer                                      | 29-31   | 已完成  |
