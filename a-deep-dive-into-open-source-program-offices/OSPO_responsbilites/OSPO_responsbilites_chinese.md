@@ -285,6 +285,8 @@ The policies and processes that the OSPO needs to create depend on the organizat
 During the first stage (consumption), the OSPO needs to implement an open source infrastructure that can support the consumption and compliance aspects of OSS. FIGURE 12 illustrates infrastructure that goes beyond a simple policy to define the organization’s guidelines for using OSS. It extends to encompass a strategy that covers usage and compliance, incorporates compliance checkpoints in the development process, establishes a team to supervise the proper usage of open source, provides the necessary training, enables tooling, and facilitates relationships with relevant open source organizations. 
 在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，遵从规范在开发流程中的检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使能工具流程，并促进团队与外部相关开源组织的关系。
 ![](2022-08-26-17-56-02.png)
+
+<figure>
 <div style="display:inline-block; float: none;>
     <div style="display:inline-block; margin-right:1px; float: left;">
         <table>                                                    
@@ -443,7 +445,7 @@ During the first stage (consumption), the OSPO needs to implement an open source
         </table>
     </div>
 </div>
-
+</Figure>
 
 ### **Prioritize and Drive Upstream Open Source Development**
 ### **上游优先并驱动参与上游开源开发**
