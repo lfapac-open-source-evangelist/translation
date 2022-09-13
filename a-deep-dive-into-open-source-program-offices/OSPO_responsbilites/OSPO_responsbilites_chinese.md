@@ -634,6 +634,7 @@ One of the more difficult tasks for an OSPO is decision-making on key performanc
 </table>
 
 </div>
+
 ### **IMPLEMENT INNERSOURCE PRACTICES**
 ### **实施内部开源开发实践**
 Innersource describes the process of applying the lessons that were learned from open source development methodology to internal projects.The goal is to incubate the same values in the enterprise as those that are common in the collaborative, open source development model.内源（Innersource）是指将外部开源社区中的开源方法论（包括经验教训）应用到内部项目的过程。目的是将开源开发和协作模型中通用的价值观和习惯在企业内部也培养孵化出来；<br>
