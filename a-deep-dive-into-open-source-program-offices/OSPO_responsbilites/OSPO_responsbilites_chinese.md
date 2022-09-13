@@ -5,7 +5,7 @@ The OSPO assumes different responsibilities that change over time. In the follow
 ### **Develop and Execute an Open Source Strategy**
 ### **开源战略的规划和执行**
 Since the beginning of the software industry, nearly every software organization has followed the same business model as follows: source code was developed by its employees or licensed from a third party, intellectual property was closely held, and software was delivered in a binary format to its clients. However, the availability of enterprise-grade OSS is changing how organizations develop and deliver products. With open access to source code and transparent development communities, software providers can reduce development costs while remaining active participants in the development process. In addition, end users of the software can also be active in the development process by contributing directly to upstream projects rather than be passive recipients of what the software vendor delivers to them. This development model enables organizations to think differently about how they procure, implement, test, deploy, and maintain software. In this report, we explore the following four basic strategies for organizations that utilize and integrate OSS in their products: consumer, participant, contributor, and leader.
-软件产业有史以来，几乎每个软件组织都遵循如下的商业模式:源代码由其员工开发或从第三方获得许可，在严格的知识产权控制下，软件以二进制包的方式交付给客户。然而，企业级开源软件的可获得性正在改变组织开发和交付产品的方式。通过对开源代码开放访问和社区的公开透明的开发方式，软件供应商可以降低开发成本，同时保持在开发过程中的积极参与。此外，软件的最终用户也可以通过直接对上游项目的贡献在开发过程中发挥积极作用，而不再是被动地接受软件供应商的产品交付。这种开发模型使得组织开始重新思考如何更好的采购、实施、测试、部署和维护软件。在这份报告中，我们探讨了在产品中使用和集成开源软件（OSS）的组织的四种基本战略:消费者、参与者、贡献者和领导者。
+自软件产业有史以来，几乎每个软件组织都遵循如下的商业模式:源代码由其员工开发或从第三方获得许可，在严格的知识产权控制下，软件以二进制包的方式交付给客户。然而，企业级开源软件的可获得性正在改变组织开发和交付产品的方式。通过对开源代码开放访问和社区的公开透明的开发方式，软件供应商可以降低开发成本，同时保持在开发过程中的积极参与。此外，软件的最终用户也可以通过直接对上游项目的贡献在开发过程中发挥积极作用，而不再是被动地接受软件供应商的产品交付。这种开发模型使得组织开始重新思考如何更好的采购、实施、测试、部署和维护软件。在这份报告中，我们探讨了在产品中使用和集成开源软件（OSS）的组织的四种基本战略:消费者、参与者、贡献者和领导者。
 ![](2022-08-26-17-49-14.png)
 <table>
     <tr>
@@ -166,22 +166,22 @@ Open source compliance helps to achieve the following four main objectives:
 - 保护商业产品差异化竞争力。
 OSPOs are generally involved in open source compliance in the following two ways:
 1. They are responsible for implementing and running a complete end-to-open source compliance program, which includes the policy, process, tools, automation, education, and final fulfillment of obligations for OSS integrated into products, software, or services.
-开源办公室（OSPOS）通常有以下两种方式参与开源遵从:
-1、他们负责实施和运行一个端到到段完整的开源合规性计划，包括政策，流程，工具，自动化，赋能培训，并最终履行开源软件集成到产品，软件，或服务的义务。<br>
+开源办公室（OSPOs）通常有以下两种方式参与开源遵从:
+1、他们负责实施和运行一个端到到段完整的开源合规性计划，包括策略，流程，工具，自动化，赋能培训，并最终履行开源软件集成到产品，软件，或服务的义务。<br>
 Or 或者<br>
-2. They are responsible for establishing the organization’s general open source policies, and the execution and enforcement of these policies are pushed into the various divisions across the organization. For instance, ensuring open source compliance is a great example of a scenario where the OSPO is focused on policies and processes, and dedicated teams on the product side are more trusted than the actual implementation and execution of a compliance program. 2.他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，OSPO（开源办公室）专注于政策和流程并在产品端的有专门团队来落地，比直接下发和推行合规计划更受信任。
+2. They are responsible for establishing the organization’s general open source policies, and the execution and enforcement of these policies are pushed into the various divisions across the organization. For instance, ensuring open source compliance is a great example of a scenario where the OSPO is focused on policies and processes, and dedicated teams on the product side are more trusted than the actual implementation and execution of a compliance program. 2.他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，开源办公室（OSPO）专注于政策和流程并在产品端的有专门团队来落地，这比他们去实际实施和执行合规计划更受信任。
 
 The OSPO has a direct impact on the full scale of compliance responsibilities. Regardless of the specific role of an OSPO, it must have at least one individual who is very knowledgeable in open source licensing, compliance practices, and engineering.
-开源办公室（OSPO）应该对组织内开源合规职责负有全面的直接影响。无论这个职责在开源办公室（OSPO）内对应什么具体的角色，他必须至少是一个熟知开源许可证规范、合规遵从实践和工程的人。
+开源办公室（OSPO）应该对组织内开源合规职责负有全面的直接影响。无论这个职责在开源办公室（OSPO）内对应什么具体的角色，他必须至少是一个熟知开源许可证规范、合规遵从实践和工程管理的人。
 
-The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了这些开源合规团队的主要角色。关于开源合规的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
+The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了开源合规团队的组成的主要角色。关于开源合规专题的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
 ![](2022-08-26-17-50-15.png)
 <table  style="text-align:center">
     <tr>
         <th colspan="3">FIGURE 10<br>Ensuring open source compliance is a cross-functional activity<br> 图10 确保遵循开源是一项跨职能的活动</th> 
    </tr>
    <tr>
-    <td colspan="3"> Corporate Development<br>公司发展 </td>
+    <td colspan="3"> Corporate Development<br>企业发展战略 </td>
    </tr>
     <tr>
         <td>Legal <br>法务</td>
@@ -199,7 +199,7 @@ The minimum set of individuals that represent the core compliance team includes 
         <td>Supply Chain<br>供应链</td>     
     </tr>
     <tr>
-        <td colspan="3">Localization<br>本地化</td>   
+        <td colspan="3">Localization<br>本土化</td>   
     </tr>
 </table>
 
@@ -221,10 +221,10 @@ The minimum set of individuals that represent the core compliance team includes 
 • Review and approve the list of obligations that are required for each software
 component that is included in a product.<br>•审查和批准开源使用和对上游开源项目的贡献<br>
 •提供关于所有开源软件的引入和对外贡献中许可证的指导<br>
-•参与开源培训的组建和贡献<br>
-•协助建立和改进合规程序<br>
-•审批license合规文档和资源的内容<br>
-•审查和批准需要履行开源义务的产品软件清单</td>
+•助力开源培训赋能建设<br>
+•助力合规程序建设和改进<br>
+•审批许可证合规文档和资源<br>
+•审批开源义务履行的产品软件清单</td>
    </tr>
    <tr>
     <td ><b> Engineering and product team representative</b><br>Some organizations do not distinguish between the engineering and product teams.<br> <b>工程代表或产品团队代表</b><br>很多组织中工程代表和产品团队代表是一个角色没有区分</td>
@@ -237,19 +237,19 @@ component that is included in a product.<br>•审查和批准开源使用和对
 • Implement security best practices.<br>
 • Prepare open source packages for distribution.<br>•遵循合规政策和流程
 
-•将合规实践整合到软件开发过程中
+•在软件开发过程中集成应用开发合规实践
 
-•协助改进合规程序
+•助力合规程序改进
 
 •遵循技术规范
 
-•快速回答所有与合规相关的问题
+•快速响应合规相关的问题
 
-•负责设计、架构和代码评审
+•评审设计、架构和代码
 
 •实施安全最佳实践
 
-•准备用于分发的开源包</td>
+•准备开源软件的打包分发</td>
    </tr>
    <tr>
     <td > <b>Compliance representative</b><br>An open source compliance officer is not necessarily a dedicated resource. In most cases, the individual fulfills the role of the manager or director of open source.<br><b>合规代表</b><br>开源合规官员不一定是专门岗位。在大多数情况下，这个岗位通常是开源经理或主管的角色.<br> </td>
@@ -259,15 +259,15 @@ component that is included in a product.<br>•审查和批准开源使用和对
 • Contribute to improving the compliance program.<br>
 • Contribute to the creation of new tools to facilitate the automation and discovery of OSS.<br>
 • Sign off on product release from an open source compliance perspective.<br>•推动许可证合规活动，如执行源代码审计
+
 •作为履行开源许可义务的一部分，协调开源包的分发
+•助力开源培训赋能建设
 
-•协助创建合规培训
+•助力合规程序建设和改进
 
-•协助改进合规程序
+•助力新的工具方法来促进价值开源软件的发掘
 
-•帮助创建新的工具来促进OSS的自动化和发现
-
-•从开源合规的角度签署产品发布</td>
+•从开源合规的角度签发产品发布</td>
    </tr>
  
 </table>
@@ -286,6 +286,237 @@ During the first stage (consumption), the OSPO needs to implement an open source
 在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，遵从规范在开发流程中的检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使能工具流程，并促进团队与外部相关开源组织的关系。
 ![](2022-08-26-17-56-02.png)
 
+<div id="Figure-12_25754" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1386 style='border-collapse:
+ collapse;table-layout:fixed;width:1039pt'>
+ <col width=149 style='mso-width-source:userset;mso-width-alt:4768;width:112pt'>
+ <col width=126 style='mso-width-source:userset;mso-width-alt:4032;width:95pt'>
+ <col width=175 style='mso-width-source:userset;mso-width-alt:5600;width:131pt'>
+ <col width=192 style='mso-width-source:userset;mso-width-alt:6144;width:144pt'>
+ <col width=183 style='mso-width-source:userset;mso-width-alt:5856;width:137pt'>
+ <col width=127 style='mso-width-source:userset;mso-width-alt:4064;width:95pt'>
+ <col width=172 style='mso-width-source:userset;mso-width-alt:5504;width:129pt'>
+ <col width=119 style='mso-width-source:userset;mso-width-alt:3808;width:89pt'>
+ <col width=143 style='mso-width-source:userset;mso-width-alt:4576;width:107pt'>
+ <tr height=54 style='height:40.5pt'>
+  <td rowspan=10 height=641 class=xl6925754 width=149 style='height:480.75pt;
+  width:112pt'>Figure 12 <br>
+    Enabling Infrastructure for open source consumption and compliance<br>
+    <font class="font825754">图</font><font class="font725754">12<br>
+    </font><font class="font825754">使能开源软件使用和合规的基础设施框架</font><font
+  class="font725754"><br>
+    </font></td>
+  <td class=xl6525754 width=126 style='width:95pt'>Strategy 战略</td>
+  <td class=xl6525754 width=175 style='border-left:none;width:131pt'>Portals
+  <br>
+    IT<font class="font925754">平台入口</font></td>
+  <td class=xl6525754 width=192 style='border-left:none;width:144pt'>Policy
+  &amp; Process<br>
+    <font class="font925754">策略&amp;流程</font></td>
+  <td class=xl6525754 width=183 style='border-left:none;width:137pt'>Development<br>
+    <font class="font925754">开发</font></td>
+  <td class=xl6525754 width=127 style='border-left:none;width:95pt'>Team<br>
+    <font class="font925754">团队</font></td>
+  <td class=xl6525754 width=172 style='border-left:none;width:129pt'>Education<br>
+    <font class="font925754">（培训和赋能）</font></td>
+  <td class=xl6525754 width=119 style='border-left:none;width:89pt'>Tools<br>
+    <font class="font925754">工具</font></td>
+  <td class=xl6525754 width=143 style='border-left:none;width:107pt'>Linux
+  Foundation<br>
+    Linux <font class="font925754">基金会组织（支撑组织）</font></td>
+ </tr>
+ <tr height=111 style='height:83.25pt'>
+  <td height=111 class=xl6625754 width=126 style='height:83.25pt;border-top:
+  none;width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Compliance
+  <br>
+    <font class="font1125754">合规遵从</font></td>
+  <td class=xl6625754 width=175 style='border-top:none;border-left:none;
+  width:131pt'>internal site<font class="font1125754">（</font><font
+  class="font1025754">educational</font><font class="font1125754">）<br>
+    内部网站（赋能培训）</font></td>
+  <td class=xl6625754 width=192 style='border-top:none;border-left:none;
+  width:144pt'>Usage and compliance policy<br>
+    <font class="font1125754">使用和合规策略<br>
+    </font><font class="font1025754">Distribution </font><font
+  class="font1125754">分发<br>
+    </font><font class="font1025754">Auditing </font><font class="font1125754">审计<br>
+    </font><font class="font1025754">Notices </font><font class="font1125754">声明<br>
+    </font><font class="font1025754">Usage </font><font class="font1125754">使用</font></td>
+  <td class=xl6625754 width=183 style='border-top:none;border-left:none;
+  width:137pt;box-sizing: border-box;border:var(--color-border-default)'>Integrate
+  compliance in development and QA process<br>
+    <font class="font1125754">合规遵从规范固化到产品开发和质量控制流程</font></td>
+  <td class=xl6725754 width=127 style='border-top:none;border-left:none;
+  width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Compliance
+  team<br>
+    (core and support)<br>
+    <font class="font1125754">合规团队<br>
+    （核心团队和支撑团队）</font></td>
+  <td class=xl6625754 width=172 style='border-top:none;border-left:none;
+  width:129pt'>Training on company policy<br>
+    <font class="font1125754">开源策略培训</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt;box-sizing: border-box;border:var(--color-border-default)'>Source
+  code scanning<br>
+    <font class="font1125754">源代码扫描</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt;box-sizing: border-box;border:var(--color-border-default)'>openChain</td>
+ </tr>
+ <tr height=89 style='height:66.75pt'>
+  <td height=89 class=xl6625754 width=126 style='height:66.75pt;border-top:
+  none;width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Managing
+  inquiries <br>
+    <font class="font1125754">需求管理</font></td>
+  <td class=xl6625754 width=175 style='border-top:none;border-left:none;
+  width:131pt'>External site<font class="font1125754">（</font><font
+  class="font1025754">obligation fulfillment,source code distribution)<br>
+    </font><font class="font1125754">外部网站（义务履行，源码分发）</font></td>
+  <td class=xl6625754 width=192 style='border-top:none;border-left:none;
+  width:144pt'>Obligation fulfillment<br>
+    <font class="font1125754">义务履行</font></td>
+  <td class=xl6625754 width=183 style='border-top:none;border-left:none;
+  width:137pt'>Integrate compliance tools with build systems and developer
+  workflow<br>
+    <font class="font1125754">合规遵从工具固化到系统开发工作流中</font></td>
+  <td class=xl6625754 width=127 style='border-top:none;border-left:none;
+  width:95pt'>ScoreBoard and success metrics<br>
+    <font class="font1125754">（指标矩阵和看板）</font></td>
+  <td class=xl6625754 width=172 style='border-top:none;border-left:none;
+  width:129pt'>Guidelines and best practices<br>
+    <font class="font1125754">指导原则和优秀实践</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt;box-sizing: border-box;border:var(--color-border-default)'>Linkage
+  analysis<br>
+    <font class="font1125754">二进制库连接分析</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt;box-sizing: border-box;border:var(--color-border-default)'>Software
+  Package Data Exchange</td>
+ </tr>
+ <tr height=70 style='height:52.5pt'>
+  <td height=70 class=xl6625754 width=126 style='height:52.5pt;border-top:none;
+  width:95pt'>Licensing and risk tolerance<br>
+    <font class="font1125754">开源许可证风险预估和规避</font></td>
+  <td class=xl6625754 width=175 style='border-top:none;border-left:none;
+  width:131pt'>Licensing and risk tolerance<br>
+    <font class="font1125754">开源许可证风险预估和规避</font></td>
+  <td class=xl6625754 width=192 style='border-top:none;border-left:none;
+  width:144pt'>Mixing code under different licenses<br>
+    <font class="font1125754">不同许可证兼容</font></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>New
+  employee orientation<br>
+    <font class="font1125754">新员工培训</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Dependencies analysis<br>
+    <font class="font1125754">代码依赖分析</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt'>Open Compliance Program</td>
+ </tr>
+ <tr height=57 style='height:42.75pt'>
+  <td height=57 class=xl6625754 width=126 style='height:42.75pt;border-top:
+  none;width:95pt'>M&amp;A and corporate development<br>
+    <font class="font1125754">并购和企业发展战略</font></td>
+  <td class=xl6825754></td>
+  <td class=xl1525754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Checklist
+  for product team<br>
+    <font class="font1125754">产品团队的检查表</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Security Vulnerabilities<br>
+    analysis<br>
+    安全漏洞分析</td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt'>Software Package Data Exchange</td>
+ </tr>
+ <tr height=54 style='height:40.5pt'>
+  <td height=54 class=xl6625754 width=126 style='height:40.5pt;border-top:none;
+  width:95pt'>software procurement<br>
+    <font class="font1125754">软件采购</font></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Checklist
+  for developers<br>
+    <font class="font1125754">开发者检查表</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Software Bill of materials <font class="font1125754">软件成分分析（SBOM）</font></td>
+  <td class=xl6625754 width=143 style='border-top:none;border-left:none;
+  width:107pt'>Open Source Security Foundation</td>
+ </tr>
+ <tr height=76 style='height:57.0pt'>
+  <td height=76 class=xl6825754 style='height:57.0pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Checklist
+  for SW procurement<br>
+    <font class="font1125754">软件采购检查表</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>Automation of online forms and workflow<br>
+    自动化分析表格和工作流</td>
+  <td class=xl6825754></td>
+ </tr>
+ <tr height=38 style='height:28.5pt'>
+  <td height=38 class=xl6825754 style='height:28.5pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=172 style='border-top:none;width:129pt'>Professional
+  formal training<br>
+    <font class="font1125754">专业正规培训（面向外部）</font></td>
+  <td class=xl6625754 width=119 style='border-top:none;border-left:none;
+  width:89pt'>IP evaluation tool<br>
+    知识产权评估工具</td>
+  <td class=xl6825754></td>
+ </tr>
+ <tr height=54 style='height:40.5pt'>
+  <td height=54 class=xl6825754 style='height:40.5pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=119 style='border-top:none;width:89pt'>SW Inventory
+  management<br>
+    <font class="font1125754">存量软件清单管理</font></td>
+  <td class=xl6825754></td>
+ </tr>
+ <tr height=38 style='height:28.5pt'>
+  <td height=38 class=xl6825754 style='height:28.5pt'></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6825754></td>
+  <td class=xl6625754 width=119 style='border-top:none;width:89pt'>Project
+  management<br>
+    项目管理</td>
+  <td class=xl6825754></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=149 style='width:112pt'></td>
+  <td width=126 style='width:95pt'></td>
+  <td width=175 style='width:131pt'></td>
+  <td width=192 style='width:144pt'></td>
+  <td width=183 style='width:137pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=172 style='width:129pt'></td>
+  <td width=119 style='width:89pt'></td>
+  <td width=143 style='width:107pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
 ### **Prioritize and Drive Upstream Open Source Development**
 ### **上游优先并驱动参与上游开源开发**
 One of the primary responsibilities of an OSPO is to improve the organization’s engagement with the key open source projects that are used in products and services. The first step is to identify where the organization relies on OSS by surveying all products and reviewing the SBOM. 开源办公室（OSPO）的主要职责之一是提高组织中关键开源项目（在产品和服务中使用的）的上游参与度。第一步是通过SBOM工具来分析组织中的所有产品来确定组织那些部分最依赖开源组件。
@@ -301,6 +532,108 @@ Open source foundations are a great resource to extend your impact within the op
 One of the more difficult tasks for an OSPO is decision-making on key performance indicators or metrics that the office should track to incentivize engineers toward the desired behavior. The traditional metrics, which are often used in product organizations, do not apply in the context of open source development. Therefore, new metrics are required. Many OSPOs use specialized tools to track their organization’s contributions to open source projects, analyze the type of contributions from their organization, identify contribution patterns, and provide recommendations to improve the development impact.
 对于开源办公室（OSPO）来说，更有挑战的任务之一是基于关键绩效度量指标做出对应的决策，开源办公室需要跟踪这些度量指标，以牵引工程师按预期的方向前行。在产业或商业组织中经常采用的传统的度量标准并不适用在开源开发场景下。因此，需要拟定新的度量标准。开源办公室（OSPO）使用专业化的工具来跟踪其组织对开源项目的贡献，分析来自其组织的贡献类型，确定贡献模式，并提供建议以提高组织的开源开发对生态的影响力。
 ![](2022-08-26-18-00-58.png)
+<div id="工作簿2_8855" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=620 style='border-collapse:
+ collapse;table-layout:fixed;width:465pt'>
+ <col width=244 style='mso-width-source:userset;mso-width-alt:7808;width:183pt'>
+ <col width=187 style='mso-width-source:userset;mso-width-alt:5984;width:140pt'>
+ <col width=189 style='mso-width-source:userset;mso-width-alt:6048;width:142pt'>
+ <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+  <td colspan=3 rowspan=2 height=83 class=xl638855 width=620 style='height:
+  62.25pt;width:465pt'>FIGURE 13<br>
+    Necessary infrastructure for open source contributions<br>
+    <font class="font88855">图</font><font class="font78855">13<br>
+    </font><font class="font88855">开源贡献中必要的基础设施</font></td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl158855 style='height:13.5pt'></td>
+  <td class=xl158855></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=40 style='height:30.0pt'>
+  <td height=40 class=xl668855 width=244 style='height:30.0pt;width:183pt'>Contribution<br>
+    <font class="font88855">贡献</font></td>
+  <td class=xl668855 width=187 style='width:140pt'>Dedicated Group<br>
+    <font class="font88855">团队专业化</font></td>
+  <td class=xl668855 width=189 style='width:142pt'>Open Standards<br>
+    <font class="font88855">开放的标准</font></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl648855 width=244 style='height:46.5pt;width:183pt'>Policy
+  &amp; process on project contributions<br>
+    <font class="font98855">开源项目贡献的策略和流程</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Establish OSPO<br>
+    <font class="font98855">建立OSPO组织</font></td>
+  <td class=xl648855 width=189 style='width:142pt'>Participate in relevant open
+  standards<br>
+    <font class="font98855">参与相关的开放标准</font></td>
+ </tr>
+ <tr height=102 style='height:76.5pt'>
+  <td height=102 class=xl648855 width=244 style='height:76.5pt;width:183pt'>Guidelines
+  &amp; contribution training<br>
+    <font class="font98855">关于如何贡献的指导原则和培训</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Hire from open<br>
+    source projects<br>
+    <font class="font98855">从外部开源项目中发展团队成员</font></td>
+  <td class=xl648855 width=189 style='width:142pt'>Consider open sourcing
+  internal technology as reference implementation<br>
+    <font class="font98855">把开源技术作为标准的参考实现</font></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl648855 width=244 style='height:46.5pt;width:183pt'>Contribution
+  approval team<br>
+    <font class="font98855">贡献审查团队</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Support &amp;
+  participate<br>
+    in open source foundations<br>
+    <font class="font98855">支持并参与开源基金会</font><font class="font68855"><span
+  style='mso-spacerun:yes'>&nbsp;</span></font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl648855 width=244 style='height:46.5pt;width:183pt'>Increased
+  participation in key open source projects<br>
+    <font class="font98855">在关键开源项目上持续参与和贡献</font></td>
+  <td class=xl648855 width=187 style='width:140pt'>Host open source
+  events<br>
+    <font class="font98855">主导赞助开源活动</font><font class="font68855">/</font><font
+  class="font98855">峰会</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=62 style='height:46.5pt'>
+  <td height=62 class=xl158855 style='height:46.5pt'></td>
+  <td class=xl648855 width=187 style='width:140pt'>IT infrastructure to support
+  open source development<br>
+    <font class="font98855">构建开源开发的IT基础设施</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=80 style='height:60.0pt'>
+  <td height=80 class=xl158855 style='height:60.0pt'></td>
+  <td class=xl648855 width=187 style='width:140pt'>Establish/recognize open
+  source career paths<br>
+    <font class="font98855">建立并明确开源领域的职业发展路径</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <tr height=84 style='height:63.0pt'>
+  <td height=84 class=xl658855 style='height:63.0pt'></td>
+  <td class=xl648855 width=187 style='width:140pt'>Support communities of
+  projects you depend on<br>
+    <font class="font98855">支持</font><font class="font68855">/</font><font
+  class="font98855">贡献</font><font class="font68855">/</font><font
+  class="font98855">赞助你依赖的社区项目</font></td>
+  <td class=xl158855></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=244 style='width:183pt'></td>
+  <td width=187 style='width:140pt'></td>
+  <td width=189 style='width:142pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
 ### **IMPLEMENT INNERSOURCE PRACTICES**
 ### **实施内部开源开发实践**
 Innersource describes the process of applying the lessons that were learned from open source development methodology to internal projects.The goal is to incubate the same values in the enterprise as those that are common in the collaborative, open source development model.内源（Innersource）是指将外部开源社区中的开源方法论（包括经验教训）应用到内部项目的过程。目的是将开源开发和协作模型中通用的价值观和习惯在企业内部也培养孵化出来；<br>
@@ -334,11 +667,11 @@ It is worth noting that some OSPOs in large organizations create and manage thei
 ### **ELIMINATE FRICTION FROM USING AND CONTRIBUTING TO OPEN SOURCE**
 ### **消除使用和贡献开源的阻力**
 OSPOs help organizations navigate internal politics or policies, maintain relationships with communities of strategic importance, and continuously improve processes and tools to scale and reduce the learning curve and manual effort that is required.
-开源办公室（OSPO）牵引组织内部有合适的开源政策和策略，维护重要的战略社区的关系，并持续优化流程和工具，快速提升团队的学习能力降低人力成本。
+开源办公室（OSPO）在组织内指引开源政策和策略，在组织外维护重要的战略社区的关系，并持续优化流程和工具，快速提升团队的学习能力降低人力成本。
 ### **SUPPORT CORPORATE DEVELOPMENT ACTIVITIES**
-### **支撑企业发展活动 **
+### **支撑企业发展战略活动 **
 OSPOs should be involved with open source due diligence (technical and compliance) as a part of corporate development. The two major scenarios are merger and acquisition transactions and outsourced development.
-作为公司发展的一部分，开源办公室（OSPO）应该参与开源相关业务的经营评估(技术和合规)。有两种主要的场景：并购交易和外包开发。
+作为公司发展战略的一部分，开源办公室（OSPO）应该参与开源相关业务的经营评估(技术和合规)。有两种主要的场景：并购交易和外包开发。
 ### **Mergers and Acquisitions**
 ### **并购评估**
 If an organization is considering a merger or is the target of an acquisition, the OSPO is a great source of expertise for open source technology and compliance due diligence. OSPOs can help their organization to understand the open source code that is used by the target organization and its implications as part of the due diligence process.
@@ -346,7 +679,7 @@ If an organization is considering a merger or is the target of an acquisition, t
 ### **Outsourced Development**
 ### **外包开发**
 The OSPO can also support corporate development when negotiating the outsourced development of software, which will ensure that the proper compliance procedures are followed according to the organization’s policies and processes.
-当洽谈软件外包开发业务时，开源办公室（OSPO）可以确保组织的政策和流程都遵循适当的开源合规程序，以此来支持企业业务发展；
+当洽谈软件外包开发业务时，开源办公室（OSPO）可以确保组织的政策和流程都遵循适当的开源合规程序，以此来支持企业发展战略；
 ### **COLLABORATE WITH UNIVERSITIES ON OPEN SOURCE PROJECTS**
 ### **与大学开展开源项目合作**
 Many universities are eager to work with organizations that offer learning opportunities for their students and provide them with realworld development experience. Often, this relationship is also beneficial to the organizations that are involved because it can be a great way to develop new talent in existing open source communities and attract new development talent from a trusted source. This is particularly useful for projects that have a shortage of experienced developers and are typically more difficult to hire for. As the supply of talented programmers is limited, finding a way to tap into new knowledge and influence favorable outcomes in external projects, including academia, is vital.
