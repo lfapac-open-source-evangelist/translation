@@ -1678,7 +1678,7 @@ The TODO Group is an OSPO resource hub and open community of practitioners who a
 TODO工作组是一个OSPO的资源中心和从业者开放社区，旨在创建和共享知识、并在实践、工具等他方式上协作，来成功、高效地运作OSPO或类似的开源项目。它由来自于不同的领域和地域的1700+名社区参与者和80多名会员组成，并被作为Linux基金会的一个开源项目管理。TODO工作组通过提供成熟度模型、系列指南、思维导图、101入门课程、年度调查和案例研究来帮助各组织在OSPO旅程中持续前进。这些OSPO资源是由TODO工作组和Linux基金会以及更大范围的开源社区合作开发的。如果您希望在您的组织中建立开源项目办公室OSPO，或者您已在一个OSPO中并希望与其他组织的OSPO人员建立联系，请从访问todogroup.org/community 开始，加入我们的Slack频道或者OSPO论坛讨论。
 
 ### Conclusion
-
+### 总结
 OSPOs play a critical role in helping organizations master OSS and
 driving organizations into leadership positions in open technologies
 that are critical to their products, services, and IT solutions. OSPOs
@@ -1705,6 +1705,13 @@ can support their organizations in the following four key areas:
 If you are part of an organization that relies on OSS for products or
 services and your organization does not have a formalized OSPO yet,
 please consider this report a call to action to do exactly that.
+
+OSPO 在帮助组织掌握 OSS 并推动组织在对其产品、服务和 IT 解决方案至关重要的开放技术方面占据领导地位发挥了关键作用。OSPO 可以在以下四个关键领域为其组织提供支持：
+1. **消费 ---** 建立一个内部基础设施，以便实施合适的开源实践并整合开源政策、流程、清单和训练。
+2. **参与 --—** 在交流平台和活动上与开源社区互动。赞助对您的组织而言在项目或服务上存在依赖的重要的OSS项目和组织。
+3. **贡献 ---** 雇用或培训专门关注开源贡献的员工，并部署必要工具来支持内部开源工程。
+4  **领导力 ---** 增加与开源社区、开放标准机构和开源基金会的互动；启动新的开源计划和项目；并提高您的组织在开源社区中的知名度。
+如果你是一个依赖OSS项目和服务的组织的一员且你们组织目前没有一个正式的OSPO，请将此报告视为采取行动的号召。
 
 # Acknowledgments 
 # 致谢
