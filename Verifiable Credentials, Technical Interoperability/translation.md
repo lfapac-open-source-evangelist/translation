@@ -1,17 +1,23 @@
 ## Investing in Verifiable Credentials, Technical Interoperability and Open Source
-## 投资于可验证的凭证、技术互操作性，以及项目开源
+## 投资于可验证凭证、技术互操作性，以及项目开源
 
 #### By the Province of British Columbia, Office of the Chief Information Officer | August 23, 2022 | Blog, Hyperledger Aries, Identity
 #### 作者：不列颠哥伦比亚省，首席信息官办公室 | 2022年8月23日 | 博客，Hyperledger Aries, 身份 
 
 ### Our 20 Year Journey
 ### 我们20年的旅程
+
 Like many provinces and territories in Canada, British Columbia (BC) has a long history of providing secure access to online government services. We started our journey 20 years ago with the introduction of BCeID, a simple username and password solution. A lot has changed since then!
 
-Today, we are investing in Verifiable Credentials (VCs) and a digital wallet. We see these as the cornerstones in the evolution of our digital strategy, adding a much needed layer of trust to the digital economy.  
+与加拿大的许多省和地区一样，不列颠哥伦比亚省 (BC) 在提供安全访问线上政府服务的方面有着悠久的历史。 20年前我们引入了 BCeID，一个简单的用户名和密码解决方案，开始了我们的旅程。 从那以后很多事情改变了！
+
+Today, we are investing in Verifiable Credentials (VCs) and a digital wallet. We see these as the cornerstones in the evolution of our digital strategy, adding a much needed layer of trust to the digital economy. 
+
+今天，我们正在投资可验证凭证 (VC) 和数字钱包。 我们将这些看作是数字战略发展的基石，为数字经济增添了必要的信任层。
 
 We want to share what we are doing, why we focus on interoperability and open-source, and why we are excited about VCs being our natural next step.
 
+我们想分享下正在做的事情，告诉大家为什么我们关注互操作性和开源项目，以及为什么我们对 VC 成为自然而然的下一步感到兴奋。
 
 ### Why We Care
 As a public sector organization, BC has a strong interest in seeing the adoption of technologies that are secure, privacy-preserving, and convenient.  
