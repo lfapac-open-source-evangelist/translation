@@ -1,5 +1,7 @@
 ## Investing in Verifiable Credentials, Technical Interoperability and Open Source
 
+#### By the Province of British Columbia, Office of the Chief Information Officer August 23, 2022 Blog, Hyperledger Aries, Identity
+
 ### Our 20 Year Journey
 Like many provinces and territories in Canada, British Columbia (BC) has a long history of providing secure access to online government services. We started our journey 20 years ago with the introduction of BCeID, a simple username and password solution. A lot has changed since then!
 
@@ -28,3 +30,19 @@ As our approach evolves, we also remain keen to support open source solutions th
 In exploring VCs, BC is contributing to solutions that allow agents to verify credentials from multiple networks. Indeed, through one of our Code With Us initiatives, DID indy, we contributed over 11,000 lines of open-source code to support and prove the viability of a “network of networks”.
 
 We also are focused on the interoperability of Hyperledger Aries agents themselves, another key success metric.  We are leading contributors to Aries Agent Test Harness (AATH), open-source software that runs a series of Hyperledger Aries interoperability tests and delivers the results to the AATH website. Great interoperability requires that we test—and re-test!—that interoperability on a regular basis.
+
+### Side note: If you want to test the interoperability of any Aries agent with this ecosystem, please sign up to join the Hyperledger Aries Interoperability Event on August  31.
+
+### Driving Adoption
+In BC we have a lot of technical skill in working with VCs and with Hyperledger Aries agents. However, for VCs to be successful, it needs to be easy for others to join in. 
+
+On the agents side, to complement our extensive contributions to Hyperledger Aries Cloud Agent Python (ACA-Py) and other Aries and Indy projects, we also contribute to Hyperledger Aries Framework Javascript (AFJ), the agent commonly used for mobile digital wallets. 
+
+That’s why, when thinking about mobile digital wallets, we opted to contribute to the Hyperledger Aries Bifold project, helping it also essentially become “Bifold as a framework”. Bifold uses AFJ, and BC and others can use it to easily deploy a custom-designed digital wallet. Jurisdictions within Canada and elsewhere in the world are already taking this approach for their own wallet explorations. It’s an open-source stack right the way down.
+
+VC adoption will be helped by a thriving open-source community, and we are giving back wherever we can.
+
+### Open-Source Success
+We believe the community’s success becomes our success. For years we’ve been committed to open-source, interoperable solutions in this space. Our approach is always evolving, but our contributions and commitment to various digital trust open-source projects and technologies continue.
+
+We hope that even more organizations will join in and contribute. Our goal in BC is a new layer of trust for the internet, making it easier for people to work and play online with confidence. 
