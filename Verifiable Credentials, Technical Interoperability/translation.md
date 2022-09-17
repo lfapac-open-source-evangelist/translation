@@ -1,8 +1,11 @@
 ## Investing in Verifiable Credentials, Technical Interoperability and Open Source
+## 投资于可验证的凭证、技术互操作性，以及项目开源
 
-#### By the Province of British Columbia, Office of the Chief Information Officer August 23, 2022 Blog, Hyperledger Aries, Identity
+#### By the Province of British Columbia, Office of the Chief Information Officer | August 23, 2022 | Blog, Hyperledger Aries, Identity
+#### 作者：不列颠哥伦比亚省，首席信息官办公室 | 2022年8月23日 | 博客，Hyperledger Aries, 身份 
 
 ### Our 20 Year Journey
+### 我们20年的旅程
 Like many provinces and territories in Canada, British Columbia (BC) has a long history of providing secure access to online government services. We started our journey 20 years ago with the introduction of BCeID, a simple username and password solution. A lot has changed since then!
 
 Today, we are investing in Verifiable Credentials (VCs) and a digital wallet. We see these as the cornerstones in the evolution of our digital strategy, adding a much needed layer of trust to the digital economy.  
