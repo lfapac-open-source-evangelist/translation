@@ -41,9 +41,15 @@ In responding to this new reality, we recognize that people are familiar and com
 ### 不列颠哥伦比亚省的方式
 Clearly, digital trust goes far beyond just the government. Canadians expect more access, with greater security, to high-value services in both the public and private sectors. VCs and the wallet provide a highly flexible way to achieve that goal.
 
+很显然，数字信任远远超出了政府的范畴。 加拿大人期望在公共机构和私营部门获得更多、更安全的高价值服务。可验证凭证(VCs) 和数字钱包提供了一种高度灵活的方式来实现这一目标。
+
 Collaboration is critical to achieving that goal and it’s important to us. BC’s Chief Information Officer, CJ Ritchie, strongly advocates for us working together to meet the expectations of Canadians.  She notes, “If we don’t all act together to deliver solutions that protect privacy and interact securely, trust will erode and there will be negative impacts for businesses, people’s livelihoods, and the broader digital economy.”
 
+相互协作对于实现这一目标至关重要，对我们来说也很重要。 不列颠哥伦比亚省的首席信息官 CJ Ritchie 强烈主张，我们需要共同努力，以满足加拿大人的期望。 她指出，“如果我们不共同采取行动，提供保护隐私和安全互动的解决方案，信任将会受到侵蚀，并对企业、大众的生计和更广泛的数字经济产生负面影响。”
+
 As our approach evolves, we also remain keen to support open source solutions that interoperate with other national and international efforts. There is no dominant design yet, no one network or technology, so we must remain nimble and flexible in our exploration. We also need to coexist with existing identity solutions that millions of British Columbians already rely upon.
+
+随着我们方法的发展，我们也仍然热衷于寻找开源解决方案，支持与其他国家和国际间的互操作。 目前还没有出现占主导地位的设计，也还没有一种主流的网络或技术，因此我们必须在探索中保持敏捷和灵活。 我们还需要与现有的身份解决方案共存，这是目前数百万不列颠哥伦比亚人已经信赖的方案。
 
 ### Technology Interoperability
 In exploring VCs, BC is contributing to solutions that allow agents to verify credentials from multiple networks. Indeed, through one of our Code With Us initiatives, DID indy, we contributed over 11,000 lines of open-source code to support and prove the viability of a “network of networks”.
