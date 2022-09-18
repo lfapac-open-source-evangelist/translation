@@ -58,13 +58,13 @@ In exploring VCs, BC is contributing to solutions that allow agents to verify cr
 
 在探索可验证凭证 (VC) 的解决方案时，不列颠哥伦比亚省已经做出了贡献，允许代理验证来自多个网络的凭据。 事实上，通过我们的 Code With Us 计划之一 DID indy，我们已经贡献了超过 11,000 行开源代码来支持和验证“网络中的网络”的可行性。
 
-We also are focused on the interoperability of Hyperledger Aries agents themselves, another key success metric.  We are leading contributors to Aries Agent Test Harness (AATH), open-source software that runs a series of Hyperledger Aries interoperability tests and delivers the results to the AATH website. Great interoperability requires that we test—and re-test!—that interoperability on a regular basis.
+We also are focused on the interoperability of Hyperledger Aries agents themselves, another key success metric.  We are leading contributors to [Aries Agent Test Harness (AATH)](https://github.com/hyperledger/aries-agent-test-harness), open-source software that runs a series of Hyperledger Aries interoperability tests and delivers the results to the [AATH website](http://aries-interop.info/). Great interoperability requires that we test—and re-test!—that interoperability on a regular basis.
 
-我们还专注于 Hyperledger Aries 代理本身的互操作性，这是另一个成功的关键指标。 我们是 Aries Agent Test Harness (AATH) 的主要贡献者，这款开源软件运行一系列 Hyperledger Aries 互操作性测试并将结果传送到 AATH 网站。 良好的互操作性支持我们定期测试和重新测试 —— 定期的互操作性。
+我们还专注于 Hyperledger Aries 代理本身的互操作性，这是另一个成功的关键指标。 我们是 [Aries Agent Test Harness (AATH)](https://github.com/hyperledger/aries-agent-test-harness) 的主要贡献者，这款开源软件运行一系列 Hyperledger Aries 互操作性测试并将结果传送到 [AATH 网站](http://aries-interop.info/)。 良好的互操作性支持我们定期测试和重新测试 —— 定期的互操作性。
 
-### Side note: If you want to test the interoperability of any Aries agent with this ecosystem, please sign up to join the Hyperledger Aries Interoperability Event on August  31.
+### Side note: If you want to test the interoperability of any Aries agent with this ecosystem, please sign up to join the [Hyperledger Aries Interoperability Event on August  31](https://www.hyperledger.org/event/hyperledger-aries-interoperability-event).
 
-### 旁注：如果您想测试任何Aries代理与该生态系统的互操作性，请注册参加8月31日的Hyperledger Aries互操作性活动。
+### 旁注：如果您想测试任何Aries代理与该生态系统的互操作性，请注册参加[8月31日的Hyperledger Aries互操作性活动](https://www.hyperledger.org/event/hyperledger-aries-interoperability-event)。
 
 ### Driving Adoption
 ### 推动项目的采用
@@ -73,13 +73,13 @@ In BC we have a lot of technical skill in working with VCs and with Hyperledger 
 
 在不列颠哥伦比亚省，我们在可验证凭证(VC) 和与 Hyperledger Aries 代理合作方面拥有很多技术技能。 但是，要使可验证凭证(VC) 取得成功，就需要让其他人很容易地加入。
 
-On the agents side, to complement our extensive contributions to Hyperledger Aries Cloud Agent Python (ACA-Py) and other Aries and Indy projects, we also contribute to Hyperledger Aries Framework Javascript (AFJ), the agent commonly used for mobile digital wallets. 
+On the agents side, to complement our extensive contributions to [Hyperledger Aries Cloud Agent Python (ACA-Py)](https://github.com/hyperledger/aries-cloudagent-python) and other Aries and Indy projects, we also contribute to [Hyperledger Aries Framework Javascript (AFJ)](https://github.com/hyperledger/aries-framework-javascript), the agent commonly used for mobile digital wallets. 
 
-在代理方面，为了补充我们对 Hyperledger Aries Cloud Agent Python (ACA-Py) 以及其他 Aries 和 Indy 项目的广泛贡献，我们还为 Hyperledger Aries Framework Javascript (AFJ) 做出了贡献，该代理通常用于移动数字钱包。
+在代理方面，为了补充我们对 [Hyperledger Aries Cloud Agent Python (ACA-Py)](https://github.com/hyperledger/aries-cloudagent-python) 以及其他 Aries 和 Indy 项目的广泛贡献，我们还为 [Hyperledger Aries Framework Javascript (AFJ)](https://github.com/hyperledger/aries-framework-javascript) 做出了贡献，该代理通常用于移动数字钱包。
 
-That’s why, when thinking about mobile digital wallets, we opted to contribute to the Hyperledger Aries Bifold project, helping it also essentially become “Bifold as a framework”. Bifold uses AFJ, and BC and others can use it to easily deploy a custom-designed digital wallet. Jurisdictions within Canada and elsewhere in the world are already taking this approach for their own wallet explorations. It’s an open-source stack right the way down.
+That’s why, when thinking about mobile digital wallets, we opted to contribute to the [Hyperledger Aries Bifold](https://github.com/hyperledger/aries-mobile-agent-react-native) project, helping it also essentially become “Bifold as a framework”. Bifold uses AFJ, and BC and others can use it to easily deploy a custom-designed digital wallet. Jurisdictions within Canada and elsewhere in the world are already taking this approach for their own wallet explorations. It’s an open-source stack right the way down.
 
-这就是为什么在考虑移动数字钱包时，我们选择 Hyperledger Aries Bifold 项目，并为它做出贡献，帮助它从成为实至名归的 “作为框架的 Bifold”。 Bifold 使用 AFJ，不列颠哥伦比亚省和其他机构可以使用它轻松部署定制设计的数字钱包。 加拿大和世界其他地方的司法管辖区已经在采用这种方法探索自己的钱包实现， 这是一个开源的堆栈架构。
+这就是为什么在考虑移动数字钱包时，我们选择 [Hyperledger Aries Bifold](https://github.com/hyperledger/aries-mobile-agent-react-native) 项目，并为它做出贡献，帮助它从成为实至名归的 “作为框架的 Bifold”。 Bifold 使用 AFJ，不列颠哥伦比亚省和其他机构可以使用它轻松部署定制设计的数字钱包。 加拿大和世界其他地方的司法管辖区已经在采用这种方法探索自己的钱包实现， 这是一个开源的堆栈架构。
 
 VC adoption will be helped by a thriving open-source community, and we are giving back wherever we can.
 
