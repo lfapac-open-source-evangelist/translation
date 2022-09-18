@@ -64,16 +64,34 @@ We also are focused on the interoperability of Hyperledger Aries agents themselv
 
 ### Side note: If you want to test the interoperability of any Aries agent with this ecosystem, please sign up to join the Hyperledger Aries Interoperability Event on August  31.
 
+### 旁注：如果您想测试任何Aries代理与该生态系统的互操作性，请注册参加8月31日的Hyperledger Aries互操作性活动。
+
 ### Driving Adoption
+### 推动项目的采用
+
 In BC we have a lot of technical skill in working with VCs and with Hyperledger Aries agents. However, for VCs to be successful, it needs to be easy for others to join in. 
+
+在不列颠哥伦比亚省，我们在可验证凭证(VC) 和与 Hyperledger Aries 代理合作方面拥有很多技术技能。 但是，要使可验证凭证(VC) 取得成功，就需要让其他人很容易地加入。
 
 On the agents side, to complement our extensive contributions to Hyperledger Aries Cloud Agent Python (ACA-Py) and other Aries and Indy projects, we also contribute to Hyperledger Aries Framework Javascript (AFJ), the agent commonly used for mobile digital wallets. 
 
+在代理方面，为了补充我们对 Hyperledger Aries Cloud Agent Python (ACA-Py) 以及其他 Aries 和 Indy 项目的广泛贡献，我们还为 Hyperledger Aries Framework Javascript (AFJ) 做出了贡献，该代理通常用于移动数字钱包。
+
 That’s why, when thinking about mobile digital wallets, we opted to contribute to the Hyperledger Aries Bifold project, helping it also essentially become “Bifold as a framework”. Bifold uses AFJ, and BC and others can use it to easily deploy a custom-designed digital wallet. Jurisdictions within Canada and elsewhere in the world are already taking this approach for their own wallet explorations. It’s an open-source stack right the way down.
+
+这就是为什么在考虑移动数字钱包时，我们选择 Hyperledger Aries Bifold 项目，并为它做出贡献，帮助它从成为实至名归的 “作为框架的 Bifold”。 Bifold 使用 AFJ，不列颠哥伦比亚省和其他机构可以使用它轻松部署定制设计的数字钱包。 加拿大和世界其他地方的司法管辖区已经在采用这种方法探索自己的钱包实现， 这是一个开源的堆栈架构。
 
 VC adoption will be helped by a thriving open-source community, and we are giving back wherever we can.
 
+蓬勃发展的开源社区将有助于可验证凭证(VC)的采用，我们将尽我们的所能回馈社会。
+
 ### Open-Source Success
+### 开源项目的成功
+
 We believe the community’s success becomes our success. For years we’ve been committed to open-source, interoperable solutions in this space. Our approach is always evolving, but our contributions and commitment to various digital trust open-source projects and technologies continue.
 
+我们相信社区的成功就是我们的成功。 多年来，我们一直致力于在这个领域提供开源、可互操作的解决方案。 我们的方法一直在改进，但我们对各种数字信任的开源项目和技术的贡献和承诺仍会继续。
+
 We hope that even more organizations will join in and contribute. Our goal in BC is a new layer of trust for the internet, making it easier for people to work and play online with confidence. 
+
+我们希望有更多的组织加入，并做出贡献。 我们在不列颠哥伦比亚省的目标是为互联网建立新的信任层，让人们更轻松、更自信地在线工作和娱乐。
