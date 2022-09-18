@@ -52,9 +52,15 @@ As our approach evolves, we also remain keen to support open source solutions th
 随着我们方法的发展，我们也仍然热衷于寻找开源解决方案，支持与其他国家和国际间的互操作。 目前还没有出现占主导地位的设计，也还没有一种主流的网络或技术，因此我们必须在探索中保持敏捷和灵活。 我们还需要与现有的身份解决方案共存，这是目前数百万不列颠哥伦比亚人已经信赖的方案。
 
 ### Technology Interoperability
+### 技术的互操作性
+
 In exploring VCs, BC is contributing to solutions that allow agents to verify credentials from multiple networks. Indeed, through one of our Code With Us initiatives, DID indy, we contributed over 11,000 lines of open-source code to support and prove the viability of a “network of networks”.
 
+在探索可验证凭证 (VC) 的解决方案时，不列颠哥伦比亚省已经做出了贡献，允许代理验证来自多个网络的凭据。 事实上，通过我们的 Code With Us 计划之一 DID indy，我们已经贡献了超过 11,000 行开源代码来支持和验证“网络中的网络”的可行性。
+
 We also are focused on the interoperability of Hyperledger Aries agents themselves, another key success metric.  We are leading contributors to Aries Agent Test Harness (AATH), open-source software that runs a series of Hyperledger Aries interoperability tests and delivers the results to the AATH website. Great interoperability requires that we test—and re-test!—that interoperability on a regular basis.
+
+我们还专注于 Hyperledger Aries 代理本身的互操作性，这是另一个成功的关键指标。 我们是 Aries Agent Test Harness (AATH) 的主要贡献者，这款开源软件运行一系列 Hyperledger Aries 互操作性测试并将结果传送到 AATH 网站。 良好的互操作性支持我们定期测试和重新测试 —— 定期的互操作性。
 
 ### Side note: If you want to test the interoperability of any Aries agent with this ecosystem, please sign up to join the Hyperledger Aries Interoperability Event on August  31.
 
