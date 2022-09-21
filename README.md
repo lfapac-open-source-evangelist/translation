@@ -80,3 +80,9 @@ vi contributor.md
 八、翻译完成，将自己的名字写到文件中， 然后： git commit && git push
 
 九、提交[PR](https://github.com/lfapac-open-source-evangelist/translation/compare)
+
+# 大事记
+[History](./history.md)
+
+# 参考资料
+[CY T154—2017 中文出版物夹用英文的编辑标准](./reference/CY-T154—2017-中文出版物夹用英文的编辑标准.pdf)

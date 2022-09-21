@@ -22,3 +22,10 @@
 7. Donald Liu, Linux Foundation APAC
 8. Maggie Cheung, Linux Foundation APAC
 9. Michelle Ko, Linux Foundation APAC
+
+
+# Blog
+| 文章                                                                         | 翻译 | 校对 | 发表日期 |
+| -------------------------------------------------------------------------- | -- | -- | ---- |
+|[Fuzz Introspector - OpenSSF 中一款用于提高模糊测试覆盖率的工具](https://mp.weixin.qq.com/s/Z0htGJnu21YGVEYiyvwOBA)| 小马哥    | 赵振华   | 2020-09-20     |
+| [投资于可验证凭证、技术互操作性，以及开源项目](https://mp.weixin.qq.com/s/jgXcwgGKLwFfh5pmX0pKnQ)                      | 皮冰峰    | 赵振华    | 2022-09-19      |
