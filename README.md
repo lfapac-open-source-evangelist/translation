@@ -80,3 +80,6 @@ vi contributor.md
 八、翻译完成，将自己的名字写到文件中， 然后： git commit && git push
 
 九、提交[PR](https://github.com/lfapac-open-source-evangelist/translation/compare)
+
+# 大事记
+[History](./history.md)
