@@ -30,8 +30,12 @@ One tap mobile
 联系人：赵振华 微信ID：richzhao
 
 # 翻译任务
-[正在翻译以及已经完成的翻译任务](./wip.md)
 
+正在翻译以及已经完成的翻译任务[WIP](./wip.md)
+
+# 术语
+
+遇到不确定如何翻译的术语及时在群里和SIG会议上讨论。常见术语请参考[Glossary](./glossary.md)
 
 # 翻译任务指南
 
