@@ -83,3 +83,6 @@ vi contributor.md
 
 # 大事记
 [History](./history.md)
+
+# 参考资料
+[CY T154—2017 中文出版物夹用英文的编辑标准](./reference/CY-T154—2017-中文出版物夹用英文的编辑标准.pdf)
