@@ -6,7 +6,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 姓名  | English   | github | 微信ID     | 微信昵称 | 单位 | email                                                   |
 | --- | --------- | ------ | -------- | ---- | -- | ------------------------------------------------------- |
 | 赵振华 | Rich Zhao | zRich  | richzhao | 锐旗   |    | [zhao.zhenhua@gmail.com](mailto:zhao.zhenhua@gmail.com) |
-|     |           |        |          |      |    |                                                         |
+| 皮冰锋 | Winter Pi | winterpi | 19688624 | bingfeng   |    | [pi.bingfeng@gmail.com](mailto:pi.bingfeng@gmail.com)  |
 |     |           |        |          |      |    |                                                         |
 |     |           |        |          |      |    |                                                         |
 
