@@ -1,10 +1,13 @@
 ## **OSPO Responsibilities**
 ## **开源办公室(OSPO)的职责**
 The OSPO assumes different responsibilities that change over time. In the following subsections, we explore these responsibilities and discuss them at length. You can also explore these responsibilities in [this interactive OSPO mind map](https://ospomindmap.todogroup.org/).
+
 随着时间推移，OSPO在不同阶段职责会有所不同。在接下来的小节中，我们将对此进行详细的讨论。你也可以在[这个OSPO思维导图](https://ospomindmap.todogroup.org/)中找到这些职责的全景视图。
+
 ### **Develop and Execute an Open Source Strategy**
 ### **开源战略的规划和执行**
 Since the beginning of the software industry, nearly every software organization has followed the same business model as follows: source code was developed by its employees or licensed from a third party, intellectual property was closely held, and software was delivered in a binary format to its clients. However, the availability of enterprise-grade OSS is changing how organizations develop and deliver products. With open access to source code and transparent development communities, software providers can reduce development costs while remaining active participants in the development process. In addition, end users of the software can also be active in the development process by contributing directly to upstream projects rather than be passive recipients of what the software vendor delivers to them. This development model enables organizations to think differently about how they procure, implement, test, deploy, and maintain software. In this report, we explore the following four basic strategies for organizations that utilize and integrate OSS in their products: consumer, participant, contributor, and leader.
+
 自软件产业有史以来，几乎每个软件组织都遵循如下的商业模式:源代码由其员工开发或从第三方获得许可，在严格的知识产权控制下，软件以二进制包的方式交付给客户。然而，企业级开源软件的可获得性正在改变组织开发和交付产品的方式。通过对开源代码开放访问和社区的公开透明的开发方式，软件供应商可以降低开发成本，同时保持在开发过程中的积极参与。此外，软件的最终用户也可以通过直接对上游项目的贡献在开发过程中发挥积极作用，而不再是被动地接受软件供应商的产品交付。这种开发模型使得组织开始重新思考如何更好的采购、实施、测试、部署和维护软件。在这份报告中，我们探讨了在产品中使用和集成开源软件（OSS）的组织的四种基本战略:消费者、参与者、贡献者和领导者。
 ![](2022-08-26-17-49-14.png)
 <table>
@@ -27,8 +30,10 @@ Since the beginning of the software industry, nearly every software organization
 
 FIGURE 9 illustrates the following four primary OSS strategies: consumption, participation, contribution, and leadership. Each strategy requires organizations to be successful at the previous strategy. How far your organization advances up this ladder is entirely dependent upon its objectives and overall open source strategy.
 These four strategies overlap as organizations transition from one position into another. Typically, the early stages are engineering-driven due to engineers using open source components in product development. Initially, their participation in strategic projects may be limited to joining the conversation or making small contributions. Over time, this usage can grow within the organization and become part of the business strategy as it gains traction.
-图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。您的组织在这个阶梯上的位置将完全取决于它的目标和总体开源战略。
+
+图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。您的组织在这个阶梯上的位置将完全取决于组织的目标和总体开源战略。
 当组织从一个阶段过渡到另一个阶段时，这四种策略会有交叠。通常，早期阶段是工程驱动的，因为工程师在产品开发中使用了开源组件。起步阶段，他们对战略项目的参与可能仅限于参与讨论或做出小的贡献。随着时间的推移，开源使用在组织不断增长从而发展成为商业战略的一部分。
+
 Some organizations can achieve their goals simply by being consumers of open source code and are content to stay at that level while others have ambitions to attain certain leadership positions. As it is likely that your organization is already at one of these levels of the ladder, it is important to identify both your current position on the ladder and your target position.
 一些组织可以通过成为开源代码的消费者来达成他们的商业目标，并且满足于停留在这个阶段，而另外一些组织则有强大的驱动力来获得领导地位。很可能你的组织已经处于这个阶梯中的一个阶段了，所以明确你的组织在阶梯中的当前位置和未来的目标位置非常重要。
 ### **Consumer Scenario**
