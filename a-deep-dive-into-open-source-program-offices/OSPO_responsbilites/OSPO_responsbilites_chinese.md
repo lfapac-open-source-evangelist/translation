@@ -35,16 +35,20 @@ These four strategies overlap as organizations transition from one position into
 当组织从一个阶段过渡到另一个阶段时，这四种策略会有交叠。通常，早期阶段是工程驱动的，因为工程师在产品开发中使用了开源组件。起步阶段，他们对战略项目的参与可能仅限于参与讨论或做出小的贡献。随着时间的推移，开源使用在组织不断增长从而发展成为商业战略的一部分。
 
 Some organizations can achieve their goals simply by being consumers of open source code and are content to stay at that level while others have ambitions to attain certain leadership positions. As it is likely that your organization is already at one of these levels of the ladder, it is important to identify both your current position on the ladder and your target position.
+
 一些组织可以通过成为开源代码的消费者来达成他们的商业目标，并且满足于停留在这个阶段，而另外一些组织则有强大的驱动力来获得领导地位。很可能你的组织已经处于这个阶梯中的一个阶段了，所以明确你的组织在阶梯中的当前位置和未来的目标位置非常重要。
+
 ### **Consumer Scenario**
 ### **消费者场景**
 The common starting point is the adoption of OSS and integration of OSS in products and services. Voraciously consuming open source components will increase your ability to differentiate products and services and reduce your overall time and costs in delivering those products and services. The following action items are essential to this strategy:
+
 这个场景的共同点是：选用开源软件并将开源软件集成到产品和服务中。积极主动的使用开源组件将会提升产品和服务的差异化竞争力并缩短产品和服务发布周期和降低上市/发布成本；在这种策略场景下，以下行为活动至关重要: 
-- Set up an open source review board to serve as a clearinghouse for all open source activities, including license compliance.成立开源审查委员会，为组织内所有开源相关活动(包括许可证遵从)提供一个交流中心/能力平台。
-- Use a strategic classification scheme to guide decisions on what OSS to consume.采用开源软件的分层分级的策略沙盘来指导开源软件的的使用决策；
-- Create an inventory of all software that is used via SBOM to enable a more granular view of the licenses of the OSS in use to determine whether the enterprise is complying with all license obligations and identify any known security vulnerabilities.构建存量开源软件的SBOM的使用清单，以更细粒度（组件级/文件级/代码级粒度）地查看组织中使用的开源软件涉及的许可证清单，便于识别企业的许可证义务履行风险和已知安全漏洞的修复风险。
+
+- Set up an open source review board to serve as a clearinghouse for all open source activities, including license compliance. 成立开源审查委员会，为组织内所有开源相关活动(包括许可证遵从)提供一个交流中心/能力平台。
+- Use a strategic classification scheme to guide decisions on what OSS to consume.采用开源软件的分层分级的策略沙盘来指导开源软件的使用决策。
+- Create an inventory of all software that is used via SBOM to enable a more granular view of the licenses of the OSS in use to determine whether the enterprise is complying with all license obligations and identify any known security vulnerabilities.构建存量开源软件的SBOM的使用清单，以便更细粒度（组件级/文件级/代码级粒度）地查看组织中使用的开源软件涉及的许可证清单，便于识别企业的许可证义务履行风险和已知安全漏洞的修复风险。
 - Deploy automated workflow software for evaluating/approving open source usage.
-部署软件工具链用以自动化评估和审批组织内开源软件的使用
+部署自动化工作流软件用以评估和审批组织内开源软件的使用。
 - Create a plan for incremental investment in head count and infrastructure in engineering, product management, and legal to manage a complex mix of closed and open source software.
 -规划新增投资，用于相关领域工程领域的能力建设（包括扩大人力，以及在工程、产品管理和法律基础设施的投资），便于管理复杂的专有软件和开源软件的组合场景下的合规问题。
 >## <font color=Blue>Some organizations can achieve their goals simply by being consumers of open source code and are content to stay at that level, while others have ambitions to attain certain leadership positions.一些组织可以通过成为开源代码的消费者来达成他们的商业目标，并且满足于停留在这个阶段，而另外一些组织则有强大的驱动力来获得领导地位</font>
@@ -58,7 +62,7 @@ When establishing a software strategy that encourages the use of OSS in commerci
 建立清晰明确的开源软件选用评估规则，提供开源软件选型的实践样例包括开源软件新特性可用性评估，开源项目源码的成熟度评估，开源社区贡献者规模和组成的评估，及其他一些用来评估开源源码状态和维护人员状态的因素；
 - Establish an open source compliance program to ensure that you have the processes in place to meet the license obligations of the OSS that you are using in your products.
 建立开源软件合规程序，用于满足产品中使用的开源软件义务履行的流程需求；
-- Encourage your developers to identify and adopt open source development tools that can enable better internal collaboration, increased and transparent team communication, and faster development cycles.鼓励组织内的开发人员选型使用开源开发工具，这些工具能够更好地实现内部协作，增加和透明的团队沟通，并加快开发周期。
+- Encourage your developers to identify and adopt open source development tools that can enable better internal collaboration, increased and transparent team communication, and faster development cycles.鼓励组织内的开发人员选型使用开源开发工具，利用这些工具以便更好地实现内部协作，增加和透明的团队沟通，并加快开发周期。
 - Encourage your staff to subscribe to open source mailing lists and
 magazines, follow blogs, and participate in discussion forums.鼓励员工订阅开源邮件列表和杂志，关注博客，并参与论坛讨论。
 - Encourage and fund staff’s attendance at open source conferences for learning and networking opportunities.
@@ -69,7 +73,7 @@ magazines, follow blogs, and participate in discussion forums.鼓励员工订阅
 雇佣开源社区的开发人员
 - Host local open source user groups and encourage your staff to
 get involved in local open source activities.
-主办本地的开源用户组，并鼓励您的员工参与本地的开源活动。
+主持本地的开源用户组，并鼓励您的员工参与本地的开源活动。
 - Invite community members to present to your development team on topics that are related to the project.邀请社区成员在开发团队内分享开源项目相关的主题。
 ### **Participant Scenario**
 ### **参与者场景**
@@ -83,7 +87,9 @@ Once your organization is successfully using OSS in products or services, you ca
 >## <font color=Blue>Once your organization is successfully using OSS in products or services, you can expand your strategy to participate in the open source community.一旦您的组织在产品或服务中成功地使用了开源软件，您就可以扩展您的策略来参与开源社区。</font>
 ### **Contributor Scenario 贡献者场景**
 Once your enterprise realizes the benefits of participating regularly in the community, you can assess the advantages of contributing code to projects and communities. As code contributors help to shape future features, contributing source code to those open source projects that are critical to your business objectives is the best way to influence those projects and build a positive reputation. The following action items are essential to this scenario:
+
 一旦您的企业认识到定期参与社区的好处，您就能够评估为项目和社区贡献代码的好处了。因为代码贡献者致力于塑造未来的特性，因此为那些对您的业务目标至关重要的开源项目贡献源代码是影响这些项目并建立积极声誉的最佳方式。以下活动对该策略场景至关重要:
+
 - Educate your team on community development best practices.
 用社区开发的最佳实践来培训赋能团队成员
 - Actively participate and drive technical discussions on the mailing list, Slack, discussion forums, etc.
@@ -116,17 +122,22 @@ Once your enterprise realizes the benefits of participating regularly in the com
 逐步投资于工程能力、产品管理和相关法律资源，以支撑与外部社区合规高效的交互。
 ### **Leadership Scenario**
 ### **领导者场景**
-The highest form of open source strategy is leadership. Open source leaders earn their strategic positions by establishing trust with project members and maintaining a high level of continuous contribution. Leading organizations can capitalize on emerging trends in technology.开源战略的最高阶段是领导者场景。开源领导者通过与项目成员建立信任并保持高水平的持续贡献来赢得他们的战略地位。领先的组织可以利用新兴的技术趋势来为商业目标服务；
+The highest form of open source strategy is leadership. Open source leaders earn their strategic positions by establishing trust with project members and maintaining a high level of continuous contribution. Leading organizations can capitalize on emerging trends in technology.
+
+开源战略的最高阶段是领导者场景。开源领导者通过与项目成员建立信任并保持高水平的持续贡献来赢得他们的战略地位。领先的组织可以利用新兴的技术趋势来为商业目标服务；
 
 This scenario requires significant investment in targeted open source communities and consortia to establish a leadership agenda. In addition, it will require incremental investment primarily in engineering, product management, and legal to establish leadership in external communities and industry consortia. Below are some of the tactical steps that can help steer your organization toward a leadership role within a specific open source project:
-这个场景需要对目标开源社区和联盟进行重大投资，以建立领导力行动规划。此外，需要在工程、产品管理和法律方面的做主要的增量投资，以建立外部社区和行业联盟的领导地位。以下是一些战术步骤，可以帮助您的组织在特定的开源项目中扮演领导角色:
+
+这个场景需要对目标开源社区和联盟进行大量投资，以建立领导行动规划。此外，需要在工程、产品管理和法律方面的做主要的增量投资，以建立外部社区和行业联盟的领导地位。以下是一些战术步骤，可以帮助您的组织在特定的开源项目中扮演领导角色:
+
 Participate actively and openly within all aspects of the project, including
 planning, development, testing, and release management, thereby demonstrating your capacity to act as a good steward of the project.
 积极地、公开地参与开源项目的各个方面，包括项目的规划、开发、测试和发布管理，从而展示作为项目管理者的能力。
+
 - Achieve a higher level of participation and contribution.
 持续投入以取得更高水平的参与和贡献。
 - Engage with the various project participants.
-与不同的项目参与者保持交互。
+与不同的项目参与者保持互动。
 - Contribute to patching bugs, adding new features, and extending functionality in existing open source projects using the best practices, which are outlined above
 践行上述策略场景中列出的最佳实践，在现有的开源项目中贡献补丁、添加新特性和扩展功能
 - Demonstrate good faith by contributing (when relevant) proprietary source code from internal development to open source projects under an appropriate open source license that makes it usable and useful to the community.
@@ -134,13 +145,13 @@ planning, development, testing, and release management, thereby demonstrating yo
 - Publicly acknowledge that the organization has achieved tangible benefits by working with open source communities for critical software product development
 公开宣称，组织通过与开源社区合作在关键软件产品开发中已经获得了切实的利益
 - Empower employees to seek maintainer status within the project.
-使能员工在项目中寻求维护者的地位。
+授权员工在项目中寻求维护者的地位。
 - Sponsor events, provide financial support for project infrastructure, and consider hiring recognized open source developers from within the project.
 赞助活动，为项目基础设施提供资金支持，并在组织内考虑雇佣外部开源项目的知名的开发者。
 - Increase participation in relevant open source organizations and foundations
 加大相关开源组织和基金会投入力度；
 - Lead architectural and requirement-gathering initiatives within the various communities and consortia to achieve commercial objectives.
-在各类开源社区和联盟主导项目的架构和需求收集活动，以便于牵引商业目标的达成.
+在各类开源社区和联盟主导项目的架构和需求收集活动，以实现商业目标.
 - Establish an open source architect role to proactively guide the use of and contributions to OSS.
 任命一个开源架构师岗位，主动指导对开源软件的使用和贡献。
 While there are numerous strategic objectives to choose from, the following objectives are common among organizations that use and develop OSS:
@@ -154,7 +165,7 @@ While there are numerous strategic objectives to choose from, the following obje
 - 提高产品的质量和灵活性。
 - 加快产品上市时间。
 - 通过社区参与提高工程能力。
-- 撬动开源开发者深化和扩展在你所在的开源社区的贡献。
+- 撬动开源开发者社区，以深化对你的开源工作的贡献。
 ### **Oversee Open Source Compliance**
 ### **开源合规遵从的监管**
 Open source initiatives provide organizations with a vehicle to accelerate innovation through collaboration with open source communities.开放源码促进会（OSI）为企业提供了工具/方法用于通过和开源社区的合作来加速创新
