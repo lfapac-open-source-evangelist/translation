@@ -168,29 +168,44 @@ While there are numerous strategic objectives to choose from, the following obje
 - 撬动开源开发者社区，以深化对你的开源工作的贡献。
 ### **Oversee Open Source Compliance**
 ### **开源合规遵从的监管**
-Open source initiatives provide organizations with a vehicle to accelerate innovation through collaboration with open source communities.开放源码促进会（OSI）为企业提供了工具/方法用于通过和开源社区的合作来加速创新
-One core responsibility for organizations is their compliance with open source licenses. Open source compliance is the process by which users, integrators, and software developers observe copyright notices and satisfy the license obligations for their OSS components.企业拥抱开源的一个核心责任是开源许可证的遵从。开源义务履行是指用户、集成商和软件开发者遵守版权声明并履行其开源组件许可义务的过程。
+Open source initiatives provide organizations with a vehicle to accelerate innovation through collaboration with open source communities.
+开放源码促进会（OSI）为企业提供了工具/方法用于通过和开源社区的合作来加速创新
+
+One core responsibility for organizations is their compliance with open source licenses. Open source compliance is the process by which users, integrators, and software developers observe copyright notices and satisfy the license obligations for their OSS components.
+
+企业拥抱开源的一个核心责任是开源许可证的遵从。开源义务履行是指用户、集成商和软件开发者遵守版权声明并履行其开源组件许可义务的过程。
+
 Open source compliance helps to achieve the following four main objectives:
 - Comply with open source licensing obligations.
 - Facilitate effective use of OSS in commercial products and services.
 - Comply with third-party software supplier contractual obligations.
 - Protect commercial product differentiation.
+
 开源义务履行有助于实现以下四个主要目标:
 - 遵守开源许可义务。
 - 促进开源软件在商业产品和服务中的有效使用。
 - 遵守第三方软件供应商合同义务。
 - 保护商业产品差异化竞争力。
+
 OSPOs are generally involved in open source compliance in the following two ways:
 1. They are responsible for implementing and running a complete end-to-open source compliance program, which includes the policy, process, tools, automation, education, and final fulfillment of obligations for OSS integrated into products, software, or services.
+
 开源办公室（OSPOs）通常有以下两种方式参与开源遵从:
-1、他们负责实施和运行一个端到到段完整的开源合规性计划，包括策略，流程，工具，自动化，赋能培训，并最终履行开源软件集成到产品，软件，或服务的义务。<br>
+1、他们负责实施和运行一个完整的端到端的开源合规性计划，包括策略、流程、工具、自动化、赋能培训，并最终履行将开源软件集成到产品、软件、或服务中的义务。<br>
 Or 或者<br>
-2. They are responsible for establishing the organization’s general open source policies, and the execution and enforcement of these policies are pushed into the various divisions across the organization. For instance, ensuring open source compliance is a great example of a scenario where the OSPO is focused on policies and processes, and dedicated teams on the product side are more trusted than the actual implementation and execution of a compliance program. 2.他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，开源办公室（OSPO）专注于政策和流程并在产品端的有专门团队来落地，这比他们去实际实施和执行合规计划更受信任。
+
+2. They are responsible for establishing the organization’s general open source policies, and the execution and enforcement of these policies are pushed into the various divisions across the organization. For instance, ensuring open source compliance is a great example of a scenario where the OSPO is focused on policies and processes, and dedicated teams on the product side are more trusted than the actual implementation and execution of a compliance program. 
+
+2.他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，开源办公室（OSPO）专注于政策和流程并在产品端有专门的团队来落地，这比他们去实际实施和执行合规计划更受信任。
 
 The OSPO has a direct impact on the full scale of compliance responsibilities. Regardless of the specific role of an OSPO, it must have at least one individual who is very knowledgeable in open source licensing, compliance practices, and engineering.
-开源办公室（OSPO）应该对组织内开源合规职责负有全面的直接影响。无论这个职责在开源办公室（OSPO）内对应什么具体的角色，他必须至少是一个熟知开源许可证规范、合规遵从实践和工程管理的人。
 
-The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了开源合规团队的组成的主要角色。关于开源合规专题的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
+开源办公室（OSPO）应该对组织内开源合规职责负有全面的直接影响。无论OSPO对应什么具体的角色，它都必须至少有一个熟知开源许可证规范、合规实践和工程管理的人。
+
+The minimum set of individuals that represent the core compliance team includes a legal representative, an engineering or product representative, and an open source compliance expert, who is often a member of the OSPO. In the following table, we briefly present the primary roles of these individuals who form the core open source compliance team. For a detailed discussion on the topic of open source compliance, please download the free e-book Open Source Compliance in the Enterprise, which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open source code in products and services and legally and responsibly participate in open source communities.
+
+开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了开源合规团队的组成的主要角色。关于开源合规专题的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
+
 ![](2022-08-26-17-50-15.png)
 <table  style="text-align:center">
     <tr>
@@ -235,7 +250,7 @@ The minimum set of individuals that represent the core compliance team includes 
 • Contribute to the creation and improvement of the compliance program.<br>
 • Review and approve the content of license compliance documentation and resources.<br>
 • Review and approve the list of obligations that are required for each software
-component that is included in a product.<br>•审查和批准开源使用和对上游开源项目的贡献<br>
+component that is included in a product.<br>•审查和批准开源使用和对开源项目的贡献<br>
 •提供关于所有开源软件的引入和对外贡献中许可证的指导<br>
 •助力开源培训赋能建设<br>
 •助力合规程序建设和改进<br>
@@ -243,7 +258,7 @@ component that is included in a product.<br>•审查和批准开源使用和对
 •审批开源义务履行的产品软件清单</td>
    </tr>
    <tr>
-    <td ><b> Engineering and product team representative</b><br>Some organizations do not distinguish between the engineering and product teams.<br> <b>工程代表或产品团队代表</b><br>很多组织中工程代表和产品团队代表是一个角色没有区分</td>
+    <td ><b> Engineering and product team representative</b><br>Some organizations do not distinguish between the engineering and product teams.<br> <b>工程代表或产品团队代表</b><br>很多组织中工程代表和产品团队代表是一个角色，没有区分</td>
     <td > • Follow compliance policies and processes.<br>
 • Integrate compliance practices into the software development process.<br>
 • Contribute to improving the compliance program.<br>
@@ -281,9 +296,9 @@ component that is included in a product.<br>•审查和批准开源使用和对
 
 •助力合规程序建设和改进
 
-•助力新的工具方法来促进价值开源软件的发掘
+•助力创新工具以促进0SS的自动化及发现
 
-•从开源合规的角度签发产品发布</td>
+•从开源合规的角度签署产品发布</td>
    </tr>
  
 </table>
@@ -293,13 +308,15 @@ Collectively, these three roles (legal, engineering, and compliance) are respons
 1. Ensuring mutual compliance with third-party software and OSS licenses.1.确保第三方软件协议和开源软件的license相互兼容。
 2. Facilitating the usage of and contributions to OSS.
 2.促进OSS的使用和贡献。
-3. Protecting proprietary intellectual property (and product differentiation) by ensuring that open source license obligations do not propagate to proprietary or third-party software. 3.确保开源许可义务履行不会感染或影响到专有或第三方软件的专有知识产权(和产品竞争力)。
+3. Protecting proprietary intellectual property (and product differentiation) by ensuring that open source license obligations do not propagate to proprietary or third-party software. 3.确保开源许可义务履行不会影响到专有或第三方软件的专有知识产权(和产品差异化)。
 ### **Establish Open Source Policies and Processes**
 ### **构建开源策略和流程**
 The policies and processes that the OSPO needs to create depend on the organization’s current and target position on the strategy ladder.
 开源办公室（OSPO）需要根据战略阶梯上的当前和目标位置来制定开源策略并构建对应流程。
+
 During the first stage (consumption), the OSPO needs to implement an open source infrastructure that can support the consumption and compliance aspects of OSS. FIGURE 12 illustrates infrastructure that goes beyond a simple policy to define the organization’s guidelines for using OSS. It extends to encompass a strategy that covers usage and compliance, incorporates compliance checkpoints in the development process, establishes a team to supervise the proper usage of open source, provides the necessary training, enables tooling, and facilitates relationships with relevant open source organizations. 
-在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，遵从规范在开发流程中的检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使能工具流程，并促进团队与外部相关开源组织的关系。
+
+在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，在开发过程中纳入合规检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使用工具流程，并促进团队与外部相关开源组织的关系。
 ![](2022-08-26-17-56-02.png)
 
 <div id="Figure-12_25754" align=center x:publishsource="Excel">
@@ -362,7 +379,7 @@ During the first stage (consumption), the OSPO needs to implement an open source
   <td class=xl6625754 width=183 style='border-top:none;border-left:none;
   width:137pt;box-sizing: border-box;border:var(--color-border-default)'>Integrate
   compliance in development and QA process<br>
-    <font class="font1125754">合规遵从规范固化到产品开发和质量控制流程</font></td>
+    <font class="font1125754">在开发和质量保证处理中集成合规性检测</font></td>
   <td class=xl6725754 width=127 style='border-top:none;border-left:none;
   width:95pt;box-sizing: border-box;border:var(--color-border-default)'>Compliance
   team<br>
@@ -534,19 +551,29 @@ During the first stage (consumption), the OSPO needs to implement an open source
 </div>
 
 ### **Prioritize and Drive Upstream Open Source Development**
-### **上游优先并驱动参与上游开源开发**
-One of the primary responsibilities of an OSPO is to improve the organization’s engagement with the key open source projects that are used in products and services. The first step is to identify where the organization relies on OSS by surveying all products and reviewing the SBOM. 开源办公室（OSPO）的主要职责之一是提高组织中关键开源项目（在产品和服务中使用的）的上游参与度。第一步是通过SBOM工具来分析组织中的所有产品来确定组织那些部分最依赖开源组件。
+### **优先考虑并推动上游开源的开发**
+One of the primary responsibilities of an OSPO is to improve the organization’s engagement with the key open source projects that are used in products and services. The first step is to identify where the organization relies on OSS by surveying all products and reviewing the SBOM. 
+
+开源办公室（OSPO）的主要职责之一是提高组织中关键开源项目（在产品和服务中使用的）的参与度。第一步是通过SBOM工具来分析组织中的所有产品来确定组织哪些部分最依赖开源组件。
+
 The next step is to prioritize the OSS that is already in use and establis a contribution strategy. Such a focused approach allows the OSPO to show a return on investment across multiple products. In an enterprise setting, where the OSPO and open source engineering are cost centers, the driving force should be to focus on open source projects that directly support product development.
-第二步是基于产品使用的开源软件建立上游贡献的优先级顺序。这种聚焦的方法允许开源办公室（OSPO）通过开源软件在跨产品使用上投资回报来作为衡量维度。在以开源办公室（OSPO）和开源工程为成本中心的企业环境中，投资的驱动力应该聚焦在直接支持产品开发的开源项目上。<br>
+
+第二步是对已经在产品中使用的开源软件进行优先级排序，并制定贡献策略。这种聚焦的方法使开源办公室（OSPO）能够展示多种产品的投资回报。在企业环境中，开源办公室（OSPO）和开源工程是成本中心，投资的驱动力应该聚焦在直接支持产品开发的开源项目上。
+
+<br>
 FIGURE 13 illustrates the additional elements that the OSPO needs to implement to support open source contributions.图13显示了为了支撑开源贡献，开源办公室（OSPO）还需要构建实施的其他要素。
 ### **Engage with Open Source Organizations**
 ### **参与开源组织**
 Open source foundations are a great resource to extend your impact within the open source ecosystem. The best place to start is with foundations that host initiatives that are relevant to your products or technical interests. Many organizations find it worthwhile to get involved with well-known, established foundations, such as The Linux Foundation’s TODO Group, the Mozilla Foundation, or the Apache Foundation. If your organization is primarily concerned with legal dynamics, getting involved with organizations such as the Software Freedom Law Center or the Open Invention Network will prove valuable. The primary goal is to identify the opportunities within the ecosystem that your organization relies on. The OSPO is the entity that drives these relationships based on the organization’s open source strategy and product priorities.
+
 开源基金会是扩展组织在开源生态系统中影响力的一个很好的资源。最好的起点是和基金会联合主办与产品或技术相关的活动。许多组织都认为与知名的基金会组织合作是有价值的，例如Linux基金会的TODO工作组、Mozilla基金会或Apache基金会。如果你的组织主要关注法律动态，那么加入诸如软件自由法律中心（SFLC）或开放发明网络（OIN）这样的团体被证明是有价值的。加入这些团体的主要目标是识别机会借以提升和发展你所在组织的生态位；开源办公室（OSPO）是基于开源战略和产品优先级驱动外部生态关系发展的实体。
+
 ### **Track Performance Metrics**
 ### **追踪绩效指标**
 One of the more difficult tasks for an OSPO is decision-making on key performance indicators or metrics that the office should track to incentivize engineers toward the desired behavior. The traditional metrics, which are often used in product organizations, do not apply in the context of open source development. Therefore, new metrics are required. Many OSPOs use specialized tools to track their organization’s contributions to open source projects, analyze the type of contributions from their organization, identify contribution patterns, and provide recommendations to improve the development impact.
-对于开源办公室（OSPO）来说，更有挑战的任务之一是基于关键绩效度量指标做出对应的决策，开源办公室需要跟踪这些度量指标，以牵引工程师按预期的方向前行。在产业或商业组织中经常采用的传统的度量标准并不适用在开源开发场景下。因此，需要拟定新的度量标准。开源办公室（OSPO）使用专业化的工具来跟踪其组织对开源项目的贡献，分析来自其组织的贡献类型，确定贡献模式，并提供建议以提高组织的开源开发对生态的影响力。
+
+对开源办公室（OSPO）来说，更有挑战的任务之一是基于关键绩效度量指标做出对应的决策，开源办公室需要跟踪这些度量指标，以牵引工程师按预期的方向前行。在产业或商业组织中经常采用的传统的度量标准并不适用在开源开发的场景。因此，需要拟定新的度量标准。开源办公室（OSPO）使用专业化的工具来跟踪其组织对开源项目的贡献，分析来自其组织的贡献类型，确定贡献模式，并提供建议以提高组织的开源开发对生态的影响力。
+
 ![](2022-08-26-18-00-58.png)
 <div id="工作簿2_8855" align=center x:publishsource="Excel">
 
@@ -653,38 +680,51 @@ One of the more difficult tasks for an OSPO is decision-making on key performanc
 
 ### **IMPLEMENT INNERSOURCE PRACTICES**
 ### **实施内部开源开发实践**
-Innersource describes the process of applying the lessons that were learned from open source development methodology to internal projects.The goal is to incubate the same values in the enterprise as those that are common in the collaborative, open source development model.内源（Innersource）是指将外部开源社区中的开源方法论（包括经验教训）应用到内部项目的过程。目的是将开源开发和协作模型中通用的价值观和习惯在企业内部也培养孵化出来；<br>
+Innersource describes the process of applying the lessons that were learned from open source development methodology to internal projects.The goal is to incubate the same values in the enterprise as those that are common in the collaborative, open source development model.
+内源（Innersource）是指将外部开源社区中的开源方法论（包括经验教训）应用到内部项目的过程。目的是将开源开发和协作模型中通用的价值观和习惯在企业内部也培养孵化出来；<br>
 A great method for OSPOs to expand the impact of open source is to foster internal collaboration using innersource practices. These internal collaborations present incredible visibility opportunities for the OSPO with other departments or teams within the organization. In addition, such interactions and collaborations position the OSPO staff as the internal experts on open source practices and create new opportunities to collaborate with R&D and product teams.
 开源办公室（ospo）扩大开源影响的一个很好的方法是利用内源实践加强团队协作。这些内部协助为开源办公室（OSPO）提供了极大的被看见的机会，让在组织内的其他部门或团队发现和了解开源办公室（OSPO）的工作。除此之外，这种互动和合作也可以将开源办公室（OSPO）成员定位为开源实践的内部专家，并创造与研发和产品团队合作的新机会。
+
 ### **GROW OPEN SOURCE TALENT INSIDE THE ORGANIZATION**
 ### **在组织内部发掘和培养开源人才**
 One of the core responsibilities of an OSPO is to grow the open source talent inside the organization. To do so, OSPOs can run various programs, including workshops,training, mentoring, and internal evangelizing. Education is an essential building block in an OSPO, and it falls into the following two categories: technical training to expand open source technical knowledge and compliance training to ensure that the employees possess a good understanding of the policies that govern the use of OSS. The goal of this training is to raise awareness of open source policies and strategies to build a common understanding of the issues and facts of open source licensing and the business and legal risks of incorporating OSS in products or software portfolios. The training also serves as a venue to publicize and promote compliance policies and processes within the organization and foster a culture of compliance.
-开源办公室（OSPO）的核心职责之一是发掘和培养组织内部的开源人才。为此，开源办公室（OSPO）可以运作各类活动项目，包括研讨会、培训、指导和内部传道。培训赋能是开源办公室（OSPO）工作中必不可少的组成部分，它分成以下两类:开源技术培训以拓展员工的开源知识边界，开源合规遵从性培训以确保员工对开源使用管理策略有很好的理解。这类培训的目标是提升员工对开源政策和策略的认识，建立对开源许可证的问题和现象的共识，让员工了解集成开源软件的产品或软件组合中隐藏的商业和法律风险。赋能培训也为组织宣传推广开源合规政策流程及加强开源合规文化提供场所<br>
+开源办公室（OSPO）的核心职责之一是发掘和培养组织内部的开源人才。为此，开源办公室（OSPO）可以运作各类活动项目，包括研讨会、培训、指导和内部传道。培训赋能是开源办公室（OSPO）工作中必不可少的组成部分，它分成以下两类:开源技术培训以拓展员工的开源知识边界，开源合规遵从性培训以确保员工对开源使用管理策略有很好的理解。这类培训的目标是提升员工对开源政策和策略的认识，建立对开源许可证的问题和现象的共识，让员工了解集成开源软件的产品或软件组合中隐藏的商业和法律风险。赋能培训也为组织宣传推广开源合规政策流程及加强开源合规文化提供场所
+
+<br>
 Moreover, OSPOs can create mentoring programs where senior open source developers mentor junior developers, review their code commits, provide feedback on code before it is submitted to the upstream projects, and generally act as an advisor. The goal is to accelerate learning and support junior developers to become more effective and influential in open source projects. 
-此外，开源办公室（OSPO）可以创建导师孵化项目计划，资深的开源开发人员通常作为项目顾问指导初级开发人员，在代码提交给上游项目之前，审查他们提交的代码，并提供反馈和建议。这类计划的目标是促进学习使得低级别的开发者在上游开源开发项目中更有效率和影响力。
->## <font color=Blue>A great method for OSPOs to expand the impact of open source is to foster internal collaboration using innersource practices. These internal collaborations present incredible visibility opportunities for the OSPO with other departments or teams within the organization.开源办公室（ospo）扩大开源影响的一个很好的方法是利用内源实践加强团队协作。这些内部协助为开源办公室（OSPO）提供了极大的被看见的机会，让在组织内的其他部门或团队发现和了解开源办公室的工作（OSPO） </font>
+此外，开源办公室（OSPO）可以创建导师孵化项目计划，资深的开源开发人员通常作为项目顾问指导初级开发人员，在代码提交给上游项目之前，审查他们提交的代码，并提供反馈和建议。这类计划的目标是促进学习，使得低级别的开发者在上游开源开发项目中更有效率和影响力。
+
+>## <font color=Blue>A great method for OSPOs to expand the impact of open source is to foster internal collaboration using innersource practices. These internal collaborations present incredible visibility opportunities for the OSPO with other departments or teams within the organization.
+开源办公室（ospo）扩大开源影响的一个很好的方法是利用内源实践加强团队协作。这些内部协助为开源办公室（OSPO）提供了极大的被看见的机会，让在组织内的其他部门或团队发现和了解开源办公室的工作（OSPO） </font>
+
 ### **OFFER ADVICE ON OPEN SOURCE**
 ### **提供开源建议**
 OSPOs act as advisors on all matters related to OSS, whether they are internal issues to the organization or external issues relating to compliance, open source foundations, open standards, mergers and acquisitions, or other matters. Because of the importance of this advisory role, senior OSPO staff plays a critical role in shaping their organizations’ software strategy, as OSS is critical within the larger software ecosystem.
+
 开源办公室（OSPO）在所有与开源相关的事务上都可以担任咨询顾问角色，无论这些事务是组织的内部问题，还是与开源合规、开源基金会、开放标准、合并和收购或其他事务相关的外部问题。由于开源软件在更大的软件生态中极其重要，再加上这个咨询顾问角色的重要地位，开源办公室（OSPO）的资深成员在组织软件战略的形成上会起到至关重要的作用；
+
 ### **MANAGE OPEN SOURCE IT INFRASTRUCTURE**
 ### **管理开源IT基础设施**
 One of the OSPO’s challenges is to ensure that their organization provides an IT infrastructure that allows open source developers to communicate and work with the open source projects with minimal challenges. The following three primary domains of IT services are common in open source development:
 开源办公室（OSPO）面临的挑战之一是确保他们的组织能为开发者提供一个IT基础设施平台，开源项目的开发者可以基于此平台无障碍的交流和工作。以下三个主要的IT服务在开源开发领域中是常见的:
+
 1. Knowledge sharing: wikis, collaborative editing platforms, and public websites.知识分享型服务：维基、协作编辑平台和公共网站；
 2. Communication and problem-solving: mailing lists, forums, and real-time chat.交流和问题解决型服务：邮件列表、论坛和实时交流平台。
 3. Code development and distribution: code repositories and bug-tracking platforms.代码开发和发布服务（CICD服务）：代码仓和bug跟踪平台<br>
 
 Some or all of these tools will need to be available internally to effectively support open source development. These open source practices typically require an IT infrastructure that is less restrictive than a typical corporate environment. If this situation conflicts with existing organization-wide IT policies, it is vital to resolve these conflicts and allow open source developers to use the tools that are most familiar to them.
 It is worth noting that some OSPOs in large organizations create and manage their own IT infrastructure independently from their corporate IT departments. 
-这些IT基础设施服务的部分和全部在组织的内部也需要无障碍的获得以便高效的支撑开源开发活动；在开源实践中，典型的需求就是开源基础设施服务要比组织内部的协作环境需要更少的的限制。如果这种情况与现有的组织范围内的IT策略冲突，那么解决这些冲突并允许开源开发人员使用他们最熟悉的工具是至关重要的。
-值得注意的是，一些大型组织中的开源办公室（OSPO）是独立于企业It部门创建和管理自己的It基础设施的。
 
-> ## <font color=Blue>Saying “no” is unequivocally the author’s favorite OSPO responsibility. OSPOs act as a gating function for all major contributions that leave the organization, including new projects or contributing major proprietary code. Saying “no” is the responsibility of OSPO leaders when proposals to release open source projects or contribute significant bodies of code do not meet the proper requirements for success. 说“不”无疑是作者最为赞赏的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门禁作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。</font>
+这些IT基础设施服务的部分和全部也需要在组织的内部可用，以便高效的支撑开源开发活动；在开源实践中，典型的需求就是开源基础设施服务要比组织内部的协作环境需要更少的限制。如果这种情况与现有的组织范围内的IT策略冲突，那么解决这些冲突并允许开源开发人员使用他们最熟悉的工具是至关重要的。
+值得注意的是，一些大型组织中的开源办公室（OSPO）独立于企业IT部门，创建和管理自己的IT基础设施。
+
+> ## <font color=Blue>Saying “no” is unequivocally the author’s favorite OSPO responsibility. OSPOs act as a gating function for all major contributions that leave the organization, including new projects or contributing major proprietary code. Saying “no” is the responsibility of OSPO leaders when proposals to release open source projects or contribute significant bodies of code do not meet the proper requirements for success. 说“不”无疑是作者最为赞赏的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门控作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不符合成功的适当要求时，OSPO领导人有责任说“不”。</font>
+
 ### **ELIMINATE FRICTION FROM USING AND CONTRIBUTING TO OPEN SOURCE**
 ### **消除使用和贡献开源的阻力**
 OSPOs help organizations navigate internal politics or policies, maintain relationships with communities of strategic importance, and continuously improve processes and tools to scale and reduce the learning curve and manual effort that is required.
 开源办公室（OSPO）在组织内指引开源政策和策略，在组织外维护重要的战略社区的关系，并持续优化流程和工具，快速提升团队的学习能力降低人力成本。
+
 ### **SUPPORT CORPORATE DEVELOPMENT ACTIVITIES**
 ### **支撑企业发展战略活动 **
 OSPOs should be involved with open source due diligence (technical and compliance) as a part of corporate development. The two major scenarios are merger and acquisition transactions and outsourced development.
@@ -693,15 +733,18 @@ OSPOs should be involved with open source due diligence (technical and complianc
 ### **并购评估**
 If an organization is considering a merger or is the target of an acquisition, the OSPO is a great source of expertise for open source technology and compliance due diligence. OSPOs can help their organization to understand the open source code that is used by the target organization and its implications as part of the due diligence process.
 如果一个组织正在考虑合并或被收购，开源办公室（OSPO）是开源技术和合规评估的一个重要专业意见的来源。作为经营评估过程的一部分，开源办公室（OSPO）可以参与到经营评估的工作中，去帮助组织梳理分析目标企业使用的开源代码及其隐藏的风险和影响。
+
 ### **Outsourced Development**
 ### **外包开发**
 The OSPO can also support corporate development when negotiating the outsourced development of software, which will ensure that the proper compliance procedures are followed according to the organization’s policies and processes.
 当洽谈软件外包开发业务时，开源办公室（OSPO）可以确保组织的政策和流程都遵循适当的开源合规程序，以此来支持企业发展战略；
+
 ### **COLLABORATE WITH UNIVERSITIES ON OPEN SOURCE PROJECTS**
 ### **与大学开展开源项目合作**
 Many universities are eager to work with organizations that offer learning opportunities for their students and provide them with realworld development experience. Often, this relationship is also beneficial to the organizations that are involved because it can be a great way to develop new talent in existing open source communities and attract new development talent from a trusted source. This is particularly useful for projects that have a shortage of experienced developers and are typically more difficult to hire for. As the supply of talented programmers is limited, finding a way to tap into new knowledge and influence favorable outcomes in external projects, including academia, is vital.
 许多大学都希望能与企业合作为他们的学生提供学习机会和真实业务的开发经验。通常情况下，这种关系对参与其中的组织也是有益的，因为这可能是从现有的开源社区中挖掘、吸引新的开发人才一个来源可信赖的好方法。这对于急需有经验的开发人员并且又很难雇佣到员工的项目特别有用。因为有天赋的程序员是稀缺的，找到一条途径能利用新的知识体系并对外部项目产生有影响力的价值产出（包括学术产出）是至关重要的。
+
 ### **KNOW WHEN TO SAY “NO”**
 ### **知道什么时候说“不”**
 Saying “no” is unequivocally the author’s favorite OSPO responsibility. OSPOs act as a gating function for all major contributions that leave the organization, including new projects or contributing major proprietary code. Saying “no” is the responsibility of OSPO leaders when proposals to release open source projects or contribute significant bodies of code do not meet the proper requirements for success.
-说“不”无疑是作者最为赞赏的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门禁作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。
+说“不”无疑是作者最为赞赏的开源办公室（OSPO）的责任。开源办公室（OSPO）对组织中所有重大开源贡献或开源捐赠起到门控作用，包括开源新项目或贡献重要的专有代码。当发布开源项目或贡献大量代码的提议不匹配成功的目标导向时，OSPO领导人有责任说“不”。
