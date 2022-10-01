@@ -1374,7 +1374,7 @@ with the following:
   practices of release, doing so early and often, and including peer
   reviews.
  
-  创建遵循开源开发实践的内部流程，尽早并经常这样做，包括同行评审。
+  尽早创建遵循开源开发实践的内部流程，并经常这样做，包括同行评审。
 
 - Improve transparency between departments to encourage more
   cross-functional collaboration.
@@ -1383,7 +1383,7 @@ with the following:
 
 - Form engineering teams around the ideals of meritocracy.
 
-  围绕精英管理的理想组建工程团队。
+  围绕精英管理的理念组建工程团队。
 
 - Establish proper success metrics to encourage open source and
   cross-department contributions.
@@ -1510,7 +1510,7 @@ implementing the following to improve internal processes:
   give the dedicated open source team blanket approval to contribute
   to many open source projects.
   
-  平衡法律、工程和开源的收益，让专门的开源团队整体批准为众多开源项目做出贡献。
+  平衡法律、工程和开源的收益，并给与专门的的开源团队全面的批准，为众多开源项目做出贡献。
 
 - Use different levels of approval depending on the nature of the code
   that is contributed (e.g., code to fix simple bugs, code to improve
@@ -1522,7 +1522,7 @@ implementing the following to improve internal processes:
 ## The IT environment that you create should allow developers to join a team without requiring any significant changes to how they work. The tools must support the open source development model, fulfill the needs of the OSPO, and meet corporate IT guidelines.
 **
 
-您创建的 IT 环境应允许开发人员加入任何团队，而无需对他们的工作方式进行重大更改。这些工具必须支持开源开发模型，满足 OSPO 的需求，并满足企业 IT 指南。
+您创建的 IT 环境应允许开发人员加入任何团队，而无需对他们的工作方式进行重大改变。这些工具必须支持开源开发模型，满足 OSPO 的需求，并满足企业 IT 指南。
 
 ##### TOOLS
 
@@ -1540,17 +1540,17 @@ the content as the intellectual property of the email sender's
 organization. We suggest implementing the following changes for
 facilitating communi- cation within your OSPO:
 
-您创建的 IT 环境应该允许开发人员加入任何团队，而无需对他们的工作方式进行任何重大更改。这些工具必须支持开源开发模型，满足 OSPO 的需求，并符合企业 IT 准则。开源工程师需要灵活地通过电子邮件、聊天和代码开发平台与外部参与者进行交流，他们的 IT 工具必须促进这种交流。例如，发给开源项目的电子邮件绝不应包含声称内容为电子邮件发件人组织的知识产权的附件。我们建议实施以下更改以促进您的 OSPO 内的交流：
+您创建的 IT 环境应该允许开发人员加入任何团队，而无需对他们的工作方式进行任何重大改变。这些工具必须支持开源开发模型，满足 OSPO 的需求，并符合企业 IT 准则。开源工程师需要灵活地通过电子邮件、聊天和代码开发平台与外部参与者进行交流，他们的 IT 工具必须促进这种交流。例如，发给开源项目的电子邮件绝不应包含声称内容为电子邮件发件人组织的知识产权的附件。我们建议实施以下更改以促进您的 OSPO 内的交流：
 
 - Allow communication with public mailing lists from organization
   accounts without obstruction.
   
-  允许与来自组织帐户中的公共邮件列表进行通信而不受阻碍。
+  允许组织内部的账户无障碍地与公共邮件列表进行通信。
 
 - Give engineers devices that support the development distribution of
   their choice.
   
-  为工程师提供支持他们选择的开发发行版的设备。
+  为工程师提供开发分发的设备，支持他们自行选择相关设备。
 
 - Make sure that all open source developers can access all vital
   internal tools and resources on Linux or via a separate compatible
@@ -1562,12 +1562,12 @@ facilitating communi- cation within your OSPO:
   so that they can connect to internal business resources through a
   virtual private network or similar technology.
   
-  支持在远程位置工作的完全分布式团队，以便他们可以通过虚拟专用网络或类似技术连接到内部业务资源。 
+  支持在远程工作的完全分布式团队，以便他们可以通过虚拟专用网络或类似技术连接到内部业务资源。 
 
 - Evaluate your IT policies for help desk support, with secure methods
   for resolving IT issues for remote employees.
   
-  评估您的IT策略中关于服务台的支持，并使用安全方法解决远程员工的 IT 问题。
+  评估您的IT策略以获得服务团队的支持，并使用安全的方法解决远程员工的 IT 问题。
 
 ### Continuity
 
@@ -1607,7 +1607,7 @@ The executive sponsor is critical to continuity and communicating the
 value of the open source efforts and expectations across the organization to encourage the successful adoption, implementation,
 and contribution to open source projects.
 
-高管支持方对于持续性和在整个组织中传达开源努力和期望的价值，以鼓励开源项目的成功采用、实施和贡献至关重要。
+执行发起人对于持续性和在整个组织中传达开源工作的价值和期望，以鼓励开源项目的成功采用、实施和贡献至关重要。
 
 ### Education
 
