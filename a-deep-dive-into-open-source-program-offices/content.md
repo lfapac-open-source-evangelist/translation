@@ -842,47 +842,60 @@ ladder and your target position.
 一些组织可以通过成为开源代码的消费者来达成他们的商业目标，并且满足于停留在这个阶段，而另外一些组织则有强大的驱动力来获得领导地位。很可能你的组织已经处于这个阶梯中的一个阶段了，所以明确你的组织在阶梯中的当前位置和未来的目标位置非常重要。
 
 ###### **Consumer Scenario**
+###### **消费者场景**
 
 The common starting point is the adoption of OSS and integration
-
 of OSS in products and services. Voraciously consuming open source
 components will increase your ability to differentiate products and
 services and reduce your overall time and costs in delivering those
 products and services. The following action items are essential to
 this strategy:
 
+这个场景的共同点是：选用开源软件并将开源软件集成到产品和服务中。积极主动的使用开源组件将会提升产品和服务的差异化竞争力并缩短产品和服务发布周期和降低上市/发布成本；在这种策略场景下，以下行为活动至关重要: 
+
 - Set up an open source review board to serve as a clearinghouse for
   all open source activities, including license compliance.
+  
+  成立开源审查委员会，为组织内所有开源相关活动(包括许可证遵从)提供一个交流中心/能力平台。
 
 - Use a strategic classification scheme to guide decisions on what OSS
   to consume.
+  
+  采用开源软件的分层分级的策略沙盘来指导开源软件的使用决策。
 
-- Create an inventory of all software that is used via SBOM to enable
-  a more granular view of the licenses of the OSS in use to
-
-## Some organizations can achieve their goals simply by being consumers of open source code and
-
-are content to stay at that level, while others have ambitions to
-attain certain leadership positions.
-
-determine whether the enterprise is complying with all license
-obligations and identify any known security vulnerabilities.
+- Create an inventory of all software that is used via SBOM to enable a more granular view of the licenses of the OSS in use to determine whether the enterprise is complying with all license obligations and identify any known security vulnerabilities.
+  
+  构建存量开源软件的SBOM的使用清单，以便更细粒度（组件级/文件级/代码级粒度）地查看组织中使用的开源软件涉及的许可证清单，便于识别企业的许可证义务履行风险和已知安全漏洞的修复风险。
 
 - Deploy automated workflow software for evaluating/approving open
   source usage.
-
+  
+  部署自动化工作流软件用以评估和审批组织内开源软件的使用。
+  
 - Create a plan for incremental investment in head count and
   infrastructure in engineering, product management, and legal to
   manage a complex mix of closed and open source software.
+  
+  规划新增投资，用于相关领域工程领域的能力建设（包括扩大人力，以及在工程、产品管理和法律基础设施的投资），便于管理复杂的专有软件和开源软件的组合场景下的合规问题。
+
+## Some organizations can achieve their goals simply by being consumers of open source code and are content to stay at that level, while others have ambitions to attain certain leadership positions.
+## 一些组织可以通过成为开源代码的消费者来达成他们的商业目标，并且满足于停留在这个阶段，而另外一些组织则有强大的驱动力来获得领导地位。
+
 
 When establishing a software strategy that encourages the use of OSS
 in commercial products, the following actions can be taken to ensure
 the successful adoption of OSS:
 
+当在商业化的产品中制定一项拥抱开源、鼓励开源使用的策略时，可采取下列行动以确保开源软件的成功应用；
+
 - Communicate the strategy for the use of OSS.
+
+在组织内就开源软件的使用策略充分沟通，上下对齐达成一致
 
 - Educate staff on open source compliance, license obligations, and
   the open source development model.
+  
+  在开源规范遵从，开源义务履行，及开源开发模式上对组织成员进行培训赋能；
 
 - Establish explicit criteria for determining which OSS is a candidate
   for inclusion in your products. Examples include the availability of
@@ -891,33 +904,51 @@ the successful adoption of OSS:
   factors that measure the state of the code and the people who
   maintain it.
 
+建立清晰明确的开源软件选用评估规则，提供开源软件选型的实践样例包括开源软件新特性可用性评估，开源项目源码的成熟度评估，开源社区贡献者规模和组成的评估，及其他一些用来评估开源源码状态和维护人员状态的因素；
+
 - Establish an open source compliance program to ensure that you have
   the processes in place to meet the license obligations of the OSS
   that you are using in your products.
+
+建立开源软件合规程序，用于满足产品中使用的开源软件义务履行的流程需求；
 
   - Encourage your developers to identify and adopt open source
     development tools that can enable better internal collaboration,
     increased and transparent team communication, and faster
     development cycles.
 
+鼓励组织内的开发人员选型使用开源开发工具，利用这些工具以便更好地实现内部协作，增加和透明的团队沟通，并加快开发周期。
+
   - Encourage your staff to subscribe to open source mailing lists
     and magazines, follow blogs, and participate in discussion
     forums.
+    
+    鼓励员工订阅开源邮件列表和杂志，关注博客，并参与论坛讨论。
 
   - Encourage and fund staff's attendance at open source conferences
     for learning and networking opportunities.
+    
+    鼓励和赞助员工参加开源峰会，获得学习和建立关系网的机会。
 
   - Join open source industry bodies and foundations, such as The
     Linux Foundation, for opportunities to share development and
     legal best practices with other leaders in the industry.
 
+加入开源行业组织和基金会，例如Linux基金会，以便有机会与该行业的其他领导者分享开源开发和开源法务领域的最佳实践。
+
   - Hire developers from the open source community.
+  
+  雇佣开源社区的开发人员。
 
   - Host local open source user groups and encourage your staff to
     get involved in local open source activities.
+    
+    主持本地的开源用户组，并鼓励您的员工参与本地的开源活动。
 
   - Invite community members to present to your development team on
     topics that are related to the project.
+    
+    邀请社区成员在开发团队内分享开源项目相关的主题。
 
 ###### **Participant Scenario**
 
