@@ -813,6 +813,15 @@ strategy.
 
 图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。您的组织在这个阶梯上的位置将完全取决于组织的目标和总体开源战略。
 
+|||
+|--|--|
+| FIGURE 9 The four core stages of open source strategy— consumer, participant, contributor, and leader  | 图表 9 开源战略的4个核心阶段-消费者、参与者、贡献者和领导者 |
+| CONSUMER |  消费者 |
+| PARTICIPANT | 参与者 | 
+| CONTRIBUTOR | 贡献者 |
+| LEADER | 领导者|
+| Continuous participation and contribution to open source project | 持续的参与和贡献开源项目|
+
 These four strategies overlap as organizations transition from one
 position into another. Typically, the early stages are
 engineering-driven due to engineers using open source components in
