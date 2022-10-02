@@ -1252,11 +1252,93 @@ partic- ipate in open source communities.
 开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了开源合规团队的组成的主要角色。关于开源合规专题的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
 
 
+| | |
+|--|--|
+|FIGURE 10 Ensuring open source compliance is a cross-functional activity| 图10 确保遵循开源是一项跨职能的活动 |
+|Corporate Development | 企业发展战略|
+|Legal | 法务|
+|Engineering | 工程师 |
+|Product Team | 产品团队 |
+|Open Source Compliance | 开源合规遵从|
+|IT | IT团队|
+|Documentation | 资料团队 |
+| Supply Chain | 供应链 |
+| Localization | 本土化|
+
+
 ![](media/image5.png)
 ![](media/image6.png){width="0.4955325896762905in"
 height="9.2082239720035e-2in"}
 
 **FIGURE 11**
+
+<table >
+    <tr>
+        <td rowspan="4"> FIGURE 11 Roles and responsibilities of the core compliance team members <br>图表11 开源合规团队核心代表的角色和职责 </td>
+        <th >CORE OPEN SOURCE COMPLIANCE TEAM<br> 开源合规团队的核心角色</th> 
+        <th >PRIMARY RESPONSIBILITIES<br> 主要职责</th> 
+   </tr>
+   <tr>
+    <td > <b>Legal representative </b><br> This representation varies from a legal counsel to a paralegal, depending on the task at hand.<br><b> 法务代表</b><br> 可以根据具体工作任务的情况由法律顾问或助理律师承担 </td>
+    <td > 
+    • Review and approve the use of OSS and the contribution to OSS projects.<br>
+• Provide guidance on the incoming and outgoing licenses of all software.<br>
+• Contribute to the creation of open source training.<br>
+• Contribute to the creation and improvement of the compliance program.<br>
+• Review and approve the content of license compliance documentation and resources.<br>
+• Review and approve the list of obligations that are required for each software
+component that is included in a product.<br>•审查和批准开源使用和对开源项目的贡献<br>
+•提供关于所有开源软件的引入和对外贡献中许可证的指导<br>
+•助力开源培训赋能建设<br>
+•助力合规程序建设和改进<br>
+•审批许可证合规文档和资源<br>
+•审批开源义务履行的产品软件清单</td>
+   </tr>
+   <tr>
+    <td ><b> Engineering and product team representative</b><br>Some organizations do not distinguish between the engineering and product teams.<br> <b>工程代表或产品团队代表</b><br>很多组织中工程代表和产品团队代表是一个角色，没有区分</td>
+    <td > • Follow compliance policies and processes.<br>
+• Integrate compliance practices into the software development process.<br>
+• Contribute to improving the compliance program.<br>
+• Follow the technical compliance guidelines.<br>
+• Respond quickly to all compliance-related questions.<br>
+• Conduct design, architecture, and code reviews.<br>
+• Implement security best practices.<br>
+• Prepare open source packages for distribution.<br>•遵循合规政策和流程
+
+•在软件开发过程中集成应用开发合规实践
+
+•助力合规程序改进
+
+•遵循技术规范
+
+•快速响应合规相关的问题
+
+•评审设计、架构和代码
+
+•实施安全最佳实践
+
+•准备开源软件的打包分发</td>
+   </tr>
+   <tr>
+    <td > <b>Compliance representative</b><br>An open source compliance officer is not necessarily a dedicated resource. In most cases, the individual fulfills the role of the manager or director of open source.<br><b>合规代表</b><br>开源合规官员不一定是专门岗位。在大多数情况下，这个岗位通常是开源经理或主管的角色.<br> </td>
+    <td > • Drive license compliance activities, such as the execution of source code audits.<br>
+• Coordinate the distribution of open source packages as part of fulfilling open source license obligations.<br>
+• Contribute to creating compliance training.<br>
+• Contribute to improving the compliance program.<br>
+• Contribute to the creation of new tools to facilitate the automation and discovery of OSS.<br>
+• Sign off on product release from an open source compliance perspective.<br>•推动许可证合规活动，如执行源代码审计
+
+•作为履行开源许可义务的一部分，协调开源包的分发
+•助力开源培训赋能建设
+
+•助力合规程序建设和改进
+
+•助力创新工具以促进0SS的自动化及发现
+
+•从开源合规的角度签署产品发布</td>
+   </tr>
+ 
+</table>
 
 #### **Roles and responsibilities of the core compliance team members**
 
