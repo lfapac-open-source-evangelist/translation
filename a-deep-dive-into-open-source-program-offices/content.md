@@ -1341,28 +1341,43 @@ component that is included in a product.<br>•审查和批准开源使用和对
 </table>
 
 #### **Roles and responsibilities of the core compliance team members**
+#### **核心合规团队成员的角色和职责**
 
 ![](media/image5.png)![](media/image50.png){width="0.49392607174103237in"
 height="9.178258967629047e-2in"}A DEEP DIVE INTO OPEN SOURCE PROGRAM
 OFFICES: STRUCTURE, ROLES, RESPONSIBILITIES, AND CHALLENGES **20**
 
+深入了解开源项目办公室：结构、角色、责任和挑战
+
 []{#\_bookmark15 .anchor}Collectively, these three roles (legal,
 engineering, and compliance) are responsible for the following three
 main tasks:
 
+总的来说，这三个角色(法律代表、工程产品代表和合规代表)主要负责以下三个任务:
+
 1.  Ensuring mutual compliance with third-party software and OSS
     licenses.
 
+1.确保第三方软件协议和开源软件的license相互兼容。
+
 2.  Facilitating the usage of and contributions to OSS.
+
+2.促进OSS的使用和贡献。
 
 3.  Protecting proprietary intellectual property (and product
     differentiation) by ensuring that open source license obligations do
     not propagate to proprietary or third-party software.
 
+3.确保开源许可义务履行不会影响到专有或第三方软件的专有知识产权(和产品差异化)。
+
 ### Establish Open Source Policies and Processes
+### 构建开源策略和流程
 
 The policies and processes that the OSPO needs to create depend on the
 organization's current and target position on the strategy ladder.
+
+开源办公室（OSPO）需要根据战略阶梯上的当前和目标位置来制定开源策略并构建对应流程。
+
 During the first stage (consumption), the OSPO needs to implement an
 open source infrastructure that can support the consumption and
 compliance aspects of OSS. **FIGURE 12** illustrates infrastructure
@@ -1370,10 +1385,10 @@ that goes beyond a simple policy to define the organization's
 guidelines for using OSS. It extends to encompass a strategy that
 covers usage and compliance, incorporates compliance checkpoints in
 the development process, establishes a team to supervise the proper
-usage of open
-
-source, provides the necessary training, enables tooling, and
+usage of open source, provides the necessary training, enables tooling, and
 facilitates relationships with relevant open source organizations.
+
+在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，在开发过程中纳入合规检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使用工具流程，并促进团队与外部相关开源组织的关系。
 
 ![](media/image51.png)
 
