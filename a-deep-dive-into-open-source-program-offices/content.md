@@ -1669,7 +1669,7 @@ tasks. The open source training industry is thriving because of the
 high demand for open source skills and training on the latest open
 source technologies.
 
-技术培训扩大了员工的技术知识库。它解决了弱点并提高了员工完成新任务和不同任务的技能。由于对开源技能和最新开源技术培训的高需求，开源培训行业正在蓬勃发展。
+技术培训扩大了员工的技术知识库。它解决了员工的弱点，并提高了员工完成新任务和不同任务的技能。由于对开源技能和最新开源技术培训的高需求，开源培训行业正在蓬勃发展。
 
 # The TODO Group
 # TODO工作组
@@ -1706,12 +1706,12 @@ If you are part of an organization that relies on OSS for products or
 services and your organization does not have a formalized OSPO yet,
 please consider this report a call to action to do exactly that.
 
-OSPO 在帮助组织掌握 OSS 并推动组织在对其产品、服务和 IT 解决方案至关重要的开放技术方面占据领导地位发挥了关键作用。OSPO 可以在以下四个关键领域为其组织提供支持：
-1. **消费 ---** 建立一个内部基础设施，以便实施合适的开源实践并整合开源政策、流程、清单和训练。
+OSPO 在帮助组织掌握 OSS 并推动组织在开放技术方面占据领导地位发挥了关键作用，这些开放技术对组织的产品、服务和IT解决方案至关重要。OSPO 可以在以下四个关键领域为组织提供支持：
+1. **消费 ---** 建立一个内部基础设施，以便实施合适的开源实践，并整合开源政策、流程、清单和训练。
 2. **参与 --—** 在交流平台和活动上与开源社区互动。赞助对您的组织而言在项目或服务上存在依赖的重要的OSS项目和组织。
 3. **贡献 ---** 雇用或培训专门关注开源贡献的员工，并部署必要工具来支持内部开源工程。
 4  **领导力 ---** 增加与开源社区、开放标准机构和开源基金会的互动；启动新的开源计划和项目；并提高您的组织在开源社区中的知名度。
-如果你是一个依赖OSS项目和服务的组织的一员且你们组织目前没有一个正式的OSPO，请将此报告视为采取行动的号召。
+如果你是一个依赖OSS项目和服务的组织的一员，并且你们组织目前没有一个正式的OSPO，请将此报告视为采取行动的号召。
 
 # Acknowledgments 
 # 致谢
@@ -1753,7 +1753,7 @@ The author apologizes in advance for any spelling mistakes or possible errors an
 
 - [[Linux基金会开放合规计划]{.underline}](https://compliance.linuxfoundation.org/) --- 在开源合规性上支持各组织的资源。
 
-- [[TODO工作组](http://todogroup.org/)]{.underline} ---面向从业者和组织的开放社区，旨在最佳实践、工具等他方式上协作来运作成功的开源项目。
+- [[TODO工作组](http://todogroup.org/)]{.underline} ---面向从业者和组织的开放社区，旨在最佳实践、工具等其它方式上协作来运作成功的开源项目。
 
 
 
@@ -1768,7 +1768,7 @@ President of R&D and Head of the Open Source Division at Samsung Electronics. Th
 
 **Website:** IbrahimAtLinux.com
 
-易卜拉欣·哈达德博士是Linux基金会战略项目副总裁，也是大伞项目LF AI & data的执行总监，该大伞项目提供了一个可信赖的中心平台，开发者可以写代码、管理和扩展关键的人工智能和数据开源项目。在Linux基金会之前，他曾担任副三星电子研发总裁兼开源总监。在他的职业生涯中，哈达德曾在爱立信研发、开源开发实验室、摩托罗拉、Palm、惠普和Linux基金会担任技术和产品管理职务。他以优异成绩毕业于康科迪亚大学（加拿大蒙特利尔），获得计算机科学博士学位。
+易卜拉欣·哈达德博士是Linux基金会战略项目副总裁，也是LF AI & data的执行总监，该公司提供了一个可信赖的中心平台，开发者可以写代码、管理和扩展关键的人工智能和数据开源项目。在Linux基金会之前，他曾担任副三星电子研发总裁兼开源总监。在他的职业生涯中，哈达德曾在爱立信研发、开源开发实验室、摩托罗拉、Palm、惠普和Linux基金会担任技术和产品管理职务。他以优异成绩毕业于康考迪亚大学（加拿大蒙特利尔），获得计算机科学博士学位。
 
 **推特:** \@IbrahimAtLinux
 
@@ -1780,7 +1780,7 @@ President of R&D and Head of the Open Source Division at Samsung Electronics. Th
 This report is provided "as is." The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. In no event will The Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether they have been advised of the possibility of such damage. Sponsorship of the creation of this report does not constitute an endorsement of its
 findings by any of its sponsors.
 
-本报告按“原样”提供。Linux基金会及其作者、贡献者和赞助人明确不承担与本报告相关的任何保证（明示、暗示或其他），包括适销性、不侵权、适用于特定目的或标题的默示保证。在任何情况下，Linux基金会及其作者、贡献者和赞助人都不对任何其他方负责，因为与本报告有关的任何类型的诉讼原因造成的利润损失或任何形式的间接、特殊、附带或间接损害，无论是基于违约、侵权（包括疏忽）还是其他原因，以及是否已告知他们可能发生这种损害。赞助编写本报告并不构成对其任何提案国的调查结果。
+本报告按“原样”提供。Linux基金会及其作者、贡献者和赞助人明确否认与本报告相关的任何担保（明示、暗示或其他），包括对适销性、不侵权、适用于特定目的或标题的暗示担保。在任何情况下，Linux基金会及其作者、贡献者和赞助人都不对任何其他方负责，因与本报告有关的任何类型的诉讼原因造成的利润损失或任何形式的间接、特殊、附带或间接损害，无论是基于违约、侵权（包括疏忽）还是其他原因，以及是否已告知他们可能发生这种损害。赞助编写本报告并不构成对其任何赞助商的调查结果。
 
 ![](media/image1.jpeg)
 
@@ -1800,14 +1800,10 @@ Part of The Linux Foundation, LF AI & Data supports open source innovation in ar
 
 twitter.com/todogroup facebook.com/todo linkedin.com/company/todo-group
 
-[[TODO工作组]{.underline}](https://todogroup.org/) 是一个由70+个组织组成的开放工作组，他们拥有多年的开源项目运作经验，希望在实践、工具等他方式上协作来成功、高效地运作开源项目/计划。它是一个通过分享经验、制定最佳实践和指导以及开发通用工具的地方，进而推进全球各环节采用OSPO和教育。请想了解更多进行中的TODO计划的信息。 了解有关所有正在进行的TODO计划的更多信息[[此处]{.underline}](https://github.com/todogroup) ，并查看OSPO一览图[[https://landscape.todogroup.org]{.underline}](https://landscape.todogroup.org/)
+[[TODO工作组]{.underline}](https://todogroup.org/) 是一个由70多个组织组成的开放工作组，他们拥有多年的开源项目运作经验，希望在实践、工具等他方式上协作来成功、高效地运作开源项目/计划。它是一个通过分享经验、制定最佳实践和指导以及开发通用工具的地方，进而推进全球各环节采用OSPO和教育。如果想了解更多进行中的TODO计划的信息参考这里 [[此处]{.underline}](https://github.com/todogroup) ，并查看OSPO一览图[[https://landscape.todogroup.org]{.underline}](https://landscape.todogroup.org/)
 
 twitter.com/todogroup facebook.com/todo linkedin.com/company/todo-group
 
-【[TODO]{.underline}】（https://todogroup.org/）是一个由70+个组织组成的开放小组，他们拥有多年的开源程序运行经验，希望在实践、工具和其他方式上进行协作，以运行成功有效的开源项目和程序。它是一个分享经验、制定最佳做法和指导以及共同工具的地方，以改善全球各部门采用OSPO和教育。了解有关所有正在进行的TODO计划的更多信息【【此处】{.underline}】（https://github.com/todogroup），并查看OSPO格局：
-【【https://landscape.todogroup.org】{.underline}】(https://landscape.todogroup.org/)
-
-**ter.com/todogroup facebook.com/todo linkin.com/Company/todo-group
 
 Copyright © 2022 [[The Linux Foundation]{.underline}](https://www.linuxfoundation.org/)
 
