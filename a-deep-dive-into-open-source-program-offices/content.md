@@ -890,7 +890,7 @@ the successful adoption of OSS:
 
 - Communicate the strategy for the use of OSS.
 
-在组织内就开源软件的使用策略充分沟通，上下对齐达成一致
+  在组织内就开源软件的使用策略充分沟通，上下对齐达成一致
 
 - Educate staff on open source compliance, license obligations, and
   the open source development model.
@@ -904,48 +904,48 @@ the successful adoption of OSS:
   factors that measure the state of the code and the people who
   maintain it.
 
-建立清晰明确的开源软件选用评估规则，提供开源软件选型的实践样例包括开源软件新特性可用性评估，开源项目源码的成熟度评估，开源社区贡献者规模和组成的评估，及其他一些用来评估开源源码状态和维护人员状态的因素；
+  建立清晰明确的开源软件选用评估规则，提供开源软件选型的实践样例包括开源软件新特性可用性评估，开源项目源码的成熟度评估，开源社区贡献者规模和组成的评估，及其他一些用来评估开源源码状态和维护人员状态的因素；
 
 - Establish an open source compliance program to ensure that you have
   the processes in place to meet the license obligations of the OSS
   that you are using in your products.
 
-建立开源软件合规程序，用于满足产品中使用的开源软件义务履行的流程需求；
+   建立开源软件合规程序，用于满足产品中使用的开源软件义务履行的流程需求；
 
-  - Encourage your developers to identify and adopt open source
+- Encourage your developers to identify and adopt open source
     development tools that can enable better internal collaboration,
     increased and transparent team communication, and faster
     development cycles.
 
-鼓励组织内的开发人员选型使用开源开发工具，利用这些工具以便更好地实现内部协作，增加和透明的团队沟通，并加快开发周期。
+   鼓励组织内的开发人员选型使用开源开发工具，利用这些工具以便更好地实现内部协作，增加和透明的团队沟通，并加快开发周期。
 
-  - Encourage your staff to subscribe to open source mailing lists
+- Encourage your staff to subscribe to open source mailing lists
     and magazines, follow blogs, and participate in discussion
     forums.
     
     鼓励员工订阅开源邮件列表和杂志，关注博客，并参与论坛讨论。
 
-  - Encourage and fund staff's attendance at open source conferences
+- Encourage and fund staff's attendance at open source conferences
     for learning and networking opportunities.
     
     鼓励和赞助员工参加开源峰会，获得学习和建立关系网的机会。
 
-  - Join open source industry bodies and foundations, such as The
+- Join open source industry bodies and foundations, such as The
     Linux Foundation, for opportunities to share development and
     legal best practices with other leaders in the industry.
 
-加入开源行业组织和基金会，例如Linux基金会，以便有机会与该行业的其他领导者分享开源开发和开源法务领域的最佳实践。
+   加入开源行业组织和基金会，例如Linux基金会，以便有机会与该行业的其他领导者分享开源开发和开源法务领域的最佳实践。
 
-  - Hire developers from the open source community.
+- Hire developers from the open source community.
   
-  雇佣开源社区的开发人员。
+   雇佣开源社区的开发人员。
 
-  - Host local open source user groups and encourage your staff to
+- Host local open source user groups and encourage your staff to
     get involved in local open source activities.
     
     主持本地的开源用户组，并鼓励您的员工参与本地的开源活动。
 
-  - Invite community members to present to your development team on
+- Invite community members to present to your development team on
     topics that are related to the project.
     
     邀请社区成员在开发团队内分享开源项目相关的主题。
@@ -1006,27 +1006,27 @@ items are essential to this scenario:
 - Follow the open source community's established working methods and
   processes.
 
- 遵循开源社区的工作方法和流程。
+  遵循开源社区的工作方法和流程。
 
 - File bug reports and contribute fixes to existing bugs.
 
- 提交BUG报告，修复已知BUG并贡献社区.
+  提交BUG报告，修复已知BUG并贡献社区.
 
 - Contribute code to improve or extend functionality.
 
-贡献代码来优化或扩展开源社区项目的功能模块。
+   贡献代码来优化或扩展开源社区项目的功能模块。
 
 - Contribute code to implement new features.
 
-贡献代码实现新的特性。
+   贡献代码实现新的特性。
 
 - Contribute bug fixes or other security measures
 
-贡献BUG FIX或其他安全加固补丁。
+   贡献BUG FIX或其他安全加固补丁。
 
 - Contribute to documentation efforts.
 
-为社区项目文档做出贡献。
+   为社区项目文档做出贡献。
 
 - Contribute to testing and integration efforts (e.g., write test
   code, create test cases).
@@ -1042,19 +1042,19 @@ items are essential to this scenario:
 
   通过你的贡献和积极参与，与项目维护者和其他项目参与者建立信任。
 
-  - Hire a staff director to lead the open source strategy and manage the OSPO.
+- Hire a staff director to lead the open source strategy and manage the OSPO.
    
    任命/雇佣一名主管来领导开源战略和管理开源管理办公室（OSPO）。
 
-  - Hire contributors and committers to open source communities that are vital to your products and services.
+- Hire contributors and committers to open source communities that are vital to your products and services.
   
   雇佣对你的产品和服务至关重要的开源社区的贡献者和提交者。
 
-  - Deploy open source collaboration tools to support open source usage and contributions.
+- Deploy open source collaboration tools to support open source usage and contributions.
   
   部署开源协作工具以支撑开源的使用和贡献。
 
-  - Invest incrementally in engineering, product management, and legal resources to engage with external communities.
+- Invest incrementally in engineering, product management, and legal resources to engage with external communities.
   
   逐步投资于工程能力、产品管理和相关法律资源，以支撑与外部社区合规高效的交互。
 
@@ -1066,7 +1066,7 @@ leaders earn their strategic positions by establishing trust with
 project members and maintaining a high level of continuous
 contribution. Leading organizations can capitalize on emerging trends in technology.
 
-开源战略的最高阶段是领导者场景。开源领导者通过与项目成员建立信任并保持高水平的持续贡献来赢得他们的战略地位。领先的组织可以利用新兴的技术趋势来为商业目标服务；
+开源战略的最高阶段是领导者场景。开源领导者通过与项目成员建立信任并保持高水平的持续贡献来赢得他们的战略地位。领先的组织可以利用新兴的技术趋势来为商业目标服务。
 
 This scenario requires significant investment in targeted open source
 communities and consortia to establish a leadership agenda. In
@@ -1087,24 +1087,24 @@ project.
 
 - Achieve a higher level of participation and contribution.
 
- 持续投入以取得更高水平的参与和贡献。
+   持续投入以取得更高水平的参与和贡献。
 
-- Engage with the various project participants.
+  - Engage with the various project participants.
 
- 与不同的项目参与者保持互动。
+     与不同的项目参与者保持互动。
 
-- Contribute to patching bugs, adding new features, and extending
+  - Contribute to patching bugs, adding new features, and extending
 functionality in existing open source projects using the best
 practices, which are outlined above.
 
-践行上述策略场景中列出的最佳实践，在现有的开源项目中贡献补丁、添加新特性和扩展功能。
+    践行上述策略场景中列出的最佳实践，在现有的开源项目中贡献补丁、添加新特性和扩展功能。
 
-- Demonstrate good faith by contributing (when relevant) proprietary
+  - Demonstrate good faith by contributing (when relevant) proprietary
 source code from internal development to open source projects under an
 appropriate open source license that makes it usable and useful to the
 community.
 
- 通过适当的开源许可证，将内部开发的专有源代码贡献给开源项目(如果相关的话)，以使其对社区生态发展有益，以此来展示诚意。
+     通过适当的开源许可证，将内部开发的专有源代码贡献给开源项目(如果相关的话)，以使其对社区生态发展有益，以此来展示诚意。
 
 - Publicly acknowledge that the organization has achieved tangible
   benefits by working with open source communities for critical
@@ -1125,12 +1125,12 @@ community.
 - Increase participation in relevant open source organizations and
   foundations.
 
- 加大相关开源组织和基金会投入力度。
+  加大相关开源组织和基金会投入力度。
 
 - Lead architectural and requirement-gathering initiatives within the
   various communities and consortia to achieve commercial objectives.
 
- 在各类开源社区和联盟主导项目的架构和需求收集活动，以实现商业目标。
+  在各类开源社区和联盟主导项目的架构和需求收集活动，以实现商业目标。
 
 - Establish an open source architect role to proactively guide the use
   of and contributions to OSS.
@@ -1169,14 +1169,12 @@ develop OSS:
 
 Open source initiatives provide organizations with a vehicle to accel-
 erate innovation through collaboration with open source communities.
-
-开放源码促进会（OSI）为企业提供了工具/方法用于通过和开源社区的合作来加速创新。
-
 One core responsibility for organizations is their compliance with
 open source licenses. Open source compliance is the process by which
 users, integrators, and software developers observe copyright notices
 and satisfy the license obligations for their OSS components.
 
+开放源码促进会（OSI）为企业提供了工具/方法用于通过和开源社区的合作来加速创新。
 企业拥抱开源的一个核心责任是开源许可证的遵从。开源义务履行是指用户、集成商和软件开发者遵守版权声明并履行其开源组件许可义务的过程。
 
 Open source compliance helps to achieve the following four main
@@ -1192,10 +1190,6 @@ objectives:
 
   促进开源软件在商业产品和服务中的有效使用。
 
-```{=html}
-<!-- -->
-```
-
 - Comply with third-party software supplier contractual obligations.
 
   遵守第三方软件供应商合同义务。
@@ -1210,12 +1204,11 @@ following two ways:
   开源办公室（OSPOs）通常有以下两种方式参与开源遵从:
 
 1.  They are responsible for implementing and running a complete
-
 end-to-open source compliance program, which includes the policy,
 process, tools, automation, education, and final fulfillment of
 obligations for OSS integrated into products, software, or services.
 
-1、他们负责实施和运行一个完整的端到端的开源合规性计划，包括策略、流程、工具、自动化、赋能培训，并最终履行将开源软件集成到产品、软件、或服务中的义务
+     他们负责实施和运行一个完整的端到端的开源合规性计划，包括策略、流程、工具、自动化、赋能培训，并最终履行将开源软件集成到产品、软件、或服务中的义务
 
 Or 或者
 
@@ -1226,7 +1219,21 @@ Or 或者
     is a great example of a scenario where the OSPO is focused on policies and processes, 
     and dedicated teams on the product side are more trusted than the actual implementation and execution of a complianceprogram.
     
-2.他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，开源办公室（OSPO）专注于政策和流程并在产品端有专门的团队来落地，这比他们去实际实施和执行合规计划更受信任。
+    他们负责建立组织内通用开源的政策，并在组织的各个团队或组织内实施落地和推行。例如，确保开源合规遵从是一个很好的例子，在这种情况下，开源办公室（OSPO）专注于政策和流程并在产品端有专门的团队来落地，这比他们去实际实施和执行合规计划更受信任。
+    
+    
+|FIGURE 10 | 图10|
+|--|--|
+|Ensuring open source compliance is a cross-functional activity| 确保遵循开源是一项跨职能的活动 |
+|Corporate Development | 企业发展战略|
+|Legal | 法务|
+|Engineering | 工程师 |
+|Product Team | 产品团队 |
+|Open Source Compliance | 开源合规遵从|
+|IT | IT团队|
+|Documentation | 资料团队 |
+| Supply Chain | 供应链 |
+| Localization | 本土化|
 
 The OSPO has a direct impact on the full scale of compliance responsi-
 bilities. Regardless of the specific role of an OSPO, it must have at
@@ -1243,32 +1250,12 @@ roles of these individuals who form the core open source compliance
 team. For a detailed discussion on the topic of open source
 compliance, please download the free e-book _[[Open Source
 Compliance]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
-[[in the
-Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)_,
+[[in the Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)_,
 which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open
 source code in products and services and legally and responsibly
 partic- ipate in open source communities.
 
 开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了开源合规团队的组成的主要角色。关于开源合规专题的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
-
-
-|FIGURE 10 | 图10|
-|--|--|
-|Ensuring open source compliance is a cross-functional activity| 确保遵循开源是一项跨职能的活动 |
-|Corporate Development | 企业发展战略|
-|Legal | 法务|
-|Engineering | 工程师 |
-|Product Team | 产品团队 |
-|Open Source Compliance | 开源合规遵从|
-|IT | IT团队|
-|Documentation | 资料团队 |
-| Supply Chain | 供应链 |
-| Localization | 本土化|
-
-
-![](media/image5.png)
-![](media/image6.png){width="0.4955325896762905in"
-height="9.2082239720035e-2in"}
 
 **FIGURE 11**
 
@@ -1340,16 +1327,8 @@ component that is included in a product.<br>•审查和批准开源使用和对
  
 </table>
 
-#### **Roles and responsibilities of the core compliance team members**
-#### **核心合规团队成员的角色和职责**
 
-![](media/image5.png)![](media/image50.png){width="0.49392607174103237in"
-height="9.178258967629047e-2in"}A DEEP DIVE INTO OPEN SOURCE PROGRAM
-OFFICES: STRUCTURE, ROLES, RESPONSIBILITIES, AND CHALLENGES **20**
-
-深入了解开源项目办公室：结构、角色、责任和挑战
-
-[]{#\_bookmark15 .anchor}Collectively, these three roles (legal,
+Collectively, these three roles (legal,
 engineering, and compliance) are responsible for the following three
 main tasks:
 
@@ -1358,17 +1337,17 @@ main tasks:
 1.  Ensuring mutual compliance with third-party software and OSS
     licenses.
 
-1.确保第三方软件协议和开源软件的license相互兼容。
+    确保第三方软件协议和开源软件的license相互兼容。
 
 2.  Facilitating the usage of and contributions to OSS.
 
-2.促进OSS的使用和贡献。
+    促进OSS的使用和贡献。
 
 3.  Protecting proprietary intellectual property (and product
     differentiation) by ensuring that open source license obligations do
     not propagate to proprietary or third-party software.
 
-3.确保开源许可义务履行不会影响到专有或第三方软件的专有知识产权(和产品差异化)。
+    确保开源许可义务履行不会影响到专有或第三方软件的专有知识产权(和产品差异化)。
 
 ### Establish Open Source Policies and Processes
 ### 构建开源策略和流程
@@ -1425,10 +1404,12 @@ facilitates relationships with relevant open source organizations.
 |<b>Education </b>|<b> 培训 </b>|
 |Training on company policy |开源策略培训 |
 |Guidelines and best practices |指导原则和优秀实践 |
+|Training on open source licenses | 开源许可证培训 |
 |New employee orientation |新员工培训 |
 |Checklist for product team | 产品团队的检查表|
 |Checklist for developers | 开发者检查表|
 |Checklist for SW procurement | 软件采购检查表|
+|Compliance mentorship | 合规指导 |
 |Professional formal training | 专业正规培训 |
 |<b>Tools </b>| <b> 工具 </b>|
 |Source code scanning | 源代码扫描|
@@ -1447,8 +1428,6 @@ facilitates relationships with relevant open source organizations.
 |TODO Group | 待办事项组 |
 |Open Source Security Foundation | 开源安全基金会 |
 
-
-**21**
 ### Prioritize and Drive Upstream Open Source Development
 ### 优先考虑并推动上游开源的开发
 
