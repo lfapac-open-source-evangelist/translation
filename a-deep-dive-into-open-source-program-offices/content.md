@@ -42,8 +42,7 @@ and Co Founder, _TODO Group_
 
 [Stage 2: Community-Driven Adoption 9](#stage-0-ad-hoc-approach)
 
-[Stage 3: Engagement-Driven Adoption
-10](#stage-3-engagement-driven-adoption)
+[Stage 3: Engagement-Driven Adoption 10](#stage-3-engagement-driven-adoption)
 
 [Stage 4: Leadership-Driven Adoption
 10](#stage-3-engagement-driven-adoption)
@@ -123,11 +122,11 @@ From](#ospos-and-eliminating-friction-from-using-or-contributing-to-oss)
 If you\'re like most corporate leaders, you\'re likely to be familiar
 with open source and may even already have an open source program in
 place. But what exactly is an [O[pen Source Program Office
-(OSPO)](https://github.com/todogroup/ospodefinition.org)]{.underline},
+(OSPO)](https://github.com/todogroup/ospodefinition.org)],
 what roles and responsibilities does it have, and how can it
 contribute to your organization\'s success?
 
-如果您跟大多数企业领导一样，那么您可能已经对开源很熟悉，甚至可能已经有开源项目在运作中。但[开源项目办公室（OSPO）](https://github.com/todogroup/ospodefinition.org)究竟是什么，它有哪些角色和职责，以及它能为您组织的成功做出怎样的贡献呢？
+如果你跟大多数企业领导一样，那么你可能已经对开源很熟悉，甚至可能已经有开源项目在运作中。但[开源项目办公室（Open Source Program Office, OSPO）](https://github.com/todogroup/ospodefinition.org)究竟是什么，它有哪些角色和职责，以及它能为你组织的成功做出怎样的贡献呢？
 
 An OSPO is a corporate entity that is responsible for managing and
 coordinating an organization\'s open source activities. The OSPO can
@@ -141,10 +140,10 @@ At The Linux Foundation, we view OSPOs as critical components of
 successful organizations. We\'ve seen firsthand how an effective OSPO
 can help an organization achieve its business goals and objectives by
 leveraging the power of open source. The
-[[TODO]{.underline}](https://todogroup.org/) can help you set up an
+[[TODO]](https://todogroup.org/) can help you set up an
 OSPO or take your existing program to the next level.
 
-在Linux基金会，我们将OSPO视为成功组织的关键组成部分。我们亲眼目睹了有效的OSPO如何通过利用开源的力量帮助组织实现其业务目标。[TODO工作组](https://todogroup.org/)可以帮助您创建一个OSPO或将您现有的项目提升到一个新的水平。
+在Linux基金会，我们将OSPO视为成功组织的关键组成部分。我们亲眼目睹了有效的OSPO如何通过利用开源的力量帮助组织实现其业务目标。[TODO工作组](https://todogroup.org/)可以帮助你创建一个OSPO或将你现有的项目提升到一个新的水平。
 
 The TODO Group is a group of organizations that are committed to
 building the best practices and tools for managing successful open
@@ -154,7 +153,7 @@ that includes some of the world\'s largest organizations. We encourage
 you as a practice leader, or someone who is thinking about setting up
 an OSPO, to join us.
 
-TODO工作组是致力于构建最佳实践和工具以管理成功开源项目的一群组织。我们是所有与开源项目管理相关事务的引领者，拥有不断增长的实践社区，其中包括一些世界上最大的组织。我们鼓励作为实践领导者的您或正在考虑建立OSPO的其他人加入我们。
+TODO工作组是由致力于构建最佳实践和工具以管理成功开源项目的一群组织组成。我们是所有与开源项目管理相关事务的引领者，拥有不断增长的实践社区，其中包括一些世界上最大的组织。我们鼓励作为实践领导者的你或正在考虑建立OSPO的其他人加入我们。
 
 This paper is an introduction to setting up an OSPO. It covers the
 what, why, and how of open source program management, with a focus on
@@ -163,7 +162,7 @@ various structural models for OSPOs and provides tips and best prac-
 tices for success. We hope that you find it helpful as you embark on
 your open source journey.
 
-本文是对建立OSPO的介绍，涵盖了开源项目管理的内容、原因和方式，重点介绍了OSPO的作用和益处。文中还包括了对OSPO各种结构模型的描述，并提供了取得成功的技巧和最佳实践。我们希望它为您踏上开源之旅带来帮助。
+本文是对建立OSPO的介绍，涵盖了开源项目管理的内容、原因和方式，重点介绍了OSPO的作用和益处。文中还包括了对OSPO各种结构模型的描述，并提供了取得成功的技巧和最佳实践。我们希望它为你踏上开源之旅带来帮助。
 
 **Chris Aniszczyk**
 
@@ -173,101 +172,22 @@ _CTO, The Linux Foundation Co-Founder, The TODO Group_
 
 CTO，Linux基金会联合创始人，TODO工作组
 
-![](media/image5.png)![](media/image6.png){width="0.49392607174103237in"
-height="9.17836832895888e-2in"}A DEEP DIVE INTO OPEN SOURCE PROGRAM
-OFFICES: STRUCTURE, ROLES, RESPONSIBILITIES, AND CHALLENGES **3**
+**3**
 
-![](media/image7.png) ![](media/image8.png) ![](media/image11.png)
-
-![](media/image12.png)![](media/image13.png)![](media/image18.png)![](media/image23.png)![](media/image24.png)![](media/image25.png)
-
-![](media/image29.png){width="0.6569291338582677in"
-height="0.229831583552056in"}Copyright © 2022 [[The Linux
-Foundation]{.underline}](https://linuxfoundation.org/) \| August 2022
-
-This report is licensed under the [[Creative Commons
-Attribution-NoDerivatives 4.0 International Public
-Licens](https://creativecommons.org/licenses/by-nd/4.0/)e]{.underline}
-
-WHAT IS AN OSPO?
-OSPO is designed to be the center of competency for an organization's open source operations and structure.
-
-什么是OSPO？
-OSPO旨在成为组织中开源运营和结构的能力中心。
-
-WHY FORM AN OSPO?
-Organizations across industries establish OSPOs to drive OSS leadership and gain a critical foothold in a robust, external R&D ecosystem.
-
-为什么要成立OSPO？
-跨行业的组织建立OSPO以推动OSS的领导地位，并在强大的外部研发生态系统中获得关键立足点。
-
-CHARACTERISTICS OF OSPO MATURITY
-Mature OSPOs oversee OSS consumption, governance, strategy, contribution, processes, and tooling.
-
-OSPO成熟度的特征
-成熟的OSPO负责监督OSS的使用、治理、战略、贡献、流程和工具。
-
-OSPO MATURITY MODEL 
-OSPO maturity evolves in the following stages: ad-hoc adoption -> legal motivations -> community-driven -> engagement-driven -> leadership-driven.
-
-OSPO成熟度模型
-OSPO成熟度分为以下阶段：临时采用 -> 法务驱动 -> 社区驱动 -> 参与驱动 -> 领导力驱动
-
-OSPOS IN THE ORGANIZATION
-OSPOs may exist unoﬃcially; virtually; within research and development (R&D), engineering, or other corporate departments; or in executive-level oﬃces of the Chief Technology Oﬃcer (CTO) or Chief Legal Oﬃcer.
-
-组织中的OSPO
-OSPO可能以非正式和虚拟的形式存在于研发（R&D）、工程或其他公司部门中；或者在首席技术官（CTO）或首席法律官的管理层办公室中。
-
-OSPO STAFF
-OSPOs can be run by any distinguished individuals with strong sets of skills, such as software architects, technical evangelists, compliance engineers, and legal counsel. 
-
-OSPO工作人员
-OSPO可以由任何具有强大技能的杰出人士运营，例如软件架构师、技术布道者、合规工程师和法律顾问。
-
-OSPO RESPONSIBILITIES
-The OSPO assumes diﬀerent responsibilities that change over time, including developing and executing the open source  ( OS ) strategy, setting priorities, tracking performance, and leading community engagement.
-
-OSPO职责
-OSPO会随着时间的推移承担不同的职责，包括开发和执行开源（OS）战略、设置优先级、跟踪表现和领导社区参与。
-
-OSPO BENEFITS: CULTURE
-OSPOs help to bridge the cultural gap between traditional software development practices and the requirements of open source development. 
-
-OSPO的益处：文化
-OSPO有助于跨越传统软件开发实践与开源开发要求之间的文化鸿沟。
-
-OSPO BENEFITS: PROCESSES 
-OSPOs oversee the establishment or adaptation of internal policies to better manage open source software (OSS) compliance in fast-moving, dynamic environments. 
-
-OSPO的益处：流程 
-OSPO监督内部政策的制定或调整，以在快速变化的动态环境中更好地管理开源软件 (OSS) 合规性。
-
-OSPO BENEFITS: TOOLS
-OSPOs help to implement unique and ﬂexible sets of tools that support OSS development models while meeting corporate Information Technology guidelines. 
-
-OSPO的益处：工具
-OSPO有助于实施独特而灵活的工具集，这些工具集支持OSS开发模型，同时可以满足企业信息技术准则。
-
-OSPO BENEFITS: CONTINUITY
-As organizational needs or strategies evolve, OSPOs enable continuity in executive support, funding, software development practices, and OSS project prioritization.
-
-OSPO的益处：延续性
-随着组织需求或战略的发展，OSPO能够实现行政支持、资金、软件开发实践和OSS项目优先级的延续性。
-
-OSPO BENEFITS: EDUCATION
-OSPOs improve technical, mentorship, and compliance-related education and training programming for team members across all levels of the organization.
-
-OSPO的益处：教育
-OSPO为组织内各级别的团队成员改进技术、指导和合规相关的教育和培训方案。
-
+![InfoGraph](./images/infograph.png)
+| &nbsp;  | &nbsp;   | &nbsp;   |
+|-------------- | -------------- | -------------- |
+| WHAT IS AN OSPO?<br>OSPO is designed to be the center of competency for an organization's open source operations and structure.<br>什么是OSPO？<br>OSPO旨在成为组织中开源运营和结构的能力中心。| OSPOS IN THE ORGANIZATION<br>OSPOs may exist unoﬃcially; virtually; within research and development (R&D), engineering, or other corporate departments; or in executive-level oﬃces of the Chief Technology Oﬃcer (CTO) or Chief Legal Oﬃcer.<br>组织中的OSPO<br>OSPO可能以非正式和虚拟的形式存在于研发（R&D）、工程或其他公司部门中；或者在首席技术官（CTO）或首席法律官的管理层办公室中。| OSPO BENEFITS: PROCESSES <br>OSPOs oversee the establishment or adaptation of internal policies to better manage open source software (OSS) compliance in fast-moving, dynamic environments. <br>OSPO的益处：流程 <br>OSPO监督内部政策的制定或调整，以在快速变化的动态环境中更好地管理开源软件 (OSS) 合规性。|
+| WHY FORM AN OSPO?<br>Organizations across industries establish OSPOs to drive OSS leadership and gain a critical foothold in a robust, external R&D ecosystem.<br>为什么要成立OSPO？<br>跨行业的组织建立OSPO以推动OSS的领导地位，并在强大的外部研发生态系统中获得关键立足点。|OSPO STAFF<br>OSPOs can be run by any distinguished individuals with strong sets of skills, such as software architects, technical evangelists, compliance engineers, and legal counsel. <br>OSPO工作人员<br>OSPO可以由任何具有强大技能的杰出人士运营，例如软件架构师、技术布道者、合规工程师和法律顾问。<br>| OSPO BENEFITS: TOOLS<br>OSPOs help to implement unique and ﬂexible sets of tools that support OSS development models while meeting corporate Information Technology guidelines. <br>OSPO的益处：工具<br>OSPO有助于实施独特而灵活的工具集，这些工具集支持OSS开发模型，同时可以满足企业信息技术准则。| 
+|CHARACTERISTICS OF OSPO MATURITY<br>Mature OSPOs oversee OSS consumption, governance, strategy, contribution, processes, and tooling.<br>OSPO成熟度的特征<br>成熟的OSPO负责监督OSS的使用、治理、战略、贡献、流程和工具。| OSPO RESPONSIBILITIES<br>The OSPO assumes diﬀerent responsibilities that change over time, including developing and executing the open source  ( OS ) strategy, setting priorities, tracking performance, and leading community engagement.<br>OSPO职责<br>OSPO会随着时间的推移承担不同的职责，包括开发和执行开源（OS）战略、设置优先级、跟踪表现和领导社区参与。| OSPO BENEFITS: CONTINUITY<br>As organizational needs or strategies evolve, OSPOs enable continuity in executive support, funding, software development practices, and OSS project prioritization.<br>OSPO的益处：延续性<br>随着组织需求或战略的发展，OSPO能够实现行政支持、资金、软件开发实践和OSS项目优先级的延续性。|
+|OSPO MATURITY MODEL <br>OSPO maturity evolves in the following stages: ad-hoc adoption -> legal motivations -> community-driven -> engagement-driven -> leadership-driven.<br>OSPO成熟度模型<br>OSPO成熟度分为以下阶段：临时采用 -> 法务驱动 -> 社区驱动 -> 参与驱动 -> 领导力驱动 | OSPO BENEFITS: CULTURE<br>OSPOs help to bridge the cultural gap between traditional software development practices and the requirements of open source development. <br>OSPO的益处：文化<br>OSPO有助于跨越传统软件开发实践与开源开发要求之间的文化鸿沟。| OSPO BENEFITS: EDUCATION<br>OSPOs improve technical, mentorship, and compliance-related education and training programming for team members across all levels of the organization. | OSPO的益处：教育<br>OSPO为组织内各级别的团队成员改进技术、指导和合规相关的教育和培训方案。| 
 # Abstract
 
 摘要
 
-Open source projects and initiatives provide enterprises with proven,successful models to collaborate with other organizations, create new technologies, and support the development of new communities. Organizations across many industries are establishing [[Open]{.underline}](https://github.com/todogroup/ospodefinition.org) [[Source Program Offices]{.underline}](https://github.com/todogroup/ospodefinition.org)(OSPOs) and staffing them with highly skilled individuals to drive open source software(OSS) leadership and gaina critical foothold in this external research and development (R&D) ecosystem.
+Open source projects and initiatives provide enterprises with proven,successful models to collaborate with other organizations, create new technologies, and support the development of new communities. Organizations across many industries are establishing [[Open]](https://github.com/todogroup/ospodefinition.org) [[Source Program Offices]](https://github.com/todogroup/ospodefinition.org)(OSPOs) and staffing them with highly skilled individuals to drive open source software(OSS) leadership and gaina critical foothold in this external research and development (R&D) ecosystem.
 
-开源项目和方案为企业提供了经过验证的成功模型，以指导企业与其他组织协作、创建新技术和支持新社区的开发。许多行业的组织正在建立[开源项目办公室（OSPO）](https://github.com/todogroup/ospodefinition.org)，并为他们聘请高技能人士，以推动开源软件（OSS）的领导地位，并在这个外部研发（R&D）生态系统中获得关键的立足点。
+开源的项目和方案为企业提供了经过验证的、成功的模型，以指导企业与其他组织协作、创建新技术和支持新社区的开发。许多行业的组织正在建立[开源项目办公室（OSPO）](https://github.com/todogroup/ospodefinition.org)，并为他们聘请高技能人士，以推动开源软件（Open Source Software，OSS）的领导地位，并在这个外部研发（R&D）生态系统中获得关键的立足点。
 
 This report examines how enterprises structure their OSPOs and the required minimal staffing needed for their operation, discusses the responsibilities of such offices, and elaborates on the challenges that are faced in open source enterprise adoption.
 
@@ -275,50 +195,22 @@ This report examines how enterprises structure their OSPOs and the required mini
 
 # Introduction
 
-介绍
+# 介绍
 
-![](media/image30.png)The availability of open source software (OSS)
-is changing how organi- zations develop and deliver products. The
-combination of a transparent development community and access to
-public source code enables orga- nizations to think differently about
-how they procure, implement, test, deploy, and maintain software
-(**FIGURE 1**). OSS has created an ecosystem with a wealth of benefits
-for all those involved. Organizations of all types, across all
-industries and domains, are racing to build and grow their open source
-operations under an Open Source Program Office (OSPO) to help them use
-and contribute to open source more efficiently and effectively and
-benefit from its strategic impact (**FIGURE 2**).
+The availability of open source software (OSS) is changing how organizations develop and deliver products. The combination of a transparent development community and access to public source code enables orga- nizations to think differently about how they procure, implement, test, deploy, and maintain software (**FIGURE 1**). OSS has created an ecosystem with a wealth of benefits for all those involved. Organizations of all types, across all industries and domains, are racing to build and grow their open source operations under an Open Source Program Office (OSPO) to help them use and contribute to open source more efficiently and effectively and benefit from its strategic impact (**FIGURE 2**).
 
 开源软件（OSS）的可用性正在改变组织开发和交付产品的方式。透明的开发社区和对公开源代码的获取相结合，使组织能够以不同的方式思考他们如何采购、实施、测试、部署和维护软件（图1）。OSS创造了一个可为所有相关人员带来丰富利益的生态系统。所有行业和领域中各种类型的组织竞相在开源项目办公室（OSPO）下建立和发展他们的开源业务，以帮助他们更有效地使用开源并为之贡献，同时从其战略影响中受益（图2）。
 
-OSS allows shared development and lowers research and development
-(R&D) costs by enabling organizations to reap the benefit of billions
-of dollars of OSS, which they can harness to create better products
-and services. In addition, it helps to accelerate product development
-and enables a faster time to market by aligning business needs with
-upstream open source projects. Organizations do not get involved in
-open source projects because it is fun; they do it because it is a
-part of their business or product strategy. OSPOs often manage and
-orches- trate that involvement.
+OSS allows shared development and lowers research and development (R&D) costs by enabling organizations to reap the benefit of billions of dollars of OSS, which they can harness to create better products and services. In addition, it helps to accelerate product development and enables a faster time to market by aligning business needs with upstream open source projects. Organizations do not get involved in open source projects because it is fun; they do it because it is a part of their business or product strategy. OSPOs often manage and orchestrate that involvement.
 
 OSS允许共享开发，并能让组织从OSS中获益数十亿美元，从而降低研发 (R&D) 成本。组织可以利用这些收益来创造更好的产品和服务。此外，通过将业务需求与上游开源项目保持一致，它有助于加速产品开发并缩短产品上市时间。组织参与开源项目不是因为它有趣，他们这样做是因为这是他们业务或产品战略的一部分。OSPO经常管理和协调这种参与工作。
 
-The first step in establishing an OSPO is understanding that open
-source is key to mastering software engineering, as almost every
-software product that exists today relies on OSS. Leading organiza-
-tions in a growing number of industries have established their
-position by becoming leaders in software development, and OSS is a
-critical component of this leadership. The second step is the
-availability of an executive sponsor within the organization who will support the 
-![](media/image34.png)[]{#\_bookmark3 .anchor}establishment of an OSPO,
-provide funding for it, and offer a long-term commitment to improving
-and growing open source engineering in the organization. This person also plays a critical role in
-identifying a trusted open source leader who can create and develop
-the OSPO.
+The first step in establishing an OSPO is understanding that open source is key to mastering software engineering, as almost everysoftware product that exists today relies on OSS. Leading organiza-tions in a growing number of industries have established theirposition by becoming leaders in software development, and OSS is acritical component of this leadership. The second step is theavailability of an executive sponsor within the organization who will support the ![](media/image34.png)[]{#\_bookmark3 .anchor}establishment of an OSPO,provide funding for it, and offer a long-term commitment to improvingand growing open source engineering in the organization. This person also plays a critical role inidentifying a trusted open source leader who can create and developthe OSPO. 
 
 建立OSPO的第一步是理解开源是掌握软件工程的关键，因为当今存在的几乎所有软件产品都依赖于OSS。越来越多的行业领先组织通过成为软件开发的领导者确立了自己的地位，而OSS是这种领导地位的关键组成部分。第二步是组织管理层中存在一位发起人，他将支持OSPO的建立、为其提供资金，并长期致力于改进和发展组织中的开源工程。此人对识别值得信赖的、能创建和发展OSPO的开源领导者也发挥着关键作用。
 
 FIGURE 1 Open source is a technology market accelerant
+![Figure 1](./images/figure1.png) 
 
 1 Neutral environment for collaboration & cross-pollination 
 
@@ -342,28 +234,26 @@ FIGURE 1 Open source is a technology market accelerant
 
 图1 开源是技术市场的助推器
 
-1 协作和相互交流的中立环境
-2 创新倍增器——社区驱动
-3 最大限度减少碎片化，支持上游开发模式
-4 实现更好的互操作性
-5 促进开放技术的标准化
-6 限定参考架构
-7 降低进入新领域的门槛
-8 实现受灵活许可模式支持的商机
-9 带来更好的产品、更高的质量和安全性
-10 允许快速跟踪12个月并分摊开发成本
+1. 协作和相互交流的中立环境
+2. 创新倍增器——社区驱动
+3. 最大限度减少碎片化，支持上游开发模式
+4. 实现更好的互操作性
+5. 促进开放技术的标准化
+6. 限定参考架构
+7. 降低进入新领域的门槛
+8. 实现受灵活许可模式支持的商机
+9. 带来更好的产品、更高的质量和安全性
+10. 允许快速跟踪12个月并分摊开发成本
 
+![FIGURE 2](./images/figure2.png)
 FIGURE 2 Strategic impact of OSS
 
 - Accelerate the development of open solutions 
 - Provide an implementation to an open standard
-
 - Drive demand by building an ecosystem for products & services
-
 - Commoditize a market 
 - Reduce prices of nonstrategic software assets 
 - Share development costs
-
 - Partner with others 
 - Engage customers
 - Strengthen relationships with common goals
@@ -372,13 +262,10 @@ FIGURE 2 Strategic impact of OSS
 
 - 加快开发开放式解决方案
 - 提供开放标准的实施方案
-
 - 通过建立产品和服务的生态系统来拉动需求
-
 - 形成商品化的市场
 - 降低非战略性软件资产的价格
 - 分摊开发成本
-
 - 与他人合作
 - 吸引客户
 - 加强与共同目标的关系
@@ -392,17 +279,14 @@ An OSPO is designed to do the following: (1) be the center of compe-tency for an
 
 # OSPO Characteristics
 # OSPO的特征
+
 To a certain degree, an organization calling itself an OSPO indicates that the organization has reached a mature stage, gained critical mass support with its enterprise, and manifests the following five key characteristics:
 
-1.  Employees are tasked with fostering and nurturing OSS usage.
-
-2.  The organization has a formal policy regarding the use and production of OSS.
-
-3.  Executives recognize that OSS and open source are important strategic assets.
-
-4.  Significant numbers of employees are contributing code to open source projects.
-
-5.  Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation.
+1. Employees are tasked with fostering and nurturing OSS usage.
+2. The organization has a formal policy regarding the use and production of OSS.
+3. Executives recognize that OSS and open source are important strategic assets.
+4. Significant numbers of employees are contributing code to open source projects.
+5. Processes, procedures, and tools are in place to streamline and facilitate open source consumption and participation.
 
 在一定程度上，如果组织中有被称为OSPO的部门，则表明开源在该组织中已达到相对成熟的阶段，且已在企业内获得绝大多数支持，同时组织表现出以下五个关键特征：
 1. 员工负责促进开源软件的使用。
@@ -419,61 +303,37 @@ To better explain the evolution of OSPOs, the TODO Group has developed a model (
 
 ##### MODEL VARIABLES:
 - Y variable: Ability to execute.
-
 - X variable: OSPO level.
 
 ##### 模型变量
-Y变量：执行能力。
-X变量：OSPO级别。
+- Y变量：执行能力。 
+- X变量：OSPO级别。
 
 ##### MODEL STAGES:
 
 - Stage 0: Ad-hoc adoption.
-
 - Stage 1: Legal-driven.
-
 - Stage 2: Community-driven.
-
 - Stage 3: Engagement-driven.
-
 - Stage 4: Leadership-driven.
-
-![](media/image37.png)
 
 #### 模型阶段
 
-阶段0：临时采用。
-阶段1：法务驱动。
-阶段2：社区驱动。
-阶段3：参与驱动。
-阶段4：领导力驱动。
-
-FIGURE 3 图3 
-Maturity stages of OSPOs OSPO成熟度阶段 
-Source: TODO Group 来源：TODO工作组 
-high 高 
-low 低 
-Ability to execute 执行能力
-Stage0~4 阶段0~4
-null 空
-OSPO Level OSPO级别
-Adoption 采用
-Adopting 采用
-OS Ad Hoc 临时采用OS
-Legal Education 法律教育
-Providing OSS Compliance, Inventory, Developer Education 提供OSS合规性、清单、开发者教育
-Community Education 社区教育
-Evangelizing OSS Use and Ecosystem Participation 为OSS的使用和生态参与布道
-Engagement 参与
-Hosting OSS Projects and Growing Communities 孵化OSS项目和发展社区
-Leadership 领导力
-Becoming a Strategic Decision-Making Partner 成为战略决策合伙人
-
+- 阶段0：临时采用。
+- 阶段1：法务驱动。
+- 阶段2：社区驱动。
+- 阶段3：参与驱动。
+- 阶段4：领导力驱动。
+![FIGURE 3](./images/figure3.png) 
+FIGURE 3
+图3
+Maturity stages of OSPOs
+OSPO成熟度阶段 
+Source: TODO Group<br>来源：TODO工作组 <br>high 高 <br>Ability to execute 执行能力<br>low 低 <br>Stage0<br>阶段0<br>Stage1<br>阶段1<br>Stage2<br>阶段2<br>Stage3<br>阶段3<br>Stage4<br>阶段4<br>null<br>空<br>Low<br>低<br>OSPO Level<br>OSPO级别<br>Adoption 采用<br>Adopting 采用<br>OS Ad Hoc<br>临时采用OS<br>Legal Education<br>法律教育<br>Providing OSS Compliance, Inventory, Developer Education<br>提供OSS合规性、清单、开发者教育<br>Community Education<br>社区教育<br>Evangelizing OSS Use and Ecosystem Participation <br>为OSS的使用和生态参与布道<br>Engagement<br>参与<br>Hosting OSS Projects and Growing Communities<br>孵化OSS项目和发展社区<br>Leadership<br>领导力<br>Becoming a Strategic Decision-Making Partner <br>成为战略决策合伙人<br>
 ### Stage 0: Ad-Hoc Approach
 ### 阶段0：临时采用
 Nowadays, almost all organizations use OSS, although how they adapt and initially use it varies. 
-They may use OSS as a building block or library in a product or tool, a key part of a vendor's solution stack, or in support of their service offering. Modern cloud native applications, almost by default, use open source systems for container orches- tration, observability, data storage, messaging, and more. In other words, nearly every organization is using open source. However,the earliest form of adoption is ad hoc due to developers solving problems using readily available tools and technologies.
-This "ad-hoc adoption" usually means that little thought is given to license compliance outside the basic defaults or to the longer-term impacts of consuming OSS and distributing products that are built with OSS components.
+They may use OSS as a building block or library in a product or tool, a key part of a vendor's solution stack, or in support of their service offering. Modern cloud native applications, almost by default, use open source systems for container orchestration, observability, data storage, messaging, and more. In other words, nearly every organization is using open source. However,the earliest form of adoption is ad hoc due to developers solving problems using readily available tools and technologies. This "ad-hoc adoption" usually means that little thought is given to license compliance outside the basic defaults or to the longer-term impacts of consuming OSS and distributing products that are built with OSS components.
 
 如今，尽管适配和最初使用的方式各不相同，几乎所有的组织都使用OSS。他们可能将OSS用作产品或工具中的构建模块或库、供应商解决方案堆栈的关键部分，或将其用来支持其服务产品。现代云原生应用几乎默认使用开源系统来实现容器编排、可观察性、数据存储、消息传递等功能。换句话说，几乎每个组织都在使用开源。然而，最早期的使用形式是临时的，起因是开发者倾向于使用现成的工具和技术解决问题。这种“临时采用”通常意味着很少考虑基本默认因素之外的开源许可协议合规性或者使用OSS和分发通过OSS组件构建的产品所带来的长期影响。
 
@@ -481,24 +341,20 @@ This "ad-hoc adoption" usually means that little thought is given to license com
 ### 阶段1：法务驱动采用
 In general, an organization forms an OSPO when it realizes that its people are consuming open source products and code across nearly all engineering and development departments and functions. This usage is typically internal rather than part of its products or services to its customers or users. At this early stage, organizations often use many different names for the OSPO. For example, IBM initially called its programmatic open source efforts the "Open Source Steering Committee."Organizations in Stage 1 recognize that OSS is a key part of their business and technology strategies. They understand that the security practices of OSS projects differ from those of proprietary software organizations. Organizations must identify their legal and security risks. The risk mitigation strategies include the following:
 
+通常，当一个组织意识到其员工在几乎所有工程和研发部门以及职能模块中使用开源产品和代码时，它就会成立OSPO。这种开源办公室通常是供组织内部使用的，而不是为了给客户或用户提供产品及服务。在这个早期阶段，组织往往使用很多不同的名称来称呼这个OSPO。例如，IBM最初将其开源编程工作部门称为“开源指导委员会”。 处于阶段1的组织认识到开源软件是其业务和技术战略的关键部分。他们明白OSS项目的安全实践与专有软件组织的安全实践不同。组织必须识别其法务和安全风险。降低风险的策略包括：
+
 - Compliant licensing.
-
 - Developer education.
-
 - Inventory-tracking.
 
-**In general, an organization forms an OSPO when it realizes that its people are consuming open source products and code across nearly all engineering and development departments and functions. This usage is typically internal rather than part of its products or services to its customers or users.**
 
-通常，当一个组织意识到其员工在几乎所有工程和研发部门以及职能模块中使用开源产品和代码时，它就会成立OSPO。这种开源办公室通常是供组织内部使用的，而不是为了给客户或用户提供产品及服务。在这个早期阶段，组织往往使用很多不同的名称来称呼这个OSPO。例如，IBM最初将其开源编程工作部门称为“开源指导委员会”。 
-
-处于阶段1的组织认识到开源软件是其业务和技术战略的关键部分。他们明白OSS项目的安全实践与专有软件组织的安全实践不同。 
-
-组织必须识别其法务和安全风险。降低风险的策略包括：
 - 遵从许可协议。
 - 开发者教育。
 - 库存跟踪。
 
-**通常，当一个组织意识到其员工在几乎所有工程和研发部门以及职能模块中使用开源产品和代码时，它就会成立OSPO。这种开源办公室通常是供组织内部使用的，而不是为了给客户或用户提供产品及服务。**
+>In general, an organization forms an OSPO when it realizes that its people are consuming open source products and code across nearly all engineering and development departments and functions. This usage is typically internal rather than part of its products or services to its customers or users.
+
+>通常，当一个组织意识到其员工在几乎所有工程和研发部门以及职能模块中使用开源产品和代码时，它就会成立OSPO。这种开源办公室通常是供组织内部使用的，而不是为了给客户或用户提供产品及服务。
 
 ### Stage 2: Community-Driven Adoption
 ### 阶段2：社区驱动采用
@@ -507,7 +363,7 @@ In general, an organization forms an OSPO when it realizes that its people are c
 
 After organizations recognize the value of OSS and the need for compliance, education, and a Software Bill of Materials (SBOM), they begin to realize the economic benefits of OSS usage and seek to expand it. 
 OSPOs in Stage 2 create such internal mechanisms as ambas-sadors who promote the usage of approved OSS products, educational programs on good OSS hygiene, and technical training or tuition reim-bursement for OSS skill building and certification. 
-With these initiatives, an organization can grow its use of OSS and amplify its message that OSS is not only important but also desirable andpreferable to propri- etary software.
+With these initiatives, an organization can grow its use of OSS and amplify its message that OSS is not only important but also desirable andpreferable to proprietary software.
 
 ##### 早期阶段
 
@@ -559,75 +415,27 @@ The following three main types of strategic guidance take shape in this final st
 
 3.  Help organizations understand and navigate project politics.
 
-![](media/image42.png)
-
 在这个成熟阶段，OSPO成为做技术决策的战略合作伙伴，指导抉择并使长期投入符合项目需求。此外，首席技术官（CTO）和其他技术主管会向OSPO及其领导层咨询应依赖哪些开源技术以及可以使用哪些决策标准来评判开源项目。由于主要的开源技术选择往往会产生巨大的二级和三级成本，并影响上下游技术和招聘计划，因此开源项目的选择已成为一项主要的商业决策。以下三类主要战略指导出现在这个最后的阶段：
 
 1. 向CTO和技术主管提建议，从组织的技术堆栈中采用/删除某项开源技术。
 2. 带头对可接受的OSS项目的构成进行基准测试。
 3. 帮助组织理解和驾驭项目政治。
 
+![FIGURE 4](./images/figure4.png)
 # OSPO Structure
 
-In this section, we explore common OSPO structures. It is important to
-keep in mind that no two organizations are the same. Therefore, there
-are no cookie-cutter OSPO structures. Instead, many organiza- tions,
-including those with a long record of open source involvement,
-experiment with different setups. Generally, an organization's goal is
-to find the most suitable and efficient structure based upon its
-overall
-
-software strategy, open source aspirations, reliance on OSS in
-products, unfilled positions in open source, and other factors.
-
+In this section, we explore common OSPO structures. It is important to keep in mind that no two organizations are the same. Therefore, there are no cookie-cutter OSPO structures. Instead, many organiza- tions, including those with a long record of open source involvement, experiment with different setups. Generally, an organization's goal is to find the most suitable and efficient structure based upon its overall  software strategy, open source aspirations, reliance on OSS in products, unfilled positions in open source, and other factors. 
 ### Example 1: OSPO Within an R&D Department
 
-A common placement for an OSPO is within an R&D organization. For
-instance, the author of this paper adopted this model (**FIGURE 4**)
-when he was hired by Samsung in early 2013 to establish Samsung's Open
-Source Group. In this example, the open source leader owns
+A common placement for an OSPO is within an R&D organization. For instance, the author of this paper adopted this model (**FIGURE 4**) when he was hired by Samsung in early 2013 to establish Samsung's Open Source Group. In this example, the open source leader owns  open source engineering, and the strategy and support functions, and reports directly to the head of R&D. The Samsung OSPO has a dedi- cated budget to cover the head count, travel, and sponsorship costs for open source events, membership dues for open source foundations, hardware and software expenses, and various other miscellaneous expenses (including promotional items, such as tee shirts, hats, etc.).  This specific setup has worked very well for many years.
 
-open source engineering, and the strategy and support functions, and
-reports directly to the head of R&D. The Samsung OSPO has a dedi-
-cated budget to cover the head count, travel, and sponsorship costs
-for open source events, membership dues for open source foundations,
-hardware and software expenses, and various other miscellaneous
-expenses (including promotional items, such as tee shirts, hats,
-etc.).
+There are two main reasons to structure the OSPO under an R&D function (or department). The first is to isolate the group from product divisions, thereby preventing it from becoming an auxiliary develop- ment arm for those divisions. This setup allows the OSPO to maintain a certain level of independence, both financially and in terms of projects, so it can focus on open source technologies of the highest priority without being influenced by any product division. The second reason to structure an OSPO within R&D is to better support efforts that involve external parties, such as other organizations and universities, away from daily product pressures.
 
-This specific setup has worked very well for many years.
+### Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs 
 
-There are two main reasons to structure the OSPO under an R&D function
-(or department). The first is to isolate the group from product
-divisions, thereby preventing it from becoming an auxiliary develop-
-ment arm for those divisions. This setup allows the OSPO to maintain a
-certain level of independence, both financially and in terms of
-projects, so it can focus on open source technologies of the highest
-priority without being influenced by any product division. The second
-reason to structure an OSPO within R&D is to better support efforts
-that involve external parties, such as other organizations and
-universities, away from daily product pressures.
+This model (**FIGURE 5**) works best in large organizations with multiple product divisions. It consists of a corporate-level OSPO, which coordinates the activity of multiple supporting OSPOs at the division level. The corporate OSPO is responsible for establishing organization-wide policies and processes, deciding on the strategy, working with open source foundations, driving major open source initiatives, and managing open source matters at the corporate level in general. 
 
-### Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs
-
-This model (**FIGURE 5**) works best in large organizations with
-multiple product divisions. It consists of a corporate-level OSPO,
-which coordinates the activity of multiple supporting OSPOs at the
-division level. The corporate OSPO is responsible for establishing
-organization-wide policies and processes, deciding on the strategy,
-working with open source foundations, driving major open source
-initiatives, and managing open source matters at the corporate level
-in general.
-
-The supporting OSPOs are responsible for executing the open source
-strategy at the division level, ensuring staff follows the corpo- rate
-policies and processes, delivering training, and in many cases,
-managing upstream open source engineering. The corporate OSPO
-
-may not have any engineering resources, except for a principal
-engineer or a senior architect, to provide technical expertise and
-leadership.
-
+The supporting OSPOs are responsible for executing the open source strategy at the division level, ensuring staff follows the corpo- rate policies and processes, delivering training, and in many cases, managing upstream open source engineering. The corporate OSPO  may not have any engineering resources, except for a principal engineer or a senior architect, to provide technical expertise and leadership. 
 ### Example 3: OSPO as Part of the CTO Office or Engineering Department
 
 In medium-sized organizations, it is common to house the OSPO either
@@ -694,7 +502,7 @@ This individual should possess the following traits:
 
 - Knowledge of how various technical project communities operate.
 
-The TODO Group has published a [[template job specification]{.underline}](https://todogroup.org/blog/%20sample-job-req) for this role that you can customize to your needs.
+The TODO Group has published a [[template job specification]](https://todogroup.org/blog/%20sample-job-req) for this role that you can customize to your needs.
 
 此人应具有以下特征：
 
@@ -707,7 +515,7 @@ The TODO Group has published a [[template job specification]{.underline}](https:
 - 有开源历史发展视角。
 - 了解各种技术项目社区如何运作。
 
-TODO工作组已发布此职位的[工作要求模板](https://todogroup.org/blog/%20sample-job-req) ，您可以根据自己的需要进行定制。
+TODO工作组已发布此职位的[工作要求模板](https://todogroup.org/blog/sample-job-req) ，你可以根据自己的需要进行定制。
 
 ### Software Architect
 
@@ -779,7 +587,7 @@ strategy. How far your organization advances up this ladder is
 entirely dependent upon its objectives and overall open source
 strategy.
 
-图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。您的组织在这个阶梯上的位置将完全取决于组织的目标和总体开源战略。
+图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。你的组织在这个阶梯上的位置将完全取决于组织的目标和总体开源战略。
 
 |FIGURE 9 | 图 9 |
 |--|--|
@@ -911,7 +719,7 @@ the successful adoption of OSS:
 - Host local open source user groups and encourage your staff to
     get involved in local open source activities.
     
-    主持本地的开源用户组，并鼓励您的员工参与本地的开源活动。
+    主持本地的开源用户组，并鼓励你的员工参与本地的开源活动。
 
 - Invite community members to present to your development team on
     topics that are related to the project.
@@ -928,7 +736,7 @@ opers, you may need to engage more closely with the community,
 increase your visibility, and begin attracting the talent that you
 need. The following action items are essential to participation:
 
-一旦您的组织在产品或服务中成功地使用了开源软件，您就可以扩展您的策略来参与开源社区。除非你已经聘请了有经验的开发者，否则你可能需要与社区更密切地接触，提高知名度，并开始吸引你所需的人才。下列这些活动对于参与者策略场景下至关重要：
+一旦你的组织在产品或服务中成功地使用了开源软件，你就可以扩展你的策略来参与开源社区。除非你已经聘请了有经验的开发者，否则你可能需要与社区更密切地接触，提高知名度，并开始吸引你所需的人才。下列这些活动对于参与者策略场景下至关重要：
 
 - Monitor community communication platforms, such as chat servers,
   mailing lists, forums, and websites, to keep on top of project
@@ -947,7 +755,7 @@ need. The following action items are essential to participation:
   以组织的名义赞助开源项目的活动和所在基金会，提升所在企业组织的知名度。
 
 ## Once your organization is successfully using OSS in products or services, you can expand your strategy to participate in the open source community.
-## 一旦您的组织在产品或服务中成功地使用了开源软件，您就可以扩展您的策略来参与开源社区。
+## 一旦你的组织在产品或服务中成功地使用了开源软件，你就可以扩展你的策略来参与开源社区。
 
 ###### **Contributor Scenario**
 ###### **贡献者场景**
@@ -960,7 +768,7 @@ are critical to your business objectives is the best way to influence
 those projects and build a positive reputation. The following action
 items are essential to this scenario:
 
-一旦您的企业认识到定期参与社区的好处，您就能够评估为项目和社区贡献代码的好处了。因为代码贡献者致力于塑造未来的特性，因此为那些对您的业务目标至关重要的开源项目贡献源代码是影响这些项目并建立积极声誉的最佳方式。以下活动对该策略场景至关重要:
+一旦你的企业认识到定期参与社区的好处，你就能够评估为项目和社区贡献代码的好处了。因为代码贡献者致力于塑造未来的特性，因此为那些对你的业务目标至关重要的开源项目贡献源代码是影响这些项目并建立积极声誉的最佳方式。以下活动对该策略场景至关重要:
 
 - Educate your team on community development best practices.
 
@@ -1044,7 +852,7 @@ external communities and industry consortia. Below are some of the
 tactical steps that can help steer your organization toward a
 leadership role within a specific open source project:
 
-这个场景需要对目标开源社区和联盟进行大量投资，以建立领导行动规划。此外，需要在工程、产品管理和法律方面的做主要的增量投资，以建立外部社区和行业联盟的领导地位。以下是一些战术步骤，可以帮助您的组织在特定的开源项目中扮演领导角色:
+这个场景需要对目标开源社区和联盟进行大量投资，以建立领导行动规划。此外，需要在工程、产品管理和法律方面的做主要的增量投资，以建立外部社区和行业联盟的领导地位。以下是一些战术步骤，可以帮助你的组织在特定的开源项目中扮演领导角色:
 
 Participate actively and openly within all aspects of the project,
 including planning, development, testing, and release management,
@@ -1217,8 +1025,8 @@ of the OSPO. In the following table, we briefly present the primary
 roles of these individuals who form the core open source compliance
 team. For a detailed discussion on the topic of open source
 compliance, please download the free e-book _[[Open Source
-Compliance]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
-[[in the Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)_,
+Compliance]](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+[[in the Enterprise]](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)_,
 which was published by The Linux Foundation. The e-book is a practical guide for organizations on how best to use open
 source code in products and services and legally and responsibly
 partic- ipate in open source communities.
@@ -1659,50 +1467,32 @@ requirements for success.
 
 # OSPO 与消除使用或贡献 OSS 的摩擦 
 
-OSPOs face many challenges that we can group into the following five
-areas: culture, processes, tools, continuity, and education. **FIGURE
-14** illustrates these challenge areas. The general goal of an OSPO is
-to make it easy for the organization to use and contribute to OSS in
-support of its business goals. As such, facing and resolving these
-chal- lenges and possibly others that are unique to your organization
-will help you achieve your goal.
+OSPOs face many challenges that we can group into the following five areas: culture, processes, tools, continuity, and education. **FIGURE 14** illustrates these challenge areas. The general goal of an OSPO is to make it easy for the organization to use and contribute to OSS in support of its business goals. As such, facing and resolving these chal- lenges and possibly others that are unique to your organization will help you achieve your goal.
 
-OSPO 面临许多挑战，我们可以将其分为以下五个领域：文化、流程、工具、连续性和教育。图 14 说明了这些挑战领域。 OSPO 的总体目标是使组织更容易使用 OSS 并为 OSS 做出贡献，以支持其业务目标。因此，面对并解决这些挑战以及可能是您组织独有的其他挑战，将帮助您实现目标。
+OSPO 面临许多挑战，我们可以将其分为以下五个领域：文化、流程、工具、连续性和教育。图14说明了这些挑战领域。OSPO的总体目标是使组织更容易使用OSS并为OSS做出贡献，以支持其业务目标。因此，面对并解决这些挑战以及可能是你组织独有的其他挑战，将帮助你实现目标。
 
 ### Culture
 ### 文化
 
-Cultural challenges often stem from the gap between traditional
-software development practices and the requirements of open source
-development. To bridge this gap, you can hire open source experts and
-ask them to train other groups that are unfamiliar with the open
-source development model. These experts can provide guidance to assist
-with the following:
+Cultural challenges often stem from the gap between traditional software development practices and the requirements of open source development. To bridge this gap, you can hire open source experts and ask them to train other groups that are unfamiliar with the open source development model. These experts can provide guidance to assist with the following: 
 
-文化挑战往往源于传统软件开发实践与开源开发需求之间的差距。为了弥补这一差距，您可以聘请开源专家并要求他们培训其他不熟悉开源开发模型的团队。这些专家可以提供指导以协助完成以下工作：
+文化挑战往往源于传统软件开发实践与开源开发需求之间的差距。为了弥补这一差距，你可以聘请开源专家并要求他们培训其他不熟悉开源开发模型的团队。这些专家可以提供指导以协助完成以下工作：
 
-- Create internal processes that follow the open source development
-  practices of release, doing so early and often, and including peer
-  reviews.
- 
-  尽早创建遵循开源开发实践的内部流程，并经常这样做，包括同行评审。
+- Create internal processes that follow the open source development practices of release, doing so early and often, and including peer reviews.
+- 尽早创建遵循开源开发实践的内部流程，并经常这样做，包括同行评审。
 
 - Improve transparency between departments to encourage more
   cross-functional collaboration.
-  
-  提高部门之间的透明度，以鼓励更多的跨职能协作。
+- 提高部门之间的透明度，以鼓励更多的跨职能协作。
 
 - Form engineering teams around the ideals of meritocracy.
-
-  围绕精英管理的理念组建工程团队。
+- 围绕精英管理的理念组建工程团队。
 
 - Establish proper success metrics to encourage open source and
   cross-department contributions.
-  
-  建立适当的成功指标以鼓励开源和跨部门的贡献。
+- 建立适当的成功指标以鼓励开源和跨部门的贡献。
 
 ---
-
 
 FIGURE 14 Challenges that OSPOs face
 
@@ -1777,10 +1567,10 @@ Executive support
 
 **Education**
 Executive education
- Knowledge transfer 
+Knowledge transfer 
 Technical training
 Compliance training
- Mentorship program
+Mentorship program
  
 **教育**
 高管教育
@@ -1795,108 +1585,67 @@ Compliance training
 
 流程
 
-Open source development is dynamic, moves very quickly, and has unique
-requirements for compliance. Software-driven industries will leave
-behind those organizations that do not adapt their internal
-processes to support this type of development. As developers must be
-able to contribute code upstream quickly, the enterprise must modify
-any internal code policies that hinder such development. We suggest
-implementing the following to improve internal processes:
+Open source development is dynamic, moves very quickly, and has unique requirements for compliance. Software-driven industries will leave behind those organizations that do not adapt their internal processes to support this type of development. As developers must be able to contribute code upstream quickly, the enterprise must modify any internal code policies that hinder such development. We suggest implementing the following to improve internal processes:
 
 开源开发是动态的，发展非常迅速，并且对合规性有独特的要求。软件驱动的行业将抛弃那些不调整其内部流程以支持此类开发的组织。由于开发人员必须能够快速向上游贡献代码，因此企业必须修改任何阻碍此类开发的内部代码策略。我们建议实施以下措施来改进内部流程：
 
-- Put a team in charge of maintaining open source compliance to avoid
-  legal problems and set up a simple internal approval model for open
-  source use and contributions.
-  
-  让一个团队负责维护开源合规性以避免法律问题，并为开源使用和贡献建立一个简单的内部批准模型。
+- Put a team in charge of maintaining open source compliance to avoid legal problems and set up a simple internal approval model for open source use and contributions.
+- 让一个团队负责维护开源合规性以避免法律问题，并为开源使用和贡献建立一个简单的内部批准模型。
 
-- Move from highly complex and cumbersome policies to a more
-  straightforward approach for receiving, reviewing, and approving
-  source code contributions.
-  
-  从高度复杂和繁琐的策略转变为更直接的方法来接收、审查和批准源代码贡献。
+- Move from highly complex and cumbersome policies to a more straightforward approach for receiving, reviewing, and approving  source code contributions.
+- 从高度复杂和繁琐的策略转变为更直接的方法来接收、审查和批准源代码贡献。
+- Balance the interests of legal, engineering, and open source and  give the dedicated open source team blanket approval to contribute to many open source projects.
+- 平衡法律、工程和开源的收益，并给与专门的的开源团队全面的批准，为众多开源项目做出贡献。
+- Use different levels of approval depending on the nature of the code  that is contributed (e.g., code to fix simple bugs, code to improve  existing functionality, code to affect new functionality, or code to  seed a new project).
+- 根据贡献的代码的性质，使用不同级别的批准（例如，修复简单错误的代码、改进现有功能的代码、影响新功能的代码或发展新项目的代码）。
 
-- Balance the interests of legal, engineering, and open source and
-  give the dedicated open source team blanket approval to contribute
-  to many open source projects.
-  
-  平衡法律、工程和开源的收益，并给与专门的的开源团队全面的批准，为众多开源项目做出贡献。
+> The IT environment that you create should allow developers to join a team without requiring any significant changes to how they work. The tools must support the open source development model, fulfill the needs of the OSPO, and meet corporate IT guidelines.
 
-- Use different levels of approval depending on the nature of the code
-  that is contributed (e.g., code to fix simple bugs, code to improve
-  existing functionality, code to affect new functionality, or code to
-  seed a new project).
-  
-  根据贡献的代码的性质，使用不同级别的批准（例如，修复简单错误的代码、改进现有功能的代码、影响新功能的代码或发展新项目的代码）。
-
-## The IT environment that you create should allow developers to join a team without requiring any significant changes to how they work. The tools must support the open source development model, fulfill the needs of the OSPO, and meet corporate IT guidelines.
-**
-
-您创建的 IT 环境应允许开发人员加入任何团队，而无需对他们的工作方式进行重大改变。这些工具必须支持开源开发模型，满足 OSPO 的需求，并满足企业 IT 指南。
+你创建的 IT 环境应允许开发人员加入任何团队，而无需对他们的工作方式进行重大改变。这些工具必须支持开源开发模型，满足 OSPO 的需求，并满足企业 IT 指南。
 
 ##### TOOLS
 
 工具
 
-The IT environment that you create should allow developers to join a
-team without requiring any significant changes to how they work. The
-tools must support the open source development model, fulfill the
-needs of the OSPO, and meet corporate IT guidelines. Open source
-engineers require flexibility to communicate with external
-participants via email, chat, and code development platforms, and
-their IT tools must facilitate this communication. For example, emails
-to an open source project should never include attachments that claim
-the content as the intellectual property of the email sender's
-organization. We suggest implementing the following changes for
-facilitating communi- cation within your OSPO:
+The IT environment that you create should allow developers to join a team without requiring any significant changes to how they work. The tools must support the open source development model, fulfill the needs of the OSPO, and meet corporate IT guidelines. Open source engineers require flexibility to communicate with external participants via email, chat, and code development platforms, and their IT tools must facilitate this communication. For example, emails to an open source project should never include attachments that claim the content as the intellectual property of the email sender's organization. We suggest implementing the following changes for facilitating communi- cation within your OSPO: 
 
-您创建的 IT 环境应该允许开发人员加入任何团队，而无需对他们的工作方式进行任何重大改变。这些工具必须支持开源开发模型，满足 OSPO 的需求，并符合企业 IT 准则。开源工程师需要灵活地通过电子邮件、聊天和代码开发平台与外部参与者进行交流，他们的 IT 工具必须促进这种交流。例如，发给开源项目的电子邮件绝不应包含声称内容为电子邮件发件人组织的知识产权的附件。我们建议实施以下更改以促进您的 OSPO 内的交流：
+你创建的 IT 环境应该允许开发人员加入任何团队，而无需对他们的工作方式进行任何重大改变。这些工具必须支持开源开发模型，满足OSPO的需求，并符合企业 IT 准则。开源工程师需要灵活地通过电子邮件、聊天和代码开发平台与外部参与者进行交流，他们的IT工具必须促进这种交流。例如，发给开源项目的电子邮件绝不应包含声称内容为电子邮件发件人组织的知识产权的附件。我们建议实施以下更改以促进你的OSPO内的交流：
 
 - Allow communication with public mailing lists from organization
   accounts without obstruction.
-  
-  允许组织内部的账户无障碍地与公共邮件列表进行通信。
+- 允许组织内部的账户无障碍地与公共邮件列表进行通信。
 
 - Give engineers devices that support the development distribution of
   their choice.
-  
-  为工程师提供开发分发的设备，支持他们自行选择相关设备。
+- 为工程师提供开发分发的设备，支持他们自行选择相关设备。
 
 - Make sure that all open source developers can access all vital
   internal tools and resources on Linux or via a separate compatible
   device.
-  
-  确保所有开源开发人员都可以在Linux或通过单独的兼容设备访问所有重要的内部工具和资源。 
+- 确保所有开源开发人员都可以在Linux或通过单独的兼容设备访问所有重要的内部工具和资源。 
 
 - Support fully distributed teams that are working in remote locations
   so that they can connect to internal business resources through a
   virtual private network or similar technology.
-  
-  支持在远程工作的完全分布式团队，以便他们可以通过虚拟专用网络或类似技术连接到内部业务资源。 
+- 支持在远程工作的完全分布式团队，以便他们可以通过虚拟专用网络或类似技术连接到内部业务资源。 
 
 - Evaluate your IT policies for help desk support, with secure methods
   for resolving IT issues for remote employees.
-  
-  评估您的IT策略以获得服务团队的支持，并使用安全的方法解决远程员工的 IT 问题。
+- 评估你的IT策略以获得服务团队的支持，并使用安全的方法解决远程员工的 IT 问题。
 
 ### Continuity
 
 持续性
 
-For some organizations, continuity suggests a long, boring document
-that nobody reads. When it comes to OSS, continuity is an ongoing
-chal- lenge as the organization adapts to changes in its business,
-business strategy, and industry. In practical terms, we can break
-continuity into the following three categories:
+For some organizations, continuity suggests a long, boring document that nobody reads. When it comes to OSS, continuity is an ongoing chal- lenge as the organization adapts to changes in its business, business strategy, and industry. In practical terms, we can break continuity into the following three categories: 
 
-对于一些组织来说，持续性意味着一个没有人阅读的冗长乏味的文件。对于 OSS，随着组织适应其业务、业务战略和行业的变化，持续性是一个不断的挑战。实际上，我们可以将持续性分为以下三类：
+对于一些组织来说，持续性意味着一个没有人阅读的冗长乏味的文件。对于OSS，随着组织适应其业务、业务战略和行业的变化，持续性是一个不断的挑战。实际上，我们可以将持续性分为以下三类：
 
 1.  []{#\_bookmark19 .anchor}**Continuity of the open source strategy.**
     Informing current and future employees of the ever-evolving open
     source strategy, with updates on new developments and changes in
     real time.
-    
+
 1. 开源战略的持续性。包括通知当前和未来的员工不断发展的开源战略，并实时更新新的发展和变化。
 
 
@@ -1904,36 +1653,27 @@ continuity into the following three categories:
     involvement in open source projects and initiatives to make use of
     any momentum that preceded a period of disruption or changes in the
     organizational environment.
-    
 2. 项目和优先事项的持续性。利用组织环境混乱或变化之前的任何势头，确保持续参与开源项目和计划。
 
-3.  **Continuity of executive support and funding.** Ensuring continued
+3. **Continuity of executive support and funding.** Ensuring continued
     financial and executive support and providing adequate resources to
     support the open source program.
-    
-3.  高管支持和资金的连续性。确保持续的财务和高管支持，并提供足够的资源来支持开源项目。  
-   
+3. 高管支持和资金的连续性。确保持续的财务和高管支持，并提供足够的资源来支持开源项目。
 
-The executive sponsor is critical to continuity and communicating the
-value of the open source efforts and expectations across the organization to encourage the successful adoption, implementation,
-and contribution to open source projects.
+The executive sponsor is critical to continuity and communicating the value of the open source efforts and expectations across the organization to encourage the successful adoption, implementation, and contribution to open source projects. 
 
 执行发起人对于持续性和在整个组织中传达开源工作的价值和期望，以鼓励开源项目的成功采用、实施和贡献至关重要。
 
 ### Education
 
-教育
+### 教育
 
-Open source software is an integral part of the software landscape,
-with significant benefits for users and the ecosystem. However, to
-realize these benefits, organizations must overcome knowledge deficits
-through education and training as follows:
-
+Open source software is an integral part of the software landscape, with significant benefits for users and the ecosystem. However, to realize these benefits, organizations must overcome knowledge deficits through education and training as follows: 
 开源软件是软件领域不可或缺的一部分，为用户和生态系统带来了巨大的益处。然而，要实现这些益处，组织必须通过以下教育和培训来克服知识缺陷：
 
 ##### EXECUTIVE TRAINING
 
-高管培训
+#### 高管培训
 
 These courses help executives and managers to understand and artic-
 ulate the basic concepts for building effective open source practices.
@@ -1986,7 +1726,7 @@ source technologies.
 # TODO工作组
 The TODO Group is an OSPO resource hub and open community of practitioners who aim to create and share knowledge and collaborate on practices, tools, and other ways to run successful and effective OSPOs or similar open source initiatives. It was formed by its 1,700+community participants and 80+ general members across different sectors and regions and managed as an open source project under The Linux Foundation. The TODO Group offers a maturity model, set of guides, mind map, 101 course, annual surveys, and case studies to help organizations advance in their OSPO journey. These OSPO resources are developed by the TODO Group in collaboration with The Linux Foundation and the larger open source community. If you are looking to establish an OSPO in your organization, or you lead an OSPO and are looking to connect with peers at other organizations, please visit todogroup.org/community to get started and join our Slack channel or OSPO forum discussions.
 
-TODO工作组是一个OSPO的资源中心和从业者开放社区，旨在创建和共享知识、并在实践、工具等他方式上协作，来成功、高效地运作OSPO或类似的开源项目。它由来自于不同的领域和地域的1700+名社区参与者和80多名会员组成，并被作为Linux基金会的一个开源项目管理。TODO工作组通过提供成熟度模型、系列指南、思维导图、101入门课程、年度调查和案例研究来帮助各组织在OSPO旅程中持续前进。这些OSPO资源是由TODO工作组和Linux基金会以及更大范围的开源社区合作开发的。如果您希望在您的组织中建立开源项目办公室OSPO，或者您已在一个OSPO中并希望与其他组织的OSPO人员建立联系，请从访问todogroup.org/community 开始，加入我们的Slack频道或者OSPO论坛讨论。
+TODO工作组是一个OSPO的资源中心和从业者开放社区，旨在创建和共享知识、并在实践、工具等他方式上协作，来成功、高效地运作OSPO或类似的开源项目。它由来自于不同的领域和地域的1700+名社区参与者和80多名会员组成，并被作为Linux基金会的一个开源项目管理。TODO工作组通过提供成熟度模型、系列指南、思维导图、101入门课程、年度调查和案例研究来帮助各组织在OSPO旅程中持续前进。这些OSPO资源是由TODO工作组和Linux基金会以及更大范围的开源社区合作开发的。如果你希望在你的组织中建立开源项目办公室OSPO，或者你已在一个OSPO中并希望与其他组织的OSPO人员建立联系，请从访问todogroup.org/community 开始，加入我们的Slack频道或者OSPO论坛讨论。
 
 ### Conclusion
 ### 总结
@@ -2019,9 +1759,9 @@ please consider this report a call to action to do exactly that.
 
 OSPO 在帮助组织掌握 OSS 并推动组织在开放技术方面占据领导地位发挥了关键作用，这些开放技术对组织的产品、服务和IT解决方案至关重要。OSPO 可以在以下四个关键领域为组织提供支持：
 1. **消费 ---** 建立一个内部基础设施，以便实施合适的开源实践，并整合开源政策、流程、清单和训练。
-2. **参与 --—** 在交流平台和活动上与开源社区互动。赞助对您的组织而言在项目或服务上存在依赖的重要的OSS项目和组织。
+2. **参与 --—** 在交流平台和活动上与开源社区互动。赞助对你的组织而言在项目或服务上存在依赖的重要的OSS项目和组织。
 3. **贡献 ---** 雇用或培训专门关注开源贡献的员工，并部署必要工具来支持内部开源工程。
-4  **领导力 ---** 增加与开源社区、开放标准机构和开源基金会的互动；启动新的开源计划和项目；并提高您的组织在开源社区中的知名度。
+4  **领导力 ---** 增加与开源社区、开放标准机构和开源基金会的互动；启动新的开源计划和项目；并提高你的组织在开源社区中的知名度。
 如果你是一个依赖OSS项目和服务的组织的一员，并且你们组织目前没有一个正式的OSPO，请将此报告视为采取行动的号召。
 
 # Acknowledgments 
@@ -2039,32 +1779,32 @@ The author apologizes in advance for any spelling mistakes or possible errors an
 # Linux Foundation Resources
 # Linux基金会资源
 
-- [[E-book: Guide to Enterprise Open Source]{.underline}](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+- [[E-book: Guide to Enterprise Open Source]](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
 
-- [[E-book: Open Source Compliance in the Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+- [[E-book: Open Source Compliance in the Enterprise]](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
 
-- [[E-book: Open Source Audits in Merger and Acquisition]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
-  [[Transactions]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+- [[E-book: Open Source Audits in Merger and Acquisition]](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+  [[Transactions]](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
 
-- [[Linux Foundation Enterprise Guides]{.underline}](https://www.linuxfoundation.org/resources/open-source-guides/)
+- [[Linux Foundation Enterprise Guides]](https://www.linuxfoundation.org/resources/open-source-guides/)
 
-- [[Linux Foundation Open Compliance Program]{.underline}](https://compliance.linuxfoundation.org/) ---  Resources to support organizations with open source compliance.
+- [[Linux Foundation Open Compliance Program]](https://compliance.linuxfoundation.org/) ---  Resources to support organizations with open source compliance.
 
-- [[TODO Group](http://todogroup.org/)]{.underline} --- Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
+- [[TODO Group](http://todogroup.org/)] --- Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
 
 
-- [[电子书：企业开源指南]{.underline}](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+- [[电子书：企业开源指南]](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
 
-- [[电子书：企业中的开源合规性]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+- [[电子书：企业中的开源合规性]](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
 
-- [[电子书：合并收购中的开源审计]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
-  [[Transactions]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+- [[电子书：合并收购中的开源审计]](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+  [[Transactions]](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
 
-- [[Linux基金会企业指南]{.underline}](https://www.linuxfoundation.org/resources/open-source-guides/)
+- [[Linux基金会企业指南]](https://www.linuxfoundation.org/resources/open-source-guides/)
 
-- [[Linux基金会开放合规计划]{.underline}](https://compliance.linuxfoundation.org/) --- 在开源合规性上支持各组织的资源。
+- [[Linux基金会开放合规计划]](https://compliance.linuxfoundation.org/) --- 在开源合规性上支持各组织的资源。
 
-- [[TODO工作组](http://todogroup.org/)]{.underline} ---面向从业者和组织的开放社区，旨在最佳实践、工具等其它方式上协作来运作成功的开源项目。
+- [[TODO工作组](http://todogroup.org/)] ---面向从业者和组织的开放社区，旨在最佳实践、工具等其它方式上协作来运作成功的开源项目。
 
 
 
@@ -2087,7 +1827,7 @@ President of R&D and Head of the Open Source Division at Samsung Electronics. Th
 
 
 # Disclaimer
-# 声明
+# 免责声明
 This report is provided "as is." The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. In no event will The Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether they have been advised of the possibility of such damage. Sponsorship of the creation of this report does not constitute an endorsement of its
 findings by any of its sponsors.
 
@@ -2095,33 +1835,33 @@ findings by any of its sponsors.
 
 ![](media/image1.jpeg)
 
-Founded in 2021, [Linux Foundation Research]{.underline} explores the growing scale of open source collaboration, providing insight into emerging technology trends, best practices, and the global impact of open source projects. Through leveraging project databases and networks, and a commitment to best practices in quantitative and qualitative methodologies, Linux Foundation Research is creating the go to repository for open source insights for the benefit of organizations the world over.
+Founded in 2021, [Linux Foundation Research] explores the growing scale of open source collaboration, providing insight into emerging technology trends, best practices, and the global impact of open source projects. Through leveraging project databases and networks, and a commitment to best practices in quantitative and qualitative methodologies, Linux Foundation Research is creating the go to repository for open source insights for the benefit of organizations the world over.
 
 [twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
 facebook.com/TheLinuxFoundation [linkedin.com/company/the linux
 foundation](https://inkedin.com/) youtube.com/user/TheLinuxFoundation
 
-[Linux基金会研究]{.underline}成立于2021年，探索规模不断扩大的开源协作，深入了解新兴技术趋势、最佳实践和开源项目的全球影响。通过利用项目数据库和网络，以及对定量和定性方法的最佳实践的承诺，Linux基金会研究正在为世界各地的组织创建以开源洞见的平台宝库。
+[Linux基金会研究]成立于2021年，探索规模不断扩大的开源协作，深入了解新兴技术趋势、最佳实践和开源项目的全球影响。通过利用项目数据库和网络，以及对定量和定性方法的最佳实践的承诺，Linux基金会研究正在为世界各地的组织创建以开源洞见的平台宝库。
 
 Part of The Linux Foundation, LF AI & Data supports open source innovation in artificial intelligence, machine learning, deep learning, and data. LF AI & Data was established to support a sustainable open source AI ecosystem that makes it easy to create AI and data products and services using open source technologies. We foster collaboration under a neutral environment with an open governance model to support the harmonization and acceleration of open source technical projects.
 作为Linux基金会的一部分，LF AI & Data支持人工智能、机器学习、深度学习和数据领域的开源创新。LF AI & Data的建立是为了支持可持续的开源人工智能生态系统，使开发者可以轻松地使用开源技术创建人工智能和数据产品和服务。我们通过开放治理模式促进中立环境下的合作，以支持开源技术项目的协调和加速。
 
-[[TODO]{.underline}](https://todogroup.org/) is an open group of 70+ organizations with years of experience running open source programs that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. It is a place to share experiences, develop best practices and guidance as well as work on common tooling to improve OSPO adoption and education worldwide across sectors. Discover more about all the ongoing TODO Initiatives [[here]{.underline}](https://github.com/todogroup) and check out the OSPO landscape:
-[[https://landscape.todogroup.org]{.underline}](https://landscape.todogroup.org/)
+[[TODO]](https://todogroup.org/) is an open group of 70+ organizations with years of experience running open source programs that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. It is a place to share experiences, develop best practices and guidance as well as work on common tooling to improve OSPO adoption and education worldwide across sectors. Discover more about all the ongoing TODO Initiatives [[here]](https://github.com/todogroup) and check out the OSPO landscape:
+[[https://landscape.todogroup.org]](https://landscape.todogroup.org/)
 
 twitter.com/todogroup facebook.com/todo linkedin.com/company/todo-group
 
-[[TODO工作组]{.underline}](https://todogroup.org/) 是一个由70多个组织组成的开放工作组，他们拥有多年的开源项目运作经验，希望在实践、工具等他方式上协作来成功、高效地运作开源项目/计划。它是一个通过分享经验、制定最佳实践和指导以及开发通用工具的地方，进而推进全球各环节采用OSPO和教育。如果想了解更多进行中的TODO计划的信息参考这里 [[此处]{.underline}](https://github.com/todogroup) ，并查看OSPO一览图[[https://landscape.todogroup.org]{.underline}](https://landscape.todogroup.org/)
+[[TODO工作组]](https://todogroup.org/) 是一个由70多个组织组成的开放工作组，他们拥有多年的开源项目运作经验，希望在实践、工具等他方式上协作来成功、高效地运作开源项目/计划。它是一个通过分享经验、制定最佳实践和指导以及开发通用工具的地方，进而推进全球各环节采用OSPO和教育。如果想了解更多进行中的TODO计划的信息参考这里 [[此处]](https://github.com/todogroup) ，并查看OSPO一览图[[https://landscape.todogroup.org]](https://landscape.todogroup.org/)
 
 twitter.com/todogroup facebook.com/todo linkedin.com/company/todo-group
 
 
-Copyright © 2022 [[The Linux Foundation]{.underline}](https://www.linuxfoundation.org/)
+Copyright © 2022 [[The Linux Foundation]](https://www.linuxfoundation.org/)
 
-This report is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International Public License]{.underline}. This material may be copied and distributed under the terms of the Creative Commons license.
+This report is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International Public License]. This material may be copied and distributed under the terms of the Creative Commons license.
 
 To reference the work, please cite as follows: Ibrahim Haddad, "**A Deep Dive Into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges** " foreword by Chris Aniszczyk, August, 2022.
 
-版权所有 © 2022 [[Linux基金会]{.underline}](https://www.linuxfoundation.org/)
-本报告使用 [知识共享署名-禁止演绎4.0 国际许可协议（CC BY-ND 4.0）]{.underline}。可根据知识共享许可协议的条款复制和分发本材料。
+版权所有 © 2022 [[Linux基金会]](https://www.linuxfoundation.org/)
+本报告使用 [知识共享署名-禁止演绎4.0 国际许可协议（CC BY-ND 4.0）]。可根据知识共享许可协议的条款复制和分发本材料。
 要参考这项工作时请引用以下信息：易卜拉欣·哈达德，“*深入开源项目办公室：结构、角色、责任和挑战**” 克里斯·阿尼什切克的前言，2022年8月。
