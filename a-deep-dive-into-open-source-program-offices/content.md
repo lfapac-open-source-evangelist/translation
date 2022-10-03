@@ -1375,9 +1375,6 @@ main tasks:
 
 The policies and processes that the OSPO needs to create depend on the
 organization's current and target position on the strategy ladder.
-
-开源办公室（OSPO）需要根据战略阶梯上的当前和目标位置来制定开源策略并构建对应流程。
-
 During the first stage (consumption), the OSPO needs to implement an
 open source infrastructure that can support the consumption and
 compliance aspects of OSS. **FIGURE 12** illustrates infrastructure
@@ -1388,11 +1385,15 @@ the development process, establishes a team to supervise the proper
 usage of open source, provides the necessary training, enables tooling, and
 facilitates relationships with relevant open source organizations.
 
+开源办公室（OSPO）需要根据战略阶梯上的当前和目标位置来制定开源策略并构建对应流程。
 在第一阶段(消费阶段)，开源办公室（OSPO）需要完成一个开源基础设施的建设，它可以支撑开源软件的消费场景和开源合规遵从性方面。图12 展示了这个开源基础设施框架，它不仅是一个简单用于指导开源使用的策略。框架延展涵盖了各种场景下的开源策略服务，包含开源使用策略和遵从性规范，在开发过程中纳入合规检查点，建立一个团队来监督指导开源的正确使用，提供必要的培训，使用工具流程，并促进团队与外部相关开源组织的关系。
 
 ![](media/image51.png)
 
 **FIGURE 12**
+#### **Enabling infrastructure for open source consumption and compliance**
+#### **使能开源软件使用和合规的基础设施框架**
+
 |FIGURE 12|图12|
 |--|--|
 |Enabling Infrastructure for open source consumption and compliance | 使能开源软件使用和合规的基础设施框架|
@@ -1447,25 +1448,37 @@ facilitates relationships with relevant open source organizations.
 |Open Source Security Foundation | 开源安全基金会 |
 
 
-#### **Enabling infrastructure for open source consumption and compliance**
-
 **21**
+### Prioritize and Drive Upstream Open Source Development
+### 优先考虑并推动上游开源的开发
 
-[]{#\_bookmark16 .anchor}show a return on investment across multiple
+One of the primary responsibilities of an OSPO is to improve the orga-
+nization's engagement with the key open source projects that are used
+in products and services. The first step is to identify where the
+organi- zation relies on OSS by surveying all products and reviewing
+the SBOM. The next step is to prioritize the OSS that is already in
+use and establish a contribution strategy. Such a focused approach
+allows the OSPO to show a return on investment across multiple
 products. In an enter- prise setting, where the OSPO and open source
 engineering are cost centers, the driving force should be to focus on
 open source projects that directly support product development.
 
+开源办公室（OSPO）的主要职责之一是提高组织中关键开源项目（在产品和服务中使用的）的参与度。第一步是通过SBOM工具来分析组织中的所有产品来确定组织哪些部分最依赖开源组件。
+第二步是对已经在产品中使用的开源软件进行优先级排序，并制定贡献策略。这种聚焦的方法使开源办公室（OSPO）能够展示多种产品的投资回报。在企业环境中，开源办公室（OSPO）和开源工程是成本中心，投资的驱动力应该聚焦在直接支持产品开发的开源项目上。
+
+
 **FIGURE 13** illustrates the additional elements that the OSPO needs
 to implement to support open source contributions.
 
+图13显示了为了支撑开源贡献，开源办公室（OSPO）还需要构建实施的其他要素
+
 ### Engage with Open Source Organizations
+### 参与开源组织
 
 Open source foundations are a great resource to extend your impact
 within the open source ecosystem. The best place to start is with
 foundations that host initiatives that are relevant to your products
 or technical interests. Many organizations find it worthwhile to get
-
 involved with well-known, established foundations, such as The Linux
 Foundation's TODO Group, the Mozilla Foundation, or the Apache
 Foundation. If your organization is primarily concerned with legal
@@ -1476,29 +1489,23 @@ that your organization relies on. The OSPO is the entity that drives
 these relationships based on the organization's open source strategy
 and product priorities.
 
-### Prioritize and Drive Upstream Open Source Development
-
-One of the primary responsibilities of an OSPO is to improve the orga-
-nization's engagement with the key open source projects that are used
-in products and services. The first step is to identify where the
-organi- zation relies on OSS by surveying all products and reviewing
-the SBOM. The next step is to prioritize the OSS that is already in
-use and establish a contribution strategy. Such a focused approach
-allows the OSPO to
+开源基金会是扩展组织在开源生态系统中影响力的一个很好的资源。最好的起点是和基金会联合主办与产品或技术相关的活动。许多组织都认为与知名的基金会组织合作是有价值的，例如Linux基金会的TODO工作组、Mozilla基金会或Apache基金会。如果你的组织主要关注法律动态，那么加入诸如软件自由法律中心（SFLC）或开放发明网络（OIN）这样的团体被证明是有价值的。加入这些团体的主要目标是识别机会借以提升和发展你所在组织的生态位；开源办公室（OSPO）是基于开源战略和产品优先级驱动外部生态关系发展的实体。
 
 ### Track Performance Metrics
+### 追踪绩效指标
 
 One of the more difficult tasks for an OSPO is decision-making on key
 performance indicators or metrics that the office should track to
 incentivize engineers toward the desired behavior. The traditional
 metrics, which are often used in product organizations, do not apply
 in the context of open source development. Therefore, new metrics
-
 are required. Many OSPOs use specialized tools to track their
 organiza- tion's contributions to open source projects, analyze the
 type of contri- butions from their organization, identify contribution
 patterns, and provide recommendations to improve the development
 impact.
+
+对开源办公室（OSPO）来说，更有挑战的任务之一是基于关键绩效度量指标做出对应的决策，开源办公室需要跟踪这些度量指标，以牵引工程师按预期的方向前行。在产业或商业组织中经常采用的传统的度量标准并不适用在开源开发的场景。因此，需要拟定新的度量标准。开源办公室（OSPO）使用专业化的工具来跟踪其组织对开源项目的贡献，分析来自其组织的贡献类型，确定贡献模式，并提供建议以提高组织的开源开发对生态的影响力。
 
 ##### IMPLEMENT INNERSOURCE PRACTICES
 
