@@ -1472,6 +1472,27 @@ to implement to support open source contributions.
 
 图13显示了为了支撑开源贡献，开源办公室（OSPO）还需要构建实施的其他要素
 
+|FIGURE 13| 图13 |
+|--|--|
+|Necessary infrastructure for open source contributions | 开源贡献中必要的基础设施 |
+|<b>Contribution </b>| <b> 贡献 </b>|
+|Policy & process on project contributions | 开源项目贡献的策略和流程 |
+|Guidelines & contribution training | 关于如何贡献的指导原则和培训 |
+|Contribution approval team | 贡献审查团队|
+|Increased participation in key open source projects | 在关键开源项目上持续参与和贡献 |
+|<b> Dedicated Group </b> | <b> 团队专业化 </b>|
+|Establish OSPO | 建立OSPO组织 |
+|Hire from open source projects | 从外部开源项目中发展团队成员|
+|Support & participate in open source foundations | 支持并参与开源基金会 |
+|Host open source events | 主导赞助开源活动/峰会 |
+|IT infrastructure to support open source development | 构建开源开发的IT基础设施 |
+|Establish/recognize open source career paths | 建立并明确开源领域的职业发展路径 |
+|Support communities of projects you depend on | 支持/贡献/赞助你依赖的社区项目|
+|<b> Open Standards </b> | <b> 开放的标准 </b>|
+|Participate in relevant open standards | 参与相关的开放标准 |
+|Consider open sourcing internal technology as reference implementation | 把开源技术作为标准的参考实现|
+
+
 ### Engage with Open Source Organizations
 ### 参与开源组织
 
