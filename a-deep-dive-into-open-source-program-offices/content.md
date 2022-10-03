@@ -813,9 +813,9 @@ strategy.
 
 图9展示四个主要的OSS策略的阶梯状的发展阶段:消费者、参与者、贡献者和领导者。需要在前一种阶梯战略上取得成功后，组织才能进入到下一个战略阶段。您的组织在这个阶梯上的位置将完全取决于组织的目标和总体开源战略。
 
-|||
+|FIGURE 9 | 图 9 |
 |--|--|
-| FIGURE 9 The four core stages of open source strategy— consumer, participant, contributor, and leader  | 图表 9 开源战略的4个核心阶段-消费者、参与者、贡献者和领导者 |
+| The four core stages of open source strategy— consumer, participant, contributor, and leader  | 开源战略的4个核心阶段-消费者、参与者、贡献者和领导者 |
 | CONSUMER |  消费者 |
 | PARTICIPANT | 参与者 | 
 | CONTRIBUTOR | 贡献者 |
@@ -1252,9 +1252,9 @@ partic- ipate in open source communities.
 开源合规团队核心代表的最小配置：包括一名法律代表、一名工程或产品代表，以及一名开源合规专家，后者通常是开源办公室（OSPO）的成员。在下表中，我们简要地介绍了开源合规团队的组成的主要角色。关于开源合规专题的详细讨论，请下载由Linux基金会发布的免费电子书《企业中的开源合规》。这本电子书是一本实用指南，指导组织如何最好地在产品和服务中使用开源代码，以及如何合法、负责任地参与开源社区。
 
 
-| | |
+|FIGURE 10 | 图10|
 |--|--|
-|FIGURE 10 Ensuring open source compliance is a cross-functional activity| 图10 确保遵循开源是一项跨职能的活动 |
+|Ensuring open source compliance is a cross-functional activity| 确保遵循开源是一项跨职能的活动 |
 |Corporate Development | 企业发展战略|
 |Legal | 法务|
 |Engineering | 工程师 |
@@ -1393,6 +1393,59 @@ facilitates relationships with relevant open source organizations.
 ![](media/image51.png)
 
 **FIGURE 12**
+|FIGURE 12|图12|
+|--|--|
+|Enabling Infrastructure for open source consumption and compliance | 使能开源软件使用和合规的基础设施框架|
+|<b>Strategy </b> | <b>战略 </b>|
+|Compliance | 合规遵从|
+|Managing inquiries | 需求管理 |
+|Licensing and risk tolerance | 开源许可证风险预估和规避|
+|M&A and corporate development | 并购和企业发展战略|
+|software procurement | 软件采购|
+|<b> Portals </b> | <b>IT平台入口 </b>|
+|internal site（educational）| 内部网站（赋能培训）|
+|External site（obligation fulfillment,source code distribution) | 外部网站（义务履行，源码分发）|
+|Internal messaging | 内部信息流通 |
+|External messaging | 外部信息流通 |
+|<b>Policy & Process </b> |  <b>策略&流程 </b>|
+|Usage and compliance policy | 使用和合规策略|
+|Distribution | 分发 |
+|Auditing | 审计|
+|Notices | 声明 |
+|Usage | 使用 |
+|Obligation fulfillment | 义务履行|
+|Mixing code under different licenses |不同许可证兼容|
+|<b>Development  </b>| <b>开发</b> |
+|Integrate compliance in development and QA process | 在开发和质量保证处理中集成合规性检测|
+|Integrate compliance tools with build systems and developer workflow |将合规工具固化到系统开发工作流中|
+|<b>Team </b>| <b>团队 </b> |
+|Compliance team (core and support) | 合规团队（核心团队和支撑团队）|
+|ScoreBoard and success metrics | 记分牌和成功指标 |
+|<b>Education </b>|<b> 培训 </b>|
+|Training on company policy |开源策略培训 |
+|Guidelines and best practices |指导原则和优秀实践 |
+|New employee orientation |新员工培训 |
+|Checklist for product team | 产品团队的检查表|
+|Checklist for developers | 开发者检查表|
+|Checklist for SW procurement | 软件采购检查表|
+|Professional formal training | 专业正规培训 |
+|<b>Tools </b>| <b> 工具 </b>|
+|Source code scanning | 源代码扫描|
+|Linkage analysis | 二进制库连接分析 |
+|Dependencies analysis | 代码依赖分析|
+|Security Vulnerabilities analysis | 安全漏洞分析 |
+|Software Bill of materials | 软件成分分析（SBOM）|
+|Automation of online forms and workflow | 自动化分析表格和工作流|
+|IP evaluation tool |知识产权评估工具 |
+|SW Inventory management |存量软件清单管理 |
+|Project management |项目管理|
+|<b>Linux Foundation </b> | <b>Linux 基金会组织（支撑组织）</b>|
+|OpenChain | 开放的链|
+|Software Package Data Exchange|软件包数据交换|
+|Open Compliance Program|开放合规计划|
+|TODO Group | 待办事项组 |
+|Open Source Security Foundation | 开源安全基金会 |
+
 
 #### **Enabling infrastructure for open source consumption and compliance**
 
