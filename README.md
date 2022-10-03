@@ -5,16 +5,16 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 # 活跃志愿者
 | 姓名  | English    | github          | 微信ID            | 微信昵称     | 单位         | email                                                     |
 | --- | ---------- | --------------- | --------------- | -------- | ---------- | --------------------------------------------------------- |
-| 赵振华 | Rich Zhao  | zRich           | richzhao        | 锐旗       |            | \[zhao.zhenhua@gmail.com\](mailto:zhao.zhenhua@gmail.com) |
-| 皮冰锋 | Winter Pi  | winterpi        | 19688624        | bingfeng |            | \[pi.bingfeng@gmail.com\](mailto:pi.bingfeng@gmail.com)   |
-| 阎书利 | Shuli Yan  | T1YSL           | ysl201602430923 | 小怪兽      |            | [13624113201@163.com](http://13624113201@163.com)         |
-| 周冉  | Julia Zhou | JuliaZhou2022   | JuliaZhou1816   | 如梦       |            | [juliazhou2022@gmail.com](http://juliazhou2022@gmail.com) |
-| 徐斌  | Bruce Xu   | voidxb          | xb3150102384    | Bruce    |            | [2016165068@qq.com](http://2016165068@qq.com)             |
-| 马景贺 | Mike       | majinghe        | majinghe11      | 小马哥      | 极狐(GitLab) | [devops008@sina.com](http://devops008@sina.com)           |
+| 赵振华 | Rich Zhao  | zRich           | richzhao        | 锐旗       |            | zhao.zhenhua@gmail.com |
+| 皮冰锋 | Winter Pi  | winterpi        | 19688624        | bingfeng |            | pi.bingfeng@gmail.com   |
+| 阎书利 | Shuli Yan  | T1YSL           | ysl201602430923 | 小怪兽      |            | 13624113201@163.com         |
+| 周冉  | Julia Zhou | JuliaZhou2022   | JuliaZhou1816   | 如梦       |            | juliazhou2022@gmail.com |
+| 徐斌  | Bruce Xu   | voidxb          | xb3150102384    | Bruce    |            | 2016165068@qq.com             |
+| 马景贺 | Mike       | majinghe        | majinghe11      | 小马哥      | 极狐(GitLab) | devops008@sina.com           |
 | 王玉茂 | Amelia     | Ameliawangyumao | amelia\_2020    | Amelia   | 华为         | ameliawang375@gmail.com                                   |
-| 王永雷 | Leo Wang   | wangleo61       | 15900935447     | 永雷       |            | [wangleo61@outlook.com](http://wangleo61@outlook.com)     |
-| 全继安 | Paul Quan  |                 | 13570988065     | paul安    |            | [706309392@qq.com](http://706309392@qq.com)               |
-| 滕召智 | Ben Teng   | freet15         | freet15         | Ben      |            | [freet15@gmail.com](http://freet15@gmail.com)             |
+| 王永雷 | Leo Wang   | wangleo61       | 15900935447     | 永雷       |            | wangleo61@outlook.com     |
+| 全继安 | Paul Quan  |                 | 13570988065     | paul安    |            | 706309392@qq.com               |
+| 滕召智 | Ben Teng   | freet15         | freet15         | Ben      |            | freet15@gmail.com             |
 # SIG例会
 例会采用双周例会形式，分别在月初和月末的周三下午5点，例如2022年7月6日。会议采用zoom线上形式，会议信息如下。
 
