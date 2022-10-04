@@ -18,3 +18,4 @@
 | 孙振华    | 翻译 | OSPOs and Eliminating Friction From Using or Contributing to OSS | 25-27   | 9月10日  |
 | 刘洁     | 翻译 | The TODO Group                                                   | 28      |  已完成  |
 | 刘洁     | 翻译 | Acknowledgments - Discaimer                                      | 29-31   | 已完成  |
+| 王永雷     | 翻译 | OSPO Structure                                      | 11-13   | 10-05 |
