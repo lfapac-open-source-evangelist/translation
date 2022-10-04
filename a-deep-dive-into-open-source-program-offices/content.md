@@ -49,7 +49,7 @@ and Co Founder, _TODO Group_
 
 [OSPO Structure 11](#ospo-structure)
 
-[Example 1: OSPO Within an R&D Department 11](#ospo-structure)
+[Example 1: OSPO Within a n R&D Department 11](#ospo-structure)
 
 [Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs
 12](#example-2-corporate-level-ospo-with-supporting-division-level-ospos)
@@ -422,6 +422,29 @@ The following three main types of strategic guidance take shape in this final st
 3. 帮助组织理解和驾驭项目政治。
 
 ![FIGURE 4](./images/figure4.png)
+Head of R&D 研发主管
+OSPO 开源办公室
+Engineering 工程
+Strategy 战略
+Support 支持
+OS & System Libraries 操作系统和系统库 
+Graphics 图形
+Media 媒体
+IoT 物联网
+Cloud 云
+AI 人工智能
+Etc.等.
+Policies and Processes 政策和流程
+Technical Evangelism 技术布道师
+Developer Relations 开发者关系
+Open Source Foundations 开源基金会
+Open Standards 开放标准
+Tooling + IT 软件和IT
+Compliance 合规
+Events 事件
+Corporate Development 企业开发
+Software Procurement 软件采购
+
 # OSPO Structure
 
 In this section, we explore common OSPO structures. It is important to keep in mind that no two organizations are the same. Therefore, there are no cookie-cutter OSPO structures. Instead, many organiza- tions, including those with a long record of open source involvement, experiment with different setups. Generally, an organization's goal is to find the most suitable and efficient structure based upon its overall  software strategy, open source aspirations, reliance on OSS in products, unfilled positions in open source, and other factors. 
@@ -434,6 +457,23 @@ There are two main reasons to structure the OSPO under an R&D function (or depar
 ### Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs 
 
 This model (**FIGURE 5**) works best in large organizations with multiple product divisions. It consists of a corporate-level OSPO, which coordinates the activity of multiple supporting OSPOs at the division level. The corporate OSPO is responsible for establishing organization-wide policies and processes, deciding on the strategy, working with open source foundations, driving major open source initiatives, and managing open source matters at the corporate level in general. 
+
+图片5 中文翻译
+CEO Office 总裁办公室
+Business Unit 1 业务部门1
+Business Unit 2 业务部门2
+Corporate CTO 公司CTO
+SVP Engineering(or Division CTO Office) 工程高级副总裁（或部门CTO办公室）
+SVP Engineering(or Division CTO Office) 工程高级副总裁（或部门CTO办公室）
+Corporate Level OSPO 公司级别 OSPO
+Division OSPO 部门 OSPO
+Division OSPO 部门 OSPO
+Strategy 战略
+Compliance 合规
+Engineering 工程
+Support 支持
+Etc. 等。
+
 
 The supporting OSPOs are responsible for executing the open source strategy at the division level, ensuring staff follows the corpo- rate policies and processes, delivering training, and in many cases, managing upstream open source engineering. The corporate OSPO  may not have any engineering resources, except for a principal engineer or a senior architect, to provide technical expertise and leadership. 
 ### Example 3: OSPO as Part of the CTO Office or Engineering Department
@@ -448,6 +488,17 @@ The OSPO might have dedicated engineering resources that work on
 upstream projects depending on the organization\'s needs. **FIGURE 6**
 illustrates these two scenarios.
 
+图片6 中文翻译
+CEO Office 总裁办公室
+Engineering 工程
+OSPO 开源办公室
+Open Source Developers 开源开发者
+CEO Office 总裁办公室
+Engineering 工程
+CTO 首席技术官
+OSPO 开源办公室
+Open Source Developers 开源开发者
+
 ### Example 4: Virtual OSPO
 
 The virtual OSPO (**FIGURE 7**) is a common setup in an organization
@@ -460,6 +511,22 @@ source activ- ities. A virtual OSPO does not typically have a
 dedicated budget; instead, the budget for any open source spending
 would come from the engineering department or CTO office.
 
+图片7 中文翻译
+CEO Office 总裁办公室
+Engineering 工程
+Legal 法务
+Marketing 市场
+IT IT
+Platform 平台
+Services 服务
+Hardware 硬件
+Head of Open Source 开源负责人
+Open Source Counsel 开源法务顾问
+Open Source Developer Relations 开源开发者关系
+Open Source IT & Tooling 开源IT和软件
+
+
+
 ### Example 5: No Official OSPO
 
 ![](media/image43.png)This example (**FIGURE 8)** is of an
@@ -471,6 +538,14 @@ organizations, it is difficult to scale as the organization grows.
 
 ![](media/image5.png)![](media/image6.png){width="0.4955325896762905in"
 height="9.2082239720035e-2in"}
+图片8 中文翻译
+CEO Office 总裁办公室
+Engineering 工程
+Legal 法务
+Marketing 市场
+Corporate Development 公司开发
+IT IT
+
 
 # Staffing an OSPO
 # OSPO人员配备
