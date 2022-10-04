@@ -23,3 +23,8 @@ Read on for a cross section of the many Hyperledger-powered solutions that are i
 - Identity Applications in Action & Powered by Hyperledger
 
   由Hyperledger提供支持的实际身份应用程序
+
+### IBM Digital Health Pass
+### IBM 数字健康通行证
+
+[IBM Digital Health Pass](https://www.ibm.com/products/digital-health-pass), built on [Hyperledger Fabric](https://www.hyperledger.org/use/fabric), offers a multi-credential verifier that organizations can use to manage and execute their verification policies for COVID-19 and vaccination status in a way that balances the privacy of the individual with the requirements set by the organization and local health authorities. With IBM Digital Health Pass, organizations can verify multiple types of health credentials, such as Good Health Pass, IBM Digital Health Pass, Smart Health Card and EU Digital COVID Certificate. Privacy is central to the solution, where the verifier application minimizes the personal data that is ever displayed to the user through the execution of business rules and it never lets any personal data leave, or be stored in, the verifier app.
