@@ -434,15 +434,17 @@ OSPO的一个常见位置是在一个研发组织内。例如，本文作者在2
 There are two main reasons to structure the OSPO under an R&D function (or department). The first is to isolate the group from product divisions, thereby preventing it from becoming an auxiliary develop- ment arm for those divisions. This setup allows the OSPO to maintain a certain level of independence, both financially and in terms of projects, so it can focus on open source technologies of the highest priority without being influenced by any product division. The second reason to structure an OSPO within R&D is to better support efforts that involve external parties, such as other organizations and universities, away from daily product pressures.
 在研发职能部门（或部门）下组建OSPO有两个主要原因。第一个原因是将该小组与产品部门隔离，从而防止它成为这些部门的辅助开发部门。这种设置允许OSPO在财务和项目方面保持一定程度的独立性，因此它可以专注于最优先的开源技术而不受任何产品部门的影响。在研发部门内设立OSPO的第二个原因是为了更好地支持涉及外部各方的工作，如其他组织和大学，远离日常产品研发的压力。
 
-
-### Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs  公司级OSPO与支持部门级OSPO 
+### Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs 
+公司级OSPO与支持部门级OSPO 
 
 This model (**FIGURE 5**) works best in large organizations with multiple product divisions. It consists of a corporate-level OSPO, which coordinates the activity of multiple supporting OSPOs at the division level. The corporate OSPO is responsible for establishing organization-wide policies and processes, deciding on the strategy, working with open source foundations, driving major open source initiatives, and managing open source matters at the corporate level in general. 
 这种模式（**图5**）在有多个产品部门的大型组织中效果最好。它包括一个公司级的OSPO，它协调部门级的多个支持性OSPO的活动。公司级OSPO负责建立整个组织的政策和流程，决定战略，与开放源码基金会合作，推动主要的开放源码倡议，并在公司层面全面管理开放源码事务。
 
 The supporting OSPOs are responsible for executing the open source strategy at the division level, ensuring staff follows the corpo- rate policies and processes, delivering training, and in many cases, managing upstream open source engineering. The corporate OSPO  may not have any engineering resources, except for a principal engineer or a senior architect, to provide technical expertise and leadership. 
 支持性的OSPO负责在部门层面上执行开源战略，确保员工遵循公司的政策和流程，提供培训，并在许多情况下，管理上游的开源工程。公司的OSPO可能没有任何工程资源，除了一名首席工程师或一名高级架构师，以提供技术专长和领导能力。
-### Example 3: OSPO as Part of the CTO Office or Engineering Department OSPO作为CTO办公室或工程部的一部分
+
+### Example 3: OSPO as Part of the CTO Office or Engineering Department
+OSPO作为CTO办公室或工程部的一部分
 
 In medium-sized organizations, it is common to house the OSPO either
 within the engineering department or under the CTO office. This OSPO
@@ -453,9 +455,14 @@ external commitments require the approval of the executive sponsor.
 The OSPO might have dedicated engineering resources that work on
 upstream projects depending on the organization\'s needs. **FIGURE 6**
 illustrates these two scenarios.
-在中等规模的组织中，通常将OSPO置于工程部门或CTO办公室之下。这种OSPO
-由执行发起人（工程部的高级副总裁或CTO）管理。
+
+在中等规模的组织中，通常将OSPO置于工程部门或CTO办公室之下。
+在工程部门或CTO办公室之下。这种OSPO
+结构通常有一个专门的预算，由执行者（工程部高级副总裁或CTO）管理。
+这种OSPO结构通常有专门的预算，由执行发起人（工程部的高级副总裁或CTO）管理。
 尽管OSPO可能有自己的预算，但所有的支出和任何外部承诺都需要执行主管的批准。
+所有支出和任何外部承诺都需要执行赞助人的批准。
+
 OSPO可能有专门的工程资源在上游项目上工作。
 根据组织的需要，上游项目。**图6**
 说明了这两种情况。
@@ -472,8 +479,8 @@ source activ- ities. A virtual OSPO does not typically have a
 dedicated budget; instead, the budget for any open source spending
 would come from the engineering department or CTO office.
 虚拟OSPO（**图7**）是一个组织中常见的设置。
-有一个开放源码的负责人，通常是在工程部门内，没有任何专职的工作人员。开放源码的负责人与虚拟OSPO工作人员一起工作，该工作人员包括来自不同团队的个人，如法律、工程
-不同的团队，如法律、工程和营销，
+
+有一个开放源码的负责人，通常是在工程部门内，没有任何专职的工作人员。开放源码的负责人与虚拟OSPO工作人员一起工作，该工作人员包括来自不同团队的个人，如法律、工程不同的团队，如法律、工程和营销，
 他们每个人都拿出一定比例的时间来支持开源活动。虚拟 OSPO 通常没有专门的预算。
 相反，任何开放源码支出的预算的预算将来自工程部门或CTO办公室。
 
@@ -485,6 +492,10 @@ setup in smaller organizations and start-ups where different
 individuals fulfill the duties that are associated with an OSPO.
 Although this structure provides more flexibility for smaller
 organizations, it is difficult to scale as the organization grows.
+这个例子（**图8）**是一个没有正式OSPO的组织。
+这是小型组织和初创企业的典型设置，由不同的人履行与OSPO相关的职责。
+尽管这种结构为较小的组织提供了更大的灵活性,但随着组织的发展，它很难扩展。
+
 这个例子（**图8）**是一个没有正式OSPO的组织。
 这是小型组织和初创企业的典型设置，由不同的人履行与OSPO相关的职责。
 尽管这种结构为较小的组织提供了更大的灵活性,但随着组织的发展，它很难扩展。
