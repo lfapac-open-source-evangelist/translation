@@ -49,7 +49,7 @@ and Co Founder, _TODO Group_
 
 [OSPO Structure 11](#ospo-structure)
 
-[Example 1: OSPO Within an R&D Department 11](#ospo-structure)
+[Example 1: OSPO Within a n R&D Department 11](#ospo-structure)
 
 [Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs
 12](#example-2-corporate-level-ospo-with-supporting-division-level-ospos)
@@ -422,12 +422,36 @@ The following three main types of strategic guidance take shape in this final st
 3. 帮助组织理解和驾驭项目政治。
 
 ![FIGURE 4](./images/figure4.png)
+Head of R&D 研发主管
+OSPO 开源办公室
+Engineering 工程
+Strategy 战略
+Support 支持
+OS & System Libraries 操作系统和系统库 
+Graphics 图形
+Media 媒体
+IoT 物联网
+Cloud 云
+AI 人工智能
+Etc.等.
+Policies and Processes 政策和流程
+Technical Evangelism 技术布道师
+Developer Relations 开发者关系
+Open Source Foundations 开源基金会
+Open Standards 开放标准
+Tooling + IT 软件和IT
+Compliance 合规
+Events 事件
+Corporate Development 企业开发
+Software Procurement 软件采购
+
 # OSPO Structure
 
 In this section, we explore common OSPO structures. It is important to keep in mind that no two organizations are the same. Therefore, there are no cookie-cutter OSPO structures. Instead, many organiza- tions, including those with a long record of open source involvement, experiment with different setups. Generally, an organization's goal is to find the most suitable and efficient structure based upon its overall  software strategy, open source aspirations, reliance on OSS in products, unfilled positions in open source, and other factors. 
 在本节中，我们将探讨常见的OSPO结构。重要的是要牢记，没有两个组织是相同的。因此，不存在曲高和寡的OSPO结构。相反，许多组织，包括那些有长期参与开源活动记录的组织，都在尝试不同的设置。一般来说，一个组织的目标是根据其整体的软件战略、开放源码的愿景、产品对开放源码的依赖、开放源码中未填补的职位以及其他因素，找到最合适和有效的结构。
 
-### Example 1: OSPO Within an R&D Department OSPO在研发部门内
+### Example 1: OSPO Within an R&D Department 
+### 例1：OSPO在研发部门内
 
 A common placement for an OSPO is within an R&D organization. For instance, the author of this paper adopted this model (**FIGURE 4**) when he was hired by Samsung in early 2013 to establish Samsung's Open Source Group. In this example, the open source leader owns  open source engineering, and the strategy and support functions, and reports directly to the head of R&D. The Samsung OSPO has a dedi- cated budget to cover the head count, travel, and sponsorship costs for open source events, membership dues for open source foundations, hardware and software expenses, and various other miscellaneous expenses (including promotional items, such as tee shirts, hats, etc.).  This specific setup has worked very well for many years.
 OSPO的一个常见位置是在一个研发组织内。例如，本文作者在2013年初受雇于三星，建立三星的开源工作组时，就采用了这种模式（**图4**）。在这个例子中，开源管理者拥有开源工程化，以及战略和支持职能，并直接向研发主管汇报。三星OSPO有专门的预算来支付雇员费、差旅费、开源活动的赞助费、开源基金会的会费、硬件和软件开支以及其他各种杂项开支（包括宣传品，如T恤衫、帽子等）。 这种特定的设置多年来一直运作良好。
@@ -435,16 +459,33 @@ There are two main reasons to structure the OSPO under an R&D function (or depar
 在研发职能部门（或部门）下组建OSPO有两个主要原因。第一个原因是将该小组与产品部门隔离，从而防止它成为这些部门的辅助开发部门。这种设置允许OSPO在财务和项目方面保持一定程度的独立性，因此它可以专注于最优先的开源技术而不受任何产品部门的影响。在研发部门内设立OSPO的第二个原因是为了更好地支持涉及外部各方的工作，如其他组织和大学，远离日常产品研发的压力。
 
 ### Example 2: Corporate-Level OSPO With Supporting Division-Level OSPOs 
-公司级OSPO与支持部门级OSPO 
+### 例2：公司级OSPO与支持部门级OSPO 
 
 This model (**FIGURE 5**) works best in large organizations with multiple product divisions. It consists of a corporate-level OSPO, which coordinates the activity of multiple supporting OSPOs at the division level. The corporate OSPO is responsible for establishing organization-wide policies and processes, deciding on the strategy, working with open source foundations, driving major open source initiatives, and managing open source matters at the corporate level in general. 
 这种模式（**图5**）在有多个产品部门的大型组织中效果最好。它包括一个公司级的OSPO，它协调部门级的多个支持性OSPO的活动。公司级OSPO负责建立整个组织的政策和流程，决定战略，与开放源码基金会合作，推动主要的开放源码倡议，并在公司层面全面管理开放源码事务。
+
+图片5 中文翻译
+CEO Office 总裁办公室
+Business Unit 1 业务部门1
+Business Unit 2 业务部门2
+Corporate CTO 公司CTO
+SVP Engineering(or Division CTO Office) 工程高级副总裁（或部门CTO办公室）
+SVP Engineering(or Division CTO Office) 工程高级副总裁（或部门CTO办公室）
+Corporate Level OSPO 公司级别 OSPO
+Division OSPO 部门 OSPO
+Division OSPO 部门 OSPO
+Strategy 战略
+Compliance 合规
+Engineering 工程
+Support 支持
+Etc. 等。
+
 
 The supporting OSPOs are responsible for executing the open source strategy at the division level, ensuring staff follows the corpo- rate policies and processes, delivering training, and in many cases, managing upstream open source engineering. The corporate OSPO  may not have any engineering resources, except for a principal engineer or a senior architect, to provide technical expertise and leadership. 
 支持性的OSPO负责在部门层面上执行开源战略，确保员工遵循公司的政策和流程，提供培训，并在许多情况下，管理上游的开源工程。公司的OSPO可能没有任何工程资源，除了一名首席工程师或一名高级架构师，以提供技术专长和领导能力。
 
 ### Example 3: OSPO as Part of the CTO Office or Engineering Department
-OSPO作为CTO办公室或工程部的一部分
+例3：OSPO作为CTO办公室或工程部的一部分
 
 In medium-sized organizations, it is common to house the OSPO either
 within the engineering department or under the CTO office. This OSPO
@@ -455,6 +496,17 @@ external commitments require the approval of the executive sponsor.
 The OSPO might have dedicated engineering resources that work on
 upstream projects depending on the organization\'s needs. **FIGURE 6**
 illustrates these two scenarios.
+
+图 6
+CEO Office 总裁办公室
+Engineering 工程
+OSPO 开源办公室
+Open Source Developers 开源开发者
+CEO Office 总裁办公室
+Engineering 工程
+CTO 首席技术官
+OSPO 开源办公室
+Open Source Developers 开源开发者
 
 在中等规模的组织中，通常将OSPO置于工程部门或CTO办公室之下。
 在工程部门或CTO办公室之下。这种OSPO
@@ -467,7 +519,8 @@ OSPO可能有专门的工程资源在上游项目上工作。
 根据组织的需要，上游项目。**图6**
 说明了这两种情况。
 
-### Example 4: Virtual OSPO 虚拟OSPO
+### Example 4: Virtual OSPO 
+### 例4：虚拟OSPO
 
 The virtual OSPO (**FIGURE 7**) is a common setup in an organization
 that has a head of open source, which is typically within the
@@ -484,7 +537,22 @@ would come from the engineering department or CTO office.
 他们每个人都拿出一定比例的时间来支持开源活动。虚拟 OSPO 通常没有专门的预算。
 相反，任何开放源码支出的预算的预算将来自工程部门或CTO办公室。
 
-### Example 5: No Official OSPO 没有正式的OSPO 
+图片7 中文翻译
+CEO Office 总裁办公室
+Engineering 工程
+Legal 法务
+Marketing 市场
+IT IT
+Platform 平台
+Services 服务
+Hardware 硬件
+Head of Open Source 开源负责人
+Open Source Counsel 开源法务顾问
+Open Source Developer Relations 开源开发者关系
+Open Source IT & Tooling 开源IT和软件
+
+### Example 5: No Official OSPO
+### 例5：没有正式的OSPO 
 
 ![](media/image43.png)This example (**FIGURE 8)** is of an
 organization that does not have an official OSPO. This is a typical
@@ -502,6 +570,14 @@ organizations, it is difficult to scale as the organization grows.
 
 ![](media/image5.png)![](media/image6.png){width="0.4955325896762905in"
 height="9.2082239720035e-2in"}
+图片8 中文翻译
+CEO Office 总裁办公室
+Engineering 工程
+Legal 法务
+Marketing 市场
+Corporate Development 公司开发
+IT IT
+
 
 # Staffing an OSPO
 # OSPO人员配备
