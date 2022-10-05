@@ -74,3 +74,50 @@ OrgBook BC 提供一个公共目录服务，可搜索在加拿大不列颠哥伦
 OrgBookBC uses verifiable credentials to ensure that information about organizations are digitally signed by the entity that issues it. Issuers are public sector organizations that hold information about businesses, issue licenses or permits or certify processes. That electronic signature stays with the data throughout its life in OrgBook and is validated before its is display on the website. 
 
 OrgBook BC 使用可验证的凭证，确保有关组织的信息已经由发行的实体进行了数字签名。凭证的发行人是持有企业信息、颁发执照或许可证或认证流程的公共部门组织。该电子签名在 OrgBook 的整个生命周期中都保留在数据中，并在网站上显示之前进行验证。
+
+OrgBookBC is part of an overall commitment to digital trust technologies by the Government of British Columbia. In addition to deploying Hyperledger Aries, Indy and Ursa, the team there is leading much of the open source development for those projects. Read more on the Government of BC’s investment in verifiable credentials and digital wallet technologies [here](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source). 
+
+OrgBookBC 是不列颠哥伦比亚省政府承诺全面数字信任技术的一部分。除了部署 Hyperledger Aries、Indy 和 Ursa 之外，该团队还领导着这些项目的大部分开源代码的开发。有关不列颠哥伦比亚省政府对可验证凭证和数字钱包技术的投资的更多信息，详见[这里](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source)。
+
+### Digital Identity updates from Hyperledger Global Forum
+### Hyperledger 全球论坛的数字身份更新信息
+
+At Hyperledger Global Forum 2022, there was a range of business, technical and demo sessions focused on digital identity, including:
+
+在2022年的Hyperledger 全球论坛上，有一系列专注于数字身份的商业、技术和演示章节，包括：
+
+- [Bringing Trustworthiness in Industrial Device Lifecycle using Verifiable Credentials](https://sched.co/14H61) – Marquart Franz & Saad Bin Shams, Siemens AG
+
+   [使用可验证凭证，提升工业设备生命周期中的可信度](https://sched.co/14H61) -- 西门子股份公司的Marquart Franz & Saad Bin Shams, 
+   
+- Findy Agency — Highway to Verified Data Networks – Laura Vuorenoja & Harri Lainio, OP Financial Group
+   
+   [Findy Agency -- 通往已验证数据网络的高速公路](Findy Agency — Highway to Verified Data Networks ) -- OP财务组的Laura Vuorenoja & Harri Lainio, 
+
+- [Digital Identity Using the vLEI](https://sched.co/14H6n) – Christoph Schneider, Global Legal Entity Identifier Foundation (GLEIF)
+
+  [使用vLEI 的数字身份](https://sched.co/14H6n) --  全球法律实体识别基金会(GLEIF)的Christoph Schneider
+  
+- [Blockchain, Biometrics and Geo-Location: Lessons Learned from the Implementation of Innovative Technologies at the United Nations Joint Staff Pension Fund](https://sched.co/14H5m) – Dino Cataldo Dellaccio, United Nations Joint Staff Pension Fund & Shashank Rai, United Nations International Computing Centre (UNICC)
+
+  [区块链、生物识别和地理位置：联合国合办工作人员养恤基金在实施创新技术中的经验教训](https://sched.co/14H5m) -- 联合国合办工作人员养恤基金的Dino Cataldo Dellaccio和联合国国际计算中心（UNICC）的Shashank Rai
+   
+- [Hosted Discussion: Rhode Island Leads on Digital Identity Solutions with Hyperledger](https://sched.co/14H6e) – Liz Tanner, State of Rhode Island & Jim Mason, DTCC
+
+  [主持讨论：罗德岛州通过Hyperledger引领数字身份解决方案](https://sched.co/14H6e) -- 罗德岛州的Liz Tanner和DTCC的Jim Mason
+  
+- [Last Mile Problem in Self-Sovereign Identity – Biometric Authentification and Device Independent Wallet for Hyperledger Indy](https://sched.co/14H4u) – Non Kawana & Ken Naganuma, Hitachi, Ltd.
+
+  [自我主权身份的最后一英里问题 -- Hyperledger Indy的生物识别认证和设备独立钱包](https://sched.co/14H4u) -- 日立公司的Non Kawana & Ken Naganuma
+  
+- [Workshop: How To Build a Self-Sovereign Identity Agent With Hyperledger Aries Framework JavaScript](https://sched.co/15Bid) – Timo Glastra & Berend Sliedrecht, ANIMO & Jakub Koci, ABSA
+
+  [研讨会：如何使用Hyperledger Aries Javascript 框架构建自我主权身份代理](https://sched.co/15Bid) -- ANIMO的Timo Glastra & Berend Sliedrecht 和ABSA的Jakub Koci
+  
+Join the conversation about blockchain-based identity technologies and solutions with #HyperledgerIdentity on social channels. For a hands-on introduction to the market and technologies, join the free four hour Build Your Identity Solution Using Hyperledger Aries workshop. Or, for a more business level introduction, sign up for the free Getting Started with Self-Sovereign Identity (LFS178x) online course from Linux Foundation Training & Certification.
+
+通过社交渠道上的#HyperledgerIdentity 加入关于基于区块链的身份技术和解决方案的对话中来。要获得市场和技术的实际介绍，请参加大约四小时的“使用Hyperledger Aries构建您的身份解决方案”研讨会（免费的）。或者，要了解更多业务级别的介绍，请注册 Linux Foundation Training & Certification提供的的自我主权身份入门 (LFS178x) 在线课程（免费的）。
+
+  
+  
+   
