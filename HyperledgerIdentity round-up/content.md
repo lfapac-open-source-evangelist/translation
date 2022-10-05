@@ -41,6 +41,11 @@ Indicio 网络是由四个配备专业人员的企业级公共许可账本组成
 ### IDUnion 
 ### IDUnion
 
-IDUnion, the European identity verification network created as part of the “Secure Digital Identities Showcase” funding project, brings together public institutions, government agencies, private organizations, associations, educational institutions and other stakeholders from various fields to enable a fundamentally new, secure digital infrastructure for the verification of identity information. In August, 2022, IDUnion spun off Sociedad Cooperativa Europea (SCE) to operate the production network for credential verification. 
+[IDUnion](https://idunion.org/?lang=en), the European identity verification network created as part of the “Secure Digital Identities Showcase” funding project, brings together public institutions, government agencies, private organizations, associations, educational institutions and other stakeholders from various fields to enable a fundamentally new, secure digital infrastructure for the verification of identity information. In August, 2022, IDUnion spun off Sociedad Cooperativa Europea (SCE) to operate the production network for credential verification. 
 
-IDUnion 是作为“安全数字身份展示案例”资助项目的一部分而创建的欧洲身份验证网络，它汇集了公共机构、政府机构、私人组织、协会、教育机构和其他来自各个领域的利益相关者，以实现一个全新的、用于身份信息验证的安全数字基础设施。2022年8月，IDUnion 从 Sociedad Cooperativa Europea (SCE) 中剥离出来，以运营验证凭证的生产网络。
+[IDUnion](https://idunion.org/?lang=en) 是作为“安全数字身份示范案例”资助项目的一部分而创建的欧洲身份验证网络，它汇集了公共机构、政府机构、私人组织、协会、教育机构和其他来自各个领域的利益相关者，以实现一个全新的、用于身份信息验证的安全数字基础设施。2022年8月，IDUnion 从 Sociedad Cooperativa Europea (SCE) 中剥离出来，以运营验证凭证的生产网络。
+
+The IDUnion network, which is built on [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy), enables the clear verification of individuals, companies and institutions while allowing people and organizations to manage their identity information by themselves and to decide when they want to share this information and with whom. It has a decentralized structure and stores no personal data – not even as a hash. In order to protect privacy right from the start, all personal data is stored on the user’s end device. Users have a choice of wallets for storing and presenting credentials to third parties as required. Credentials are issued, verified and stored using open standards to ensure interoperability. Hyperledger Aries is the framework for managing the credentials.
+
+基于 Hyperledger Indy 构建的 IDUnion 网络，能够清晰地验证个人、公司和机构，同时允许个人和组织自行管理身份信息，并可决定什么时间、与谁共享这些信息。它具有去中心化的结构，不存储个人数据----甚至不存储一个哈希。 为了从一开始就保护隐私权，所有个人数据都存储在用户的终端设备上。用户可以根据需要选择钱包，用于存储凭证并出示给第三方。使用开放标准颁发、验证和存储凭证，以确保互操作性。Hyperledger Aries 是管理凭证的框架。
+
