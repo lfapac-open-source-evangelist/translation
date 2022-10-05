@@ -38,3 +38,9 @@ The Indicio Network is a collection of four professionally-staffed, enterprise-g
 
 Indicio 网络是由四个配备专业人员的企业级公共许可账本组成的，它们为交换可验证凭证提供了中立、独立和可靠的网络。 MainNet、DemoNet、TestNet 和 TempNet 都是基于 Hyperledger Indy 的网络，其节点分布在五大洲运行，节点运营商的数量也在不断增加。 Indicio 网络是可以支持 Indicio Proven 的网络之一，Indicio Proven 是一套完整的去中心化身份组件，用于使用可验证的数字凭证以保护隐私的方式验证和共享高价值的数据。 Proven 建立在 Hyperledger Aries 和 Hyperledger Ursa 以及 AnonCreds 和 DIDComm 之上，旨在简化这些开源代码库的实施和使用，为用户提供一个完全自主的解决方案，便于用户与现有系统集成，进行创新和规模化使用。
 
+### IDUnion 
+### IDUnion
+
+IDUnion, the European identity verification network created as part of the “Secure Digital Identities Showcase” funding project, brings together public institutions, government agencies, private organizations, associations, educational institutions and other stakeholders from various fields to enable a fundamentally new, secure digital infrastructure for the verification of identity information. In August, 2022, IDUnion spun off Sociedad Cooperativa Europea (SCE) to operate the production network for credential verification. 
+
+IDUnion 是作为“安全数字身份展示案例”资助项目的一部分而创建的欧洲身份验证网络，它汇集了公共机构、政府机构、私人组织、协会、教育机构和其他来自各个领域的利益相关者，以实现一个全新的、用于身份信息验证的安全数字基础设施。2022年8月，IDUnion 从 Sociedad Cooperativa Europea (SCE) 中剥离出来，以运营验证凭证的生产网络。
