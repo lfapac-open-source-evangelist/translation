@@ -73,4 +73,4 @@ OrgBook BC 提供一个公共目录服务，可搜索在加拿大不列颠哥伦
 
 OrgBookBC uses verifiable credentials to ensure that information about organizations are digitally signed by the entity that issues it. Issuers are public sector organizations that hold information about businesses, issue licenses or permits or certify processes. That electronic signature stays with the data throughout its life in OrgBook and is validated before its is display on the website. 
 
-OrgBook BC 使用可验证的凭证，确保有关组织的信息已经由发行的实体进行了数字签名。凭证的发行人是持有企业信息、颁发执照或许可证或认证流程的公共部门组织。该电子签名在 OrgBook 的整个生命周期中都与保留在数据中，并在网站上显示之前进行验证。
+OrgBook BC 使用可验证的凭证，确保有关组织的信息已经由发行的实体进行了数字签名。凭证的发行人是持有企业信息、颁发执照或许可证或认证流程的公共部门组织。该电子签名在 OrgBook 的整个生命周期中都保留在数据中，并在网站上显示之前进行验证。
