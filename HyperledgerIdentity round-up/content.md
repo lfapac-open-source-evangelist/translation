@@ -1,7 +1,7 @@
 ## HyperledgerIdentity round-up: A cross section of production digital identity solutions built using Hyperledger technologies
 ## HyperledgerIdentity 综述：使用 Hyperledger 相关技术构建的数字身份产品解决方案的剖析
 
-#### By Hyperledger September 28, 2022 Blog, Hyperledger Aries, Hyperledger Fabric, Hyperledger Indy, Hyperledger Ursa, Identity
+#### By Hyperledger | September 28, 2022 | Blog, Hyperledger Aries, Hyperledger Fabric, Hyperledger Indy, Hyperledger Ursa, Identity
 #### 作者：Hyperledger | 2022年9月28日 | 博客，Hyperledger Aries, Hyperledger Fabric, Hyperledger Indy, Hyperledger Ursa, 身份
 
 Verifying identities and information in a digital world is critical for establishing trust. But there are issues of privacy as well as efficiency, scale and accuracy in models that rely on centralized data collectors and databases. 
@@ -14,29 +14,29 @@ The adoption of a new generation of digital identity solutions that leverage dec
 
 Read on for a cross section of the many Hyperledger-powered solutions that are in production now. For other examples, check out these past #HyperledgerIdentity round-ups:
 
-请继续阅读，以了解多种目前由Hyperledger提供技术支持的产品解决方案的详情。有关其他示例，请查看这些过去的 #HyperledgerIdentity 的汇总：
+请继续阅读，以了解目前多种由Hyperledger提供技术支持的生产解决方案的详情。有关其他示例，请查看这些过去的 #HyperledgerIdentity 的汇总：
 
-- Hyperledger-Powered Digital Identity Solutions at Work  
+- [Hyperledger-Powered Digital Identity Solutions at Work](https://www.hyperledger.org/blog/2021/04/29/hyperledger-powered-digital-identity-solutions-at-work)
 
-  由 Hyperledger 赋能的数字身份解决方案
+  [由 Hyperledger 赋能的数字身份解决方案](https://www.hyperledger.org/blog/2021/04/29/hyperledger-powered-digital-identity-solutions-at-work)
   
-- Identity Applications in Action & Powered by Hyperledger
+- [Identity Applications in Action & Powered by Hyperledger](https://www.hyperledger.org/blog/2020/04/30/identity-applications-in-action-powered-by-hyperledger)
 
-  由 Hyperledger 提供支持的实际身份应用程序
+  [由 Hyperledger 提供支持的实际身份应用程序](https://www.hyperledger.org/blog/2020/04/30/identity-applications-in-action-powered-by-hyperledger)
 
 ### IBM Digital Health Pass
 ### IBM 数字健康通行证
 
 [IBM Digital Health Pass](https://www.ibm.com/products/digital-health-pass), built on [Hyperledger Fabric](https://www.hyperledger.org/use/fabric), offers a multi-credential verifier that organizations can use to manage and execute their verification policies for COVID-19 and vaccination status in a way that balances the privacy of the individual with the requirements set by the organization and local health authorities. With IBM Digital Health Pass, organizations can verify multiple types of health credentials, such as Good Health Pass, IBM Digital Health Pass, Smart Health Card and EU Digital COVID Certificate. Privacy is central to the solution, where the verifier application minimizes the personal data that is ever displayed to the user through the execution of business rules and it never lets any personal data leave, or be stored in, the verifier app.
 
-基于 [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 构建的 [IBM Digital Health Pass](https://www.ibm.com/products/digital-health-pass) 提供了一个多凭证验证器，组织可以使用该验证器管理和执行针对COVID-19新冠肺炎和疫苗接种状态的验证策略，以平衡个人隐私与由组织和当地卫生当局设置的要求。借助 IBM Digital Health Pass，组织可以验证多种类型的健康凭证，例如 Good Health Pass、IBM Digital Health Pass、Smart Health Card 和 EU Digital COVID Certificate。 隐私是该解决方案的核心，验证程序通过执行业务规则，以最小化向用户显示的个人数据，并且绝不允许任何个人数据离开或存储在验证程序中。
+基于 [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) 构建的 [IBM Digital Health Pass](https://www.ibm.com/products/digital-health-pass) 提供了一个多凭证验证器，组织可以使用该验证器管理和执行针对COVID-19新冠肺炎和疫苗接种状态的验证策略，以平衡个人隐私与由组织和当地卫生当局设置的要求。借助 IBM Digital Health Pass，组织可以验证多种类型的健康凭证，例如 Good Health Pass、IBM Digital Health Pass、Smart Health Card 和 EU Digital COVID Certificate。 隐私是该解决方案的核心，验证程序通过执行业务规则，最大限度地减少向用户显示的个人数据，并且绝不允许任何个人数据离开或存储在验证程序中。
 
 ### Indicio Network 
 ### Indicio 网络
 
 The Indicio Network is a collection of four professionally-staffed, enterprise-grade public-permissioned ledgers that provide a neutral, independent, and reliable network for the exchange of verifiable credentials. MainNet, DemoNet, TestNet, and TempNet are all Hyperledger Indy-based networks with nodes operating on five continents—and a growing number of node operators. The Indicio Network is one of the networks that can support Indicio Proven, a complete suite of decentralized identity components for authenticating and sharing high value data in a privacy-preserving way using verifiable digital credentials. Built on Hyperledger Aries and Hyperledger Ursa, as well as AnonCreds and DIDComm, Proven is designed to make implementing and using these open source codebases simple, providing users with a fully-owned solution that’s easy to integrate with existing systems, to innovate on, and to scale.  
 
-Indicio 网络是由四个配备专业人员的企业级公共许可账本组成的，它们为交换可验证凭证提供了中立、独立和可靠的网络。 MainNet、DemoNet、TestNet 和 TempNet 都是基于 Hyperledger Indy 的网络，其节点分布在五大洲运行，节点运营商的数量也在不断增加。 Indicio 网络是可以支持 Indicio Proven 的网络之一，Indicio Proven 是一套完整的去中心化身份组件，用于使用可验证的数字凭证以保护隐私的方式验证和共享高价值的数据。 Proven 建立在 Hyperledger Aries 和 Hyperledger Ursa 以及 AnonCreds 和 DIDComm 之上，旨在简化这些开源代码库的实施和使用，为用户提供一个完全自主的解决方案，便于用户与现有系统集成，进行创新和规模化使用。
+Indicio 网络是由四个配备专业人员的企业级公共许可账本组成的，它们为交换可验证凭证提供了中立、独立且可靠的网络。 MainNet、DemoNet、TestNet 和 TempNet 都是基于 Hyperledger Indy 的网络，其节点分布在五大洲运行，节点运营商的数量也在不断增加。 Indicio 网络是可以支持 Indicio Proven 的网络之一，Indicio Proven 是一套完整的去中心化身份组件，用于使用可验证的数字凭证以保护隐私的方式验证和共享高价值的数据。 Proven 建立在 Hyperledger Aries 和 Hyperledger Ursa 以及 AnonCreds 和 DIDComm 之上，旨在简化这些开源代码库的实施和使用，为用户提供一个完全自主的解决方案，便于用户与现有系统集成，进行创新和规模化使用。
 
 ### IDUnion 
 ### IDUnion
@@ -62,7 +62,7 @@ This staff passport used the Sorvin Network, which is built on Hyperledger Indy,
 
 The NHS is now gearing up to roll out the next generation of its Digital Staff Passport, which will streamline transfers and staff movements through the NHS. 
 
-NHS 现在正准备推出下一代数字员工护照，这将通过NHS简化人员调度和员工流动。
+NHS 现在正准备推出下一代数字员工护照，将通过NHS简化人员调度和员工流动。
 
 ### OrgBook BC 
 ### OrgBook BC 
@@ -77,7 +77,7 @@ OrgBook BC 使用可验证的凭证，确保有关组织的信息已经由发行
 
 OrgBookBC is part of an overall commitment to digital trust technologies by the Government of British Columbia. In addition to deploying Hyperledger Aries, Indy and Ursa, the team there is leading much of the open source development for those projects. Read more on the Government of BC’s investment in verifiable credentials and digital wallet technologies [here](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source). 
 
-OrgBookBC 是不列颠哥伦比亚省政府承诺全面数字信任技术的一部分。除了部署 Hyperledger Aries、Indy 和 Ursa 之外，该团队还领导着这些项目的大部分开源代码的开发。有关不列颠哥伦比亚省政府对可验证凭证和数字钱包技术的投资的更多信息，详见[这里](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source)。
+OrgBookBC 是不列颠哥伦比亚省政府承诺全面数字信任技术化的一部分。除了部署 Hyperledger Aries、Indy 和 Ursa 之外，该团队还领导着这些项目的大部分开源代码的开发。有关不列颠哥伦比亚省政府对可验证凭证和数字钱包技术的投资的更多信息，详见[这里](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source)。
 
 ### Digital Identity updates from Hyperledger Global Forum
 ### Hyperledger 全球论坛的数字身份更新信息
@@ -90,9 +90,9 @@ At Hyperledger Global Forum 2022, there was a range of business, technical and d
 
    [使用可验证凭证，提升工业设备生命周期中的可信度](https://sched.co/14H61) -- 西门子股份公司的Marquart Franz & Saad Bin Shams, 
    
-- Findy Agency — Highway to Verified Data Networks – Laura Vuorenoja & Harri Lainio, OP Financial Group
+- [Findy Agency — Highway to Verified Data Networks](https://sched.co/14H5g) – Laura Vuorenoja & Harri Lainio, OP Financial Group
    
-   [Findy Agency -- 通往已验证数据网络的高速公路](Findy Agency — Highway to Verified Data Networks ) -- OP财务组的Laura Vuorenoja & Harri Lainio, 
+   [Findy Agency -- 通往已验证数据网络的高速公路](https://sched.co/14H5g) -- OP财务组的Laura Vuorenoja & Harri Lainio, 
 
 - [Digital Identity Using the vLEI](https://sched.co/14H6n) – Christoph Schneider, Global Legal Entity Identifier Foundation (GLEIF)
 
@@ -116,7 +116,7 @@ At Hyperledger Global Forum 2022, there was a range of business, technical and d
   
 [Join the conversation](https://twitter.com/Hyperledger) about blockchain-based identity technologies and solutions with #HyperledgerIdentity on social channels. For a hands-on introduction to the market and technologies, join the free four hour [Build Your Identity Solution Using Hyperledger Aries](https://wiki.hyperledger.org/display/events/Build+Your+Identity+Solution+Using+Hyperledger+Aries) workshop. Or, for a more business level introduction, sign up for the free [Getting Started with Self-Sovereign Identity (LFS178x)](https://training.linuxfoundation.org/blog/learn-the-fundamentals-of-self-sovereign-identity-in-free-online-training-course/?utm_medium=partner-marketing&utm_source=lf&utm_campaign=linuxfoundation&utm_content=pr-lfs178) online course from Linux Foundation Training & Certification.
 
-通过社交渠道上的#HyperledgerIdentity 加入[关于基于区块链的身份技术和解决方案的对话](https://twitter.com/Hyperledger)中来。要获得市场和技术的实际介绍，请参加大约四小时的“[使用Hyperledger Aries构建您的身份解决方案](https://wiki.hyperledger.org/display/events/Build+Your+Identity+Solution+Using+Hyperledger+Aries)”研讨会（免费的）。或者，要了解更多业务级别的介绍，请注册 Linux Foundation Training & Certification提供的的“[自我主权身份入门(LFS178x)](https://training.linuxfoundation.org/blog/learn-the-fundamentals-of-self-sovereign-identity-in-free-online-training-course/?utm_medium=partner-marketing&utm_source=lf&utm_campaign=linuxfoundation&utm_content=pr-lfs178)”在线课程（免费的）。
+通过社交渠道上的#HyperledgerIdentity 加入[关于基于区块链的身份技术和解决方案的对话](https://twitter.com/Hyperledger)中来。要获得市场和技术的实际介绍，请参加大约四小时的“[使用Hyperledger Aries构建您的身份解决方案](https://wiki.hyperledger.org/display/events/Build+Your+Identity+Solution+Using+Hyperledger+Aries)”研讨会（免费的）。或者，要了解更多业务级别的介绍，请注册 Linux Foundation Training & Certification提供的“[自我主权身份入门(LFS178x)](https://training.linuxfoundation.org/blog/learn-the-fundamentals-of-self-sovereign-identity-in-free-online-training-course/?utm_medium=partner-marketing&utm_source=lf&utm_campaign=linuxfoundation&utm_content=pr-lfs178)”在线课程（免费的）。
 
   
   
