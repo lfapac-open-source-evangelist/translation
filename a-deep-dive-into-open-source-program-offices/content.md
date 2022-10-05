@@ -177,10 +177,46 @@ CTO，Linux基金会联合创始人，TODO工作组
 ![InfoGraph](./images/infograph.png)
 | &nbsp;  | &nbsp;   | &nbsp;   |
 |-------------- | -------------- | -------------- |
-| WHAT IS AN OSPO?<br>OSPO is designed to be the center of competency for an organization's open source operations and structure.<br>什么是OSPO？<br>OSPO旨在成为组织中开源运营和结构的能力中心。| OSPOS IN THE ORGANIZATION<br>OSPOs may exist unoﬃcially; virtually; within research and development (R&D), engineering, or other corporate departments; or in executive-level oﬃces of the Chief Technology Oﬃcer (CTO) or Chief Legal Oﬃcer.<br>组织中的OSPO<br>OSPO可能以非正式和虚拟的形式存在于研发（R&D）、工程或其他公司部门中；或者在首席技术官（CTO）或首席法律官的管理层办公室中。| OSPO BENEFITS: PROCESSES <br>OSPOs oversee the establishment or adaptation of internal policies to better manage open source software (OSS) compliance in fast-moving, dynamic environments. <br>OSPO的益处：流程 <br>OSPO监督内部政策的制定或调整，以在快速变化的动态环境中更好地管理开源软件 (OSS) 合规性。|
-| WHY FORM AN OSPO?<br>Organizations across industries establish OSPOs to drive OSS leadership and gain a critical foothold in a robust, external R&D ecosystem.<br>为什么要成立OSPO？<br>跨行业的组织建立OSPO以推动OSS的领导地位，并在强大的外部研发生态系统中获得关键立足点。|OSPO STAFF<br>OSPOs can be run by any distinguished individuals with strong sets of skills, such as software architects, technical evangelists, compliance engineers, and legal counsel. <br>OSPO工作人员<br>OSPO可以由任何具有强大技能的杰出人士运营，例如软件架构师、技术布道者、合规工程师和法律顾问。<br>| OSPO BENEFITS: TOOLS<br>OSPOs help to implement unique and ﬂexible sets of tools that support OSS development models while meeting corporate Information Technology guidelines. <br>OSPO的益处：工具<br>OSPO有助于实施独特而灵活的工具集，这些工具集支持OSS开发模型，同时可以满足企业信息技术准则。| 
-|CHARACTERISTICS OF OSPO MATURITY<br>Mature OSPOs oversee OSS consumption, governance, strategy, contribution, processes, and tooling.<br>OSPO成熟度的特征<br>成熟的OSPO负责监督OSS的使用、治理、战略、贡献、流程和工具。| OSPO RESPONSIBILITIES<br>The OSPO assumes diﬀerent responsibilities that change over time, including developing and executing the open source  ( OS ) strategy, setting priorities, tracking performance, and leading community engagement.<br>OSPO职责<br>OSPO会随着时间的推移承担不同的职责，包括开发和执行开源（OS）战略、设置优先级、跟踪表现和领导社区参与。| OSPO BENEFITS: CONTINUITY<br>As organizational needs or strategies evolve, OSPOs enable continuity in executive support, funding, software development practices, and OSS project prioritization.<br>OSPO的益处：延续性<br>随着组织需求或战略的发展，OSPO能够实现行政支持、资金、软件开发实践和OSS项目优先级的延续性。|
-|OSPO MATURITY MODEL <br>OSPO maturity evolves in the following stages: ad-hoc adoption -> legal motivations -> community-driven -> engagement-driven -> leadership-driven.<br>OSPO成熟度模型<br>OSPO成熟度分为以下阶段：临时采用 -> 法务驱动 -> 社区驱动 -> 参与驱动 -> 领导力驱动 | OSPO BENEFITS: CULTURE<br>OSPOs help to bridge the cultural gap between traditional software development practices and the requirements of open source development. <br>OSPO的益处：文化<br>OSPO有助于跨越传统软件开发实践与开源开发要求之间的文化鸿沟。| OSPO BENEFITS: EDUCATION<br>OSPOs improve technical, mentorship, and compliance-related education and training programming for team members across all levels of the organization. | OSPO的益处：教育<br>OSPO为组织内各级别的团队成员改进技术、指导和合规相关的教育和培训方案。| 
+| WHAT IS AN OSPO?
+OSPO is designed to be the center of competency for an organization's open source operations and structure.
+什么是OSPO？
+OSPO旨在成为组织中开源运营和结构的能力中心。| OSPOS IN THE ORGANIZATION
+OSPOs may exist unoﬃcially; virtually; within research and development (R&D), engineering, or other corporate departments; or in executive-level oﬃces of the Chief Technology Oﬃcer (CTO) or Chief Legal Oﬃcer.
+组织中的OSPO
+OSPO可能以非正式和虚拟的形式存在于研发（R&D）、工程或其他公司部门中；或者在首席技术官（CTO）或首席法律官的管理层办公室中。| OSPO BENEFITS: PROCESSES 
+OSPOs oversee the establishment or adaptation of internal policies to better manage open source software (OSS) compliance in fast-moving, dynamic environments. 
+OSPO的益处：流程 
+OSPO监督内部政策的制定或调整，以在快速变化的动态环境中更好地管理开源软件 (OSS) 合规性。|
+| WHY FORM AN OSPO?
+Organizations across industries establish OSPOs to drive OSS leadership and gain a critical foothold in a robust, external R&D ecosystem.
+为什么要成立OSPO？
+跨行业的组织建立OSPO以推动OSS的领导地位，并在强大的外部研发生态系统中获得关键立足点。|OSPO STAFF
+OSPOs can be run by any distinguished individuals with strong sets of skills, such as software architects, technical evangelists, compliance engineers, and legal counsel. 
+OSPO工作人员
+OSPO可以由任何具有强大技能的杰出人士运营，例如软件架构师、技术布道者、合规工程师和法律顾问。
+| OSPO BENEFITS: TOOLS
+OSPOs help to implement unique and ﬂexible sets of tools that support OSS development models while meeting corporate Information Technology guidelines. 
+OSPO的益处：工具
+OSPO有助于实施独特而灵活的工具集，这些工具集支持OSS开发模型，同时可以满足企业信息技术准则。| 
+|CHARACTERISTICS OF OSPO MATURITY
+Mature OSPOs oversee OSS consumption, governance, strategy, contribution, processes, and tooling.
+OSPO成熟度的特征
+成熟的OSPO负责监督OSS的使用、治理、战略、贡献、流程和工具。| OSPO RESPONSIBILITIES
+The OSPO assumes diﬀerent responsibilities that change over time, including developing and executing the open source  ( OS ) strategy, setting priorities, tracking performance, and leading community engagement.
+OSPO职责
+OSPO会随着时间的推移承担不同的职责，包括开发和执行开源（OS）战略、设置优先级、跟踪表现和领导社区参与。| OSPO BENEFITS: CONTINUITY
+As organizational needs or strategies evolve, OSPOs enable continuity in executive support, funding, software development practices, and OSS project prioritization.
+OSPO的益处：延续性
+随着组织需求或战略的发展，OSPO能够实现行政支持、资金、软件开发实践和OSS项目优先级的延续性。|
+|OSPO MATURITY MODEL 
+OSPO maturity evolves in the following stages: ad-hoc adoption -> legal motivations -> community-driven -> engagement-driven -> leadership-driven.
+OSPO成熟度模型
+OSPO成熟度分为以下阶段：临时采用 -> 法务驱动 -> 社区驱动 -> 参与驱动 -> 领导力驱动 | OSPO BENEFITS: CULTURE
+OSPOs help to bridge the cultural gap between traditional software development practices and the requirements of open source development. 
+OSPO的益处：文化
+OSPO有助于跨越传统软件开发实践与开源开发要求之间的文化鸿沟。| OSPO BENEFITS: EDUCATION
+OSPOs improve technical, mentorship, and compliance-related education and training programming for team members across all levels of the organization. | OSPO的益处：教育
+OSPO为组织内各级别的团队成员改进技术、指导和合规相关的教育和培训方案。| 
 # Abstract
 
 摘要
@@ -329,7 +365,48 @@ FIGURE 3
 图3
 Maturity stages of OSPOs
 OSPO成熟度阶段 
-Source: TODO Group<br>来源：TODO工作组 <br>high 高 <br>Ability to execute 执行能力<br>low 低 <br>Stage0<br>阶段0<br>Stage1<br>阶段1<br>Stage2<br>阶段2<br>Stage3<br>阶段3<br>Stage4<br>阶段4<br>null<br>空<br>Low<br>低<br>OSPO Level<br>OSPO级别<br>Adoption 采用<br>Adopting 采用<br>OS Ad Hoc<br>临时采用OS<br>Legal Education<br>法律教育<br>Providing OSS Compliance, Inventory, Developer Education<br>提供OSS合规性、清单、开发者教育<br>Community Education<br>社区教育<br>Evangelizing OSS Use and Ecosystem Participation <br>为OSS的使用和生态参与布道<br>Engagement<br>参与<br>Hosting OSS Projects and Growing Communities<br>孵化OSS项目和发展社区<br>Leadership<br>领导力<br>Becoming a Strategic Decision-Making Partner <br>成为战略决策合伙人<br>
+Source: TODO Group
+来源：TODO工作组 
+high 高 
+Ability to execute 执行能力
+low 低 
+Stage0
+阶段0
+Stage1
+阶段1
+Stage2
+阶段2
+Stage3
+阶段3
+Stage4
+阶段4
+null
+空
+Low
+低
+OSPO Level
+OSPO级别
+Adoption 采用
+Adopting 采用
+OS Ad Hoc
+临时采用OS
+Legal Education
+法律教育
+Providing OSS Compliance, Inventory, Developer Education
+提供OSS合规性、清单、开发者教育
+Community Education
+社区教育
+Evangelizing OSS Use and Ecosystem Participation 
+为OSS的使用和生态参与布道
+Engagement
+参与
+Hosting OSS Projects and Growing Communities
+孵化OSS项目和发展社区
+Leadership
+领导力
+Becoming a Strategic Decision-Making Partner 
+成为战略决策合伙人
+
 ### Stage 0: Ad-Hoc Approach
 ### 阶段0：临时采用
 Nowadays, almost all organizations use OSS, although how they adapt and initially use it varies. 
