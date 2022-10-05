@@ -56,3 +56,10 @@ In 2019, the NHS was preparing to pilot a digital passport project that would al
 
 2019年，NHS 正准备试行一个数字护照项目，该项目允许员工在手机上保存他们的HR记录和其他记录的凭证信息，作为一项长期计划，还要便于员工将凭证信息从一个设备迁移到另一个设备。当疫情来袭时，这一举措迅速从试点项目转变为实际生产部署。[NHS Covid-19 数字员工护照](https://beta.staffpassports.nhs.uk/)于2020年夏季推出，支持 NHS 组织之间快速高效的员工流动，以应对卫生紧急情况。 COVID-19 数字员工护照为临时调度到其他 NHS 组织的员工提供了坚实的法律框架，在员工调动之前已完成检查，相关的凭证立等可取。正如试点中所述，信息由工作人员安全传输，验证过的凭证存储在他们自己的智能手机上，由他们自己控制。
 
+This staff passport used the Sorvin Network, which is built on Hyperledger Indy, to verify the digital credentials, and the Evernym (now Avast) Connect.me digital wallet app, which is powered by Hyperledger Aries, Indy and Ursa, to enable staff to store and share their credentials. 
+
+该员工护照使用基于 Hyperledger Indy 构建的 Sorvin 网络来验证数字凭证，由Hyperledger Aries、Indy 和 Ursa 提供支持的 Evernym（现在是 Avast）Connect.me 数字钱包应用程序，使员工能够存储和共享他们的凭据。
+
+The NHS is now gearing up to roll out the next generation of its Digital Staff Passport, which will streamline transfers and staff movements through the NHS. 
+
+NHS 现在正准备推出下一代数字员工护照，这将通过NHS简化人员调度和员工流动。
