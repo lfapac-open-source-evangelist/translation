@@ -63,3 +63,10 @@ This staff passport used the Sorvin Network, which is built on Hyperledger Indy,
 The NHS is now gearing up to roll out the next generation of its Digital Staff Passport, which will streamline transfers and staff movements through the NHS. 
 
 NHS 现在正准备推出下一代数字员工护照，这将通过NHS简化人员调度和员工流动。
+
+### OrgBook BC 
+### OrgBook BC 
+
+OrgBook BC is a searchable public directory of organizations registered in British Columbia, Canada, provided by the BC Government’s Ministry of Citizens’ Services. OrgBook BC provides verified data, including legal names and DBA names, business numbers, BC registration status and select licensee and permits, for more than 1.4 million organizations. All of the information in the OrgBookBC is received, stored, verified and displayed using the latest digital trust technologies. 
+
+OrgBook BC 提供一个公共目录服务，可搜索在加拿大不列颠哥伦比亚省注册的组织信息，该服务由不列颠哥伦比亚省政府的公民服务部提供。 OrgBook BC 为超过 140 万个组织提供验证过的数据，包括法定名称和 DBA 名称、企业编号、在不列颠哥伦比亚的注册状态以及选定的被许可人和许可证。 OrgBook BC中的所有信息都是使用最新的数字信任技术接收、存储、验证和显示的。
