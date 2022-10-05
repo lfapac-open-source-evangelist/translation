@@ -49,3 +49,10 @@ The IDUnion network, which is built on [Hyperledger Indy](https://www.hyperledge
 
 基于[Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)构建的 IDUnion 网络，能够清晰地验证个人、公司和机构，同时允许个人和组织自行管理身份信息，并可决定什么时间、与谁共享这些信息。它具有去中心化的结构，不存储个人数据----甚至不存储一个哈希。 为了从一开始就保护隐私权，所有个人数据都存储在用户的终端设备上。用户可以根据需要选择钱包，用于存储凭证并出示给第三方。使用开放标准颁发、验证和存储凭证，以确保互操作性。Hyperledger Aries 是管理凭证的框架。
 
+### NHS Covid-19 Digital Staff Passport
+### NHS Covid-19 数字员工护照
+
+In 2019, the NHS was preparing to pilot a digital passport project that would allow staff to carry their HR and other records as credentials on their phones as a long-term plan to make it easier to transfer from one facility to another. When the pandemic hit, this went from a pilot to a production deployment quickly. The NHS Covid-19 Digital Staff Passport rolled out in summer to support swift and efficient staff movement between NHS organizations in response to the response health emergency. The COVID-19 Digital Staff Passport provided a solid legal framework for staff to be temporarily deployed into other NHS organizations with evidence available that checks have been completed before staff move. As laid out in the pilot, the information was transferred securely by the staff member as verified credentials stored on their own smartphone, putting them in control.
+
+2019年，NHS 正准备试行一个数字护照项目，该项目允许员工在手机上保存他们的HR记录和其他记录的凭证信息，作为一项长期计划，还要便于员工将凭证信息从一个设备迁移到另一个设备。当疫情来袭时，这一举措迅速从试点项目转变为实际生产部署。NHS Covid-19 数字员工护照于2020年夏季推出，支持 NHS 组织之间快速高效的员工流动，以应对卫生紧急情况。 COVID-19 数字员工护照为临时调度到其他 NHS 组织的员工提供了坚实的法律框架，在员工调动之前已完成检查，相关的凭证立等可取。正如试点中所述，信息由工作人员安全传输，验证过的凭证存储在他们自己的智能手机上，由他们自己控制。
+
