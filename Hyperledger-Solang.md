@@ -1,6 +1,8 @@
 # Meet Hyperledger Solang, a portable Solidity compiler
-By Sean Young, Lucas Steuernagel, Cyrill Leutwiler September 12, 2022 Blog, Hyperledger Solang 
 # 让我们来认识一下超级账本Solang，一个可移植的Solidity编译器 
+
+By Sean Young, Lucas Steuernagel, Cyrill Leutwiler September 12, 2022 Blog, Hyperledger Solang 
+
 作者：Sean Young、Lucas Steuernagel、Cyrill Leutwiler | 2022年9月12日 | 博客，超级账本Solang
 
 We are excited to announce that Solang has been accepted as the latest Hyperledger® project and has been renamed as Hyperledger Solang™. The project is now formally being incubated as a top-level project by the Hyperledger Foundation™, hosted by the Linux Foundation, and has support from multiple sponsors. 
@@ -12,9 +14,10 @@ Solang started in the Hyperledger Labs since we always wanted to work together w
 Solang项目是在超级账本实验室中成立的，因为我们一直想与其他超级账本项目合作。我们支持的第一个账本是超级账本Burrow。成为超级账本实验室的一员是提高项目知名度的好方法，确保我们可以使用超级账本提供的出色工具。在利用了这些资源之后，超级账本Solang——一种支持智能合约可移植性的工具，成了目前最新的超级账本项目。
 
 ## What is Hyperledger Solang
+## 什么是超级账本Solang？
+
 Hyperledger Solang is a compiler for Solidity source code and targets different blockchains.
 
-## 什么是超级账本Solang？
 超级账本Solang是Solidity源代码的编译器，面向不同的区块链。
 
 The idea for Solang arose from early work on Hyperledger Burrow. We were trying to do things with Solidity that were not possible with the existing Ethereum Solidity compiler. Since that compiler is specific for Ethereum, there was no interest in supporting features for Hyperledger Burrow. From that problem, a portable Solidity compiler that could support many blockchains was born, making it possible to have different features depending on which blockchain is being targeted. 
@@ -30,9 +33,10 @@ Currently, Hyperledger Solang supports Solana and Polkadot (Substrate).
 目前，超级账本Solang支持Solana协议和Polkadot（Substrate开发框架）协议。
 
 ## How to use Hyperledger Solang
+## 如何使用超级账本Solang
+
 Hyperledger Solang compiles Solidity into a native contract and a corresponding metadata file. Deploying a compiled contract needs tooling from the corresponding target blockchain. 
 
-## 如何使用超级账本Solang
 超级账本Solang将Solidity编译为一个本地合约和一个相应的元数据文件。部署一个编译好的合约需要对应目标区块链的工具。
 
 First follow the installation guide for installing Solang: https://solang.readthedocs.io/en/latest/installing.html and then follow the steps for Solana https://solang.readthedocs.io/en/latest/targets/solana.html or Substrate https://solang.readthedocs.io/en/latest/targets/substrate.html 
@@ -44,7 +48,6 @@ For Solana, we have the @solana/solidity npm package for deploying and interacti
 对于Solana，我们有@solana/solidity npm包，用于部署Solang编译的合约并与之交互。要为Solana编译Solidity，请使用:
 
 ### $ solang compile –target solana source.sol
-
 ### $ solang compile –target solana source.sol
 
 This will produce an ABI file for each contract, and a single binary contract called `bundle.so`. 
@@ -56,7 +59,6 @@ For Polkadot or Substrate, the native @polkadot/api-contract npm package can be 
 对于Polkadot或Substrate，可以使用本地的@polkadot/api-contract npm包。编译Solidity for Substrate的命令行是:
 
 ### $ solang compile –target substrate source.sol
-
 ### $ solang compile –target substrate source.sol
 
 For each contract found in the file a `.contract` file is produced. 
@@ -72,7 +74,6 @@ We also have a visual studio code extension, which provides real-time compiler w
 我们还有一个visual studio代码扩展功能，当你把鼠标悬停在变量和函数上时，它会提供实时的编译器警告和错误以及类型信息。
 
 ## What's next
-
 ## 下一步是什么
 
 1.Language support: Hyperledger Solang already supports nearly all the syntax that Ethereum Solidity 0.8 supports. There are a few minor exceptions like slices. We intend to keep up with the latest Solidity developments as they are released. 
@@ -92,9 +93,10 @@ We also have a visual studio code extension, which provides real-time compiler w
 4.超级账本项目：我们已经与超级账本Sawtooth、超级账本Fabric和私有数据对象进行了对话，它们表示有兴趣使用Solidity支持，但在Solang中实施这些项目的新目标尚需时日。
 
 ## Where to get more information and how to get involved
+## 从哪里获得更多信息以及如何参与其中？
+
 Please head to the github documenation page https://github.com/hyperledger-labs/solang documentation page https://solang.readthedocs.io/en/latest/
 
-## 从哪里获得更多信息以及如何参与其中？
 请前往github文档页面查看https://github.com/hyperledger-labs/solang文档页面https://solang.readthedocs.io/en/latest/
 
 If you want to get involved, we have a curated list of good first issues to work on in our github issue tracker: https://github.com/hyperledger/solang/labels/good%20first%20issue. 
@@ -103,4 +105,4 @@ If you want to get involved, we have a curated list of good first issues to work
 
 We are always available on the #solang channel on the hyperledger discord, and we run a daily discord meeting at 13:30 UTC in #solang-meetup.  For more details, see the Hyperledger calendar of public meetings: https://wiki.hyperledger.org/display/HYP/Calendar+of+Public+Meetings. We look forward to welcoming you. 
 
-你随时可以在超级账本discord的#solang频道中找到我们，我们每天13:30（UTC时间）会在#solang-meetup中开争端解决会议。如果你想要了解更多细节，请查看超级账本日历中的公开会议：https://wiki.hyperledger.org/display/HYP/Calendar+of+Public+Meetings。我们期待你的光临。
+你随时可以在超级账本discord的#solang频道中找到我们，我们每天13:30（UTC时间）会在#solang-meetup中开分歧讨论会议。如果你想要了解更多细节，请查看超级账本日历中的公开会议：https://wiki.hyperledger.org/display/HYP/Calendar+of+Public+Meetings。我们期待你的光临。
