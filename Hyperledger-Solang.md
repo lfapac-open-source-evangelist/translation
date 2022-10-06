@@ -75,21 +75,21 @@ We also have a visual studio code extension, which provides real-time compiler w
 
 ## 下一步是什么
 
-1. Language support: Hyperledger Solang already supports nearly all the syntax that Ethereum Solidity 0.8 supports. There are a few minor exceptions like slices. We intend to keep up with the latest Solidity developments as they are released. 
+1.Language support: Hyperledger Solang already supports nearly all the syntax that Ethereum Solidity 0.8 supports. There are a few minor exceptions like slices. We intend to keep up with the latest Solidity developments as they are released. 
 
-1. 语言支持：超级账本Solang已经支持以太坊Solidity 0.8所支持的几乎所有语法。也有一些小的例外，比如切片。我们打算在Solidity开发的最新动态发布后，及时了解它们。
+1.语言支持：超级账本Solang已经支持以太坊Solidity 0.8所支持的几乎所有语法。也有一些小的例外，比如切片。我们打算在Solidity开发的最新动态发布后，及时了解它们。
 
-2. Stabilized targets: Both the Solana and Substrate targets are undergoing stabilization and are expected to be finished by the end of the year. Once this happens, we expect many more users. We are aware of blockchain development teams wanting to use Hyperledger Solang in production, which makes this point a priority. 
+2.Stabilized targets: Both the Solana and Substrate targets are undergoing stabilization and are expected to be finished by the end of the year. Once this happens, we expect many more users. We are aware of blockchain development teams wanting to use Hyperledger Solang in production, which makes this point a priority. 
 
-2. 稳定的目标：Solana和Substrate这两项目标都在稳定中，预计将于今年年底完成。一旦稳定，我们预计会有更多的用户。我们知道区块链开发团队希望在生产中使用超级账本Solang，所以这一点是头等大事。
+2.稳定的目标：Solana和Substrate这两项目标都在稳定中，预计将于今年年底完成。一旦稳定，我们预计会有更多的用户。我们知道区块链开发团队希望在生产中使用超级账本Solang，所以这一点是头等大事。
 
-3. EVM support: Hyperledger Solang used to have an ewasm target. However, since ewasm is no longer going to happen on Ethereum, this target has been dropped. In fact, we have bigger plans: we renamed most of the ewasm target to EVM, and hope to have EVM support in the future. An EVM target would be an interesting development because it would bring Solang to Ethereum and any other EVM based chain. Many projects that are already developing for Ethereum are interested in running their contracts in multiple environments, using a single tool that compiles for EVM and other blockchains. We are considering running a Hyperledger mentorship for this difficult but rewarding task next year. 
+3.EVM support: Hyperledger Solang used to have an ewasm target. However, since ewasm is no longer going to happen on Ethereum, this target has been dropped. In fact, we have bigger plans: we renamed most of the ewasm target to EVM, and hope to have EVM support in the future. An EVM target would be an interesting development because it would bring Solang to Ethereum and any other EVM based chain. Many projects that are already developing for Ethereum are interested in running their contracts in multiple environments, using a single tool that compiles for EVM and other blockchains. We are considering running a Hyperledger mentorship for this difficult but rewarding task next year. 
 
 3.EVM支持：超级账本Solang过去有一个ewasm目标。然而，由于以太坊不再使用ewasm，这个目标已经被放弃了。事实上，我们有更大的计划：我们将大部分ewasm对象重命名为EVM，并希望未来获得EVM支持。EVM对象将是一个有趣的变化，因为它会把Solang引入以太坊和任何其他基于EVM的链中。许多已经在为以太坊做开发的项目都有兴趣在多个环境中运行他们的合约，这要通过利用为EVM和其他区块链编译的单独工具来完成。我们正在考虑明年为这一困难但有意义的任务举办一次超级账本导师培训活动。
 
-4. Hyperledger projects: We have had conversations with Hyperledger Sawtooth, Hyperledger Fabric, and Private Data Objects, which expressed interest in having Solidity support, but there is still work to be done to implement a new target in Solang for these projects. 
+4.Hyperledger projects: We have had conversations with Hyperledger Sawtooth, Hyperledger Fabric, and Private Data Objects, which expressed interest in having Solidity support, but there is still work to be done to implement a new target in Solang for these projects. 
 
-4. 超级账本项目：我们已经与超级账本Sawtooth、超级账本Fabric和私有数据对象进行了对话，它们表示有兴趣使用Solidity支持，但在Solang中实施这些项目的新目标尚需时日。
+4.超级账本项目：我们已经与超级账本Sawtooth、超级账本Fabric和私有数据对象进行了对话，它们表示有兴趣使用Solidity支持，但在Solang中实施这些项目的新目标尚需时日。
 
 ## Where to get more information and how to get involved
 Please head to the github documenation page https://github.com/hyperledger-labs/solang documentation page https://solang.readthedocs.io/en/latest/
