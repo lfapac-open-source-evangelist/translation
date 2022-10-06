@@ -49,7 +49,7 @@ For Solana, we have the @solana/solidity npm package for deploying and interacti
 
 This will produce an ABI file for each contract, and a single binary contract called `bundle.so`. 
 
-这将为每个合约生成一个ABI文件，以及一个名为“bundle.so”的二进制合约。
+这将为每个合约生成一个ABI文件，以及一个名为`bundle.so`的二进制合约。
 
 For Polkadot or Substrate, the native @polkadot/api-contract npm package can be used. The command line for compiling Solidity for Substrate is: 
 
@@ -61,11 +61,11 @@ For Polkadot or Substrate, the native @polkadot/api-contract npm package can be 
 
 For each contract found in the file a `.contract` file is produced. 
 
-对于在文件中发现的每个合约，都会产生一个“.contract”文件。
+对于在文件中发现的每个合约，都会产生一个`.contract`文件。
 
 There are examples in the documentation and in the integration tests of how to run these contracts. 
 
-在文档和集成测试中都有关于如何运行这些合约的例子。
+在文档和集成测试中有关于如何运行这些合约的例子。
 
 We also have a visual studio code extension, which provides real-time compiler warnings and errors as well as type information when you hover over variables and functions. 
 
