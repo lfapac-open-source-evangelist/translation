@@ -9,7 +9,7 @@
 * [技术债务的处理](working-with-technical-debt.md)
 * [例1:自定义构建系统的作用](example-1%262.md)
 * [例2:用户界面框架](example-1%262.md)
-* [上游开发的角色]()
+* [上游开发的作用](the-role-of-upstream-development.md)
 * [大规模解决技术债务问题]()
 * [太晚了，技术债务已经背上了，要‘摆烂’吗？]()
 * [推荐实践]()
