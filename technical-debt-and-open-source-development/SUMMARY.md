@@ -7,7 +7,7 @@
 * [技术债务](technical-debt.md)
 * [技术债务是如何累积的？](how-does-td-addumulate.md)
 * [技术债务的处理](working-with-technical-debt.md)
-* [例1:订制构建系统的角色](example-1%262.md)
+* [例1:自定义构建系统的作用](example-1%262.md)
 * [例2:用户界面框架](example-1%262.md)
 * [上游开发的角色]()
 * [大规模解决技术债务问题]()
