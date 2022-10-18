@@ -6,4 +6,4 @@
 
  ![](open-source-tech-debt.png)
  
-<font color='red'>订制代码-->定制代码</font>
+$\color{red}订制代码-->定制代码$
