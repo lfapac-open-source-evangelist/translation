@@ -2,7 +2,7 @@
 
 **Cedric Bail (M.Sc.)**
 
-是一名高级软件工程师，目前与EASi签约，专门从事嵌入式Linux。Cedric 曾服务过移动运营商、互联网服务提供商以及最近的一家最大的消费电子公司之一担任各种嵌入式 Linux 平台的软件工程师。他的工作重点一直是针对受限环境优化软件，改进其 API，并根据需要在上游软件中引入新组件以满足业务需求。
+是一名高级软件工程师，目前与EASi签约，专门从事嵌入式Linux。Cedric 曾服务过移动运营商、互联网服务提供商，最近在一家最大的消费电子公司担任各种嵌入式 Linux 平台的软件工程师。他的工作重点一直是针对受限环境优化软件，改进其 API，并根据需要在上游软件中引入新组件以满足业务需求。
 
 * Twitter: [@cedric_bail](http://twitter.com/cedric_bail)
 * LinkedIn: [linkedin.com/in/cedricbail/](http://linkedin.com/in/cedricbail)
