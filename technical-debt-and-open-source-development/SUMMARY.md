@@ -11,7 +11,7 @@
 * [例2:用户界面框架](example-1%262.md)
 * [上游开发的作用](the-role-of-upstream-development.md)
 * [大规模解决技术债务问题](addressing-technical-debt-at-scale.md)
-* [太晚了，技术债务已经背上了，要‘摆烂’吗？]()
+* [太晚了，技术债务已经背上了，要‘摆烂’吗？](too-late.md)
 * [推荐实践]()
 * [总结](conclusion.md)
 * [反馈给我们](feedback.md)
