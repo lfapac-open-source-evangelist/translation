@@ -12,7 +12,7 @@
 * [上游开发的作用](the-role-of-upstream-development.md)
 * [大规模解决技术债务问题](addressing-technical-debt-at-scale.md)
 * [太晚了，技术债务已经背上了，要‘摆烂’吗？](too-late.md)
-* [推荐实践]()
+* [推荐实践](recommended-practice.md)
 * [总结](conclusion.md)
 * [反馈给我们](feedback.md)
 * [关于作者](about-the-authors.md)
