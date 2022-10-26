@@ -2,7 +2,7 @@
 1. [Practical GPL Compliance](https://project.linuxfoundation.org/hubfs/Reports/Practical_GPL_Compliance_Digital.pdf?hsLang=en)
 2. [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](https://copyleft.org/guide/comprehensive-gpl-guide.pdf)
 
-#分工
+# 分工
 ## Practical_GPL_Compliance_Digital (about 250 words/Page)
 | 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
 | ----| -- | ---------------------------------------------------------------- | ------- | ------ |
