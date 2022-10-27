@@ -2,7 +2,7 @@
 
 PRACTICAL GPL COMPLIANCE
 
-实用的 GPL 合规性
+实用的GPL合规性
 
 A GUIDE FOR STARTUPS, SMALL BUSINESS AND ENGINEERS
 
@@ -10,7 +10,7 @@ A GUIDE FOR STARTUPS, SMALL BUSINESS AND ENGINEERS
 
 Copyright © 2017 Linux Foundation
 
-版权所有 @2017 Linux 基金会
+版权所有 @2017 Linux基金会
 
 All rights reserved. This book or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher except for the use of brief quotations in a book review and certain other noncommercial uses permitted by copyright law.
 
@@ -18,7 +18,7 @@ All rights reserved. This book or any portion thereof may not be reproduced or u
 
 Printed in the United States of America First Edition, 2017
 
-美国印刷，2017年 第一版
+美国印刷，2017年第一版
 
 ISBN: 978-0-9989078-0-2
 
@@ -38,24 +38,17 @@ https://linuxfoundation.org
 
 ## About the Authors
 
-关于作者
+## 关于作者
 
-##### ![](media/image4.png){width="1.189915791776028in" height="1.1631802274715661in"}Shane Coughlan
+##### ![](media/image4.png)Shane Coughlan
 
-Shane Coughlan is an expert in communi- cation, security, and business
-development. His professional accomplishments include spearheading the
-licensing team that elevated Open Invention Network into the largest
-patent non-aggression community in
+Shane Coughlan is an expert in communication, security, and business development. His professional accomplishments include spearheading the licensing team that elevated Open Invention Network into the largest patent non-aggression community in history, establishing the leading professional network of open source legal experts, and aligning stakeholders to launch both the first law journal and the first law book dedicated to open source. He currently leads the OpenChain community as Program Manager.
 
-history, establishing the leading professional network of open source
-legal experts, and aligning stakeholders to launch both the first law
-journal and the first law book dedicated to open source. He currently
-leads the OpenChain community as Program Manager.
+Shane Coughlan是通信、安全和业务拓展方面的专家。他的专业成就包括带领许可团队，将开放创新网络(Open Invention Network)提升为历史上最大的专利非侵犯社区，建立领先的开源法律专家专业网络，以及协调利益相关者推出致力于开源的第一本法律期刊和第一本法律书籍。他目前是OpenChain社区的项目经理。
 
-Shane has extensive knowledge of open source governance, internal
-process development, supply chain management, and community building.
-His experience includes engagement with the enterprise, embedded,
-mobile, and automotive industries.
+Shane has extensive knowledge of open source governance, internal process development, supply chain management, and community building. His experience includes engagement with the enterprise, embedded, mobile, and automotive industries.
+
+Shane在开源项目治理、内部流程开发、供应链管理和社区建设方面拥有广泛的知识。他的经验在于与企业打交道，包括嵌入式、移动和汽车行业等。
 
 ##### ![](media/image5.png){width="1.189915791776028in" height="1.1560968941382328in"}Armijn Hemel
 
