@@ -1,29 +1,44 @@
 ![](media/image1.png)
 
-PRACTICAL
+PRACTICAL GPL COMPLIANCE
 
-COMPLIANCE
+实用的 GPL 合规性
+
+A GUIDE FOR STARTUPS, SMALL BUSINESS AND ENGINEERS
+
+初创企业、小型企业和工程师指南
 
 Copyright © 2017 Linux Foundation
 
-All rights reserved. This book or any portion thereof may not be
-reproduced or used in any manner whatsoever without the express
-written permission of the publisher except for the use of brief
-quotations in a book review and certain other noncommercial uses
-permitted by copyright law.
+版权所有 @2017 Linux 基金会
+
+All rights reserved. This book or any portion thereof may not be reproduced or used in any manner whatsoever without the express written permission of the publisher except for the use of brief quotations in a book review and certain other noncommercial uses permitted by copyright law.
+
+版权所有。未经出版商明确的书面许可，不得以任何方式复制和使用本书或其任何部分，但在书评中使用简短引文和版权法允许的其他非商业用途除外。
 
 Printed in the United States of America First Edition, 2017
 
+美国印刷，2017年 第一版
+
 ISBN: 978-0-9989078-0-2
 
-1 Letterman Drive Building D
-
+1 Letterman Drive
+Building D
 Suite D4700
+San Francisco CA 
+94129 
 
-San Francisco CA 94129 Phone/Fax: +1 415 723 9709
+莱特曼大道1号，D栋，套房D4700，加利福利亚旧金山，邮编：94129
+
+Phone/Fax: +1 415 723 9709
+
+电话/传真：+1 415 723 9709
+
 https://linuxfoundation.org
 
 ## About the Authors
+
+关于作者
 
 ##### ![](media/image4.png){width="1.189915791776028in" height="1.1631802274715661in"}Shane Coughlan
 
