@@ -50,17 +50,12 @@ Shane has extensive knowledge of open source governance, internal process develo
 
 Shane在开源项目治理、内部流程开发、供应链管理和社区建设方面拥有广泛的知识。他的经验在于与企业打交道，包括嵌入式、移动和汽车行业等。
 
-##### ![](media/image5.png){width="1.189915791776028in" height="1.1560968941382328in"}Armijn Hemel
+##### ![](media/image5.png)Armijn Hemel
 
-Armijn Hemel is the owner of Tjaldur Software Governance Solutions. He
-is an active re- searcher of and internationally recognized expert in
-open source license compliance and supply chain management. He studied
-computer science at Utrecht University in
+Armijn Hemel is the owner of Tjaldur Software Governance Solutions. He is an active researcher of and internationally recognized expert in open source license compliance and supply chain management. He studied computer science at Utrecht University in The Netherlands, where he pioneered reproducible builds with NixOS. In
+the past he served on the board of NLUUG and was a member of the coreteam of gpl-violations.org. Currently he is a board member at NixOS Foundation.
 
-The Netherlands, where he pioneered reproducible builds with NixOS. In
-the past he served on the board of NLUUG and was a member of the
-coreteam of gpl-violations.org. Currently he is a board member at
-NixOS Foundation.
+Armijn Hemel是Tjaldur软件治理解决方案的创始人。他是开源许可合规和供应链管理领域的活跃研究人员，也是国际公认的专家。当年他在荷兰乌得勒支大学计算机科学专业学习时，就率先使用NixOS进行可重复的项目构建。过去，他曾在NLUUG董事会任职，并且是gpl-violations.org组织的核心团队的成员之一。现在他是NixOS基金会的董事会成员。
 
 ## To Kate, for tirelessly driving the compliance community forward
 
