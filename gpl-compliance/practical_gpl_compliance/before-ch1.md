@@ -70,54 +70,25 @@ DOUGLAS ADAMS
 ## Introduction
 ## 简介
 
-Practical GPL Compliance is a compliance guide for startups, small
-businesses, and engineers, particularly focused on complying with the
-versions of the GNU General Public License (GPL). It is designed for
-engineers shipping products with GPL-licensed software included (e.g.,
-consumer electronics, drones, IoT devices). Its goal is to provide
-practical information to quickly address common issues. It is intended
-to be useful for solving real-world challenges rather than providing
-perfection in an imperfect world and to serve as the basis for
-empowering a compliance engineer or compliance team to get their job
-done as efficiently as possible. Hopefully, the practices laid out in
-this guide will assist you in complying with other open source license
-terms as well.
+Practical GPL Compliance is a compliance guide for startups, small businesses, and engineers, particularly focused on complying with the versions of the GNU General Public License (GPL). It is designed for engineers shipping products with GPL-licensed software included (e.g., consumer electronics, drones, IoT devices). Its goal is to provide practical information to quickly address common issues. It is intended to be useful for solving real-world challenges rather than providing perfection in an imperfect world and to serve as the basis for empowering a compliance engineer or compliance team to get their job done as efficiently as possible. Hopefully, the practices laid out in this guide will assist you in complying with other open source license terms as well.
 
-This book begins by introducing the tools used to practice GPL
-compliance. It then expands on the goals of our approach, and follows
-with an explanation of how to accomplish those goals. It continues
-with a "checklist" of pitfalls frequently encountered by compliance
-engineers and a list of steps that can be applied in common situations
-when releasing a product or product family. It ends with some handy
-flowcharts to visualize key approaches or best practices.
+实用的GPL合规性是针对初创公司、小型企业和工程师的合规指南，特别关注遵守GNU通用公共许可证(GPL)的版本。 它是特意为基于GPL许可发行软件的工程师设计的，主要针对如消费电子产品、无人机、物联网设备等领域。其目的是提供实用信息，以快速解决一些常见问题。它旨在帮助解决真实的问题，而不是在不完美的世界中保证完美，它提供一种基础方案，希望能辅助授权合规工程师或合规团队尽可能高效地完成工作。希望本指南中列出的实践方法也能帮助您遵守其他开源许可条款。
 
-If you have a physical copy of this book, it should end up as a
-battered, dog-eared reference text lurking beside your keyboard. If
-you have a digital copy, it should be something that appears in your
-favorites list or your desktop. Compliance engineering is not
-something easily memorized and finished. It is a process
+This book begins by introducing the tools used to practice GPL compliance. It then expands on the goals of our approach, and follows with an explanation of how to accomplish those goals. It continues with a "checklist" of pitfalls frequently encountered by compliance engineers and a list of steps that can be applied in common situations when releasing a product or product family. It ends with some handy flowcharts to visualize key approaches or best practices.
 
---- an approach backed by tools and knowledge of best practices
+本书首先介绍了用于实践GPL合规性的工具。然后它扩展了我们方法的目标，并解释了如何实现这些目标。之后它列出了合规工程师经常会遇到的陷阱“清单”，以及通常在发布一个产品或一系列产品时可以应用的步骤列表。最后展示了一些便捷的流程图，可以快速查找关键方法或最佳实践。
 
---- and we do best in this field when we continually refresh and hone
-our skills.
+If you have a physical copy of this book, it should end up as a battered, dog-eared reference text lurking beside your keyboard. If you have a digital copy, it should be something that appears in your favorites list or your desktop. Compliance engineering is not something easily memorized and finished. It is a process --- an approach backed by tools and knowledge of best practices--- and we do best in this field when we continually refresh and hone our skills.
 
-Thankfully, compliance engineering is no longer a "black box" mastered
-by only a few. Today, with texts like this or *Open Source*
+如果您拥有这本书的纸质书，那么它最终应该是潜伏在键盘旁边的破旧、折角的参考书。如果您拥有电子版，它应该在您的收藏夹中或桌面上。合规工程不是一件容易记住和快速完成的事情。它是一个过程，也是一种由工具和最佳实践知识支持的方法---当我们不断更新和磨练我们的技能时，相信我们在这个领域是做得最好的。
 
-*Compliance in the Enterprise*1, every engineer can support the
-excellent use of third-party code. Licenses like the GPL, once
-regarded as challenging to fully adhere to, can become understandable
-and addressable by large and small entities alike.
+Thankfully, compliance engineering is no longer a "black box" mastered by only a few. Today, with texts like this or *Open Source Compliance in the Enterprise*1, every engineer can support the excellent use of third-party code. Licenses like the GPL, once regarded as challenging to fully adhere to, can become understandable and addressable by large and small entities alike.
 
-Practical GPL Compliance and Open Source Compliance in the Enterprise
-work together to help engineers, startups, small companies, and
-enterprises master open source license compliance. However, they do
-not exist in isolation, and you can find more materials via the Linux
-Foundation Open Compliance Program at
-[**https://compliance.linuxfoundation.org**](https://compliance.linuxfoundation.org/).
-To get you started, Appendix 1 contains an overview of other
-publications available and a list of useful compliance templates.
+值得庆幸的是，合规工程不再是只有少数人掌握的“黑匣子”。如今，有了这本书或《企业中的开源合规》1，每个工程师都可以出色地使用第三方代码。像GPL这样的许可证，曾经被认为很难完全遵守，现在无论大小团体都可以理解并快速解决。
+
+Practical GPL Compliance and Open Source Compliance in the Enterprise work together to help engineers, startups, small companies, and enterprises master open source license compliance. However, they do not exist in isolation, and you can find more materials via the Linux Foundation Open Compliance Program at [**https://compliance.linuxfoundation.org**](https://compliance.linuxfoundation.org/). To get you started, Appendix 1 contains an overview of other publications available and a list of useful compliance templates.
+
+
 
 You may also be interested in Appendix 2: Compliance Standards,
 Appendix 3: Professional Networks, and Appendix 4: Tools and
