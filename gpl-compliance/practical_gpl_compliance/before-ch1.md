@@ -1,8 +1,7 @@
 ![](media/image1.png)
 
-PRACTICAL GPL COMPLIANCE
-
-实用的GPL合规性
+## PRACTICAL GPL COMPLIANCE
+## 实用的GPL合规性
 
 A GUIDE FOR STARTUPS, SMALL BUSINESS AND ENGINEERS
 
@@ -37,7 +36,6 @@ Phone/Fax: +1 415 723 9709
 https://linuxfoundation.org
 
 ## About the Authors
-
 ## 关于作者
 
 ##### ![](media/image4.png)Shane Coughlan
@@ -58,18 +56,19 @@ the past he served on the board of NLUUG and was a member of the coreteam of gpl
 Armijn Hemel是Tjaldur软件治理解决方案的创始人。他是开源许可合规和供应链管理领域的活跃研究人员，也是国际公认的专家。当年他在荷兰乌得勒支大学计算机科学专业学习时，就率先使用NixOS进行可重复的项目构建。过去，他曾在NLUUG董事会任职，并且是gpl-violations.org组织的核心团队的成员之一。现在他是NixOS基金会的董事会成员。
 
 ## To Kate, for tirelessly driving the compliance community forward
-
+## 感谢Kate, 感谢她孜孜不倦地推动合规社区向前发展
 ARMIJN HEMEL
 
 ## To Lana, who has a sense of curiosity that spans the whole world
-
+## 感谢Lana，她拥有跨越全世界地好奇心
 SHANE COUGHLAN
 
 # "Don't Panic."
-
+# “不要恐慌。”
 DOUGLAS ADAMS
 
 ## Introduction
+## 简介
 
 Practical GPL Compliance is a compliance guide for startups, small
 businesses, and engineers, particularly focused on complying with the
