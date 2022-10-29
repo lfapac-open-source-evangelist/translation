@@ -129,45 +129,41 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 [Get flowcharts to help 54](#step-4)  获取便捷的流程图
 
 ## Table of Contents
+## 目录
 
-##### [Chapter 1: Approach 1](#_bookmark0)
+##### [Chapter 1: Approach 1](#_bookmark0) [第一章：方法1]
 
-[Context 2](#context)
+[Context 2](#context) 背景介绍
 
-[Compliance Requirements 3](#_bookmark2)
+[Compliance Requirements 3](#_bookmark2) 合规要求
 
-[Compliance Goals 3](#_bookmark2)
+[Compliance Goals 3](#_bookmark2) 合规的目标
 
-[Toolbox 6](#toolbox)
+[Toolbox 6](#toolbox)  工具盒
 
-[Analysis of Binary Files 8](#_bookmark4)
+[Analysis of Binary Files 8](#_bookmark4)  分析二进制文件
 
-[Source Code Analysis and Rebuild
-10](#source-code-analysis-and-rebuild)
+[Source Code Analysis and Rebuild 10](#source-code-analysis-and-rebuild) 源代码分析及重构
 
-##### [Chapter 2: Common Pitfalls 22](#_bookmark8)
+##### [Chapter 2: Common Pitfalls 22](#_bookmark8)  [第二章：常见的陷阱]
 
-[Pitfall #1: Toolchain 23](#pitfall-1-toolchain)
+[Pitfall #1: Toolchain 23](#pitfall-1-toolchain)  陷阱#1：工具链
 
-[Pitfall #2: Android 24](#_bookmark10)
+[Pitfall #2: Android 24](#_bookmark10)   陷阱#2：安卓系统
 
-[Pitfall #3: "Out of tree" Linux Kernel Modules 27](#iproute2)
+[Pitfall #3: "Out of tree" Linux Kernel Modules 27](#iproute2) 陷阱#3：“主干之外”的Linux内核模块
 
-[Pitfall #4: Rescue Mode/Install Mode Systems
-30](#pitfall-4-rescue-modeinstall-mode-systems)
+[Pitfall #4: Rescue Mode/Install Mode Systems 30](#pitfall-4-rescue-modeinstall-mode-systems) 陷阱#4：救援模式/安装模式系统
 
-[Pitfall #5: Bootloader 31](#pitfall-5-bootloader)
+[Pitfall #5: Bootloader 31](#pitfall-5-bootloader)  陷阱#5：引导加载程序
 
-[Pitfall #6: Missing Build System 31](#pitfall-5-bootloader)
+[Pitfall #6: Missing Build System 31](#pitfall-5-bootloader)  陷阱#6：
 
-[Pitfall #7: Incorrect or Missing BusyBox Configuration Files
-32](#_bookmark14)
+[Pitfall #7: Incorrect or Missing BusyBox Configuration Files 32](#_bookmark14) 陷阱#7：
 
-[Pitfall #8: Incorrect or Missing Linux Kernel Configuration Files
-33](#_bookmark15)
+[Pitfall #8: Incorrect or Missing Linux Kernel Configuration Files 33](#_bookmark15) 陷阱#8：
 
-[Pitfall #9: Not Including the Version Number in Firmware and
-35](#_bookmark16)
+[Pitfall #9: Not Including the Version Number in Firmware and 35](#_bookmark16) 陷阱#9：
 
 [Source Code Archive Names](#_bookmark16)
 
