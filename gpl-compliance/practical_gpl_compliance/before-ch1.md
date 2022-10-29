@@ -131,7 +131,7 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 ## Table of Contents
 ## 目录
 
-##### [Chapter 1: Approach 1](#_bookmark0) [第一章：方法1]
+##### [Chapter 1: Approach 1](#_bookmark0) 第一章：方法1
 
 [Context 2](#context) 背景介绍
 
@@ -145,7 +145,7 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 
 [Source Code Analysis and Rebuild 10](#source-code-analysis-and-rebuild) 源代码分析及重构
 
-##### [Chapter 2: Common Pitfalls 22](#_bookmark8)  [第二章：常见的陷阱]
+##### [Chapter 2: Common Pitfalls 22](#_bookmark8)  第二章：常见的陷阱
 
 [Pitfall #1: Toolchain 23](#pitfall-1-toolchain)  陷阱#1：工具链
 
@@ -157,65 +157,56 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 
 [Pitfall #5: Bootloader 31](#pitfall-5-bootloader)  陷阱#5：引导加载程序
 
-[Pitfall #6: Missing Build System 31](#pitfall-5-bootloader)  陷阱#6：
+[Pitfall #6: Missing Build System 31](#pitfall-5-bootloader)  陷阱#6：缺少构建系统
 
-[Pitfall #7: Incorrect or Missing BusyBox Configuration Files 32](#_bookmark14) 陷阱#7：
+[Pitfall #7: Incorrect or Missing BusyBox Configuration Files 32](#_bookmark14) 陷阱#7：BusyBox配置文件不正确或已丢失
 
-[Pitfall #8: Incorrect or Missing Linux Kernel Configuration Files 33](#_bookmark15) 陷阱#8：
+[Pitfall #8: Incorrect or Missing Linux Kernel Configuration Files 33](#_bookmark15) 陷阱#8：Linux内核配置文件不正确或已丢失
 
-[Pitfall #9: Not Including the Version Number in Firmware and 35](#_bookmark16) 陷阱#9：
+[Pitfall #9: Not Including the Version Number in Firmware and Source Code Archive Names 35](#_bookmark16) 陷阱#9：固件或源代码的存档名称中未包含版本号
 
-[Source Code Archive Names](#_bookmark16)
+##### [Chapter 3: Scenarios for Releasing Software 37](#_bookmark17)  第三章：发布软件的场景
 
-##### [Chapter 3: Scenarios for Releasing Software 37](#_bookmark17)
+[Scenario #1: Software On A Device/Offline Distribution 38](#scenario-1-software-on-a-deviceoffline-distribution) 场景#1：设备上安装的软件/离线分发
 
-[Scenario #1: Software On A Device/Offline Distribution
-38](#scenario-1-software-on-a-deviceoffline-distribution)
+[Scenario #2: Providing A Manual Download From Website 39](#_bookmark19)  场景#2：提供网站下载的方式
 
-[Scenario #2: Providing A Manual Download From Website
-39](#_bookmark19)
+[Scenario #3: Providing An Automatic Download Over The Air 40](#_bookmark20)   场景#3：提供自动无线下载的方式
 
-[Scenario #3: Providing An Automatic Download/ 40](#_bookmark20)
+[Scenario #4: Field Engineer Applied Updates 41](#_bookmark21)  场景#4：实用于现场工程师的下载方式
 
-[Over The Air](#_bookmark20)
+##### [Chapter 4: Scenarios for Buying Software 42](#_bookmark22) 第四章：购买软件的场景
 
-[Scenario #4: Field Engineer Applied Updates 41](#_bookmark21)
+[Context 43](#context-1)  背景介绍
 
-[Chapter 4: Scenarios for Buying Software 42](#_bookmark22)
+[Scenario #1: SupplyChain Solutions For SoC Vendors 43](#context-1) 场景#1：SoC方案供应商的供应链解决方案
 
-[Context 43](#context-1)
+[Scenario #2: Supply Chain Solutions For ODMs 45](#_bookmark24)  场景#2：ODM的供应链解决方案
 
-[Scenario #1: SupplyChain Solutions For SoC Vendors 43](#context-1)
+[Scenario #3: Supply Chain Solutions For Others 46](#_bookmark25)  场景#3：其他场景的供应链解决方案
 
-[Scenario #2: Supply Chain Solutions For ODMs 45](#_bookmark24)
+##### [Chapter 5: Building a FOSS Code Center 48](#_bookmark26)  第五章：构建一个FOSS代码中心
 
-[Scenario #3: Supply Chain Solutions For Others 46](#_bookmark25)
+[Context 49](#context-2)  背景介绍
 
-[Chapter 5: Building a FOSS Code Center 48](#_bookmark26)
+["FOSS Code Center" As A Requirement 49](#context-2) “FOSS代码中心”作为一个要求
 
-[Context 49](#context-2)
+[Keep Firmware And Source Code Together 50](#_bookmark28) 将固件和源代码放在一起
 
-["FOSS Code Center" As A Requirement 49](#context-2)
+##### [Chapter 6: Tracking Tasks and Processes 51](#_bookmark29) 第六章：跟踪任务和进程
 
-[Keep Firmware And Source Code Together 50](#_bookmark28)
+[Checklists 52](#checklists)  清单列表
 
-[Chapter 6: Tracking Tasks and Processes 51](#_bookmark29)
+[Flowcharts 54](#step-4)   流程图
 
-[Checklists 52](#checklists)
+[Appendices 63](#appendices)  附录
 
-[Flowcharts 54](#step-4)
+[Appendix 1: The Open Compliance Program 64](#appendix-1-the-open-compliance-program)  附录1：开放合规计划
 
-[Appendices 63](#appendices)
+[Appendix 2: Compliance Standards 68](#template-for-an-approval-request-form-for-the-use-of-free-and-open-source-software) 附录2：合规标准
 
-[Appendix 1: The Open Compliance Program
-64](#appendix-1-the-open-compliance-program)
+[Appendix 3: Professional Networks 69](#_bookmark37)  附录3：专业网络
 
-[Appendix 2: Compliance Standards
-68](#template-for-an-approval-request-form-for-the-use-of-free-and-open-source-software)
-
-[Appendix 3: Professional Networks 69](#_bookmark37)
-
-[Appendix 4: Tools & Infrastraucture
-70](#appendix-4-tools-and-infrastructure)
+[Appendix 4: Tools & Infrastraucture 70](#appendix-4-tools-and-infrastructure) 附录4：工具和基础设施
 
 
