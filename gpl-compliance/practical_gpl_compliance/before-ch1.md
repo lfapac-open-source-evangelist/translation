@@ -88,22 +88,21 @@ Thankfully, compliance engineering is no longer a "black box" mastered by only a
 
 Practical GPL Compliance and Open Source Compliance in the Enterprise work together to help engineers, startups, small companies, and enterprises master open source license compliance. However, they do not exist in isolation, and you can find more materials via the Linux Foundation Open Compliance Program at [**https://compliance.linuxfoundation.org**](https://compliance.linuxfoundation.org/). To get you started, Appendix 1 contains an overview of other publications available and a list of useful compliance templates.
 
+企业中的实用GPL合规性和开源合规性，可以帮助工程师、初创公司、小公司和企业掌握开源代码许可合规性。除此之外，您还可以通过Linux基金会开放合规计划 (https://compliance.linuxfoundation.org/)找到更多资料。为帮助您快速入门，附录1包含了其他出版物的概述和一些有用的合规模板列表。
 
-
-You may also be interested in Appendix 2: Compliance Standards,
-Appendix 3: Professional Networks, and Appendix 4: Tools and
-Infrastructure. There is a wealth of free resources available via The
-Linux Foundation and from other parties to ensure that knowledge of
-best practices and processes is readily available to you. Or..., just
+You may also be interested in Appendix 2: Compliance Standards, Appendix 3: Professional Networks, and Appendix 4: Tools and Infrastructure. There is a wealth of free resources available via The Linux Foundation and from other parties to ensure that knowledge of best practices and processes is readily available to you. Or..., just
 go to the next page and get started right away with our cheat sheet.
+
+附录2：合规标准，附录3：专业网络，附录4：工具和基础设施，可能您都会比较感兴趣。Linux基金会和其他各方提供了大量免费资源，以确保您可以随时获得最佳实践和流程的知识。或者...，只需转到下一页并立即开始使用我们的备忘单。
 
 1.  [**http://go.linuxfoundation.org/open-source-compliance-ebook**](http://go.linuxfoundation.org/open-source-compliance-ebook)
 
 ## The GPL Compliance Engineer Task-Based Cheat Sheet
+## GPL合规工程师基于任务的备忘单
 
-No time to read a book? Welcome to our world. We suggest copying this
-page, pinning it to your desk, and using it as a shortcut for getting
-things done.
+No time to read a book? Welcome to our world. We suggest copying this page, pinning it to your desk, and using it as a shortcut for getting things done.
+
+没时间看书？那就欢迎来到我们的世界。我们建议复印此页面，将其固定在您的办公桌上，并将其用作完成工作的捷径。
 
 [What you need to do 2](#context)
 
