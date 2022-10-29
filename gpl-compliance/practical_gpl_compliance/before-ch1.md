@@ -104,30 +104,29 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 
 没时间看书？那就欢迎来到我们的世界。我们建议复印此页面，将其固定在您的办公桌上，并将其用作完成工作的捷径。
 
-[What you need to do 2](#context)
+[What you need to do 2](#context) 你需要做什么
 
-[The tools you can use 6](#toolbox)
+[The tools you can use 6](#toolbox) 你可以使用的工具
 
-[How to deal with binary code 8](#_bookmark4)
+[How to deal with binary code 8](#_bookmark4) 如何处理二进制代码
 
-[Find problem binaries 10](#source-code-analysis-and-rebuild)
+[Find problem binaries 10](#source-code-analysis-and-rebuild) 找出有问题的二进制代码
 
-[Rebuilding a binary 14](#performing-a-rebuild)
+[Rebuilding a binary 14](#performing-a-rebuild) 重新编译
 
-[Finding incorrectly licensed code
-19](#finding-incorrectly-licensed-code)
+[Finding incorrectly licensed code 19](#finding-incorrectly-licensed-code) 找出不合规的代码
 
-[Common pitfalls 22](#_bookmark8)
+[Common pitfalls 22](#_bookmark8) 常见的陷阱
 
-[Releasing software 37](#_bookmark17)
+[Releasing software 37](#_bookmark17) 发布软件
 
-[Buying software 42](#_bookmark22)
+[Buying software 42](#_bookmark22) 购买软件
 
-[Building a FOSS code center 48](#_bookmark26)
+[Building a FOSS code center 48](#_bookmark26) 构建一个FOSS代码中心
 
-[Get checklists to help 52](#checklists)
+[Get checklists to help 52](#checklists) 获取帮助清单
 
-[Get flowcharts to help 54](#step-4)
+[Get flowcharts to help 54](#step-4)  获取便捷的流程图
 
 ## Table of Contents
 
