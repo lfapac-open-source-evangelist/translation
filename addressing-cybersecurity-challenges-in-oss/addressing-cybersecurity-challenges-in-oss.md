@@ -1,3 +1,4 @@
+![Cover ](./images/cover.png)
 Addressing cybersecurity challenges in open source software 
 
 Addressing Cybersecurity
@@ -15,37 +16,42 @@ Enterprises often don't have a well-managed inventory of the software assets the
 
 To address the urgent need for better security practices, tools, and techniques in the open source software ecosystem, a collection of deeply invested organizations came together in 2020 to form the Open Source Security Foundation (OpenSSF), and chose to house that effort at the Linux Foundation. This public effort has grown to include hundreds of active participants across dozens of different public initiatives housed under 7 working groups, with funding and partnership from over 75 different organizations, and reaching millions of OSS developers. This report presents analysis that we intend to use to help support that effort. You can see a complete copy of my prepared testimony at: Testimony to the US House Committee on Science and Technology - Open Source Security Foundation (openssf.org).
 
-Brian Behlendorf
-General Manager, Open Source Security Foundation The Linux Foundation
+**Brian Behlendorf**
 
-Introduction
+**General Manager, Open Source Security Foundation**
+
+**The Linux Foundation**
+
+![Info Graphic](./images/info-graphic.png ) 
+
+# Introduction
 
 Open source software (OSS) has had a tremendous impact on the development and distribution of the software we depend on today.
 Through its collaborative and open way of both developing and sharing software components, OSS has served as a key engine for innovation and encouraged the widespread reuse and sharing of core software components. Today, nearly all applications are composed of components dependent upon other components, creating a supply chain that involves hundreds of components and multitiered dependencies.
 
 Organizations of all sizes are heavily reliant on software, and much of that software supply chain consists of open source software components. Because of this, open source software has cybersecurity implications: the software supply chain is an attractive entry point for people and organizations interested in theft, disruption, or exploitation for economic or political gain. The attack surface today is changing from those in traditional cybersecurity threat models. Defects in small libraries that are widely used across the software ecosystem can cause systemic risk, as we've seen with incidents such as Log4shell.
 
-Security challenges
+## Security challenges
 
 Addressing the security of open source software components requires a different approach from traditional approaches of securing proprietary, vendor-supported software. The more loosely structured and community focused nature of OSS development presents a more challenging environment for addressing software security. The distribution of OSS projects is bookended by a small number of large visible projects (like the Linux kernel and Kubernetes) to a very large number of small projects. Smaller projects typically have fewer contributors and resources, and are therefore more likely to adopt a minimalist approach to development and security.
 
 The tremendous benefits and prevalence of OSS in organizational software, combined with the vulnerability of the OSS software supply chain, puts us at a crossroads. Organizations and companies that use open source software need to become more aware of what dependencies they are using, proactively and regularly monitoring all components for usability, trustworthiness, and vulnerabilities. Ultimately, open source software is a two-way street: consumers of open source software must contribute back to the OSS communities to ensure the health and viability of the dependencies they rely on. Merely using open source software, without contributing back, is not enough. What is required is both to 1) incorporate the nature of OSS dependencies into standard cybersecurity and development practices and 2) contribute back to the OSS communities that organizations rely
 on.
 
-Research approach
+## Research approach
 
 This report focuses on OSS security perspectives and how to improve OSS security and sustainability.
 
 Research began in March 2022 with fifteen interviews of open source software maintainers and cybersecurity experts. These qualitative interviews helped to shape the scope of the research and the design of the quantitative survey instrument. 
 
-A worldwide survey was fielded in April 2022, targeting the following roles:
+**A worldwide survey was fielded in April 2022, targeting the following roles:**
 
 • Individuals who contribute to, use, or administer Oss
 • Maintainers, core contributors, and occasional contributors to OSS
 • Developers of proprietary software to use OSS
 • Individuals with a strong focus on software supply chain security
 
-The survey included four sections:
+**The survey included four sections:**
 • Screening questions and demographics
 •OSS security perspectives. Sample size is 539 and margin of error (Mo) is +/ - 3.6% at a 90% confidence level.
 
@@ -56,7 +62,7 @@ The survey included four sections:
 For more information about this research approach and sample demographics, see the methodology section of this paper.
 The data provided by Snyk is based on over 1.3 million projects and was collected from April 1, 2021 until March 31, 2022. Snyk's efforts were primarily focused on understanding how five key languages/ecosystems (.Net, Go, Java, JavaScript, and Python) are influencing the complexity of the software supply chain. This data was gathered from the use of Snyk Open Source, a static code analysis (SCA) tool free to use for individuals and open source maintainers.
 
-Open source software security perspectives
+# Open source software security perspectives
 
 Initial questions in this survey were designed to understand organizational commitment to security that covers OSS development and use and beliefs about the security of the OSS and its dependencies in use. Responses to these questions suggest that organizations collectively have been slow to make software security a priority.
 
@@ -66,9 +72,7 @@ One of the most startling findings of this research, as shown in Figure 1, is th
 
 Figure 1: Organizations with a security policy covering OSS
 Do you have an open source security policy in place for open source development or usage? (select one)
-
-
-
+![Figure 1](./images/figure1.png) 
 
 Having a security policy covering OSS indicates that you have a security action plan that includes the many OSS components in use. Without a software security policy, organizations may expose themselves to a significant amount of financial and reputational risk because they may not be evaluating software before its inclusion and/or may not be prepared for the inevitable updates due to software vulnerabilities (OSS or not).
 
@@ -93,6 +97,8 @@ Figure 2: A distribution of OSS security policy by organization size
 
 Do you have an open source security policy in place for open source development or usage? (select one) by Enterprise size
 
+![Figure 2](./images/figure2.png)
+
 One reason that small organizations are OSS security challenged is economies of size. Small organizations have small IT staff and budgets, and the functional needs of the business often take precedence so that the business can remain competitive. Lack of resources and time were the leading reasons why organizations were not addressing OSS security best practices.
 
 While it is disappointing that 44% of small organizations do not have an OSS security policy, an additional concern is that close to 30% of larger organizations also do not have an OSS security policy. Small organizations can rationalize increased financial, reputational, and legal risk, but this becomes tenuous for medium organizations and insupportable for large organizations with 5000+ employees. Medium and large organizations likewise complain about not enough having resources or time to address OSS security needs. Surprisingly, a lack of awareness about security best practices is more often identified by large organizations as a reason for not attending to OSS security needs than lack of time.
@@ -104,6 +110,8 @@ We asked organizations how secure their open source software is today. Responses
 Figure 3: OSS security today
 How secure is your open source software today? (select one) by Do you have an open source security policy in place for open source development or usage?
 
+![Figure 3](./images/figure3.png)
+
 A simple weighted average of all responses shows a composite score of 65 for all organizations, which is a poor grade.
 Organizations with an OSS security policy score a 70, and organizations without a policy score a 58.
 
@@ -112,6 +120,7 @@ The secure development of OSs is also at risk
 Similarly, Figure 4 shows how secure the process for developing or using OSS is today. Using the same responses shown in Figure 3, the results are nearly identical. Across all organizations, 59% believe that their development processes are somewhat secure or highly secure. This value rises to 73% for organizations with an OSS security policy and falls to 47% for organizations without.
 
 Figure 4: Security of OSS development and use today
+![Figure 4](./images/figure4.png) 
 
 How secure is your process for developing or using open source software today? (select one) by Do you have an open source security policy in place for open source development or usage?
 
@@ -123,6 +132,9 @@ OSS security strategy is for the vendor community to provide security tools with
 Who drives OSS security policies?
 
 Figure 5 superficially creates a conundrum: how do organizations without a top-down OSS security policy have people responsible for defining OSS security policy? Additionally. not having an OSS security policy doesn't mean that groups aren't addressing OSS security in ad hoe ways.
+
+![Figure 5](./images/figure5.png)
+
 
 Across organizations, just 31% vest responsibility for defining an OSS security policy in the hands of a CIS and/or security team. The second leading choice of multiple teams at 16% suggests that instead of policy being established by a CIS, it evolves across the Software Development Life Cycle (SDLC) based on the focus of the team. Because a security focus should exist across the CI/CD pipeline, multiple teams are needed to implement OSS security policy. Reliance on open source maintainers at 13% overall can be workable 1f the maintainers are either part of the organization or known to the organization - but it sdems recklessly optimistic to put trust in OSS projects with unknon provenance.
 
@@ -146,6 +158,7 @@ What is known is that organizations are not well-positioned to manage their vuln
 Figure 6: Vulnerability concerns across direct dependencies
 
 How concerned are you that the direct dependencies your software relies on might be malicious or compromised? (select one) by Do you have an open source security policy in place for open source development or usage?
+![Figure 6](./images/figure6.png) 
 
 Across all organizations, only 24% have confidence in the security of their direct dependencies. This value rises to 36% for organizations that have an OSS security policy but falls to just 9% of organizations without such a security policy.
 Organizations reporting that dependencies are easy to track (37%) may be correct in understanding their dependencies, but this doesn't mean that these dependencies are collectively secure.
@@ -167,6 +180,8 @@ only 24% of the respondents in this survey felt they had strong controls in plac
 
 Figure 7: Average dependency count per project by language
 
+![Figure 7](./images/figure7.png) 
+
 Recent efforts by the US Government to encourage, and even mandate, organizations to create a Software Bill of Materials (SBOM) is evidence of how important it is to have a handle on dependencies. Tracking direct dependencies is a significant issue by itself. Indirect, or transitive, dependencies mark the real start of complexity. Each of the libraries referenced in a project incorporates additional code to perform its own function, and each of those third-party libraries may rely on other libraries as well. Organizations who want a complete accounting of their transitive dependencies should be requiring SBOMs from their suppliers and investing in tools to consume these SBOMs.
 
 Figure 8 is patterned directly after Figure 6, except that it focuses on transitive dependencies. Transitive dependencies are objectively more difficult to evaluate as the level of dependency increases. The result is that fewer organizations believe that their transitive dependencies are secure
@@ -174,6 +189,7 @@ Figure 8 is patterned directly after Figure 6, except that it focuses on transit
 Figure 8: Vulnerability concerns across transitive dependencie
 How concerned are you that the indirect (transitive)
 dependencies your software relies on might be malicious or compromised? (select one by Do you have an open source security policy in place for open source development or usage?
+![Figure 8](./images/figure8.png) 
 
 Figure 8 shows that just 18% of organizations are confident in the security of their transitive dependencies. Once again, this value rises to 27% for organizations that have an OSS security policy but plummets to just 5% for organizations without a security policy.
 
@@ -192,7 +208,7 @@ Figure 9: Average count of vulnerabilities by language and severity
 
 Vulnerability Severity
 
-
+![Figure 9](./images/figure9.png) 
 
 
 
@@ -209,9 +225,7 @@ evaluated, what security-focused tools are being used, and what security-related
 Figure 10: Finding vulnerabilities in your dependencies
 How do you find out about vulnerabilities in your dependencies? (select all that apply) by Do you have an open source security policy in place for open source development or usage?
 
-
-
-
+![Figure 10](./images/figure10.png) 
 Organizational approaches to identifying vulnerabilities in dependencies
 
 A common question in addressing OSS security is how to comprehensively identify vulnerabilities across your dependencies.
@@ -233,6 +247,8 @@ Looking at the average time to fix by language in Figure 11, we see that Snyk's 
 Figure 11:
 Average time to fix by language
 
+![Figure 11](./images/figure11.png) 
+
 We expect that popularity and awareness influence the time to fix.
 A popular project is more likely to attract other collaborators, and additional collaborators can speed up incident response time.
 In addition, if a project is popular, awareness by users (including via technical press news) is likely to be larger.
@@ -241,6 +257,8 @@ A popular project can affect a significant portion of all projects.
 As an example, the Spring Framework library is found in 9% of all Java projects. The team responsible for Spring Framework responded quickly to fix the Spring4Shell remote code execution vulnerability when it was identified in the spring of 2022. But what if that vulnerability had existed in a less responsive yet popular package?
 
 Figure 12: Finding vulnerabilities in your code
+
+![Figure 12](./images/figure12.png) 
 
 How do you find out about security vulnerabilities in your code? (select all that apply) by Do you have an open source security policy in place for open source development or usage?
 
@@ -281,6 +299,8 @@ Figure 13: Reviewing the security of OSS packages
 
 How do you check the security of the open source packages that you use? (select all that apply)
 
+![Figure 13](./images/figure13.png) 
+
 Using multiple security testing tools is an OSS best practice
 
 On average, organizations in the study used between two and three security testing tools. Using third-party tools can significantly improve your OSS security posture because of their scope, scalability, automation potential, and coverage across the SDLC. As budgets, resources, and time allows; using more tools can be advantageous since they all add value in different ways.
@@ -290,6 +310,8 @@ Figure 14 shows that preference is higher for SCA tools (47%) than for any other
 Figure 14: Security tools in use when developing OSS
 
 What security tools do you regularly use when developing open source software? (select all that apply) by Do you have an open source security policy in place for open source development or usage?
+
+![Figure 14](./images/figure14.png) 
 
 Other than SCA tools, additional choices become complex based on the organization's approach to DevOps and preferences regarding security testing. SAST tools (37%), IaC tools (36%), and web application scanners (32%) all effectively compete for developer and security team attention. Web application scanners and fuzz testing tools together make up the dynamic application security testing (DAST) tool domain.
 Realistically, the use of both SAST and DAST tools makes sense because both help organizations find vulnerabilities. However, IaC tools are invaluable in helping to script and automate CI/CD activities, eliminating many of the manual and ad ho activities that consume time that could be better spent elsewhere.
@@ -317,6 +339,8 @@ Figure 15: Activities for improving the security of open source software
 
 Which of the following activities are important to improving the security of the open source software supply chain? (select all that apply)
 
+![Figure 15](./images/figure15.png)
+
 In third place for most popular activities around secure software development, we see a tie between increased automation to reduce attack surfaces and security audits, which were cited by 49% of organizations. The use of IaC tools can provide a reliable path to increased automation of CI/CD activities.
 These tools have proven to be popular across organizations in this survey, and in the right hands, they can be extremely effective. Security audits are also a valuable way to gauge the current state of security for some or all of the organization's applications. However, security audits - as measured through the eyes of maintainers who participated in the survey - were not valued nearly as highly. While security audits can be invaluable at comprehensively assessing an organization's security risks, the organization must be positioned to act upon the findings of that audit - which seems a bridge too far for organizations without a security policy. However, note that there were only 72 maintainers participating in this survey, and 78% of them had not participated in an external security audit. It's possible that security audits are so rare that few software developers have experienced them (and thus can only guess about their advantages).
 
@@ -337,6 +361,8 @@ openssf.org/oss-security-mobilization-plan/»,
 
 Figure 16: How organizations can improve the security of OSS development
 What are some of the ways that IT Industry Organizations could improve the security of developing open source software? (select all that apply)
+
+![Figure 16](./images/figure16.png)
 
 The 3rd ranked improvement identified in Figure 16 by 53% of organizations is to provide more training in secure and memory safe programming.
 Sadly, many software developers have not been trained on how to develop secure software. As noted earlier, there are some courses available today, including one from the OpenS, and there is interest in expanding these courses further.
@@ -359,6 +385,8 @@ If end-user organizations elected to "give back" to the oss communities they dep
 
 Figure 17: The most important ways to improve OSS resourcing
 What are the three most important ways that open source project resourcing can be improved? (select all that apply)
+
+![Figure 17](./images/figure17.png)
 
 Industry adoption of standards for interoperability across tools and discounted resources provided by CSPs (Cloud Service Providers) to OSS projects resonate across 51% of organizations in this study Interoperability concerns were frustrating and are a characteristic of immature markets. The fragmented nature of today's software security markets suggests that consolidation will occur and help address this problem although the timeframe is unknown.
 The concept of cloud service providers providing support for secure
@@ -391,6 +419,8 @@ Figure 18: Improving OSS sustainability
 How should open source software sustainability be addressed if the
 maintainer(s) on a project decide to retire? (select all that apply)
 
+![Figure 18](./images/figure18.png) 
+
 Conclusions and recommendations
 Too many organizations are not prepared to address OSS security needs
 
@@ -408,8 +438,6 @@ There are at least 10 tool categories that have a focus on addressing OSS securi
 The security tools market has numerous tool categories because the overall domain extends from source code management through build, package, delivery, and deployment. This is basically the entire software lifecycle. Software security must be managed across each step and accomplishing all of this with just two or three tool categories is not feasible. Therefore, organizations should take a closer look at adjacent and complementary security tools markets and determine where incremental tools can add the most value.
 
 Figure 14 also shows that organizations with an OSS security policy have a higher frequency of security tool use than those organizations without an OSS security policy. This same dynamic is in place based on organizational size where large organizations have a higher frequency of security tool use than small organizations. Security tool use is therefore one of the most obvious and powerful ways to improve your OSS security posture.
-
-
 
 
 Collaborate with vendors to create more intelligent security tools
@@ -475,4 +503,5 @@ Disclaimer
 
 This report is provided "as is." The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, Implied, or otherwise), including implied warranties of merchantability, noninfringement, fitness for a particular purpose, or title, related to this report. In no event will the Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether they have been advised of the possibility of such damage. Sponsorship of the creation of this report does not constitute an endorsement of its findings by any of its sponsors.
 
+![Back Cover](./images/back-cover.png) 
 
