@@ -2,6 +2,19 @@
 该仓库是记录LFAPAC 开源布道者译道师 SIG相关内容。
 # 译道师SIG背景
 LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translation SIG，是LFAPAC布道师团队下的翻译小组。本小组主要翻译开源相关的书籍、文章、报告等。
+# 活跃志愿者
+| 姓名  | English    | github          | 微信ID            | 微信昵称     | 单位         | email                                                     |
+| --- | ---------- | --------------- | --------------- | -------- | ---------- | --------------------------------------------------------- |
+| 赵振华 | Rich Zhao  | zRich           | richzhao        | 锐旗       |            | zhao.zhenhua@gmail.com |
+| 皮冰锋 | Winter Pi  | winterpi        | 19688624        | bingfeng |            | pi.bingfeng@gmail.com   |
+| 阎书利 | Shuli Yan  | T1YSL           | ysl201602430923 | 小怪兽      |            | 13624113201@163.com         |
+| 周冉  | Julia Zhou | JuliaZhou2022   | JuliaZhou1816   | 如梦       |            | juliazhou2022@gmail.com |
+| 徐斌  | Bruce Xu   | voidxb          | xb3150102384    | Bruce    |            | 2016165068@qq.com             |
+| 马景贺 | Mike       | majinghe        | majinghe11      | 小马哥      | 极狐(GitLab) | devops008@sina.com           |
+| 王玉茂 | Amelia     | Ameliawangyumao | amelia\_2020    | Amelia   | 华为         | ameliawang375@gmail.com                                   |
+| 王永雷 | Leo Wang   | wangleo61       | 15900935447     | 永雷       |            | wangleo61@outlook.com     |
+| 全继安 | Paul Quan  |                 | 13570988065     | paul安    |            | 706309392@qq.com               |
+| 滕召智 | Ben Teng   | freet15         | freet15         | Ben      |            | freet15@gmail.com             |
 # SIG例会
 例会采用双周例会形式，分别在月初和月末的周三下午5点，例如2022年7月6日。会议采用zoom线上形式，会议信息如下。
 
@@ -21,16 +34,13 @@ One tap mobile
 本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
 联系人：赵振华 微信ID：richzhao
 
-# 待翻译内容
-## Hyperledger
-- [超级账本项目，区块链技术](https://www.hyperledger.org/news/blog)
-- [落地案例](https://www.hyperledger.org/category/member-case-study)
-- [区块链产业应用 - 供应链](https://www.hyperledger.org/category/supply-chain)
-- [区块链产业应用 - 身份认证](https://www.hyperledger.org/category/identity)
-- [区块链产业应用 - 电信](https://www.hyperledger.org/category/telecom)
-- [区块链产业应用 - 卫生保健](https://www.hyperledger.org/category/healthcare)
-- [区块链产业应用 - 金融](https://www.hyperledger.org/category/finance)
+# 翻译任务
 
+正在翻译以及已经完成的翻译任务[WIP](./wip.md)
+
+# 术语
+
+遇到不确定如何翻译的术语及时在群里和SIG会议上讨论。常见术语请参考[Glossary](./glossary.md)
 
 # 翻译任务指南
 
@@ -75,3 +85,9 @@ vi contributor.md
 八、翻译完成，将自己的名字写到文件中， 然后： git commit && git push
 
 九、提交[PR](https://github.com/lfapac-open-source-evangelist/translation/compare)
+
+# 大事记
+[History](./history.md)
+
+# 参考资料
+[CY T154—2017 中文出版物夹用英文的编辑标准](./reference/CY-T154—2017-中文出版物夹用英文的编辑标准.pdf)
