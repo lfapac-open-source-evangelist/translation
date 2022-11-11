@@ -7,9 +7,9 @@
 |  |  |  02.md (Introduction)      | 2 | |
 |  |  |  03.md (Initial investigations)      | 1 | |
 |  |  |  04.md (Project funding, Legal considerations)      | 3 | |
-|  |  |  05.md  (Project branding)     | 3  | |
-|  |  |  06.md (Project launch)    | 1 | |
-|  |  |  07.md (Summary of recommended)| 2 | |
+|  | zhaozhi |  05.md  (Project branding)     | 3  | |
+| zhaozhi |  |  06.md (Project launch)    | 1 | 11-12|
+| zhaozhi |  |  07.md (Summary of recommended)| 2 | 11-12|
 |  |  |  08.md (Ongoing support, endnotes)| 1 | |
 |  |  |  09.md (Conclusion to end)| 3 | |
 
