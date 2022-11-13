@@ -1,5 +1,5 @@
 ### Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework
-### 介绍Hyperledger Cacti项目，一个多方面的可插拔的互操作性框架
+### Hyperledger Cacti项目介绍，一个多方面的可插拔的互操作性框架
 
 By Peter Somogyvari (Accenture), Jagpreet Singh Sasan (Accenture), Izuru Sato (Fujitsu), Takuma Takeuchi (Fujitsu), 
 Venkatraman Ramakrishna (IBM), Sandeep Nishad (IBM), Krishnasuri Narayanam (IBM), Dhinakaran Vinayagamurthy (IBM) 
@@ -28,5 +28,39 @@ Extrapolating from these examples and others that are commonly encountered by en
 Hyperledger Cacti provides an interoperability solution that does not require the networks’ respective chains to coalesce into one “chain to rule them all.” It also does not require the creation of yet another settlement chain and consensus protocol to which existing networks must subscribe. Instead, Cacti allows networks to preserve autonomy of decision-making while conducting cross-network transactions on a need basis. In effect, Hyperledger Cacti scales decentralized trust above and beyond the confines of a single network without requiring networks to merge or integrate, in effect enabling a network-of-networks, as illustrated in the figure below using samples of DLT networks and cross-chain operations. 
 
 Hyperledger Cacti提供了一种互操作性解决方案，它不需要将多条链合并成一条“统一链”来统治管理，也不需要创建一条新的结算链及共识协议让现有的网络订阅。相反，Cacti允许每条网络在根据需要进行跨链交易时保持决策自主权。实际上，Hyperledger Cacti将去中心化的信任延伸到了单个网络的范围之外，无需合并或集成网络，实际上启用了基于网络的网络，如下图所示的示例中使用了DLT网络和跨链操作。
+
+![image](https://user-images.githubusercontent.com/89500827/201513568-65fae50e-441a-474e-bb93-8a30f628f83e.png)
+
+A core design tenet of Hyperledger Cacti is that it does not require modification to any existing DLT stack, and operates purely at the contract- and-application layers (or Layer 2). This allows Cacti to be used not only for networks built on existing DLTs but potentially for DLTs that have yet to emerge. The initial release of Hyperledger Cacti will provide interoperability and connectivity features to varying extents for the following nine DLTs. (Interoperability support for other DLTs will be added to the future roadmap of the project.)
+
+Hyperledger Cacti的一个核心设计原则是，它不需要修改任何现有的DLT技术堆栈，只在合约层和应用层（或第2层）运行。这使得Cacti不仅可以适用于现有的DLT技术构建的网络，还可以适用于未来的DLT技术。Hyperledger Cacti的初始版本将为以下九种DLT技术提供不同程度的互操作性和连接功能（在后续的项目路线图中会添加对其他DLT技术的互操作性支持）。
+
+* Hyperledger Besu
+* Hyperledger Fabric
+* Hyperledger Indy
+* Hyperledger Iroha
+* Hyperledger Sawtooth
+* R3 Corda
+* Go-Ethereum
+* Quorum
+* Xdai
+
+The Cacti architecture builds on the pre-existing architecture of both Hyperledger Cactus and the Weaver Labs frameworks, merging components having similar or identical functionality and aggregating distinct components to offer several features that span a wide spectrum of trust and usability. The Cacti plugin architecture will enable the coexistence and maintenance of different feature/protocol implementations which can be selectively activated on demand with minimum configuration overhead. Users can customize the level of decentralization they require using a combination of the Node Server inherited from Cactus and a pluggable network-centric relay (or gateway) inherited from Weaver. The figure below illustrates how distributed applications running on distinct ledgers can trigger cross-network transactions either from a centralized Node Server or in a peer-to-peer manner using relays. The applications can be deployed in a standalone legacy manner or be “plugged into” the Node Server; developers and administrators may choose the option that fits their requirements better. All cross-relay communication protocols implemented in Cacti will be DLT-agnostic and comply with emerging standards. 
+
+Cacti架构是建立在Hyperledger Cactus和Weaver Labs现有的架构之上，已经合并了相似或相同的组件，并整合了不同的功能组件，以提供更广泛的信任技术和可用性的多个功能。Cacti的插件架构可支持不同功能/协议实现的共存，这些功能/协议可以根据需要以最小的配置开销选择性地激活。用户可以使用继承自Cactus的节点服务器（Node Server）和继承自Weaver的可插拔网络中心中继器（或网关）的组合，来自定义所需的去中心化应用级别。下图说明了在不同的区块链账本上运行的分布式应用程序，如何基于集中的节点服务器或使用点对点的中继器触发跨网络交易的。应用程序可以采用传统的方式独立部署，也可以“插入”节点服务器；开发人员和管理员可以根据需要自行选择。Cacti中实现的所有跨中继通信协议，与具体的DLT技术无关，并符合后续新兴标准。
+
+![image](https://user-images.githubusercontent.com/89500827/201515064-bd16fdb9-2dce-4251-9738-12f8082a55be.png)
+
+Core interoperability features of proof validation and lock management can be performed using either designated validator pools or with smart contracts and DApps installed in the core networks themselves; users may select these options depending on the level of trust they require and correspondingly, the level of administrative overhead they are willing to accept. Cacti will offer these features and the ability to select and activate them through a common (and comprehensive) client SDK and API. To provide a foundation for interoperability across heterogeneous DLTs, Cacti will maintain a pool of DLT- and version-specific connectors or drivers that will act as entry points for operations in a given ledger that must occur in the context of a multi-ledger transaction.
+
+互操作性的核心功能，如证明验证和锁定管理，可以使用指定的验证池或安装在核心网络中的智能合约和DApp来执行；用户可以根据需要的信任级别和愿意接受的管理开销进行选择。Cacti提供通用的（或者说全面的）客户端SDK和API的方式，支持用户自行选择和激活相关的功能。为了提供异构DLT的互操作性基础，Cacti将维护一个连接器或驱动程序池，支持多种DLT技术的不同版本，在跨账本交易的场景中，这些连接器或驱动程序就充当某个特定账本的操作的入口。
+
+To learn more, join us Monday, November 14, from 11am-2pm EST for the “Blockchain Interoperability with Hyperledger Cacti” hands-on workshop. To register, go [here](https://zoom.us/meeting/register/tJ0vdOuoqT0qH9bRetrLUqbuHH_UykJs7DTf). 
+
+想要了解更多信息，请在美国东部标准时间11月14日星期一上午11点至下午2点加入我们，参加“与Hyperledger Cacti的区块链互操作性”实践研讨会。想要注册，请点击[这里](https://zoom.us/meeting/register/tJ0vdOuoqT0qH9bRetrLUqbuHH_UykJs7DTf)。
+
+To get involved in the Hyperledger Cacti community, connect with us on [Discord](https://discord.com/channels/905194001349627914/908379366650703943). All are welcome!
+
+想要加入Hyperledger Cacti社区，请在[Discord](https://discord.com/channels/905194001349627914/908379366650703943)上与我们联系。欢迎大家！
 
 
