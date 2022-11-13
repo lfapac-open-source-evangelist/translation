@@ -21,3 +21,12 @@ Consider a trade logistics network (like [TradeLens](https://www.tradelens.com/)
 
 以一个贸易物流网络（如[TradeLens](https://www.tradelens.com/)）为例，它采用区块链账本记录货物提单。在贸易融资网络（如[Marco Polo 马可波罗](https://marcopolonetwork.com/)）上履行信用证付款义务时，需要使用这些票据提单，但当前欠缺制度化的机制支持在两个网络之间共享提单和真实性证明，贸易融资网络不得不依赖于不可信的托运人，为了能顺利获得付款，就贿赂托运人提供虚假账单。另一种是在DeFi场景中越来越普遍和突出的需求，金融工具和货币账户（例如，中央银行数字货币或CBDC）维护在不同的区块链账本中。但是这种事态将抑制货币的交换，并限制这些网络及其所建立的DLT的效用，除非实现原子交换机制（比如将一个网络上的证券转换成另一个网络上的数字代币）的制度化。
 
+Extrapolating from these examples and others that are commonly encountered by enterprises and business consortia, we can identify the need for networks to interoperate for the purposes of sharing ledger state, moving assets across network boundaries, and exchanging assets atomically. But, because there are cogent privacy, autonomy, and performance reasons for a large number of such networks to co-exist, such interoperability must be enabled without forcing them all to coalesce into a single global chain or subscribe to a single global settlement chain.
+
+从这些例子以及企业和商业联盟经常遇到的其他例子中推断，我们可以确定为了实现账本状态的共享、跨网络边界的资产转移和资产的原子性交换而进行网络互操作的必要性。但是，考虑到各个网络的隐私性、自治性及性能的原因，必然需要多个网络共存，不能迫使它们全部合并成一个单一的全球链网络或订阅单一的全球结算链，但必须实现这些网络间的互操作性。
+
+Hyperledger Cacti provides an interoperability solution that does not require the networks’ respective chains to coalesce into one “chain to rule them all.” It also does not require the creation of yet another settlement chain and consensus protocol to which existing networks must subscribe. Instead, Cacti allows networks to preserve autonomy of decision-making while conducting cross-network transactions on a need basis. In effect, Hyperledger Cacti scales decentralized trust above and beyond the confines of a single network without requiring networks to merge or integrate, in effect enabling a network-of-networks, as illustrated in the figure below using samples of DLT networks and cross-chain operations. 
+
+Hyperledger Cacti提供了一种互操作性解决方案，它不需要将多条链合并成一条“统一链”来统治管理，也不需要创建一条新的结算链及共识协议让现有的网络订阅。相反，Cacti允许每条网络在根据需要进行跨链交易时保持决策自主权。实际上，Hyperledger Cacti将去中心化的信任延伸到了单个网络的范围之外，无需合并或集成网络，实际上启用了基于网络的网络，如下图所示的示例中使用了DLT网络和跨链操作。
+
+
