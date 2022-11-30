@@ -1,12 +1,14 @@
 
-[]{#_bookmark93 .anchor}**CHAPTER 9**
+# CHAPTER 9 GPL VERSION 3
 
-GPL VERSION 3
+# 第9章 GPL 第3版
 
 This chapter discusses the text of GPLv3. Much of this material herein
 includes text that was adapted (with permission) from text that FSF
 originally published as part of the so-called "rationale documents"
 for the various discussion drafts of GPLv3.
+
+本章讨论GPL第3版的文本。本文中的大部分材料（经许可）是从FSF最初作为各种讨论草案的所谓“基本原理文件”的部分文本改变。
 
 The FSF ran a somewhat public process to develop GPLv3, and it was the
 first attempt of its kind to develop a Free Software license this way.
@@ -18,12 +20,18 @@ from the firehose" effect. This chapter seeks to explain GPLv3 to
 newcomers, who perhaps are familiar with GPLv2 and who did not
 participate in the GPLv3 process.
 
+FSF运行了一个公开的开发GPLv3流程，这是首次尝试开发自由软件许可证的方法。最终，RMS是GPLv3的主要作者，但是他听取了各种个人甚至是营利性公司的反馈。然而，试图在事后理解GPLv3，有点像“就着消防带喝水”的感觉。本章旨在向可能熟悉GPLv2，而未参与过GPLv3流程的新手解释GPLv3。
+
 Those who wish to drink from the firehose and take a diachronic
 approach to GPLv3 study by reading the step-by-step public drafting
 process of the GPLv3 (which occurred from Monday 16 January 2006
 through Monday 19 November 2007) should visit <http://gplv3.fsf.org/>.
 
+那些希望通过阅读GPLv3起草过程（从2006年1月16日星期一到2007年11月19日星期一）对GPLv3研究采取历时方法的人应该访问http://gplv3.fsf.org。
+
 ## Understanding GPLv3 As An Upgraded GPLv2
+
+## 把GPLv3理解为GPLv2的升级版
 
 Ultimately, GPLv2 and GPLv3 co-exist as active licenses in regular
 use. As discussed in Chapter [2,](#_bookmark27) GPLv1 was never
@@ -34,6 +42,9 @@ GPLv2-or-later. GPLv3 gained major adoption by many projects, old and
 new, but many projects have not upgraded due to (in some cases) mere
 laziness and (in other cases) policy preference for some of GPLv2's
 terms and/or policy opposition to GPLv3's terms.
+
+最终，GPLv2和GPLv3作为常规有效许可证共存。如第2章所述[^note]。GPLv1从未与GPLv2一起常规使用。然而，鉴于GPLv2的广泛流行和GPLv3发布时的现有寿命，一些人许可人更喜欢采用仅GPLv2或者GPLv2或者后续版本就不足为奇了。
+[^note]:有关⾮美国版权系统的简要讨论，请参阅本教程的第 1.2.4 节。
 
 Given this "two GPLs world" is reality, it makes sense to consider
 GPLv3 in terms of how it differs from GPLv2. Also, most of the best
