@@ -10,7 +10,7 @@
 
 # Archived
 
-## [A Guide to Enterprise Open Source](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/LF%20Research%20Guide%20to%20Enterprise%20Open%20Source.pdf)
+## [A Guide to Enterprise Open Source](./completed/Developing_and_Executing_Open_Source_Software_Strategy_Chinese.pdf)
 
 翻译：
 1. 赵振华，深圳市启锐信息技术有限公司
@@ -23,6 +23,23 @@
 8. Maggie Cheung, Linux Foundation APAC
 9. Michelle Ko, Linux Foundation APAC
 
+## [The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness](./completed/LFResearch_SBOM_Report_CN_Chinese_112522.pdf)
+
+1. 赵振华
+2. 皮冰锋
+3. 阎书利
+4. 周冉
+5. 徐斌
+6. 马景贺, 极狐(GitLab)
+7. 王玉茂, 华为
+8. 王永雷
+9. 全继安
+10. 滕召智
+11. 王伟超
+12. Donald Liu, Linux Foundation APAC
+13. Maggie Cheung, Linux Foundation APAC
+14. Hin Yang, Linux Foundation APAC
+15. Dorothy Cheng, Linux Foundation APAC
 
 # Blog
 | 文章                                                                         | 翻译 | 校对 | 发表日期 |
