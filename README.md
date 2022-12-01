@@ -36,6 +36,10 @@ One tap mobile
 本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
 联系人：赵振华 微信ID：richzhao
 
+# 正在翻译的作品
+## PRACTICAL GPL COMPLIANCE， 以及 GNU General Public License: A Comprehensive Tutorial and Guide，详见 
+   https://github.com/lfapac-open-source-evangelist/translation/tree/main/gpl-compliance
+
 # 译道师作品集 
 
 ## 书籍

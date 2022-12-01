@@ -1,26 +1,21 @@
 
-[]{#_bookmark1 .anchor}**Part I**
+[]{#_bookmark1 .anchor}
+
+**Part I**
+
+**第一部分**
 
 **Detailed Analysis of the GNU GPL and Related Licenses**
 
-This part of the tutorial gives a comprehensive explanation of the
-most popular Free Software copy- right license, the GNU General Public
-License ("GNU GPL", or sometimes just "GPL") -- both version 2
-("GPLv2") and version 3 ("GPLv3") -- and teaches lawyers, software
-developers, managers and businesspeo- ple how to use the GPL (and
-GPL'd software) successfully both as a community-building
-"Constitution" for a software project, and to incorporate copylefted
-software into a new Free Software business and in existing, successful
-enterprises.
+**GNU GPL 及相关许可证的详细分析**
 
-To benefit from this part of the tutorial, readers should have a
-general familiarity with software develop- ment processes. A basic
-understanding of how copyright law applies to software is also
-helpful. The tutorial is of most interest to lawyers, software
-developers and managers who run or advise software businesses that
-modify and/or redistribute software under the terms of the GNU GPL (or
-who wish to do so in the future), and those who wish to make use of
-existing GPL'd software in their enterprise.
+This part of the tutorial gives a comprehensive explanation of the most popular Free Software copy- right license, the GNU General Public License ("GNU GPL", or sometimes just "GPL") -- both version 2 ("GPLv2") and version 3 ("GPLv3") -- and teaches lawyers, software developers, managers and business people how to use the GPL (and GPL'd software) successfully both as a community-building "Constitution" for a software project, and to incorporate copylefted software into a new Free Software business and in existing, successful enterprises.
+
+本教程的这一部分对最流行的开源软件版权许可证，即GNU通用公共许可证（“GNU GPL”，有时简称为“GPL”）——版本 2（“GPLv2”）和版本 GPLv3（“GPLv3”）——进行了全面的解释，引导律师、软件开发人员、管理人员和业务人员如何成功地使用GPL（以及GPL的软件），将其作为软件项目的社区建设“章程”，并将版权不标准(copylefted)的软件合并到新的自由软件业务和现有的成功企业中。
+
+To benefit from this part of the tutorial, readers should have a general familiarity with software development processes. A basic understanding of how copyright law applies to software is also helpful. The tutorial is of most interest to lawyers, software developers and managers who run or advise software businesses that modify and/or redistribute software under the terms of the GNU GPL (or who wish to do so in the future), and those who wish to make use of existing GPL'd software in their enterprise.
+
+为了从教程的这一部分中受益，读者应该对软件开发过程有一个大致的了解。对版权法如何适用于软件的基本理解也很有帮助。本教程最感兴趣的是律师、软件开发人员和管理人员，他们经营软件业务，建议根据GNU GPL条款修改和/或重新分发软件（或希望在将来这样做），还有那些希望在他们的企业中使用已有的GPL软件的人。
 
 Upon completion of this part of the tutorial, readers can expect to
 have learned the following:
