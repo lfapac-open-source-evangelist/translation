@@ -17,44 +17,47 @@ To benefit from this part of the tutorial, readers should have a general familia
 
 为了从教程的这一部分中受益，读者应该对软件开发过程有一个大致的了解。对版权法如何适用于软件的基本理解也很有帮助。本教程最感兴趣的是律师、软件开发人员和管理人员，他们经营软件业务，建议根据GNU GPL条款修改和/或重新分发软件（或希望在将来这样做），还有那些希望在他们的企业中使用已有的GPL软件的人。
 
-Upon completion of this part of the tutorial, readers can expect to
-have learned the following:
+Upon completion of this part of the tutorial, readers can expect to have learned the following:
 
--   The freedom-defending purpose of various terms in the GNU GPLv2 and
-    > GPLv3.
+看完本教程的这一部分后，读者可以期望学到以下内容：
+
+-   The freedom-defending purpose of various terms in the GNU GPLv2 and GPLv3.
+-   GNU GPLv2和GPLv3中各种术语，目的是捍卫自由；
 
 -   The differences between GPLv2 and GPLv3.
+-   GPLv2和GPLv3的区别；
 
 -   The redistribution options under the GPLv2 and GPLv3.
+-   基于GPLv2和GPLv3的再分发选项；
 
 -   The obligations when modifying GPLv2'd or GPLv3'd software.
+-   修改GPLv2或GPLv3软件时应遵循的义务；
 
--   How to build a plan for proper and successful compliance with the
-    > GPL.
+-   How to build a plan for proper and successful compliance with the GPL.
+-   如何制定计划以正确且成功地遵守GPL协议；
 
 -   The business advantages that the GPL provides.
+-   GPL提供的业务优势；
 
 -   The most common business models used in conjunction with the GPL.
+-   与GPL结合使用的最常见的商业模式；
 
 -   How existing GPL'd software can be used in existing enterprises.
+-   企业如何使用已有的GPL软件；
 
--   The basics of LGPLv2.1 and LGPLv3, and how they differ from the
-    > GPLv2 and GPLv3, respectively.
+-   The basics of LGPLv2.1 and LGPLv3, and how they differ from the GPLv2 and GPLv3, respectively.
+-   LGPLv2.1和LGPLv3的基础知识，以及它们分别与GPLv2和GPLv3的区别；
 
-The basics to begin understanding the complexities regarding
-derivative and combined works of soft- ware.
+-   The basics to begin understanding the complexities regarding derivative and combined works of software.
+-   开始了解有关软件的衍生和组合作品的复杂性的基础知识。
 
-[]{#_bookmark2 .anchor}**CHAPTER 1**
+[]{#_bookmark2 .anchor}
 
-WHAT IS SOFTWARE FREEDOM?
+**CHAPTER 1 WHAT IS SOFTWARE FREEDOM?**
 
-Study of the GNU General Public License (herein, abbreviated as *GNU
-GPL* or just *GPL*) must begin by first considering the broader world
-of software freedom. The GPL was not created in a vacuum. Rather, it
-was created to embody and defend a set of principles that were set
-forth at the founding of the GNU Project and the Free Software
-Foundation (FSF) -- the preeminent organization that upholds, defends
-and promotes the philosophy of software freedom. A prerequisite for
+**第一章 什么是软件自由？**
+
+Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or just *GPL*) must begin by first considering the broader world of software freedom. The GPL was not created in a vacuum. Rather, it was created to embody and defend a set of principles that were set forth at the founding of the GNU Project and the Free Software Foundation (FSF) -- the preeminent organization that upholds, defends and promotes the philosophy of software freedom. A prerequisite for
 understanding both of the popular versions of the GPL (GPLv2 and
 GPLv3) and their terms and conditions is a basic understanding of the
 principles behind them. The GPL family of licenses are unlike nearly
