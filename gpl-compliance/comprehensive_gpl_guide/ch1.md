@@ -57,37 +57,35 @@ Upon completion of this part of the tutorial, readers can expect to have learned
 
 **第一章 什么是软件自由？**
 
-Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or just *GPL*) must begin by first considering the broader world of software freedom. The GPL was not created in a vacuum. Rather, it was created to embody and defend a set of principles that were set forth at the founding of the GNU Project and the Free Software Foundation (FSF) -- the preeminent organization that upholds, defends and promotes the philosophy of software freedom. A prerequisite for
-understanding both of the popular versions of the GPL (GPLv2 and
-GPLv3) and their terms and conditions is a basic understanding of the
-principles behind them. The GPL family of licenses are unlike nearly
-all other software licenses in that they are designed to defend and
-uphold these principles.
+Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or just *GPL*) must begin by first considering the broader world of software freedom. The GPL was not created in a vacuum. Rather, it was created to embody and defend a set of principles that were set forth at the founding of the GNU Project and the Free Software Foundation (FSF) -- the preeminent organization that upholds, defends and promotes the philosophy of software freedom. A prerequisite for understanding both of the popular versions of the GPL (GPLv2 and GPLv3) and their terms and conditions is a basic understanding of the principles behind them. The GPL family of licenses are unlike nearly all other software licenses in that they are designed to defend and uphold these principles.
+
+研究GNU通用公共许可证（此处缩写为*GNU GPL*或简称*GPL*）必须首先考虑更广泛的软件自由世界。 GPL不是凭空产生的，它是为了体现和捍卫在GNU项目和自由软件基金会 (FSF) 成立时提出的一系列原则而创建的，FSF是一个维护、捍卫和促进软件自由哲学的卓越组织。 理解GPL的两个流行版本（GPLv2 和 GPLv3）及其条款和条件的先决条件是对它们背后的原则有基本的理解。GPL系列许可证与几乎所有其他的软件许可证不同，因为它们旨在捍卫和维护这些原则。
 
 ## The Free Software Definition
 
-The Free Software Definition is set forth in full on FSF's website at
-<http://fsf.org/> philosophy/free-sw.html. This section presents an
-abbreviated version that will focus on the parts that are most
-pertinent to the GPL.
+## 自由软件的定义
 
-A particular user has software freedom with respect to a particular
-program if that user has the following freedoms:
+The Free Software Definition is set forth in full on FSF's website at http://fsf.org/philosophy/free-sw.html. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
+
+自由软件定义在FSF的网站 http://fsf.org/philosophy/free-sw.html 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最相关的部分。
+
+A particular user has software freedom with respect to a particular program if that user has the following freedoms:
+
+如果某个用户具有以下自由，则这个用户就具有与特定程序相关的软件自由：
 
 -   The freedom to run the program, for any purpose.
+-   出于任何目的执行程序的自由；
 
 -   The freedom to study how the program works, and modify it
+-   了解程序的运行机制，可以随意修改的自由；
 
 -   The freedom to redistribute copies.
+-   随意转发软件副本的自由；
 
 -   The freedom to distribute copies of modified versions to others.
+-   将修改后的软件副本分发给他人的自由。
 
-The focus on "a particular user" is particularly pertinent here. It is
-not uncommon for a subset of a specific program's user base to have
-these freedoms, while other users of the same version the program have
-none or only some of these freedoms. Section [12.2](#business-models)
-talks in detail about how this can unfortunately happen even if a
-program is released under the GPL.
+The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2](#business-models) talks in detail about how this can unfortunately happen even if a program is released under the GPL.
 
 Many people refer to software with these freedoms as "Open Source."
 Besides having a different political focus from those who call such
