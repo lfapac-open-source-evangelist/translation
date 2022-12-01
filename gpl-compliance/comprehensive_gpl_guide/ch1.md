@@ -71,7 +71,7 @@ The Free Software Definition is set forth in full on FSF's website at http://fsf
 
 A particular user has software freedom with respect to a particular program if that user has the following freedoms:
 
-如果某个用户具有以下自由，则这个用户就具有与特定程序相关的软件自由：
+如果某个特定用户具有以下自由，则这个用户就具有与特定程序相关的软件自由：
 
 -   The freedom to run the program, for any purpose.
 -   出于任何目的执行程序的自由；
@@ -80,21 +80,18 @@ A particular user has software freedom with respect to a particular program if t
 -   了解程序的运行机制，可以随意修改的自由；
 
 -   The freedom to redistribute copies.
--   随意转发软件副本的自由；
+-   随意分发软件副本的自由；
 
 -   The freedom to distribute copies of modified versions to others.
 -   将修改后的软件副本分发给他人的自由。
 
 The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2](#business-models) talks in detail about how this can unfortunately happen even if a program is released under the GPL.
 
-Many people refer to software with these freedoms as "Open Source."
-Besides having a different political focus from those who call such
-software by the name "Free Software",[^1^](#_bookmark4), those who
-call the software "Open Source" are often focused on a side issue.
-Specifically, user access to the source code of a program is a
-prerequisite to make use of the freedom to modify. However, the
-important issue is what freedoms are granted in the license that
-applies to that source code.
+对“特定用户”的关注在这里尤为重要。某个特定程序的用户群的一部分人拥有这些自由的情况并不少见，而同一版本程序的其他用户则没有或只有其中的一部分自由。 第[12.2]（#商业模式）章节详细讨论了这种情况，即使程序是基于GPL发布的。
+
+Many people refer to software with these freedoms as "Open Source." Besides having a different political focus from those who call such software by the name "Free Software",[^1^](#_bookmark4), those who call the software "Open Source" are often focused on a side issue. Specifically, user access to the source code of a program is a prerequisite to make use of the freedom to modify. However, the important issue is what freedoms are granted in the license that applies to that source code.
+
+许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件”[^1^](#_bookmark4) 的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
 
 Software freedom is only complete when no restrictions are imposed on
 how these freedoms are exercised. Specifically, users and programmers
