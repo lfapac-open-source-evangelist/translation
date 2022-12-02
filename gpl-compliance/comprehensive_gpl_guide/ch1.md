@@ -126,7 +126,11 @@ The remainder of this section considers each of each component of software freed
 The first tenet of software freedom is the user's fully unfettered right to run the program. The software's license must permit any conceivable use of the software. Perhaps, for example, the user has discovered an innovative use for a particular program, one that the programmer never could have predicted. Such a use must not be
 restricted.
 
+软件自由的首要原则是用户拥有完全不受限制地执行该程序的权利。该软件的许可证必须允许用户以任意方式使用软件。例如，也许用户发现了针对一个特定场景的创新用途，这个场景可能是程序员从未预料到的。不得限制此类用途。
+
 It was once rare that this freedom was restricted by even proprietary software; but such is quite common today. Most End User License Agreements (EULAs) that cover most proprietary software typically restrict some types of uses. Such restrictions of any kind are an unacceptable restriction on software freedom.
+
+曾经很少有使用软件的自由受到限制的情况，在专有软件中也很少见；但现在却很普遍。大多数基于最终用户许可协议（EULAs）的专有软件，通常限制某些类型的用途。任何这些形式的限制对软件自由来说，都是不可接受的。
 
 ### The Freedom to Change and Modify
 
