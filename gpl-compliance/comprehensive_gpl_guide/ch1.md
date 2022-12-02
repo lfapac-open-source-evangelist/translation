@@ -121,20 +121,16 @@ The remainder of this section considers each of each component of software freed
 
 ### The Freedom to Run
 
-The first tenet of software freedom is the user's fully unfettered
-right to run the program. The software's license must permit any
-conceivable use of the software. Perhaps, for example, the user has
-discovered an innovative use for a particular program, one that the
-programmer never could have predicted. Such a use must not be
+### 执行程序的自由
+
+The first tenet of software freedom is the user's fully unfettered right to run the program. The software's license must permit any conceivable use of the software. Perhaps, for example, the user has discovered an innovative use for a particular program, one that the programmer never could have predicted. Such a use must not be
 restricted.
 
-It was once rare that this freedom was restricted by even proprietary
-software; but such is quite common today. Most End User License
-Agreements (EULAs) that cover most proprietary software typically
-restrict some types of uses. Such restrictions of any kind are an
-unacceptable restriction on software freedom.
+It was once rare that this freedom was restricted by even proprietary software; but such is quite common today. Most End User License Agreements (EULAs) that cover most proprietary software typically restrict some types of uses. Such restrictions of any kind are an unacceptable restriction on software freedom.
 
 ### The Freedom to Change and Modify
+
+### 更改和修改程序的自由
 
 Perhaps the most useful right of software freedom is the users' right
 to change, modify and adapt the software to suit their needs. Access
