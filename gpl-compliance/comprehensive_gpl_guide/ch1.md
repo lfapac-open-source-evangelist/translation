@@ -136,29 +136,18 @@ It was once rare that this freedom was restricted by even proprietary software; 
 
 ### 更改和修改程序的自由
 
-Perhaps the most useful right of software freedom is the users' right
-to change, modify and adapt the software to suit their needs. Access
-to the source code and related build and installation scripts are an
-essential part of this freedom. Without the source code, and the
-ability to build and install the binary applications from that source,
-users cannot effectively exercise this freedom.
+Perhaps the most useful right of software freedom is the users' right to change, modify and adapt the software to suit their needs. Access to the source code and related build and installation scripts are an essential part of this freedom. Without the source code, and the ability to build and install the binary applications from that source, users cannot effectively exercise this freedom.
 
-Programmers directly benefit from this freedom. However, this freedom
-remains important to users who are not programmers. While it may seem
-counterintuitive at first, non-programmer users often exercise this
-freedom indirectly in both commercial and noncommercial settings. For
-example, users often seek noncommercial help with the software on
-email lists and in user groups. To make use of such help they must
-either have the freedom to recruit programmers who might
-altruistically assist them to modify their software, or to at least
-follow rote instructions to make basic modifications themselves.
+软件自由的最有用的权利也许是用户拥有根据自己的需求更改、修改和调整软件的权利。对源代码以及相关的构建和安装脚本的访问权限，是该自由的重要组成部分。如果没有源代码，以及基于该源码构建和安装二进制应用程序的脚本，用户就无法有效地行使这种自由。
 
-More commonly, users also exercise this freedom commercially. Each
-user, or group of users, may hire anyone they wish in a competitive
-free market to modify and change the software. This means that
-companies have a right to hire anyone they wish to modify their Free
-Software. Additionally, such companies may contract with other
+Programmers directly benefit from this freedom. However, this freedom remains important to users who are not programmers. While it may seem counterintuitive at first, non-programmer users often exercise this freedom indirectly in both commercial and noncommercial settings. For example, users often seek noncommercial help with the software on email lists and in user groups. To make use of such help they must either have the freedom to recruit programmers who might altruistically assist them to modify their software, or to at least follow rote instructions to make basic modifications themselves.
+
+程序员是这种自由的直接受益者。但是，这种自由对于非程序员的用户来说也很重要。虽然看起来似乎有点违反直觉，但非程序员用户通常在商业和非商业环境中，间接行使这种自由。例如，用户经常在电子邮件列表和用户群组中需求软件上的非商业性帮助。为了能够使用这种便利，必须允许他们自由地招募可能会免费帮助他们修改软件的程序员，或者允许他们按照使用说明可以自己进行基本的修改。
+
+More commonly, users also exercise this freedom commercially. Each user, or group of users, may hire anyone they wish in a competitive free market to modify and change the software. This means that companies have a right to hire anyone they wish to modify their Free Software. Additionally, such companies may contract with other
 companies to commission software modifications.
+
+更常见的是，用户还可以在商业上行使这种自由。每个用户或一组用户都可以在竞争激烈的自由市场中，雇用他们希望的任何人来修改和更改软件。这意味着公司有权雇用任何愿意修改其免费软件的人。此外，公司可以与其他公司签订合同，委托进行软件修改。
 
 ### The Freedom to Copy and Share
 
