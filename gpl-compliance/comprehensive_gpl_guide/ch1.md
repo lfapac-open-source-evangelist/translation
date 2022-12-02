@@ -151,6 +151,8 @@ companies to commission software modifications.
 
 ### The Freedom to Copy and Share
 
+### 复制和分享软件的自由
+
 Users share Free Software in a variety of ways. Software freedom
 advocates work to eliminate a fundamental ethical dilemma of the
 software age: choosing between obeying a software license and
