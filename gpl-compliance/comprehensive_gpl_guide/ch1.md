@@ -110,17 +110,14 @@ Keep in mind that none of the terms "software freedom", "open source" and "free 
 
 请记住，“软件自由”、“开源”和“免费软件”等术语均未被任何司法管辖区的任何组织注册商标，或以其他方式限制使用。这些术语被某些机构滥用和误用是很常见的现象，因为他们希望扩大软件自由的普及度。当考虑使用、修改或重新分发声称是开源或自由软件的软件包时，**必须**验证许可证是否授予软件自由。
 
-Furthermore, throughout this text, we generally prefer the term
-"software freedom", as this is the least ambiguous term available to
-describe software that meets the Free Software Definition. For
-example, it is well known and often discussed that the adjective
-"free" has two unrelated meanings in English: "free as in freedom" and
-"free as in price". Meanwhile, the term "open source" is even more
-confusing, because it appears to refer only to the "freedom to study",
-which is merely a subset of one of the four freedoms.
+Furthermore, throughout this text, we generally prefer the term "software freedom", as this is the least ambiguous term available to describe software that meets the Free Software Definition. For example, it is well known and often discussed that the adjective "free" has two unrelated meanings in English: "free as in freedom" and
+"free as in price". Meanwhile, the term "open source" is even more confusing, because it appears to refer only to the "freedom to study", which is merely a subset of one of the four freedoms.
 
-The remainder of this section considers each of each component of
-software freedom in detail.
+此外，在本文中，我们通常更喜欢“软件自由”一词，因为在那些描述符合自由软件定义的软件的一堆术语中，它的歧义最小。例如，大家经常讨论的英文中的形容词“自由”，它有两个不相关的含义：“使用的自由”和“价格的自由(免费)”。同时，“开源”一词更令人困惑，因为它似乎仅指“学习的自由”，这仅仅是四个自由中的一个。
+
+The remainder of this section considers each of each component of software freedom in detail.
+
+本节的其余部分将详细考虑软件自由的每个组成部分。
 
 ### The Freedom to Run
 
