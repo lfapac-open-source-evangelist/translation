@@ -244,23 +244,19 @@ conduct resulting in abandonment of copyright.) If copyright is disclaimed, the 
 
 ### Public Domain Software
 
-In the USA and other countries that are parties to the Berne
-Convention on Copyright, software is copyrighted automatically by the
-author when she fixes the software in a tangible medium. In the
-software world, this usually means typing the source code of the
-software into a file.
+### 公共领域软件
 
-Imagine if authors could truly disclaim those default controls of
-copyright law. If so, the software is in the public domain --- no
-longer covered by copyright. Since copyright law is the construction
-allowing for most restrictions on software (i.e., prohibition of
-copying, modification, and redistribution), removing the software from
-the copyright system usually yields software freedom for its users.
+In the USA and other countries that are parties to the Berne Convention on Copyright, software is copyrighted automatically by the author when she fixes the software in a tangible medium. In the software world, this usually means typing the source code of the software into a file.
 
-Carefully note that software truly in the public domain is *not*
-licensed in any way. It is confusing to say software is "licensed for
-the public domain," or any phrase that implies the copyright holder
-gave express permission to take actions governed by copyright law.
+在美国和其他加入《伯尔尼版权公约》的国家，当作者将软件固定在有形介质中时，软件自动受到版权保护。在软件世界中，这通常意味着将软件的源代码输入到文件中。
+
+Imagine if authors could truly disclaim those default controls of copyright law. If so, the software is in the public domain --- no longer covered by copyright. Since copyright law is the construction allowing for most restrictions on software (i.e., prohibition of copying, modification, and redistribution), removing the software from the copyright system usually yields software freedom for its users.
+
+想象一下，如果作者真的放弃了版权法的默认控制。如果是这样，该软件就属于公共领域 --- 不再受版权保护。由于版权法是允许对软件进行操作限制（如禁止复制、修改和重新分发）的结构定义，因此从版权系统中删除软件通常会为其用户带来软件自由。
+
+Carefully note that software truly in the public domain is *not* licensed in any way. It is confusing to say software is "licensed for the public domain," or any phrase that implies the copyright holder gave express permission to take actions governed by copyright law.
+
+请注意，真正属于公共领域的软件*未*以任何方式获得许可。关于软件“已获得公共领域许可”，或任何关于版权所有者明确允许采取受版权法管辖的行为的暗示说法，都是令人困惑的。
 
 Copyright holders who state that they are releasing their code into
 the public domain are effectively renouncing copyright controls on the
