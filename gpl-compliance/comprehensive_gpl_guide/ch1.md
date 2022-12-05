@@ -91,7 +91,7 @@ The focus on "a particular user" is particularly pertinent here. It is not uncom
 
 Many people refer to software with these freedoms as "Open Source." Besides having a different political focus from those who call such software by the name "Free Software",[^1^](#_bookmark4), those who call the software "Open Source" are often focused on a side issue. Specifically, user access to the source code of a program is a prerequisite to make use of the freedom to modify. However, the important issue is what freedoms are granted in the license that applies to that source code.
 
-许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件”<sup>1</sup>的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
+许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件” <sup>1</sup> 的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
 
 <sup>1</sup>The political differences between the Free Software Movement and the Open Source Movement are documented on FSF's Web site at
 <http://www.fsf.org/licensing/essays/free-software-for-freedom.html>.
@@ -176,13 +176,11 @@ Another common instance of commercial sharing is service-oriented distribution. 
 
 ### The Freedom to Share Improvements
 
-The freedom to modify and improve is somewhat empty without the
-freedom to share those improvements. The software freedom community is
-built on the pillar of altruistic sharing of improved Free Software.
-Historically it was typical for a Free Software project to sprout a
-mailing list where improvements would be shared freely among members
-of the development community.[^2^](#_bookmark10) Such noncommercial
-sharing is the primary reason that Free Software thrives.
+### 分享改进的自由
+
+The freedom to modify and improve is somewhat empty without the freedom to share those improvements. The software freedom community is built on the pillar of altruistic sharing of improved Free Software. Historically it was typical for a Free Software project to sprout a mailing list where improvements would be shared freely among members of the development community.<sup>2</sup> Such noncommercial sharing is the primary reason that Free Software thrives.
+
+如果没有分享改进的自由，修改和改进的自由多少有点空洞。软件自由社区建立在无私共享改进的自由软件的基础上。从历史上看，自由软件项目的典型做法是建立一个邮件列表，开发社区的成员可以在其中免费分享改进的内容。<sup>2</sup> 这种非商业性质的共享方式是自由软件蓬勃发展的主要原因。
 
 Commercial sharing of modified Free Software is equally important. For
 commercial support to exist in a competitive free market, all
