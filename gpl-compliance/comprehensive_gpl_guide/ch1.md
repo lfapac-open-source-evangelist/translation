@@ -226,34 +226,21 @@ to prohibit these activities. In addition, proprietary software distributors fur
 
 <sup>4</sup> 版权法一般也适用于版权作品的“公开性能”。对于软件的公开性能没有普遍认可的定义，GPLv2和GPLv3都不限制公开性能。
 
-Copyright is not a natural state, it is a legal construction. In the
-USA, the Constitution permits, but does not require, the creation of
-copyright law as federal legislation. Software, since it is an
-"original work of authorship fixed in any tangible medium of
-expression \... from which they can be perceived, reproduced, or
-otherwise communicated, either directly or with the aid of a machine
-or device" (as stated in [17
-USC](http://www.law.cornell.edu/uscode/text/17/102)
+Copyright is not a natural state, it is a legal construction. In the USA, the Constitution permits, but does not require, the creation of copyright law as federal legislation. Software, since it is an "original work of authorship fixed in any tangible medium of expression ... from which they can be perceived, reproduced, or
+otherwise communicated, either directly or with the aid of a machine or device" (as stated in [17 USC](http://www.law.cornell.edu/uscode/text/17/102) [§ 102)](http://www.law.cornell.edu/uscode/text/17/102), is thus covered by the statute, and is copyrighted by default.
 
-[102)](http://www.law.cornell.edu/uscode/text/17/102), is thus covered
-by the statute, and is copyrighted by default.
+版权不是一种自然状态，它是一种法律结构。在美国，宪法允许但不要求将版权法作为联邦立法。软件，因为它是“固定在任何有形表达媒介中的原创作品……可以直接或借助机器/设备从中感知、复制或以其他方式传播”（如 [《美国法典》第17篇](http://www.law.cornell.edu/uscode/text/17/102) [第§102章节](http://www.law.cornell.edu/uscode/text/17/102)所述)，因此受法规保护，默认情况下受版权保护。
 
-However, software, in its natural state without copyright, is Free
-Software. In an imaginary world with no copyright, the rules would be
-different. In this world, when you received a copy of a program's
-source code, there would be no default legal system to restrict you
-from sharing it with others, making modifications, or redistributing
-those modified versions.[^5^](#_bookmark14)
+However, software, in its natural state without copyright, is Free Software. In an imaginary world with no copyright, the rules would be different. In this world, when you received a copy of a program's source code, there would be no default legal system to restrict you from sharing it with others, making modifications, or redistributing those modified versions.<sup>5</sup>
 
-Software in the real world is copyrighted by default and is
-automatically covered by that legal system. However, it is possible to
-move software out of the domain of the copyright system. A copyright
-holder can often *disclaim* their copyright. (For example, under USA
-copyright law it is possible for a copyright holder to engage in
-conduct resulting in abandonment of copyright.) If copyright is
-disclaimed, the software is effectively no longer restricted by
-copyright law. Software not restricted by copyright is in the "public
-domain."
+但是，在没有版权的自然状态下，软件是自由软件。在没有版权的虚拟世界中，规则会有所不同。在虚拟世界上，当你收到一个程序的源代码副本时，不会有默认的法律制度来限制你与他人共享、进行修改或重新分发这些修改后的版本。<sup>5</sup>
+
+<sup>5</sup> Note that this is again an oversimplification; the complexities with this argument are discussed in Section [1.2.3.](#software-and-non-copyright-legal-regimes)
+
+<sup>5</sup> 注意，这里又将情况给简化处理了；关于这一争论的复杂情况的讨论详见[1.2.3 章节](#software-and-non-copyright-legal-regimes)
+
+Software in the real world is copyrighted by default and is automatically covered by that legal system. However, it is possible to move software out of the domain of the copyright system. A copyright holder can often *disclaim* their copyright. (For example, under USA copyright law it is possible for a copyright holder to engage in
+conduct resulting in abandonment of copyright.) If copyright is disclaimed, the software is effectively no longer restricted by copyright law. Software not restricted by copyright is in the "public domain."
 
 ### Public Domain Software
 
@@ -307,9 +294,6 @@ license.
 
 
 
-^5^Note that this is again an oversimplification; the complexities
-with this argument are discussed in Section
-[1.2.3.](#software-and-non-copyright-legal-regimes)
 
 The best example of software known to truly be in the public domain is
 software that is published by the USA government. Under [17 USC 101
