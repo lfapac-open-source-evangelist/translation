@@ -202,26 +202,15 @@ developers of the standard version refuse to serve the needs of some of the soft
 
 ## How Does Software Become Free?
 
-## 软件是如何变得免费的？
+## 软件是如何变得自由的？
 
-The previous section set forth key freedoms and rights that are
-referred to as "software freedom". This section discusses the
-licensing mechanisms used to enable software freedom. These licensing
-mechanisms were ultimately created as a community-oriented "answer" to
-the existing proprietary software licensing mechanisms. Thus, first,
-consider carefully why proprietary software exists in the first place.
+The previous section set forth key freedoms and rights that are referred to as "software freedom". This section discusses the licensing mechanisms used to enable software freedom. These licensing mechanisms were ultimately created as a community-oriented "answer" to the existing proprietary software licensing mechanisms. Thus, first, consider carefully why proprietary software exists in the first place.
 
-The primary legal regime that applies to software is copyright law.
-Proprietary software exists at all only because copyright law governs
-software.[^3^](#_bookmark11) Copyright law, with respect to software,
-typically governs copying, modifying, and redistributing that software
-(For details of this in the USA, see []{#_bookmark10 .anchor}[*§*
-106](http://www.copyright.gov/title17/92chap1.html#106) and [*§*
-117](http://www.copyright.gov/title17/92chap1.html#117) of [Title
-17](http://www.law.cornell.edu/uscode/text/17) of
+上一节阐述了被称为“软件自由”的一些关键自由和权利。本节讨论用于实现软件自由的许可机制。这些许可机制被看作是将现有专有软件许可机制转变为面向社区机制的“答案”所在。 因此，首先要仔细考虑为什么会有专有软件存在。
 
-^2^[]{#_bookmark11 .anchor}This is still commonly the case, though
-today there are additional ways of sharing Free Software.
+The primary legal regime that applies to software is copyright law. Proprietary software exists at all only because copyright law governs software.[^3^](#_bookmark11) Copyright law, with respect to software, typically governs copying, modifying, and redistributing that software (For details of this in the USA, see []{#_bookmark10 .anchor}[*§*106](http://www.copyright.gov/title17/92chap1.html#106) and [*§*117](http://www.copyright.gov/title17/92chap1.html#117) of [Title17](http://www.law.cornell.edu/uscode/text/17) of ^2^[]{#_bookmark11 .anchor}This is still commonly the case, though today there are additional ways of sharing Free Software.
+
+
 
 ^3^This statement is admittedly an oversimplification. Patents and
 trade secrets can cover software and make it effectively non-Free, and
