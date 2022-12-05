@@ -182,27 +182,18 @@ The freedom to modify and improve is somewhat empty without the freedom to share
 
 如果没有分享改进的自由，修改和改进的自由多少有点空洞。软件自由社区建立在无私共享改进的自由软件的基础上。从历史上看，自由软件项目的典型做法是建立一个邮件列表，开发社区的成员可以在其中免费分享改进的内容。<sup>2</sup> 这种非商业性质的共享方式是自由软件蓬勃发展的主要原因。
 
-Commercial sharing of modified Free Software is equally important. For
-commercial support to exist in a competitive free market, all
-developers -- from single-person contractors to large software
-companies -- must have the freedom to market their services as
-augmenters of Free Software. All forms of such service marketing must
+Commercial sharing of modified Free Software is equally important. For commercial support to exist in a competitive free market, all developers -- from single-person contractors to large software companies -- must have the freedom to market their services as augmenters of Free Software. All forms of such service marketing must
 be equally available to all.
 
-For example, selling support services for Free Software is fully
-permitted. Companies and individuals can offer themselves as "the
-place to call" when software fails or does not function properly. For
-such a service to be meaningful, the entity offering that service
-needs the right to modify and improve the software for the customer to
-correct any problems that are beyond mere user error.
+修改后的自由软件的商业共享同样重要。为了在竞争激烈的自由市场中提供商业支持，所有的开发人员——从个人承包商到大型软件公司——都应该可以自由地将他们的服务作为自由软件的补充进行销售。这种形式的服务营销必须对所有人一视同仁。
 
-Software freedom licenses also permit any entity to distribute
-modified versions of Free Software. Most Free Software programs have a
-"standard version" that is made available from the primary developers
-of the software. However, all who have the software have the "freedom
-to fork" -- that is, make available nontrivial modified versions of
-the software on a permanent or semi-permanent basis. Such freedom is
-central to vibrant developer and user interaction.
+For example, selling support services for Free Software is fully permitted. Companies and individuals can offer themselves as "the place to call" when software fails or does not function properly. For such a service to be meaningful, the entity offering that service needs the right to modify and improve the software for the customer to correct any problems that are beyond mere user error.
+
+例如，销售免费软件的支持服务是完全允许的。当软件出现故障或无法正常运行时，公司和个人可以将自己作为“呼叫客服”。为了使此类服务有意义，提供该服务的实体需要有权为客户修改和改进软件，以纠正任何超出用户错误的问题。
+
+Software freedom licenses also permit any entity to distribute modified versions of Free Software. Most Free Software programs have a "standard version" that is made available from the primary developers of the software. However, all who have the software have the "freedom to fork" -- that is, make available nontrivial modified versions of the software on a permanent or semi-permanent basis. Such freedom is central to vibrant developer and user interaction.
+
+软件自由许可证还允许任何实体分发自由软件的修改版本。大多数自由软件程序都有一个“标准版本”，可从软件的主要开发人员那里获得。 然而，所有拥有该软件的人都有“分叉自由”——也就是说，可以永久或半永久地提供软件的重要修改版本。 这种自由是充满活力的开发人员和用户交互的核心。
 
 Companies and individuals have the right to make true value-added
 versions of Free Software. They may use freedom to share improvements
