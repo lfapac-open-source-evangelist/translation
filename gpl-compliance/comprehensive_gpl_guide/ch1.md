@@ -218,15 +218,13 @@ to prohibit these activities. In addition, proprietary software distributors fur
 适用于软件的主要法律制度是版权法。专有软件的存在完全是因为版权法对软件的管理规定。<sup>3</sup> 关于软件的版权法，主要是对软件的复制、修改和再发行的管理规定（有关美国的详细信息，请参阅*美国法典*[第17篇](http://www.law.cornell.edu/uscode/text/17)的[§106](http://www.copyright.gov/title17/92chap1.html#106)和[§117](http://www.copyright.gov/title17/92chap1.html#117)）。<sup>4</sup> 根据法律（在美国和大多数其他司法管辖区），作品的版权持有者（通常是作者本人） 可以控制其他人如何复制、修改和/或分发作品。专有软件的这些控制行为禁止了软件的相关操作。此外，专有软件分销商只发行二进制可执行代码，严格保密源代码，这也进一步阻碍了实际意义上的代码修改。 
 
 
-^3^This statement is admittedly an oversimplification. Patents and
-trade secrets can cover software and make it effectively non-Free, and
-one can contract away their rights and freedoms regarding software, or
-source code can be practically obscured in binary-only distribution
-without reliance on any legal system. However, the primary control
-mechanism for software is copyright, and therefore this section
-focuses on how copyright restrictions make software proprietary.
+<sup>3</sup> This statement is admittedly an oversimplification. Patents and trade secrets can cover software and make it effectively non-Free, and one can contract away their rights and freedoms regarding software, or source code can be practically obscured in binary-only distribution without reliance on any legal system. However, the primary control mechanism for software is copyright, and therefore this section focuses on how copyright restrictions make software proprietary.
 
+<sup>3</sup> 诚然，这种说法过于简单化了。专利和商业秘密可以要求软件保密，使其成为非自由软件，并且可以通过合同剥夺他们在软件方面的权利和自由，或者源代码实际上可以在不依赖于任何法律制度的情况下，以二进制形式分发。但是，软件的主要控制机制是版权，因此本节重点讨论版权限制如何使软件成为专有软件。
 
+<sup>4</sup> Copyright law in general also governs "public performance" of copyrighted works. There is no generally agreed definition for public performance of software and both GPLv2 and GPLv3 do not restrict public performance.
+
+<sup>4</sup> 版权法一般也适用于版权作品的“公开性能”。对于软件的公开性能没有普遍认可的定义，GPLv2和GPLv3都不限制公开性能。
 
 Copyright is not a natural state, it is a legal construction. In the
 USA, the Constitution permits, but does not require, the creation of
@@ -307,10 +305,7 @@ to a situation in which the user effectively receives a maximum grant
 of copyright freedoms, similar to a maximally-permissive Free Software
 license.
 
-^4^[]{#_bookmark13 .anchor}Copyright law in general also governs
-"public performance" of copyrighted works. There is no generally
-agreed definition for []{#_bookmark14 .anchor}public performance of
-software and both GPLv2 and GPLv3 do not restrict public performance.
+
 
 ^5^Note that this is again an oversimplification; the complexities
 with this argument are discussed in Section
