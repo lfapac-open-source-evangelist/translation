@@ -1,6 +1,4 @@
 
-[]{#_bookmark1 .anchor}
-
 **Part I**
 
 **第一部分**
@@ -241,6 +239,8 @@ However, software, in its natural state without copyright, is Free Software. In 
 
 Software in the real world is copyrighted by default and is automatically covered by that legal system. However, it is possible to move software out of the domain of the copyright system. A copyright holder can often *disclaim* their copyright. (For example, under USA copyright law it is possible for a copyright holder to engage in
 conduct resulting in abandonment of copyright.) If copyright is disclaimed, the software is effectively no longer restricted by copyright law. Software not restricted by copyright is in the "public domain."
+
+现实世界中的软件默认受版权保护，并自动受该法律体系保护。但是，可以将软件移出版权系统的范围。版权所有者通常可以*放弃*他们的版权。（例如，根据美国版权法，版权所有者可以实施某些操作，放弃版权。）如果放弃版权，则该软件实际上不再受版权法的限制。不受版权限制的软件属于“公共领域软件”。
 
 ### Public Domain Software
 
