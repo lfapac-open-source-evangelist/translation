@@ -265,7 +265,7 @@ granted because there is no legal system in play to take them away.
 
 Admittedly, a discussion of public domain software is an oversimplified example. Because copyright controls are usually automatically granted and because, in some jurisdictions, some copyright controls cannot be waived (see Section [1.2.4](#non-usa-copyright-regimes) for further discussion), many copyright holders sometimes incorrectly believe a work has been placed in the public domain. Second, due to aggressive lobbying by the entertainment industry, the "exclusive Right" of copyright, that was supposed to only exist for "Limited Times" according to the USA Constitution, appears to be infinite: simply purchased on the installment plan rather than in whole. Thus, we must assume no works of software will fall into the public domain merely due to the passage of time.
 
-诚然，对公共领域软件的讨论是一个过于简单化的例子。因为版权控制通常是自动授予的，并且在某些司法管辖区，某些版权控制不能被放弃（请参考第 [1.2.4] 节（#non-usa-copyright-regimes）以了解进一步的讨论），许多版权所有者有时会错误地认为作品已经放置到了公共领域。其次，由于娱乐业的积极游说，根据美国宪法规定，版权的“专有权”本应仅存在于“有限时间”，但看起来似乎是无限的：只是分期付款购买，而不是全部购买。因此，我们必须假设没有任何软件作品会因为时间的流逝而落入公共领域。
+诚然，对公共领域软件的讨论是一个过于简单化的例子。因为版权控制通常是自动授予的，并且在某些司法管辖区，某些版权控制不能被放弃（请参考第 [1.2.4] 节（#non-usa-copyright-regimes）以了解进一步的讨论），许多版权所有者有时会错误地认为作品已经发布到了公共领域。其次，由于娱乐业的积极游说，根据美国宪法规定，版权的“专有权”本应仅存在于“有限时间”，但看起来似乎是无限的：只是分期付款购买，而不是全部购买。因此，我们必须假设没有任何软件作品会因为时间的流逝而落入公共领域。
 
 Nevertheless, under USA law it is likely that the typical disclaimers of copyright or public domain dedications we see in the Free Software world would be interpreted by courts as copyright abandonment, leading to a situation in which the user effectively receives a maximum grant of copyright freedoms, similar to a maximally-permissive Free Software license.
 
@@ -281,7 +281,7 @@ The best example of software known to truly be in the public domain is software 
 
 If simply disclaiming copyright on software yields Free Software, then it stands to reason that putting software into the public domain is the easiest and most straightforward way to produce Free Software. Indeed, some major Free Software projects have chosen this method for making their software Free. However, most of the Free Software in existence *is* copyrighted. In most cases (particularly in those of FSF and the GNU Project), this was done due to very careful planning.
 
-假如只是放弃了对软件的版权就产生了自由软件，那么将软件放置到公共领域是产生自由软件最简单和最直接的方式，这看起来是理所当然的。事实上，一些主要的自由软件项目已经选择了这种方法来使他们的软件成为自由软件。然而，现存的大多数自由软件*是*受版权保护的。在大多数情况下（特别是在FSF和GNU项目中），这些项目的规划都非常仔细。
+假如只是放弃了对软件的版权就产生了自由软件，那么将软件发布到公共领域是产生自由软件最简单和最直接的方式，这看起来是理所当然的。事实上，一些主要的自由软件项目已经选择了这种方法来使他们的软件成为自由软件。然而，现存的大多数自由软件*是*受版权保护的。在大多数情况下（特别是在FSF和GNU项目中），这些项目的规划都非常仔细。
 
 Software released into the public domain does grant freedom to those users who receive the standard versions on which the original author disclaimed copyright. However, since the work is not copyrighted, any nontrivial modification made to the work is fully copyrightable.
 
