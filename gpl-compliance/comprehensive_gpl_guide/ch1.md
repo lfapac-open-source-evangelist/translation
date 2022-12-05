@@ -153,22 +153,14 @@ companies to commission software modifications.
 
 ### 复制和分享软件的自由
 
-Users share Free Software in a variety of ways. Software freedom
-advocates work to eliminate a fundamental ethical dilemma of the
-software age: choosing between obeying a software license and
-friendship (by giving away a copy of a program to your friend who
-likes the software you are using). Licenses that respect software
-freedom, therefore, permit altruistic sharing of software among
-friends.
+Users share Free Software in a variety of ways. Software freedom advocates work to eliminate a fundamental ethical dilemma of the software age: choosing between obeying a software license and friendship (by giving away a copy of a program to your friend who likes the software you are using). Licenses that respect software
+freedom, therefore, permit altruistic sharing of software among friends.
 
-The commercial environment also benefits from this freedom. Commercial
-sharing includes selling copies of Free Software: that is, Free
-Software can be distributed for any monetary price to anyone. Those
-who
+用户以多种方式分享自由软件。软件自由倡导者致力于消除软件时代的一个基本道德困境：在遵守软件许可和友谊之间做出选择（当你的朋友喜欢你正在使用的软件时，赠送一份程序副本给他）。 因此，尊重软件自由的许可证允许在朋友之间无私地分享软件。
 
-redistribute Free Software commercially also have the freedom to
-selectively distribute (i.e., you can pick your customers) and to set
-prices at any level that redistributor sees fit.
+The commercial environment also benefits from this freedom. Commercial sharing includes selling copies of Free Software: that is, Free Software can be distributed for any monetary price to anyone. Those who redistribute Free Software commercially also have the freedom to selectively distribute (i.e., you can pick your customers) and to set prices at any level that redistributor sees fit.
+
+商业环境也得益于这种自由。商业共享包括出售自由软件的副本：也就是说，可以用任何货币价格将自由软件分发给其他人。那些以商业方式重新分发自由软件的人，也可以有选择地自由分发（如可以选择你自己的客户），并可以自行设置合适的价格水平。
 
 Of course, most people get copies of Free Software very cheaply (and
 sometimes without charge). The competitive free market of Free
