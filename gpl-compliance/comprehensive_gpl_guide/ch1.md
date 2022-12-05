@@ -182,6 +182,10 @@ The freedom to modify and improve is somewhat empty without the freedom to share
 
 如果没有分享改进的自由，修改和改进的自由多少有点空洞。软件自由社区建立在无私共享改进的自由软件的基础上。从历史上看，自由软件项目的典型做法是建立一个邮件列表，开发社区的成员可以在其中免费分享改进的内容。<sup>2</sup> 这种非商业性质的共享方式是自由软件蓬勃发展的主要原因。
 
+<sup>2</sup> This is still commonly the case, though today there are additional ways of sharing Free Software.
+
+<sup>2</sup> 现在这仍然是常见的情况，尽管现在已经有其他共享自由软件的方法。
+
 Commercial sharing of modified Free Software is equally important. For commercial support to exist in a competitive free market, all developers -- from single-person contractors to large software companies -- must have the freedom to market their services as augmenters of Free Software. All forms of such service marketing must
 be equally available to all.
 
@@ -208,8 +212,10 @@ The previous section set forth key freedoms and rights that are referred to as "
 
 上一节阐述了被称为“软件自由”的一些关键自由和权利。本节讨论用于实现软件自由的许可机制。这些许可机制被看作是将现有专有软件许可机制转变为面向社区机制的“答案”所在。 因此，首先要仔细考虑为什么会有专有软件存在。
 
-The primary legal regime that applies to software is copyright law. Proprietary software exists at all only because copyright law governs software.[^3^](#_bookmark11) Copyright law, with respect to software, typically governs copying, modifying, and redistributing that software (For details of this in the USA, see []{#_bookmark10 .anchor}[*§*106](http://www.copyright.gov/title17/92chap1.html#106) and [*§*117](http://www.copyright.gov/title17/92chap1.html#117) of [Title17](http://www.law.cornell.edu/uscode/text/17) of ^2^[]{#_bookmark11 .anchor}This is still commonly the case, though today there are additional ways of sharing Free Software.
+The primary legal regime that applies to software is copyright law. Proprietary software exists at all only because copyright law governs software.<sup>3</sup> Copyright law, with respect to software, typically governs copying, modifying, and redistributing that software (For details of this in the USA, see [§106](http://www.copyright.gov/title17/92chap1.html#106) and [§117](http://www.copyright.gov/title17/92chap1.html#117) of [Title17](http://www.law.cornell.edu/uscode/text/17) of the *United States Code*).<sup>4</sup> By law (in the USA and in most other jurisdictions), the copyright holder (most typically,the author) of the work controls how others may copy, modify and/or distribute the work. For proprietary software, these controls are used
+to prohibit these activities. In addition, proprietary software distributors further impede modification in a practical sense by distributing only binary code and keeping the source code of the software secret.
 
+适用于软件的主要法律制度是版权法。专有软件的存在完全是因为版权法对软件的管理规定。<sup>3</sup> 关于软件的版权法，主要是对软件的复制、修改和再发行的管理规定（有关美国的详细信息，请参阅*美国法典*[第17篇](http://www.law.cornell.edu/uscode/text/17)的[§106](http://www.copyright.gov/title17/92chap1.html#106)和[§117](http://www.copyright.gov/title17/92chap1.html#117)）。<sup>4</sup> 根据法律（在美国和大多数其他司法管辖区），作品的版权持有者（通常是作者本人） 可以控制其他人如何复制、修改和/或分发作品。专有软件的这些控制行为禁止了软件的相关操作。此外，专有软件分销商只发行二进制可执行代码，严格保密源代码，这也进一步阻碍了实际意义上的代码修改。 
 
 
 ^3^This statement is admittedly an oversimplification. Patents and
@@ -220,14 +226,7 @@ without reliance on any legal system. However, the primary control
 mechanism for software is copyright, and therefore this section
 focuses on how copyright restrictions make software proprietary.
 
-the *United States Code*).[^4^](#_bookmark13) By law (in the USA and
-in most other jurisdictions), the copyright holder (most typically,
-the author) of the work controls how others may copy, modify and/or
-distribute the work. For proprietary software, these controls are used
-to prohibit these activities. In addition, proprietary software
-distributors further impede modification in a practical sense by
-distributing only binary code and keeping the source code of the
-software secret.
+
 
 Copyright is not a natural state, it is a legal construction. In the
 USA, the Constitution permits, but does not require, the creation of
