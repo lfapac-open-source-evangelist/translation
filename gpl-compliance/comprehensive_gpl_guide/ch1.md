@@ -289,16 +289,11 @@ Software released into the public domain does grant freedom to those users who r
 
 Free Software released into the public domain initially is Free, and perhaps some who modify the software choose to place their work into the public domain as well. However, over time, some entities will choose to proprietarize their modified versions. The public domain body of software feeds the proprietary software. The public commons disappears, because fewer and fewer entities have an incentive to contribute back to the commons. They know that any of their competitors can proprietarize their enhancements. Over time, almost no interesting work is left in the public domain, because nearly all new work is done by proprietarization.
 
-发布到公共领域的自由软件最初是自由的，一些修改软件的人也会选择将他们的作品发布到公共领域。然而，随着时间的推移，一些实体选择将其修改后的版本私有化。公共领域的软件主体为专有软件提供支持。随着越来越少的实体有动力回馈公共领域，公共资源就消失了。他们知道，任何竞争对手都可以将自己的增强功能私有化。随着时间的推移，公共领域几乎不会留下任何有趣的项目，因为几乎所有的新项目都是由私有化实体完成的。
+起初，发布到公共领域的自由软件是自由的，一些修改软件的人也会选择将他们的作品发布到公共领域。然而，随着时间的推移，一些实体选择将其修改后的版本专有化。公共领域的软件主体为专有软件提供了支持。随着越来越少的实体有动力回馈公共领域，公共资源就消失了。他们知道，任何竞争对手都可以将自己的增强功能专有化。随着时间的推移，公共领域几乎不会留下任何有趣的项目，因为几乎所有的新项目都是由专有化的实体完成的。
 
-A legal mechanism is needed to redress this problem. FSF was in fact
-originally created primarily as a legal entity to defend software
-freedom, and that work of defending software freedom is a substantial
-part of its work today. Specifically because of this "embrace,
-proprietarize and extend" cycle, FSF made a conscious choice to
-copyright its Free Software, and then license it under "copyleft"
-terms. Many, including the developers of the kernel named Linux, have
-chosen to follow this paradigm.
+A legal mechanism is needed to redress this problem. FSF was in fact originally created primarily as a legal entity to defend software freedom, and that work of defending software freedom is a substantial part of its work today. Specifically because of this "embrace, proprietarize and extend" cycle, FSF made a conscious choice to copyright its Free Software, and then license it under "copyleft" terms. Many, including the developers of the kernel named Linux, have chosen to follow this paradigm.
+
+因此，需要一个法律机制来解决这个问题。事实上，FSF最初主要是作为一个捍卫软件自由的法律实体而创建的，而捍卫软件自由是其现在工作的重要组成部分。特别是由于这种“拥抱、专有化和扩展”的循环，FSF有意识地选择对其自由软件进行版权保护，然后根据“copyleft”条款对其进行许可。许多人，包括Linux内核的开发人员，都选择遵循这种模式。
 
 Copyleft is a strategy of utilizing copyright law to pursue the policy
 goal of fostering and encouraging the equal and inalienable right to
