@@ -258,14 +258,10 @@ Carefully note that software truly in the public domain is *not* licensed in any
 
 请注意，真正属于公共领域的软件*未*以任何方式获得许可。关于软件“已获得公共领域许可”，或任何关于版权所有者明确允许采取受版权法管辖的行为的暗示说法，都是令人困惑的。
 
-Copyright holders who state that they are releasing their code into
-the public domain are effectively renouncing copyright controls on the
-work. The law gave the copyright holders exclusive controls over the
-work, and they chose to waive those controls. Software that is, in
-this sense, in the public domain is conceptualized by the developer as
-having no copyright and thus no license. The software freedoms
-discussed in Section [1.1](#the-free-software-definition) are all
+Copyright holders who state that they are releasing their code into the public domain are effectively renouncing copyright controls on the work. The law gave the copyright holders exclusive controls over the work, and they chose to waive those controls. Software that is, in this sense, in the public domain is conceptualized by the developer as having no copyright and thus no license. The software freedoms discussed in Section [1.1](#the-free-software-definition) are all
 granted because there is no legal system in play to take them away.
+
+如果版权所有者声明将其代码发布到公共领域，实际上他就放弃了对作品的版权控制。法律赋予版权所有者对作品的独占控制权，他们可以选择放弃这些控制权。从这个意义上说，处于公共领域的软件被开发人员认定为没有版权，因此也就没有许可证。 第[1.1] 节（#the-free-software-definition）中讨论的软件自由都是被授予的，因为没有法律制度可以剥夺这些自由。
 
 Admittedly, a discussion of public domain software is an
 oversimplified example. Because copyright controls are usually
