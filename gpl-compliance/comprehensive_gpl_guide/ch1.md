@@ -261,36 +261,19 @@ Carefully note that software truly in the public domain is *not* licensed in any
 Copyright holders who state that they are releasing their code into the public domain are effectively renouncing copyright controls on the work. The law gave the copyright holders exclusive controls over the work, and they chose to waive those controls. Software that is, in this sense, in the public domain is conceptualized by the developer as having no copyright and thus no license. The software freedoms discussed in Section [1.1](#the-free-software-definition) are all
 granted because there is no legal system in play to take them away.
 
-如果版权所有者声明将其代码发布到公共领域，实际上他就放弃了对作品的版权控制。法律赋予版权所有者对作品的独占控制权，他们可以选择放弃这些控制权。从这个意义上说，处于公共领域的软件被开发人员认定为没有版权，因此也就没有许可证。 第[1.1] 节（#the-free-software-definition）中讨论的软件自由都是被授予的，因为没有法律制度可以剥夺这些自由。
+如果版权所有者声明将其代码发布到公共领域，实际上他就放弃了对作品的版权控制。法律赋予版权所有者对作品的独占控制权，他们可以选择放弃这些控制权。从这个意义上说，处于公共领域的软件被开发人员认定为没有版权，因此也就没有许可证。第[1.1] 节（#the-free-software-definition）中讨论的软件自由都是被授予的，因为没有法律制度可以剥夺这些自由。
 
-Admittedly, a discussion of public domain software is an
-oversimplified example. Because copyright controls are usually
-automatically granted and because, in some jurisdictions, some
-copyright controls cannot be waived (see Section
-[1.2.4](#non-usa-copyright-regimes) for further discussion), many
-copyright holders sometimes incorrectly believe a work has been placed
-in the public domain. Second, due to aggressive lobbying by the
-entertainment industry, the "exclusive Right" of copyright, that was
-supposed to only exist for "Limited Times" according to the USA
-Constitution, appears to be infinite: simply purchased on the
-installment plan rather than in whole. Thus, we must assume no works
-of software will fall into the public domain merely due to the passage
-of time.
+Admittedly, a discussion of public domain software is an oversimplified example. Because copyright controls are usually automatically granted and because, in some jurisdictions, some copyright controls cannot be waived (see Section [1.2.4](#non-usa-copyright-regimes) for further discussion), many copyright holders sometimes incorrectly believe a work has been placed in the public domain. Second, due to aggressive lobbying by the entertainment industry, the "exclusive Right" of copyright, that was supposed to only exist for "Limited Times" according to the USA Constitution, appears to be infinite: simply purchased on the installment plan rather than in whole. Thus, we must assume no works of software will fall into the public domain merely due to the passage of time.
 
-Nevertheless, under USA law it is likely that the typical disclaimers
-of copyright or public domain dedications we see in the Free Software
-world would be interpreted by courts as copyright abandonment, leading
-to a situation in which the user effectively receives a maximum grant
-of copyright freedoms, similar to a maximally-permissive Free Software
-license.
+诚然，对公共领域软件的讨论是一个过于简单化的例子。因为版权控制通常是自动授予的，并且在某些司法管辖区，某些版权控制不能被放弃（请参考第 [1.2.4] 节（#non-usa-copyright-regimes）以了解进一步的讨论），许多版权所有者有时会错误地认为作品已经放置到了公共领域。其次，由于娱乐业的积极游说，根据美国宪法规定，版权的“专有权”本应仅存在于“有限时间”，但看起来似乎是无限的：只是分期付款购买，而不是全部购买。因此，我们必须假设没有任何软件作品会因为时间的流逝而落入公共领域。
 
+Nevertheless, under USA law it is likely that the typical disclaimers of copyright or public domain dedications we see in the Free Software world would be interpreted by courts as copyright abandonment, leading to a situation in which the user effectively receives a maximum grant of copyright freedoms, similar to a maximally-permissive Free Software license.
 
+然而，根据美国法律，我们在自由软件世界中看到的典型的版权免责声明，或公共领域专有申明，可能会被法院解释为放弃版权，从而授予了用户实际上最大程度的版权自由，类似于最大程度的自由软件许可证。
 
+The best example of software known to truly be in the public domain is software that is published by the USA government. Under [17 USC 101 105,](http://www.law.cornell.edu/uscode/text/17/105) all works published by the USA Government are not copyrightable in the USA.
 
-The best example of software known to truly be in the public domain is
-software that is published by the USA government. Under [17 USC 101
-105,](http://www.law.cornell.edu/uscode/text/17/105) all works
-published by the USA Government are not copyrightable in the USA.
+目前所知的真正属于公共领域的软件最好的例子，是由美国政府发布的软件。根据 [17 USC 101 105](http://www.law.cornell.edu/uscode/text/17/105)，在美国，美国政府出版的所有作品均不受版权保护。
 
 ### Why Copyright Free Software?
 
