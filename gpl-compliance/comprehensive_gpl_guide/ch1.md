@@ -162,20 +162,17 @@ The commercial environment also benefits from this freedom. Commercial sharing i
 
 商业环境也得益于这种自由。商业共享包括出售自由软件的副本：也就是说，可以用任何货币价格将自由软件分发给其他人。那些以商业方式重新分发自由软件的人，也可以有选择地自由分发（如可以选择你自己的客户），并可以自行设置合适的价格水平。
 
-Of course, most people get copies of Free Software very cheaply (and
-sometimes without charge). The competitive free market of Free
-Software tends to keep prices low and reasonable. However, if someone
-is willing to pay billions of dollars for one copy of the GNU Compiler
-Collection, such a sale is completely permitted.
+Of course, most people get copies of Free Software very cheaply (and sometimes without charge). The competitive free market of Free Software tends to keep prices low and reasonable. However, if someone is willing to pay billions of dollars for one copy of the GNU Compiler Collection, such a sale is completely permitted.
 
-Another common instance of commercial sharing is service-oriented
-distribution. For example, some distribution vendors provide immediate
-security and upgrade distribution via a special network service. Such
-distribution is not necessarily contradictory with software freedom.
+当然，大多数人都可以非常便宜地获得自由软件的副本（有时甚至是免费的）。竞争激烈的自由软件市场倾向于保持低价和合理的价格。但是如果真有人愿意花费数十亿美元购买一份GNU编译集，这也是完全允许的。
 
-(Section [12.2](#business-models) of this tutorial talks in detail
-about some common Free Software business models that take advantage of
-the freedom to share commercially.)
+Another common instance of commercial sharing is service-oriented distribution. For example, some distribution vendors provide immediate security and upgrade distribution via a special network service. Such distribution is not necessarily contradictory with software freedom.
+
+商业共享的另一个常见方式是面向服务的分发。例如，一些分发供应商通过特殊的网络服务提供即时安全和升级服务。这种分发方式不一定与软件自由相矛盾。
+
+(Section [12.2](#business-models) of this tutorial talks in detail about some common Free Software business models that take advantage of the freedom to share commercially.)
+
+（本教程的第[12.2]节（#商业模式）部分详细讨论了一些常见的利用商业实现自由软件的自由共享的业务模式。）
 
 ### The Freedom to Share Improvements
 
