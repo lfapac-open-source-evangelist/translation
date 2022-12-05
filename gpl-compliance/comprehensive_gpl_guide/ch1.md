@@ -277,29 +277,19 @@ The best example of software known to truly be in the public domain is software 
 
 ### Why Copyright Free Software?
 
-If simply disclaiming copyright on software yields Free Software, then
-it stands to reason that putting software into the public domain is
-the easiest and most straightforward way to produce Free Software.
-Indeed, some major Free Software projects have chosen this method for
-making their software Free. However, most of the Free Software in
-existence *is* copyrighted. In most cases (particularly in those of
-FSF and the GNU Project), this was done due to very careful planning.
+### 为什么需要版权自由的软件？
 
-Software released into the public domain does grant freedom to those
-users who receive the standard versions on which the original author
-disclaimed copyright. However, since the work is not copyrighted, any
-nontrivial modification made to the work is fully copyrightable.
+If simply disclaiming copyright on software yields Free Software, then it stands to reason that putting software into the public domain is the easiest and most straightforward way to produce Free Software. Indeed, some major Free Software projects have chosen this method for making their software Free. However, most of the Free Software in existence *is* copyrighted. In most cases (particularly in those of FSF and the GNU Project), this was done due to very careful planning.
 
-Free Software released into the public domain initially is Free, and
-perhaps some who modify the software choose to place their work into
-the public domain as well. However, over time, some entities will
-choose to proprietarize their modified versions. The public domain
-body of software feeds the proprietary software. The public commons
-disappears, because fewer and fewer entities have an incentive to
-contribute back to the commons. They know that any of their
-competitors can proprietarize their enhancements. Over time, almost no
-interesting work is left in the public domain, because nearly all new
-work is done by proprietarization.
+假如只是放弃了对软件的版权就产生了自由软件，那么将软件放置到公共领域是产生自由软件最简单和最直接的方式，这看起来是理所当然的。事实上，一些主要的自由软件项目已经选择了这种方法来使他们的软件成为自由软件。然而，现存的大多数自由软件*是*受版权保护的。在大多数情况下（特别是在FSF和GNU项目中），这些项目的规划都非常仔细。
+
+Software released into the public domain does grant freedom to those users who receive the standard versions on which the original author disclaimed copyright. However, since the work is not copyrighted, any nontrivial modification made to the work is fully copyrightable.
+
+当原作者将作品发布到公共领域以否认版权时，就将软件自由授予了那些已经收到标准版本的用户。虽然原作品不受版权保护，但对原作品所做的任何重要修改都是受版权保护的。
+
+Free Software released into the public domain initially is Free, and perhaps some who modify the software choose to place their work into the public domain as well. However, over time, some entities will choose to proprietarize their modified versions. The public domain body of software feeds the proprietary software. The public commons disappears, because fewer and fewer entities have an incentive to contribute back to the commons. They know that any of their competitors can proprietarize their enhancements. Over time, almost no interesting work is left in the public domain, because nearly all new work is done by proprietarization.
+
+发布到公共领域的自由软件最初是自由的，一些修改软件的人也会选择将他们的作品发布到公共领域。然而，随着时间的推移，一些实体选择将其修改后的版本私有化。公共领域的软件主体为专有软件提供支持。随着越来越少的实体有动力回馈公共领域，公共资源就消失了。他们知道，任何竞争对手都可以将自己的增强功能私有化。随着时间的推移，公共领域几乎不会留下任何有趣的项目，因为几乎所有的新项目都是由私有化实体完成的。
 
 A legal mechanism is needed to redress this problem. FSF was in fact
 originally created primarily as a legal entity to defend software
