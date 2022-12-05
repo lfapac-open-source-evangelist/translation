@@ -193,18 +193,16 @@ For example, selling support services for Free Software is fully permitted. Comp
 
 Software freedom licenses also permit any entity to distribute modified versions of Free Software. Most Free Software programs have a "standard version" that is made available from the primary developers of the software. However, all who have the software have the "freedom to fork" -- that is, make available nontrivial modified versions of the software on a permanent or semi-permanent basis. Such freedom is central to vibrant developer and user interaction.
 
-软件自由许可证还允许任何实体分发自由软件的修改版本。大多数自由软件程序都有一个“标准版本”，可从软件的主要开发人员那里获得。 然而，所有拥有该软件的人都有“分叉自由”——也就是说，可以永久或半永久地提供软件的重要修改版本。 这种自由是充满活力的开发人员和用户交互的核心。
+软件自由许可证还允许任何实体分发自由软件的修改版本。大多数自由软件程序都有一个“标准版本”，可以从软件的主要开发人员那里获得。然而，所有拥有该软件的人都有“分叉自由”——也就是说，可以永久或半永久地提供软件的重要修订版本。这种自由是充满活力的开发人员和用户交互的核心。
 
-Companies and individuals have the right to make true value-added
-versions of Free Software. They may use freedom to share improvements
-to distribute distinct versions of Free Software with different
-functionality and features. Furthermore, this freedom can be exercised
-to serve a disenfranchised subset of the user community. If the
-developers of the standard version refuse to serve the needs of some
-of the software's users, other entities have the right to create a
-long- or short-lived fork to serve that sub-community.
+Companies and individuals have the right to make true value-added versions of Free Software. They may use freedom to share improvements to distribute distinct versions of Free Software with different functionality and features. Furthermore, this freedom can be exercised to serve a disenfranchised subset of the user community. If the
+developers of the standard version refuse to serve the needs of some of the software's users, other entities have the right to create a long- or short-lived fork to serve that sub-community.
+
+公司和个人有权制作的自由软件的增值版本。他们可以自由地改进，并分享具有不同功能和特性的自由软件版本。此外，这种自由可以用来服务于被剥夺权力的用户群体。如果标准版本的开发人员拒绝满足某些软件用户的需求，则其他实体有权创建一个长期或短期的分支，提供服务满足于这些软件用户。
 
 ## How Does Software Become Free?
+
+## 软件是如何变得免费的？
 
 The previous section set forth key freedoms and rights that are
 referred to as "software freedom". This section discusses the
