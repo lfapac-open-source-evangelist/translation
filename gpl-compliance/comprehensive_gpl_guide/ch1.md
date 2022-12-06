@@ -170,7 +170,7 @@ Another common instance of commercial sharing is service-oriented distribution. 
 
 (Section [12.2](#business-models) of this tutorial talks in detail about some common Free Software business models that take advantage of the freedom to share commercially.)
 
-（本教程的第[12.2]节（#商业模式）部分详细讨论了一些常见的利用商业实现自由软件的自由共享的业务模式。）
+（本教程的[第12.2章](#商业模式)部分详细讨论了一些常见的利用商业实现自由软件的自由共享的业务模式。）
 
 ### The Freedom to Share Improvements
 
