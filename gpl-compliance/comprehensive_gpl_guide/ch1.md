@@ -297,21 +297,12 @@ A legal mechanism is needed to redress this problem. FSF was in fact originally 
 
 Copyleft is a strategy of utilizing copyright law to pursue the policy goal of fostering and encouraging the equal and inalienable right to copy, share, modify and improve creative works of authorship. Copyleft (as a general term) describes any method that utilizes the copyright system to achieve the aforementioned goal. Copyleft as a concept is usually implemented in the details of a specific copyright license, such as the [GNU General Public License (GPL)](#_bookmark259) and the Creative Commons Attribution Share Alike License (the latter of which is the license of this work itself). Copyright holders of creative work can unilaterally implement these licenses for their own works to build communities that collaboratively share and improve those copylefted creative works.
 
-Copyleft是一种利用版权法来实现政策目标的策略，意在促进和鼓励平等和不可剥夺的复制、共享、修改和改进原创作品的权利。Copyleft（作为一个通用术语）描述了利用版权系统实现上述目标的一些方法。Copyleft作为一个概念，通常在特定版权许可证的细节中体现，例如[GNU 通用公共许可 (GPL)](#_bookmark259) 和（Creative Commons Attribution Share Alike License）知识共享署名共享类似许可（后者是这个项目本身的许可证）。创意作品的版权持有者可以单方面为自己的作品实施这些许可，建立社区，共同分享和改进这些 copyleft 的创意作品。
+Copyleft是一种利用版权法来实现政策目标的策略，意在促进和鼓励平等和不可剥夺的复制、共享、修改和改进原创作品的权利。Copyleft（作为一个通用术语）描述了利用版权系统实现上述目标的一些方法。Copyleft作为一个概念，通常在特定版权许可证的细节中体现，例如[GNU 通用公共许可 (GPL)](#_bookmark259) 和（Creative Commons Attribution Share Alike License）知识共享署名共享类似许可（后者是这个项目本身的许可证）。创意作品的版权持有者可以单方面为自己的作品实施这些许可，建立社区，共同分享和改进这些copyleft的创意作品。
 
+Copyleft uses functional parts of the copyright system to achieve an unusual result (legal protection for free sharing). Copyleft modifies, or "hacks" copyright law, which is usually employed to strengthen the rights of authors or publishers, to strengthen instead the rights of users. Thus, Copyleft is a legal strategy and mechanism to defend, uphold and propagate software freedom. The basic technique of copyleft is as follows: copyright the software, license it under terms that give all the software freedoms, but use the copyright law controls to ensure that all who receive a copy of the software have equal rights and freedom. In essence, copyleft grants freedom, but forbids others to forbid that freedom to anyone else along the distribution and modification chains.
 
-Copyleft uses functional parts of the copyright system to achieve an
-unusual result (legal protection for free sharing). Copyleft modifies,
-or "hacks" copyright law, which is usually employed to strengthen the
-rights of authors or publishers, to strengthen instead the rights of
-users. Thus, Copyleft is a legal strategy and mechanism to defend,
-uphold and propagate software freedom. The basic technique of copyleft
-is as follows: copyright the software, license it under terms that
-give all the software freedoms, but use the copyright law controls to
-ensure that all who receive a copy of the software have equal rights
-and freedom. In essence, copyleft grants freedom, but forbids others
-to forbid that freedom to anyone else along the distribution and
-modification chains.
+Copyleft使用版权系统的功能部分来实现一个不同寻常的结果（免费共享的法律保护）。Copyleft修改或“破解”版权法以加强用户的权利，而版权法通常用于加强作者或出版商的权利。因此，Copyleft是一种捍卫、支持和传播软件自由的法律策略和机制。Copyleft的基本原则为：对软件进行版权保护，在赋予所有软件自由的条款下颁发软件许可证，但使用版权法控制，以确保所有获得软件副本的人都享有平等的权利和自由。本质上，copyleft赋予用户自由，也禁止某些用户的垄断行为，即通过控制软件的分发和修改的后续链条限制其他人的软件自由。
+
 
 Copyleft's "reciprocity" or "share and share alike" rule protects both
 developers, who avoid facing a "prioritized" competitor of their
