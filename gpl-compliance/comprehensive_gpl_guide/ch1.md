@@ -295,18 +295,10 @@ A legal mechanism is needed to redress this problem. FSF was in fact originally 
 
 因此，需要一个法律机制来解决这个问题。事实上，FSF最初主要是作为一个捍卫软件自由的法律实体而创建的，而捍卫软件自由是其现在工作的重要组成部分。特别是由于这种“拥抱、专有化和扩展”的循环，FSF有意识地选择对其自由软件进行版权保护，然后根据“copyleft”条款对其进行许可。许多人，包括Linux内核的开发人员，都选择遵循这种模式。
 
-Copyleft is a strategy of utilizing copyright law to pursue the policy
-goal of fostering and encouraging the equal and inalienable right to
-copy, share, modify and improve creative works of authorship. Copyleft
-(as a general term) describes any method that utilizes the copyright
-system to achieve the aforementioned goal. Copyleft as a concept is
-usually implemented in the details of a specific copyright license,
-such as the [GNU](#_bookmark259) [General Public License
-(GPL)](#_bookmark259) and the Creative Commons Attribution Share Alike
-License (the latter of which is the license of this work itself).
-Copyright holders of creative work can unilaterally implement these
-licenses for their own works to build communities that collaboratively
-share and improve those copylefted creative works.
+Copyleft is a strategy of utilizing copyright law to pursue the policy goal of fostering and encouraging the equal and inalienable right to copy, share, modify and improve creative works of authorship. Copyleft (as a general term) describes any method that utilizes the copyright system to achieve the aforementioned goal. Copyleft as a concept is usually implemented in the details of a specific copyright license, such as the [GNU General Public License (GPL)](#_bookmark259) and the Creative Commons Attribution Share Alike License (the latter of which is the license of this work itself). Copyright holders of creative work can unilaterally implement these licenses for their own works to build communities that collaboratively share and improve those copylefted creative works.
+
+Copyleft是一种利用版权法来实现政策目标的策略，意在促进和鼓励平等和不可剥夺的复制、共享、修改和改进原创作品的权利。Copyleft（作为一个通用术语）描述了利用版权系统实现上述目标的一些方法。Copyleft作为一个概念，通常在特定版权许可证的细节中体现，例如[GNU 通用公共许可 (GPL)](#_bookmark259) 和（Creative Commons Attribution Share Alike License）知识共享署名共享类似许可（后者是这个项目本身的许可证）。创意作品的版权持有者可以单方面为自己的作品实施这些许可，建立社区，共同分享和改进这些 copyleft 的创意作品。
+
 
 Copyleft uses functional parts of the copyright system to achieve an
 unusual result (legal protection for free sharing). Copyleft modifies,
