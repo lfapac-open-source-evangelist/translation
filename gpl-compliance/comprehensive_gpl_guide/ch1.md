@@ -308,29 +308,18 @@ general concept. Much like ideas for what a computer might do must be *implement
 
 Copyleft的“互惠”或“共享和类似共享”的原则同时保护了开发者和用户，开发者可以避免面对他们项目的“优先”竞争对手，用户可以确保他们将拥有所有的四种软件自由——不仅限于当前他们使用的程序版本，也包括未来的所有改进版本中。Copyleft是一个笼统的概念。就像计算机可以做什么的想法必须由一个实际执行该任务的程序*实现*一样，copyleft也必须在某些具体的法律结构中实现。“共享和类似共享”这个短语经常被用来解释copyleft背后的概念，但要真正让它在现实世界中发挥作用，必须有一个真正的法律文本实现，即“版权许可”。GPL为面向软件和其他技术性质的功能性作品实现了copyleft的概念。 “CC BY SA”许可证为文本、音乐和视觉作者的作品提供了copyleft版权保护，例如本教程。
 
-Copyleft advocates often distinguish between the concept of a "strong
-copyleft" or a "weak copyleft". However, "strong vs. weak" copyleft is
-not a dichotomy, it's a spectrum. The strongest copylefts strive to
-the exclusive rights that copyright grants to authors as extensively
-as possible to maximize software freedom.
+Copyleft advocates often distinguish between the concept of a "strong copyleft" or a "weak copyleft". However, "strong vs. weak" copyleft is not a dichotomy, it's a spectrum. The strongest copylefts strive to the exclusive rights that copyright grants to authors as extensively as possible to maximize software freedom.
 
-As a copyleft gets "weaker", the copyleft license typically makes
-"trade offs" that might impede software freedom, but reach other
-tactic goals for the community of users and developers of the work.
+Copyleft倡导者经常区分“强copyleft”或“弱copyleft”的概念。然而，“强与弱”copyleft并不是二分法原则，而是一个范围。最强的copyleft版权力图授予作者尽可能广泛的专有权，以最大限度地提高软件自由度。
 
-In other words, strong copyleft licenses place the more requirements
-on how "the work" is licensed. The unit of copyright law is "the
-work". In that sense, the "work" referenced by the licenses is
-anything that can be copyrighted or will be subject to the terms of
-copyright law. Strong copyleft licenses exercise their scope fully.
-Anything which is "a work" or a "work based on a work" licensed under
-a strong copyleft is subject to its requirements, including the
-requirement of complete, corresponding source code[^6^](#_bookmark18).
-Thus, copyleft licenses, particularly strong ones, seek to ensure the
-same license covers every version of "work based on the work", as
-recognized by local copyright law, and thereby achieve the specific
-strategic policy aim of ensuring software freedom for all users,
-developers, authors, and readers who encounter the copylefted work.
+As a copyleft gets "weaker", the copyleft license typically makes "trade offs" that might impede software freedom, but reach other tactic goals for the community of users and developers of the work.
+
+随着copyleft变得“微弱”，copyleft许可证可能会做一些"权衡"，可能会阻碍软件自由，但会实现用户和项目开发者社区的其他策略目标。
+
+In other words, strong copyleft licenses place the more requirements on how "the work" is licensed. The unit of copyright law is "the work". In that sense, the "work" referenced by the licenses is anything that can be copyrighted or will be subject to the terms of copyright law. Strong copyleft licenses exercise their scope fully.
+Anything which is "a work" or a "work based on a work" licensed under a strong copyleft is subject to its requirements, including the requirement of complete, corresponding source code <sup>6</sup>. Thus, copyleft licenses, particularly strong ones, seek to ensure the same license covers every version of "work based on the work", as recognized by local copyright law, and thereby achieve the specific strategic policy aim of ensuring software freedom for all users, developers, authors, and readers who encounter the copylefted work.
+
+换句话说，较强的copyleft许可对“作品”的许可方式提出了更高的要求。是以“作品”为单位进行版权法认定的。从这个意义上说，许可证所指的“作品”是任何可以受版权保护或受版权法条款约束的东西。较强的copyleft许可证充分发挥了其作用。任何基于较强的copyleft许可的“作品”或“基于作品的作品”都必须遵守其要求，包括所有相应的源代码 <sup>6</sup>。因此，copyleft许可证，特别是较强的许可证，旨在确保相同的许可证涵盖当地版权法认可的“基于作品的作品”的所有版本，从而确保实现与当前copyleft版权作品相关的所有用户、开发者、作者和读者的软件自由的特定战略目标。
 
 ### Software and Non-Copyright Legal Regimes
 
