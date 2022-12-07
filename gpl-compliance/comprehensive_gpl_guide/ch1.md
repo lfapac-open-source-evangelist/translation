@@ -303,24 +303,10 @@ Copyleft uses functional parts of the copyright system to achieve an unusual res
 
 Copyleft使用版权系统的功能部分来实现一个不同寻常的结果（免费共享的法律保护）。Copyleft修改或“破解”版权法以加强用户的权利，而版权法通常用于加强作者或出版商的权利。因此，Copyleft是一种捍卫、支持和传播软件自由的法律策略和机制。Copyleft的基本原则为：对软件进行版权保护，在赋予所有软件自由的条款下颁发软件许可证，但使用版权法控制，以确保所有获得软件副本的人都享有平等的权利和自由。本质上，copyleft赋予用户自由，也禁止某些用户的垄断行为，即通过控制软件的分发和修改的后续链条限制其他人的软件自由。
 
+Copyleft's "reciprocity" or "share and share alike" rule protects both developers, who avoid facing a "prioritized" competitor of their project, and users, who can be sure that they will have all four software freedoms --- not only in the present version of the program they use, but in all its future improved versions. Copyleft is a
+general concept. Much like ideas for what a computer might do must be *implemented* by a program that actually does the job, so too must copyleft be implemented in some concrete legal structure. "Share and share alike" is a phrase that is used often enough to explain the concept behind copyleft, but to actually make it work in the real world, a true implementation in legal text must exist, written as a "copyright license". The GPL implements the concept of copyleft for software-oriented and other functional works of a technical nature. The "CC BY SA" license implements copyleft for works of textual, musical and visual authorship, such as this tutorial.
 
-Copyleft's "reciprocity" or "share and share alike" rule protects both
-developers, who avoid facing a "prioritized" competitor of their
-project, and users, who can be sure that they will have all four
-software freedoms --- not only in the present version of the program
-they use, but in all its future improved versions. Copyleft is a
-general concept. Much like ideas for what a computer might do must be
-*implemented* by a program that actually does the job, so too must
-copyleft be implemented in some concrete legal structure. "Share and
-share alike" is a phrase that is used often enough to explain the
-concept behind copyleft, but to actually make it work in the real
-world, a true implementation in legal text must exist, written as a
-"copyright license". The GPL implements the concept of copyleft for
-software-oriented and other functional works of a technical nature.
-The "CC BY SA" license implements copyleft for works of textual,
-musical and
-
-visual authorship, such as this tutorial.
+Copyleft的“互惠”或“共享和类似共享”的原则同时保护了开发者和用户，开发者可以避免面对他们项目的“优先”竞争对手，用户可以确保他们将拥有所有的四种软件自由——不仅限于当前他们使用的程序版本，也包括未来的所有改进版本中。Copyleft是一个笼统的概念。就像计算机可以做什么的想法必须由一个实际执行该任务的程序*实现*一样，copyleft也必须在某些具体的法律结构中实现。“共享和类似共享”这个短语经常被用来解释copyleft背后的概念，但要真正让它在现实世界中发挥作用，必须有一个真正的法律文本实现，即“版权许可”。GPL为面向软件和其他技术性质的功能性作品实现了copyleft的概念。 “CC BY SA”许可证为文本、音乐和视觉作者的作品提供了copyleft版权保护，例如本教程。
 
 Copyleft advocates often distinguish between the concept of a "strong
 copyleft" or a "weak copyleft". However, "strong vs. weak" copyleft is
