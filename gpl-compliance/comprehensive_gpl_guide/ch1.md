@@ -323,19 +323,15 @@ Anything which is "a work" or a "work based on a work" licensed under a strong c
 
 ### Software and Non-Copyright Legal Regimes
 
-The use, modification and distribution of software, like many
-endeavors, simultaneously interacts with mul- tiple different legal
-regimes. As was noted early via footnotes, copyright is merely the
-*most common way* to restrict users' rights to copy, share, modify
-and/or redistribute software. However, proprietary software licenses
-typically use every mechanism available to subjugate users. For
-example:
+### 软件和非版权法律制度
 
-Unfortunately, despite much effort by many in the software freedom
-community to end patents that read on software (i.e., patents on
-computational ideas), they still exist. As such, a software program
-might otherwise seem to be unrestricted, but a patent might read on
-the software and ruin everything for its users.[^7^](#_bookmark19)
+The use, modification and distribution of software, like many endeavors, simultaneously interacts with multiple different legal regimes. As was noted early via footnotes, copyright is merely the *most common way* to restrict users' rights to copy, share, modify and/or redistribute software. However, proprietary software licenses typically use every mechanism available to subjugate users. For example:
+
+与许多努力一样，软件的使用、修改和分发同时与多种不同的法律制度相互制约。正如早期通过脚注指出的那样，版权只是限制用户复制、共享、修改和/或重新分发软件的*最常见的方式*。但是专有软件许可证通常会使用所有各种机制来控制用户。例如：
+
+* Unfortunately, despite much effort by many in the software freedom community to end patents that read on software (i.e., patents on computational ideas), they still exist. As such, a software program might otherwise seem to be unrestricted, but a patent might read on the software and ruin everything for its users.<sup>7</sup>
+
+* 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。<sup>7</sup>
 
 Digital Restrictions Management (usually called *DRM* ) is often used
 to impose technological restric- tions on users' ability to exercise
