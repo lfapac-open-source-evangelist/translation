@@ -36,9 +36,23 @@ One tap mobile
 本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
 联系人：赵振华 微信ID：richzhao
 
-# 正在翻译的作品
-## PRACTICAL GPL COMPLIANCE， 以及 GNU General Public License: A Comprehensive Tutorial and Guide，详见 
-   https://github.com/lfapac-open-source-evangelist/translation/tree/main/gpl-compliance
+# 待认领翻译任务 
+## 1. Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide
+
+详见[Copyleft and the GNU General Public License]() 之**copyleft and the gnu general public license a comprehensive tutorial and guide** 
+## 2. GNU General Public License: A Comprehensive Tutorial and Guide，
+
+详见[GPL Compliance](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/role_responsibilities.md#practical_gpl_compliance_digital-about-250-wordspage)
+
+## 3. Releasing Internal Code 
+
+[Releasing Internal Code](https://github.com/lfapac-open-source-evangelist/translation/blob/main/LFResearch_AI_Data_Releasing_Internal_Code_Report/role_responsibilities.md) 
+
+## 4. Address Cybersecurity Challenges in OSS 
+
+[Address Cybersecurity Challenges in OSS](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md) 
+) 
+
 
 # 译道师作品集 
 
