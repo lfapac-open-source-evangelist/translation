@@ -75,6 +75,17 @@ One tap mobile
 14. Hin Yang, Linux Foundation APAC
 15. Dorothy Cheng, Linux Foundation APAC
 
+
+### [3.Technical Debt and Open Source Development](./completed/TechnicalDebtandOpenSourceDevelopment_Whitepaper_CN_121222-Final.pdf)
+
+1. 李建盛
+2. 皮冰锋
+3. 周冉
+4. 贾子甲
+5. Donald Liu, Linux Foundation APAC
+6. Maggie Cheung, Linux Foundation APAC
+7. Michelle Ko, Linux Foundation APAC
+
 ## 博客
 
 | 序号 | 文章                                                                         | 翻译 | 校对 | 发表日期 |
@@ -95,13 +106,13 @@ One tap mobile
 
 |   | LF相关电子书翻译流程                                                                                                                                                                                                                                                                                                      | 负责人                   |
 | - | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| 1 | 項目發起流程                                                                                                                                                                                                                                                                                                           |                       |
-| a | Translation SIG 的任何成员提议（并经 SIG 同意进行翻译）                                                                                                                                                                                                                                                                           | SIG 主席                |
-| b | LF US Team 要求将电子书翻译成简体中文。                                                                                                                                                                                                                                                                                        |  LF美国团队               |
+| 1 | 項目發起流程      |                       |
+| a | Translation SIG 的任何成员提议（并经 SIG 同意进行翻译） | SIG 主席                |
+| b | LF US Team 要求将电子书翻译成简体中文。                 |  LF美国团队               |
 | c | 在SIG会议上讨论确认主编。建议提议翻译者担任主编，也可以由任何人其他人自愿担任主编。| SIG 主席 |
-|   | [Translation Project](https://docs.qq.com/sheet/DUkpsdGdtcVBqc0xV?tab=BB08J2)                                                                                                                                                                                                                                    | SIG 主席 /主编         |
+|   | [Translation Project](https://docs.qq.com/sheet/DUkpsdGdtcVBqc0xV?tab=BB08J2) | SIG 主席 /主编         |
 | d | 所有请求纳入 Translation SIG 的例会上讨论，经 SIG 成员的同意后，确认進行翻译。<br>翻译审核标准包括：<br>1\. 熟悉翻译详细流程，并对翻译质量与进度负责。<br>2\. 将待翻译内容按照章节拆分，以便自愿者认领。<br>| 主编 |
-| 2 | 项目成员招募和翻译                                                                                                                                                                                                                                                                                                        |                       |
+| 2 | 项目成员招募和翻译          |                       |
 | a | 主编、SIG 主席招募自愿者参与翻译项目，包括：<br>(1) 翻译，按照章节认领翻译内容。<br>(2) 校对，认领的章节翻译完成之后，开始校对。<br>(3)创建issue。| SIG 主席 /主编         |
 | b | 招募够足够自愿者后，需要把确认翻译的邮件发送给 LFAPAC Maggie Cheung（电子邮件：mcheung@apac.linux.com）和SIG主席。| 主编|
 | c | 翻译与校对。各自愿者按照自己认领的任务完成翻译和校对。完成之后及时通知团队成员，以便开始后续工作。| SIG 成员                |
