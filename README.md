@@ -75,6 +75,17 @@ One tap mobile
 14. Hin Yang, Linux Foundation APAC
 15. Dorothy Cheng, Linux Foundation APAC
 
+
+### [3.Technical Debt and Open Source Development](./completed/TechnicalDebtandOpenSourceDevelopment_Whitepaper_CN_121222-Final.pdf)
+
+1. 李建盛
+2. 皮冰锋
+3. 周冉
+4. 贾子甲
+5. Donald Liu, Linux Foundation APAC
+6. Maggie Cheung, Linux Foundation APAC
+7. Michelle Ko, Linux Foundation APAC
+
 ## 博客
 
 | 序号 | 文章                                                                         | 翻译 | 校对 | 发表日期 |
