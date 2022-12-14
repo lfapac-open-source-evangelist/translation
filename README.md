@@ -51,7 +51,6 @@ One tap mobile
 ## 4. Address Cybersecurity Challenges in OSS 
 
 [Address Cybersecurity Challenges in OSS](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md) 
-) 
 
 
 # 译道师作品集 
