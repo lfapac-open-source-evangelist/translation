@@ -70,7 +70,7 @@ One tap mobile
 |  |  | ch25.md        | 4 |  |
 | 赵振华 |  | after-ch25.md  | 37  |  |
 
-## 2. GNU General Public License: A Comprehensive Tutorial and Guide，
+## 2. GNU General Public License: A Comprehensive Tutorial and Guide
 
 | 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
 | ----| -- | ---------------------------------------------------------------- | ------- | ------ |
