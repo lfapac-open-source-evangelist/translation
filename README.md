@@ -39,19 +39,79 @@ One tap mobile
 # 待认领翻译任务 
 ## 1. Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide
 
-详见[Copyleft and the GNU General Public License]() 之**copyleft and the gnu general public license a comprehensive tutorial and guide** 
+| 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
+| ----| -- | ---------------------------------------------------------------- | ------- | ------ |
+| 赵振华 | 赵振华   | 全书统稿 |                                                              |         |        |
+|  |  | before-ch1.md  | 8  |  |
+| bingfeng |  | ch1.md         | 11  |  |
+| 周冉 |  | ch2.md         | 4  |  |
+| 周冉 |  | ch3.md         | 2 |  |
+| 周冉 |  | ch4.md         | 7 |  |
+|  |  | ch5.md         | 6 |  |
+|  |  | ch6.md         | 2 |  |
+|  |  | ch7.md         | 5 |  |
+|  |  | ch8.md         | 2 |  |
+| 赵振华 |  | ch9.md         | 19 |  |
+|  |  | ch10.md        | 7 |  |
+|  |  | ch11.md        | 2 |  |
+|  |  | ch12.md        | 2 |  |
+|  |  | ch13.md        | 5 |  |
+|王永雷  |  | ch14.md        | 3 |  |
+| 王永雷 |  | ch15.md        | 7 |  |
+|  |  | ch16.md        | 2 |  |
+|  |  | ch17.md        | 1 |  |
+|  |  | ch18.md        | 4 |  |
+|  |  | ch19.md        | 3 |  |
+|  |  | ch20.md        | 3 |  |
+|  |  | ch21.md        | 8 |  |
+|  |  | ch22.md        | 3 |  |
+|  |  | ch23.md        | 3 |  |
+|  |  | ch24.md        | 2 |  |
+|  |  | ch25.md        | 4 |  |
+| 赵振华 |  | after-ch25.md  | 37  |  |
+
 ## 2. GNU General Public License: A Comprehensive Tutorial and Guide，
 
-详见[GPL Compliance](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/role_responsibilities.md#practical_gpl_compliance_digital-about-250-wordspage)
+| 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
+| ----| -- | ---------------------------------------------------------------- | ------- | ------ |
+| 赵振华 | 赵振华   | 全书统稿 |                                                              |         |        |
+| bingfeng |   |  before-ch1.md | 11 | 10月30日 |
+| 周冉 |  |  ch1.md       | 21 | |
+|  |  |  ch2.md       | 15 | |
+|  |  |  ch3.md       | 6 | |
+|  |  |  ch4.md       | 7  | |
+|  |  |  ch5-6.md     | 15 | |
+|  |  |  after-ch6.md | 12 | |
 
 ## 3. Releasing Internal Code 
 
-[Releasing Internal Code](https://github.com/lfapac-open-source-evangelist/translation/blob/main/LFResearch_AI_Data_Releasing_Internal_Code_Report/role_responsibilities.md) 
+| 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
+| ----| -- | ---------------------------------------------------------------- | ------- | ------ |
+| 赵振华 | 赵振华   | 全书统稿 |                                                              |         |        |
+| |   |  00.md (Cover, Infographic, Contents)| 4 | |
+| |  |  01.md (Abstract)      | 1 | |
+|  |  |  02.md (Introduction)      | 2 | |
+|  |  |  03.md (Initial investigations)      | 1 | |
+|  |  |  04.md (Project funding, Legal considerations)      | 3 | |
+|  | zhaozhi |  05.md  (Project branding)     | 3  | |
+| zhaozhi |  |  06.md (Project launch)    | 1 | 11-12|
+| zhaozhi |  |  07.md (Summary of recommended)| 2 | 11-12|
+|  |  |  08.md (Ongoing support, endnotes)| 1 | |
+|  |  |  09.md (Conclusion to end)| 3 | |
 
 ## 4. Address Cybersecurity Challenges in OSS 
 
-[Address Cybersecurity Challenges in OSS](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md) 
 
+| 翻译 | 校对  |  任务                                                               | 页（英文原版） |
+| ----| -- | ---------------------------------------------------------------- | ------- |
+|  |   |  |                                                              |         |
+| |   |  00.md (Cover, Infographic)| 3 |
+|  |  |  01.md (Introduction)      | 2 |
+|  |  |  02.md (Open Source Software Security Perspectives)      | 11 |
+|  |  |  03.md (How Organizations are addressing and proiritizing their cybersecurity needs)      | 8 |
+|  | |  04.md  (The IT industry must take a more active role to improve OSS security and sustainability)     | 5  |
+| |  |  05.md (Conclusions and recommendations)    | 2 | 
+| |  |  06.md (Methodology to end)| 4 | 
 
 # 译道师作品集 
 
