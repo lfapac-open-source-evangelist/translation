@@ -159,6 +159,24 @@ One tap mobile
 6. Maggie Cheung, Linux Foundation APAC
 7. Michelle Ko, Linux Foundation APAC
 
+### [4. Deep Dive Into OSPO](./completed/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_CN_121522-finalized.pdf)
+
+1. 赵振华
+2. 皮冰锋
+3. 周冉
+4. 孙振华
+5. 阎书利
+6. 腾召智
+7. 刘洁
+8. 王永雷
+9. 王玉茂
+10. 李建盛
+11. 徐斌
+12. Donald Liu, Linux Foundation APAC
+13. Maggie Cheung, Linux Foundation APAC
+14. Michelle Ko, Linux Foundation APAC
+
+
 ## 博客
 
 | 序号 | 文章                                                                         | 翻译 | 校对 | 发表日期 |
