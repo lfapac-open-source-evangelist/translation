@@ -120,7 +120,7 @@ One tap mobile
 ### [1.A Guide to Enterprise Open Source](./completed/Developing_and_Executing_Open_Source_Software_Strategy_Chinese.pdf)
 
 翻译：
-1. 赵振华，深圳市启锐信息技术有限公司
+1. 赵振华 
 2. 刘天栋 Ted，开源社
 3. 适兕, LF APAC 开源布道者
 4. 王峰, 安势信息
