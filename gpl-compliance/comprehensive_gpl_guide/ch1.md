@@ -373,23 +373,15 @@ require proper attribution for their work.
 
 那些最熟悉美国版权制度的人通常会惊讶地发现，有些版权控制既不能放弃也不能否认。具体来说，美国以外的许多版权制度都承认作者的道德权利概念。通常，道德权利与尊重软件自由完全兼容，因为道德权利通常是以软件自由许可所允许的控制为中心，例如作者要求对其作品进行适当归属的权利。
 
-
-
 ## A Community of Equality
 
-The previous section described the principles of software freedom, a
-brief introduction to mechanisms that typically block these freedoms,
-and the simplest ways that copyright holders might grant those
-freedoms to their users for their copyrighted works of software. The
-previous section also introduced the idea of *copyleft* : a licensing
-mechanism to use copyright to not only grant software freedom to
-users, but also to uphold those rights against those who might seek to
-curtail them.
+## 平等的社区
 
-Copyleft, as defined in [1.2.2,](#why-copyright-free-software) is a
-general term for this mechanism. The remainder of this text will
-discuss details of various real-world implementations of copyleft --
-most notably, the GPL.
+The previous section described the principles of software freedom, a brief introduction to mechanisms that typically block these freedoms, and the simplest ways that copyright holders might grant those freedoms to their users for their copyrighted works of software. The previous section also introduced the idea of *copyleft* : a licensing mechanism to use copyright to not only grant software freedom to users, but also to uphold those rights against those who might seek to curtail them.
+
+上一节描述了软件自由的原则，简要介绍了阻止这些自由的一些机制，以及版权所有者授予用户软件自由的最简单的方式，允许用户使用受版权保护的软件作品。同时还介绍了*copyleft* 的概念：一种使用版权的许可机制，不仅可以授予用户软件自由，还可以维护这些权利，防止试图限制这些权利的人。
+
+Copyleft, as defined in [1.2.2,](#why-copyright-free-software) is a general term for this mechanism. The remainder of this text will discuss details of various real-world implementations of copyleft --most notably, the GPL.
 
 This discussion begins first with some general explanation of what the
 GPL is able to do in software devel- opment communities. After that
