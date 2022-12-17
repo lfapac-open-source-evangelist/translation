@@ -389,31 +389,25 @@ This discussion begins first with some general explanation of what the GPL is ab
 
 讨论首先会解释GPL在软件开发社区中的作用。本节只进行简短讨论，下一章将深入讨论GPL如何在实践中实现这一点。
 
-Simply put, though, the GPL ultimately creates a community of equality
-for both business and noncom- mercial users.
+Simply put, though, the GPL ultimately creates a community of equality for both business and noncommercial users.
+
+不过，简单来说，最终GPL为商业用户及非商业用户创建了一个平等的社区。
 
 ### The Noncommercial Community
 
-A GPL'd code base becomes a center of a vibrant development and user
-community. Traditionally, volunteers, operating noncommercially out of
-keen interest or "scratch an itch" motivations, produce initial
-versions of a GPL'd system. Because of the efficient distribution
-channels of the Internet, any useful GPL'd system is adopted quickly
-by noncommercial users.
+### 非商业社区
 
-Fundamentally, the early release and quick distribution of the
-software gives birth to a thriving noncom- mercial community. Users
-and developers begin sharing bug reports and bug fixes across a shared
-intellectual commons. Users can trust the developers, because they
-know that if the developers fail to address their needs or abandon the
-project, the GPL ensures that someone else has the right to pick up
-development. Developers know that the users cannot redistribute their
-software without passing along the rights granted by the GPL, so they
-are assured that every one of their users is treated equally.
+A GPL'd code base becomes a center of a vibrant development and user community. Traditionally, volunteers, operating noncommercially out of keen interest or "scratch an itch" motivations, produce initial versions of a GPL'd system. Because of the efficient distribution channels of the Internet, any useful GPL'd system is adopted quickly by noncommercial users.
 
-Because of the symmetry and fairness inherent in GPL'd distribution,
-nearly every GPL'd package in existence has a vibrant noncommercial
-user and developer base.
+GPL的代码库已经成为充满活力的开发者和用户社区的中心。一般来说，出于浓厚的兴趣爱好或“试一把”的动机，志愿者会以非商业的方式制作一个GPL系统的初始版本。由于互联网的高效分发渠道，任何有用的GPL系统都会很快被非商业用户所采用。
+
+Fundamentally, the early release and quick distribution of the software gives birth to a thriving noncommercial community. Users and developers begin sharing bug reports and bug fixes across a shared intellectual commons. Users can trust the developers, because they know that if the developers fail to address their needs or abandon the project, the GPL ensures that someone else has the right to pick up development. Developers know that the users cannot redistribute their software without passing along the rights granted by the GPL, so they are assured that every one of their users is treated equally.
+
+从根本上来说，软件的早期发布和快速分发催生了一个繁荣的非商业社区。用户和开发人员都在知识共享的社区中分享错误报告和修复补丁。用户非常信任开发人员，因为他们知道如果开发人员不能满足他们的需求或放弃项目，GPL协议能确保其他人有权接手并持续开发。开发人员知道，如果将GPL的权利授予用户，用户就没法二次分发他们的软件，因此他们需要确信每一位用户受到平等对待。
+
+Because of the symmetry and fairness inherent in GPL'd distribution, nearly every GPL'd package in existence has a vibrant noncommercial user and developer base.
+
+就是因为GPL分发协议的对称性和公平性，几乎每个GPL项目都拥有一个活跃的非商业用户和开发者群体。
 
 ### The Commercial Community
 
