@@ -321,6 +321,10 @@ Anything which is "a work" or a "work based on a work" licensed under a strong c
 
 换句话说，较强的copyleft许可对“作品”的许可方式提出了更高的要求。是以“作品”为单位进行版权法认定的。从这个意义上说，许可证所指的“作品”是任何可以受版权保护或受版权法条款约束的东西。较强的copyleft许可证充分发挥了其作用。任何基于较强的copyleft许可的“作品”或“基于作品的作品”都必须遵守其要求，包括所有相应的源代码 <sup>6</sup>。因此，copyleft许可证，特别是较强的许可证，旨在确保相同的许可证涵盖当地版权法认可的“基于作品的作品”的所有版本，从而确保实现与当前copyleft版权作品相关的所有用户、开发者、作者和读者的软件自由的特定战略目标。
 
+<sup>6</sup> Copyleft communities' use of the term "strong copyleft" is undoubtedly imprecise. For example, most will call the GNU GPL a "strong copyleft" license, even though the GPL itself has various exceptions, such as the [GPLv3's system library exception](#the-system-library-exception) written into the text of the license itself. Furthermore, the copyleft community continues to debate where the a license cross the line from "strong copyleft" to "license that fails to respect software freedom", although ultimately these debates are actually regarding whether the license fits [Free Software definition](#the-free-software-definition) at all.
+
+<sup>6</sup> Copyleft社区使用术语“强copyleft”无疑是不准确的。例如，大多数人会认为GNU GPL是“强copyleft”许可证，但其实GPL本身有多种例外情况，比如许可证文本中的[GPLv3的系统库例外情况](#the-system-library-exception)。此外，copyleft社区一直在争论许可证从“强copyleft”到“不尊重软件自由的许可证”之间的界限，尽管最终这些争论实际上是关于许可证是否符合 [自由软件的定义](#the-free-software-definition)
+
 ### Software and Non-Copyright Legal Regimes
 
 ### 软件和非版权法律制度
@@ -359,17 +363,7 @@ require proper attribution for their work.
 
 那些最熟悉美国版权制度的人通常会惊讶地发现，有些版权控制既不能放弃也不能否认。具体来说，美国以外的许多版权制度都承认作者的道德权利概念。通常，道德权利与尊重软件自由完全兼容，因为道德权利通常是以软件自由许可所允许的控制为中心，例如作者要求对其作品进行适当归属的权利。
 
-^6^[]{#_bookmark18 .anchor}Copyleft communities' use of the term
-"strong copyleft" is undoubtedly imprecise. For example, most will
-call the GNU GPL a "strong copyleft" license, even though the GPL
-itself has various exceptions, such as the [GPLv3's system library
-exception](#the-system-library-exception) written into the text of the
-license itself. Furthermore, the copyleft community continues to
-debate where the a license cross the line from "strong copyleft" to
-"license that fails to respect software freedom", although ultimately
-these debates are actually []{#_bookmark19 .anchor}regarding whether
-the license fits [Free Software
-definition](#the-free-software-definition) at all.
+
 
 ^7^See [6,](#_bookmark68)
 [7.5,](#gplv2-7-give-software-liberty-or-give-it-death)
