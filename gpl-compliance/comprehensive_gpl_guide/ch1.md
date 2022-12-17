@@ -343,10 +343,14 @@ We Can't Eliminate Them*](http://www.wired.com/opinion/2012/11/richard-stallman-
 
 <sup>7</sup>有关专利制度如何与copyleft交互的更多讨论，请参见[第6章](#_bookmark68)、[第7.5节](#gplv2-7-give-software-liberty-or-give-it-death)和[第9.14节](#gplv3-11-explicit-patent-licensing)，也请阅读Richard M. Stallman的文章 [*如果无法消除软件专利的影响就限制它吧*](http://www.wired.com/opinion/2012/11/richard-stallman-software-patents)，了解有关这些专利给社会带来的问题的更多信息。
 
-Digital Restrictions Management (usually called *DRM* ) is often used to impose technological restrictions on users' ability to exercise software freedom that they might otherwise be granted.[^8^] The simplest (and perhaps oldest) form of DRM, of course, is separating software source code (read by humans),
+Digital Restrictions Management (usually called *DRM* ) is often used to impose technological restrictions on users' ability to exercise software freedom that they might otherwise be granted.<sup>8</sup> The simplest (and perhaps oldest) form of DRM, of course, is separating software source code (read by humans),
 from their compiled binaries (read only by computers). Furthermore, [17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) often prohibits users legally from circumventing some of these DRM systems.
 
-虽然授予了软件自由，但数字限制管理（也被称为*DRM*）通常对用户行使软件自由的能力施加技术限制。[^8^]最简单的（也是最古老的）DRM的形式，是将软件源代码（人类可阅读的）与编译的二进制文件（仅由计算机读取）分开。此外，[《美国法典》第17篇 第§102章节](http://www.law.cornell.edu/uscode/text/17/1201) 通常从法律层面禁止用户规避DRM系统中的一些。
+虽然授予了软件自由，但数字限制管理（也被称为*DRM*）通常对用户行使软件自由的能力施加技术限制。<sup>8</sup>最简单的（也是最古老的）DRM的形式，是将软件源代码（人类可阅读的）与编译的二进制文件（仅由计算机读取）分开。此外，[《美国法典》第17篇 第§102章节](http://www.law.cornell.edu/uscode/text/17/1201) 通常从法律层面禁止用户规避DRM系统中的一些。
+
+<sup>8</sup> See [9.5](#gplv3s-views-on-drm-and-device-lock-down) for more information on how GPL deals with this issue.
+
+<sup>8</sup> 想要了解GPL如何处理这类问题，可以查看[第9.5节](#gplv3s-views-on-drm-and-device-lock-down)
 
 Most EULAs also include a contractual agreement that bind users further by forcing them to agree to a contractual, prohibitive software license before ever even using the software.
 
@@ -370,10 +374,6 @@ require proper attribution for their work.
 那些最熟悉美国版权制度的人通常会惊讶地发现，有些版权控制既不能放弃也不能否认。具体来说，美国以外的许多版权制度都承认作者的道德权利概念。通常，道德权利与尊重软件自由完全兼容，因为道德权利通常是以软件自由许可所允许的控制为中心，例如作者要求对其作品进行适当归属的权利。
 
 
-
-
-8See *§* [9.5](#gplv3s-views-on-drm-and-device-lock-down) for more
-information on how GPL deals with this issue.
 
 ## A Community of Equality
 
