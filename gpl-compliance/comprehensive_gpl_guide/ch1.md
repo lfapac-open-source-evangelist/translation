@@ -337,6 +337,12 @@ The use, modification and distribution of software, like many endeavors, simulta
 
 * 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即跟软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。<sup>7</sup>
 
+<sup>7</sup>See [6,](#_bookmark68) [7.5,](#gplv2-7-give-software-liberty-or-give-it-death) [9.14](#gplv3-11-explicit-patent-licensing) for more discussion on how
+the patent system interacts with copyleft, and read Richard M. Stallman's essay, [*Let's Limit the Effect of Software Patents, Since
+We Can't Eliminate Them*](http://www.wired.com/opinion/2012/11/richard-stallman-software-patents/) for more information on the problems these patents present to society.
+
+<sup>7</sup>有关专利制度如何与copyleft交互的更多讨论，请参见[第6章](#_bookmark68)、[第7.5节](#gplv2-7-give-software-liberty-or-give-it-death)和[第9.14节](#gplv3-11-explicit-patent-licensing)，也请阅读Richard M. Stallman的文章[让我们限制软件专利的影响，因为我们无法消除它们](http:// www.wired.com/opinion/2012/11/richard-stallman-software-patents)，了解有关这些专利给社会带来的问题的更多信息。
+
 Digital Restrictions Management (usually called *DRM* ) is often used to impose technological restrictions on users' ability to exercise software freedom that they might otherwise be granted.[^8^] The simplest (and perhaps oldest) form of DRM, of course, is separating software source code (read by humans),
 from their compiled binaries (read only by computers). Furthermore, [17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) often prohibits users legally from circumventing some of these DRM systems.
 
@@ -365,15 +371,6 @@ require proper attribution for their work.
 
 
 
-^7^See [6,](#_bookmark68)
-[7.5,](#gplv2-7-give-software-liberty-or-give-it-death)
-[9.14](#gplv3-11-explicit-patent-licensing) for more discussion on how
-the patent system interacts with copyleft, and read Richard M.
-Stallman's essay, [*Let's Limit the Effect of Software Patents, Since
-We Can't Eliminate
-Them*](http://www.wired.com/opinion/2012/11/richard-stallman-software-patents/)
-for more information on the problems these []{#_bookmark20
-.anchor}patents present to society.
 
 8See *§* [9.5](#gplv3s-views-on-drm-and-device-lock-down) for more
 information on how GPL deals with this issue.
