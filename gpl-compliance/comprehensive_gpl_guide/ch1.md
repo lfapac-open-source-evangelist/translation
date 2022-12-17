@@ -340,32 +340,24 @@ from their compiled binaries (read only by computers). Furthermore, [17 USC 1201
 
 Most EULAs also include a contractual agreement that bind users further by forcing them to agree to a contractual, prohibitive software license before ever even using the software.
 
-大多数EULA还包括一份合同协议，强制用户在使用软件之前同意合同性的、禁止性的软件许可来进一步约束用户。
+大多数EULA协议还包括一份用户合同，强制用户在使用软件之前同意合同性的、禁止性的软件许可来进一步约束用户。
 
-Thus, most proprietary software restricts users via multiple
-interlocking legal and technological means. Any license that truly
-respect the software freedom of all users must not only grant
-appropriate copyright permissions, but also *prevent* restrictions
-from other legal and technological means like those listed above.
+Thus, most proprietary software restricts users via multiple interlocking legal and technological means. Any license that truly respect the software freedom of all users must not only grant appropriate copyright permissions, but also *prevent* restrictions from other legal and technological means like those listed above.
+
+所以，大多数专有软件会通过多种相互关联的法律和技术手段来限制用户。任何真正尊重用户软件自由的许可证，不仅必须授予适当的版权许可，还必须*防止*上述其他法律和技术手段的限制。
 
 ### Non-USA Copyright Regimes
 
-Generally speaking, copyright law operates similarly enough in
-countries that have signed the Berne Con- vention on Copyright, and
-software freedom licenses have generally taken advantage of this
-international standardization of copyright law. However, copyright law
-does differ from country to country, and com- monly, software freedom
-licenses like the GPL must be considered under the copyright law in
-the jurisdiction where any licensing dispute occurs.
+### 美国之外的版权制度
 
-Those who are most familiar with the USA's system of copyright often
-are surprised to learn that there are certain copyright controls that
-cannot be waived nor disclaimed. Specifically, many copyright regimes
-outside the USA recognize a concept of moral rights of authors.
-Typically, moral rights are fully compatible with respecting software
-freedom, as they are usually centered around controls that software
-freedom licenses generally respect, such as the right of an authors to
+Generally speaking, copyright law operates similarly enough in countries that have signed the Berne Convention on Copyright, and software freedom licenses have generally taken advantage of this international standardization of copyright law. However, copyright law does differ from country to country, and commonly, software freedom licenses like the GPL must be considered under the copyright law in the jurisdiction where any licensing dispute occurs.
+
+一般来说，在签署了《伯尔尼版权公约》的国家中，版权法的运作非常相似，软件自由许可通常采用了国际标准化的版权法。然而，不同国家的版权法确实有所不同，通常像GPL这样的软件自由许可，必须在发生许可纠纷的司法管辖区，根据版权法予以考虑。
+
+Those who are most familiar with the USA's system of copyright often are surprised to learn that there are certain copyright controls that cannot be waived nor disclaimed. Specifically, many copyright regimes outside the USA recognize a concept of moral rights of authors. Typically, moral rights are fully compatible with respecting software freedom, as they are usually centered around controls that software freedom licenses generally respect, such as the right of an authors to
 require proper attribution for their work.
+
+那些最熟悉美国版权制度的人通常会惊讶地发现，有些版权控制既不能放弃也不能否认。具体来说，美国以外的许多版权制度都承认作者的道德权利概念。通常，道德权利与尊重软件自由完全兼容，因为道德权利通常是以软件自由许可所允许的控制为中心，例如作者要求对其作品进行适当归属的权利。
 
 ^6^[]{#_bookmark18 .anchor}Copyleft communities' use of the term
 "strong copyleft" is undoubtedly imprecise. For example, most will
