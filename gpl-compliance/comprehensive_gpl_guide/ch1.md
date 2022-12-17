@@ -411,10 +411,11 @@ Because of the symmetry and fairness inherent in GPL'd distribution, nearly ever
 
 ### The Commercial Community
 
-By the same token, nearly all established GPL'd software systems have
-a vibrant commercial community. Nearly every GPL'd system that has
-gained wide adoption from noncommercial users and developers even-
-tually begins to fuel a commercial system around that software.
+### 商业群体
+
+By the same token, nearly all established GPL'd software systems have a vibrant commercial community. Nearly every GPL'd system that has gained wide adoption from noncommercial users and developers eventually begins to fuel a commercial system around that software.
+
+同样，几乎所有已建立的GPL软件系统都有一个充满活力的商业社区。每个获得非商业用户和开发人员拥护的GPL系统，最终几乎都开始围绕该软件为商业系统提供动力。
 
 For example, consider the Samba file server system that allows
 Unix-like systems (including GNU/Linux) to serve files to Microsoft
