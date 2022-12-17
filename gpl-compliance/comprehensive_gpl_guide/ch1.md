@@ -331,20 +331,16 @@ The use, modification and distribution of software, like many endeavors, simulta
 
 * Unfortunately, despite much effort by many in the software freedom community to end patents that read on software (i.e., patents on computational ideas), they still exist. As such, a software program might otherwise seem to be unrestricted, but a patent might read on the software and ruin everything for its users.<sup>7</sup>
 
-* 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。<sup>7</sup>
+* 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即跟软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。<sup>7</sup>
 
-Digital Restrictions Management (usually called *DRM* ) is often used
-to impose technological restric- tions on users' ability to exercise
-software freedom that they might otherwise be
-granted.[^8^](#_bookmark20) The simplest (and perhaps oldest) form of
-DRM, of course, is separating software source code (read by humans),
-from their compiled binaries (read only by computers). Furthermore,
-[17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) often
-prohibits users legally from circumventing some of these DRM systems.
+Digital Restrictions Management (usually called *DRM* ) is often used to impose technological restrictions on users' ability to exercise software freedom that they might otherwise be granted.[^8^] The simplest (and perhaps oldest) form of DRM, of course, is separating software source code (read by humans),
+from their compiled binaries (read only by computers). Furthermore, [17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) often prohibits users legally from circumventing some of these DRM systems.
 
-Most EULAs also include a contractual agreement that bind users
-further by forcing them to agree to a contractual, prohibitive
-software license before ever even using the software.
+虽然授予了软件自由，但数字限制管理（也被称为*DRM*）通常对用户行使软件自由的能力施加技术限制。[^8^]最简单的（也是最古老的）DRM的形式，是将软件源代码（人类可阅读的）与编译的二进制文件（仅由计算机读取）分开。此外，[《美国法典》第17篇 第§102章节](http://www.law.cornell.edu/uscode/text/17/1201) 通常从法律层面禁止用户规避DRM系统中的一些。
+
+Most EULAs also include a contractual agreement that bind users further by forcing them to agree to a contractual, prohibitive software license before ever even using the software.
+
+大多数EULA还包括一份合同协议，强制用户在使用软件之前同意合同性的、禁止性的软件许可来进一步约束用户。
 
 Thus, most proprietary software restricts users via multiple
 interlocking legal and technological means. Any license that truly
