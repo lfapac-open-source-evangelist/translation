@@ -383,10 +383,11 @@ The previous section described the principles of software freedom, a brief intro
 
 Copyleft, as defined in [1.2.2,](#why-copyright-free-software) is a general term for this mechanism. The remainder of this text will discuss details of various real-world implementations of copyleft --most notably, the GPL.
 
-This discussion begins first with some general explanation of what the
-GPL is able to do in software devel- opment communities. After that
-brief discussion in this section, deeper discussion of how GPL
-accomplishes this in practice follows in the next chapter.
+如[第1.2.2节](#why-copyright-free-software)的Copyleft定义，它是该机制的一个通用术语。本书的其他章节将会讨论现实世界中copyleft的一些实现方式 -- 最值得注意的就是GPL。
+
+This discussion begins first with some general explanation of what the GPL is able to do in software development communities. After that brief discussion in this section, deeper discussion of how GPL accomplishes this in practice follows in the next chapter.
+
+讨论首先会解释GPL在软件开发社区中的作用。本节只进行简短讨论，下一章将深入讨论GPL如何在实践中实现这一点。
 
 Simply put, though, the GPL ultimately creates a community of equality
 for both business and noncom- mercial users.
