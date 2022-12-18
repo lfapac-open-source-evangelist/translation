@@ -451,27 +451,16 @@ In his introduction to Stallman's *Free Software, Free Society*, Lawrence Lessig
 
 A "free society" is regulated by law. But there are limits that any free society places on this regulation through law: No society that kept its laws secret could ever be called free. No government that hid its regulations from the regulated could ever stand in our tradition. Law controls. But it does so justly only when visibly. And law is visible only when its terms are knowable and controllable by those it regulates, or by the agents of those it regulates (lawyers, legislatures).
 
-“自由社会”是受法律规范的。但是任何自由社会都通过法律对这种规定施加了限制：任何对法律保密的社会都不能被称为自由。任何向受监管者隐藏其法规的政府都无法立足于我们的传统。法律控制。但只有在显而易见的情况下，它才会这样做。法律只有在其条款可被其监管者或被其监管者的代理人（律师、立法机关）知晓和控制时才是可见的。
+“自由社会”是受法律规范的。但是任何自由社会都通过法律对这种规定施加了限制：任何对法律保密的社会都不能被称为自由。任何向受监管者隐藏其法规的政府都无法立足于我们的传统。法律控制。但只有在显而易见的情况下，它才会这样做。法律只有在其条款可被监管者或监管者的代理人（律师、立法机关）知晓和控制时才是可见的。
 
-This condition on law extends beyond the work of a legislature. Think
-about the practice of law in American courts. Lawyers are hired by
-their clients to advance their clients' interests. Sometimes that
-interest is advanced through litigation. In the course of this
-litigation, lawyers write briefs. These briefs in turn affect opinions
-written by judges. These opinions decide who wins a particular case,
-or whether a certain law can stand consistently with a constitution.
+This condition on law extends beyond the work of a legislature. Think about the practice of law in American courts. Lawyers are hired by their clients to advance their clients' interests. Sometimes that interest is advanced through litigation. In the course of this litigation, lawyers write briefs. These briefs in turn affect opinions written by judges. These opinions decide who wins a particular case, or whether a certain law can stand consistently with a constitution.
 
-All the material in this process is free in the sense that Stallman
-means. Legal briefs are open and free for others to use. The arguments
-are transparent (which is different from saying they are good), and
-the reasoning can be taken without the permission of the original
-lawyers. The opinions they produce can be quoted in later briefs. They
-can be copied and integrated into another brief or opinion. The
-"source code" for American law is by design, and by principle, open
-and free for anyone to take. And take lawyers do---for it is a measure
-of a great brief that it achieves its creativity through the reuse of
-what happened before. The source is free; creativity and an economy is
-built upon it.
+这种法律条件超出了立法机关的工作范围。想想美国法院的法律实践。律师受雇于他们的客户，目的是促进他们客户的利益。有时，这种利益是通过法律诉讼来推进的。在此诉讼过程中，律师撰写简报。这些简报反过来会影响法官撰写的意见。这些意见决定了在某一案件中谁会获胜，或者某项法律是否能够与宪法保持一致。
+
+All the material in this process is free in the sense that Stallman means. Legal briefs are open and free for others to use. The arguments are transparent (which is different from saying they are good), and the reasoning can be taken without the permission of the original lawyers. The opinions they produce can be quoted in later briefs. They can be copied and integrated into another brief or opinion. The "source code" for American law is by design, and by principle, open and free for anyone to take. And take lawyers do---for it is a measure of a great brief that it achieves its creativity through the reuse of what happened before. The source is free; creativity and an economy is built upon it.
+
+正如Stallman所说，这个过程中的所有材料都是免费的。法律简报是公开的，可供他人免费使用。论据透明（这不同于说它们是好的），无需原律师许可即可取证。他们提出的意见可以在以后的简报中引用。可以将它们复制并整合到另一份简报或意见中。美国法律的“源代码”在设计上和原则上都是开放的，任何人都可以免费使用。以律师的做法为例——因为这是一个伟大的简报的衡量标准，
+它通过重用以前的案例来实现其创造力。来源是免费的；创造力和经济是建立在它之上的。
 
 This economy of free code (and here I mean free legal code) doesn't
 starve lawyers. Law firms have enough incentive to produce great
