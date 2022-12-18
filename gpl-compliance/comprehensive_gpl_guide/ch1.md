@@ -429,15 +429,17 @@ companies discovered that the software could work for them as well, and their sy
 The noncommercial users, however, were not concerned when these two fellows began collecting paychecks off of their GPL'd work. They knew that because of the nature of the GPL that improvements that were distributed in the commercial environment could easily be folded back into the standard version. Companies are not permitted to
 proprietarize Samba, so the noncommercial users, and even other commercial users are safe in the knowledge that the software freedom ensured by the GPL will remain protected.
 
-当这两个学生开始从他们的GPL工作中获取报酬时，非商业用户也并不担心。他们知道，由于GPL的性质，在商业环境中实现的改进会很快地融入到标准版本。不允许任何公司将Samba私有化，非商业用户、其他商业用户都知道，GPL协议会确保软件自由将继续受到保护。
-
-
+当那两位学生开始从他们的GPL工作中获取报酬时，非商业用户也并不担心。他们知道，由于GPL的性质，在商业环境中实现的改进会很快地融入到标准版本。不允许任何公司将Samba私有化，非商业用户、其他商业用户都知道，GPL协议会确保软件自由将继续受到保护。
 
 Commercial developers also work in concert with noncommercial developers. Those two now-long-since graduated students continue to contribute to Samba altruistically, but also get paid work doing it. Priorities change when a client is in the mix, but all the code is contributed back to the standard version. Meanwhile, many other
 individuals have gotten involved noncommercially as developers, because they want to "cut their teeth on Free Software," or because the problems interest them. When
 they get good at it, perhaps they will move on to another project, or perhaps they will become commercial developers of the software themselves. 
 
+商业开发商也会与非商业开发商合作。那两位已经毕业了的学生继续无私地为Samba做出贡献，但同时也获得了报酬。当有客户参与其中时，优先级会发生变化，但所有的代码都会回馈给标准版本。与此同时，许多其他人也作为开发者参与了非商业活动，因为他们想“在自由软件上小试牛刀”，或者是他们对这些问题感兴趣。当他们擅长编程时，也许会转向另一个项目，或者他们自己可能会成为软件的商业开发人员。
+
 No party is a threat to another in the GPL software scenario because everyone is on equal ground. The GPL protects rights of the commercial and noncommercial contributors and users equally. The GPL creates trust, because it is a level playing field for all.
+
+在GPL软件场景中，任何一方都不会对另外一方构成威胁，因为每个人都是平等的。GPL协议平等地保护了商业和非商业贡献者和用户的权利。GPL协议创造信任，因为它位所有人提供了公平的竞争环境。
 
 ### Law Analogy
 
