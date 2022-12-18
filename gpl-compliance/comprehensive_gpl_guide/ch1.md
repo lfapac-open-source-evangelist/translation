@@ -417,48 +417,27 @@ By the same token, nearly all established GPL'd software systems have a vibrant 
 
 同样，几乎所有已建立的GPL软件系统都有一个充满活力的商业社区。每个获得非商业用户和开发人员拥护的GPL系统，最终几乎都开始围绕该软件为商业系统提供动力。
 
-For example, consider the Samba file server system that allows
-Unix-like systems (including GNU/Linux) to serve files to Microsoft
-Windows systems. Two graduate students originally developed Samba in
-their spare time and it was deployed noncommercially in academic
-environments.[^9^](#_bookmark24) However, very soon for-profit
-companies discovered that the software could work for them as well,
-and their system administrators began to use it in place of Microsoft
-Windows NT file-servers. This served to lower the cost of running such
-servers by orders of magnitude. There was suddenly room in Windows
-file-server budgets to hire contractors to improve Samba. Some of the
-first people hired to do such work were those same two graduate
-students who originally developed the software.
+For example, consider the Samba file server system that allows Unix-like systems (including GNU/Linux) to serve files to Microsoft Windows systems. Two graduate students originally developed Samba in their spare time and it was deployed noncommercially in academic environments.<sup>9</sup> However, very soon for-profit
+companies discovered that the software could work for them as well, and their system administrators began to use it in place of Microsoft Windows NT file-servers. This served to lower the cost of running such servers by orders of magnitude. There was suddenly room in Windows file-server budgets to hire contractors to improve Samba. Some of the first people hired to do such work were those same two graduate students who originally developed the software.
 
-The noncommercial users, however, were not concerned when these two
-fellows began collecting paychecks off of their GPL'd work. They knew
-that because of the nature of the GPL that improvements that were
-distributed in the commercial environment could easily be folded back
-into the standard version. Companies are not permitted to
-proprietarize Samba, so the noncommercial users, and even other
-commercial users are safe in the knowledge that the software freedom
-ensured by the GPL will remain protected.
+例如，以Samba文件服务器系统为例，它允许类Unix系统（如GNU/Linux）向微软的Windows系统提供文件服务。Samb最初是由两名研究生在业余时间开发的，并在学术环境中部署，并未商业化。<sup>9</sup> 之后很快商业公司就发现了该软件也适用于他们，公司的系统管理员开始使用它取代了微软的Windows NT文件服务器。这有助于将此类服务器的运行成本降低几个数量级。Windows文件服务器就有了多的预算空间，可以雇用承包商来改进Samba。最早受雇从事这项工作的正是最初开发该软件的两名研究生。
 
-Commercial developers also work in concert with noncommercial
-developers. Those two now-long-since graduated students continue to
-contribute to Samba altruistically, but also get paid work doing it.
-Priorities change when a client is in the mix, but all the code is
-contributed back to the standard version. Meanwhile, many other
-individuals have gotten involved noncommercially as developers,
-because they want to "cut their
+<sup>9</sup>See [Andrew Tridgell's "A bit of history and a bit of fun"](http://turtle.ee.ncku.edu.tw/docs/samba/history)
 
-^9^[]{#_bookmark24 .anchor}See [Andrew Tridgell's "A bit of history
-and a bit of fun"](http://turtle.ee.ncku.edu.tw/docs/samba/history)
+<sup>9</sup> 详情请看[Andrew Tridgell的“一点历史，一份趣味”](http://turtle.ee.ncku.edu.tw/docs/samba/history)
 
-teeth on Free Software," or because the problems interest them. When
-they get good at it, perhaps they will move on to another project, or
-perhaps they will become commercial developers of the software
-themselves. No party is a threat to another in the GPL software
-scenario because everyone is on equal ground. The GPL protects rights
-of the commercial and noncommercial contributors and users equally.
-The GPL creates
+The noncommercial users, however, were not concerned when these two fellows began collecting paychecks off of their GPL'd work. They knew that because of the nature of the GPL that improvements that were distributed in the commercial environment could easily be folded back into the standard version. Companies are not permitted to
+proprietarize Samba, so the noncommercial users, and even other commercial users are safe in the knowledge that the software freedom ensured by the GPL will remain protected.
 
-trust, because it is a level playing field for all.
+当这两个学生开始从他们的GPL工作中获取报酬时，非商业用户也并不担心。他们知道，由于GPL的性质，在商业环境中实现的改进会很快地融入到标准版本。不允许任何公司将Samba私有化，非商业用户、其他商业用户都知道，GPL协议会确保软件自由将继续受到保护。
+
+
+
+Commercial developers also work in concert with noncommercial developers. Those two now-long-since graduated students continue to contribute to Samba altruistically, but also get paid work doing it. Priorities change when a client is in the mix, but all the code is contributed back to the standard version. Meanwhile, many other
+individuals have gotten involved noncommercially as developers, because they want to "cut their teeth on Free Software," or because the problems interest them. When
+they get good at it, perhaps they will move on to another project, or perhaps they will become commercial developers of the software themselves. 
+
+No party is a threat to another in the GPL software scenario because everyone is on equal ground. The GPL protects rights of the commercial and noncommercial contributors and users equally. The GPL creates trust, because it is a level playing field for all.
 
 ### Law Analogy
 
