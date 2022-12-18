@@ -462,35 +462,21 @@ All the material in this process is free in the sense that Stallman means. Legal
 正如Stallman所说，这个过程中的所有材料都是免费的。法律简报是公开的，可供他人免费使用。论据透明（这不同于说它们是好的），无需原律师许可即可取证。他们提出的意见可以在以后的简报中引用。可以将它们复制并整合到另一份简报或意见中。美国法律的“源代码”在设计上和原则上都是开放的，任何人都可以免费使用。以律师的做法为例——因为这是一个伟大的简报的衡量标准，
 它通过重用以前的案例来实现其创造力。来源是免费的；创造力和经济是建立在它之上的。
 
-This economy of free code (and here I mean free legal code) doesn't
-starve lawyers. Law firms have enough incentive to produce great
-briefs even though the stuff they build can be taken and copied by
-anyone else. The lawyer is a craftsman; his or her product is public.
-Yet the crafting is not charity. Lawyers get paid; the public doesn't
-demand such work without price. Instead this economy flourishes, with
-later work added to the earlier.
+This economy of free code (and here I mean free legal code) doesn't starve lawyers. Law firms have enough incentive to produce great briefs even though the stuff they build can be taken and copied by anyone else. The lawyer is a craftsman; his or her product is public. Yet the crafting is not charity. Lawyers get paid; the public doesn't demand such work without price. Instead this economy flourishes, with later work added to the earlier.
 
-We could imagine a legal practice that was different --- briefs and
-arguments that were kept secret; rulings that announced a result but
-not the reasoning. Laws that were kept by the police but published to
-no one else. Regulation that operated without explaining its rule.
+这种免费代码经济（这里我指的是免费法律代码）不会让律师挨饿。律师事务所有足够的动力来制作出色的简报，即使他们制作的东西可以被其他任何人拿走和复制。律师是工匠；他或她的简报是公开的。然而，手工艺品不是慈善。律师得到报酬；公众不会要求律师无偿工作。取而代之的是，这种经济会蓬勃发展，后期的工作会逐渐添加到早期的工作中。
 
-We could imagine this society, but we could not imagine calling it
-"free." Whether or not the incentives in such a society would be
-better or more efficiently allocated, such a society could not be
-known as free. The ideals of freedom, of life within a free society,
-demand more than efficient application. Instead, openness and
-transparency are the constraints within which a legal system gets
-built, not options to be added if convenient to the leaders. Life
-governed by software code should be no less.
+We could imagine a legal practice that was different --- briefs and arguments that were kept secret; rulings that announced a result but not the reasoning. Laws that were kept by the police but published to no one else. Regulation that operated without explaining its rule.
 
-Code writing is not litigation. It is better, richer, more productive.
-But the law is an obvious instance of how creativity and incentives do
-not depend upon perfect control over the products created. Like jazz,
-or novels, or architecture, the law gets built upon the work that went
-before. This adding and changing is what creativity always is. And a
-free society is one that assures that its most important resources
-remain free in just this sense.[^10^](#_bookmark26)
+我们可以想象一种不同的法律实践——保持简报和论据的保密性；宣布结果但不宣布推理的裁决。警察遵守的法律，但不向其他人公开。没有解释规则的相关规定。
+
+We could imagine this society, but we could not imagine calling it "free." Whether or not the incentives in such a society would be better or more efficiently allocated, such a society could not be known as free. The ideals of freedom, of life within a free society, demand more than efficient application. Instead, openness and transparency are the constraints within which a legal system gets built, not options to be added if convenient to the leaders. Life governed by software code should be no less.
+
+我们可以想象这样的社会，但我们无法假装称它为“自由”。无论这个社会中的激励是否会得到更好或更有效的分配，这样的社会都不能被称为自由。自由的理想，自由社会中的生活，需要的不仅仅是有效的应用。相反，公开和透明是建立法律体系的约束条件，而不是领导者需要时可以随意添加的选项。由软件代码支配的生活应该不会少。
+
+Code writing is not litigation. It is better, richer, more productive. But the law is an obvious instance of how creativity and incentives do not depend upon perfect control over the products created. Like jazz, or novels, or architecture, the law gets built upon the work that went before. This adding and changing is what creativity always is. And a free society is one that assures that its most important resources remain free in just this sense.[^10^](#_bookmark26)
+
+代码编写不是法律诉讼。它更好、更丰富、更有生产力。但法律是创造力和激励如何不依赖于对所创造产品的完美控制的一个明显例子。 就像爵士乐、小说或建筑一样，法律是建立在之前的作品之上的。 这种添加和改变就是创造力始终存在的东西。 一个自由社会就是确保其最重要的资源在这个意义上保持免费的社会
 
 10[]{#_bookmark26 .anchor}This quotation is Copyright c 2002, Lawrence
 Lessig. It is licensed under the terms of [the "Attribution License"
