@@ -424,7 +424,7 @@ companies discovered that the software could work for them as well, and their sy
 
 <sup>9</sup>See [Andrew Tridgell's "A bit of history and a bit of fun"](http://turtle.ee.ncku.edu.tw/docs/samba/history)
 
-<sup>9</sup> 详情请看[Andrew Tridgell的“一点历史，一份趣味”](http://turtle.ee.ncku.edu.tw/docs/samba/history)
+<sup>9</sup> 详情请看[Andrew Tridgell的《一点历史，一份趣味》](http://turtle.ee.ncku.edu.tw/docs/samba/history)
 
 The noncommercial users, however, were not concerned when these two fellows began collecting paychecks off of their GPL'd work. They knew that because of the nature of the GPL that improvements that were distributed in the commercial environment could easily be folded back into the standard version. Companies are not permitted to
 proprietarize Samba, so the noncommercial users, and even other commercial users are safe in the knowledge that the software freedom ensured by the GPL will remain protected.
@@ -443,20 +443,15 @@ No party is a threat to another in the GPL software scenario because everyone is
 
 ### Law Analogy
 
-In his introduction to Stallman's *Free Software, Free Society*,
-Lawrence Lessig draws an interesting analogy between the law and Free
-Software. He argues that the laws of a free society must be protected
-much like the GPL protects software. So that I might do true justice
-to Lessig's argument, I quote it verbatim:
+### 法律类比
 
-A "free society" is regulated by law. But there are limits that any
-free society places on this regulation through law: No society that
-kept its laws secret could ever be called free. No government that hid
-its regulations from the regulated could ever stand in our tradition.
-Law controls. But it does so justly only when visibly. And law is
-visible only when its terms are knowable and controllable by those it
-regulates, or by the agents of those it regulates (lawyers,
-legislatures).
+In his introduction to Stallman's *Free Software, Free Society*, Lawrence Lessig draws an interesting analogy between the law and Free Software. He argues that the laws of a free society must be protected much like the GPL protects software. So that I might do true justice to Lessig's argument, I quote it verbatim:
+
+在介绍Stellman的《自由软件、自由社会》时，Lawrence Lessig在法律和自由软件之间做了一个有趣的类比。他认为自由社会的法律也需要受到保护，就像GPL协议保护软件一样。为了能真正公正地对待Lessig的论点，我逐字引用了它：
+
+A "free society" is regulated by law. But there are limits that any free society places on this regulation through law: No society that kept its laws secret could ever be called free. No government that hid its regulations from the regulated could ever stand in our tradition. Law controls. But it does so justly only when visibly. And law is visible only when its terms are knowable and controllable by those it regulates, or by the agents of those it regulates (lawyers, legislatures).
+
+“自由社会”是受法律规范的。但是任何自由社会都通过法律对这种规定施加了限制：任何对法律保密的社会都不能被称为自由。任何向受监管者隐藏其法规的政府都无法立足于我们的传统。法律控制。但只有在显而易见的情况下，它才会这样做。法律只有在其条款可被其监管者或被其监管者的代理人（律师、立法机关）知晓和控制时才是可见的。
 
 This condition on law extends beyond the work of a legislature. Think
 about the practice of law in American courts. Lawyers are hired by
