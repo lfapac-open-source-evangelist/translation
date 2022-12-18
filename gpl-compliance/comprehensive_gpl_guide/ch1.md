@@ -476,23 +476,16 @@ We could imagine this society, but we could not imagine calling it "free." Wheth
 
 Code writing is not litigation. It is better, richer, more productive. But the law is an obvious instance of how creativity and incentives do not depend upon perfect control over the products created. Like jazz, or novels, or architecture, the law gets built upon the work that went before. This adding and changing is what creativity always is. And a free society is one that assures that its most important resources remain free in just this sense.[^10^](#_bookmark26)
 
-代码编写不是法律诉讼。它更好、更丰富、更有生产力。但法律是创造力和激励如何不依赖于对所创造产品的完美控制的一个明显例子。 就像爵士乐、小说或建筑一样，法律是建立在之前的作品之上的。 这种添加和改变就是创造力始终存在的东西。 一个自由社会就是确保其最重要的资源在这个意义上保持免费的社会
+代码编写不是法律诉讼。它更好、更丰富、更有生产力。但创造力和激励是不依赖于对所创造产品的完美与否的，法律就是一个明显的例子。就像爵士乐、小说或建筑一样，法律是建立在之前的作品之上的。这种添加和改变就是创造力的本质所在。一个自由的社会就是确保其最重要的资源在某种意义上保持免费。<sup>10</sup>
 
-10[]{#_bookmark26 .anchor}This quotation is Copyright c 2002, Lawrence
-Lessig. It is licensed under the terms of [the "Attribution License"
-version](http://creativecommons.org/licenses/by/1.0/)
+<sup>10</sup>This quotation is Copyright c 2002, Lawrence Lessig. It is licensed under the terms of [the "Attribution License" version 1.0](http://creativecommons.org/licenses/by/1.0/) or any later version as published by Creative Commons.
 
-[1.0](http://creativecommons.org/licenses/by/1.0/) or any later
-version as published by Creative Commons.
+<sup>10</sup>此引文版权所有c 2002, Lawrence Lessig. 它根据[“署名许可”版本1.0](http://creativecommons.org/licenses/by/1.0/)或Createive Comments 发布的任何更新条款获得许可。
 
-In essence, lawyers are paid to service the shared commons of legal
-infrastructure. Few citizens defend themselves in court or write their
-own briefs (even though they are legally permitted to do so) because
-everyone would prefer to have an expert do that job.
+In essence, lawyers are paid to service the shared commons of legal infrastructure. Few citizens defend themselves in court or write their own briefs (even though they are legally permitted to do so) because everyone would prefer to have an expert do that job.
 
-The Free Software economy is a market ripe for experts. It functions
-similarly to other well established professional fields like the law.
-The GPL, in turn, serves as the legal scaffolding that permits the
-creation of this vibrant commercial and noncommercial Free Software
-economy.
+从本质上讲，律师是为法律基础设施的公共服务而工作的。很少有公民在法庭上为自己辩护或撰写自己的案情简报（即使法律允许他们这样做），每个人都更愿意让专家来做这项工作。
 
+The Free Software economy is a market ripe for experts. It functions similarly to other well established professional fields like the law. The GPL, in turn, serves as the legal scaffolding that permits the creation of this vibrant commercial and noncommercial Free Software economy.
+
+对于专家来说，自由软件经济是一个成熟的市场。它的功能类似于法律等其他成熟的专业领域。反过来，GPL协议又是一个法律脚手架，允许创建这个充满活力的商业和非商业的自由软件经济。
