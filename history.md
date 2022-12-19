@@ -1,7 +1,7 @@
 # History
 
 ## 2022年
-### 9月7日 开始***The Evolution of the Open Source Program Office (OSPO)***翻译
+### 9月7日 开始 **The Evolution of the Open Source Program Office (OSPO)** 翻译
 ### 9月5日 联合InfoQ举办《企业开源指南》报告深度解读直播，观看量超过5000.
 主持人：
 王一鹏 InfoQ 极客传媒总编辑
@@ -12,7 +12,7 @@
 4. 庄表伟 开源社理事
 5. 郭浩 开放原子基金会高级顾问
 
-### 8月24日 启动***A Deep Dive Into Open Source Program Offices***翻译工作
+### 8月24日 启动 **A Deep Dive Into Open Source Program Offices** 翻译工作
 该eBook与《企业开源指南》为同一作者，**Ibrahim Haddad**，该request来自作者本人。
 ### 8月8日 《企业开源指南》中文版正式发布
 ### 8月5日 开始***Technical Debt and Open Source Development***翻译工作
