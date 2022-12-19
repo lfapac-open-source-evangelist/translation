@@ -1,14 +1,14 @@
 
 # CHAPTER 9 GPL VERSION 3
 
-# 第9章 GPL 第3版
+# 第9章 GPL 第三版
 
 This chapter discusses the text of GPLv3. Much of this material herein
 includes text that was adapted (with permission) from text that FSF
 originally published as part of the so-called "rationale documents"
 for the various discussion drafts of GPLv3.
 
-本章讨论GPL第3版的文本。本文中的大部分材料（经许可）是从FSF最初作为各种讨论草案的所谓“基本原理文件”的部分文本改变。
+本章讨论GPLv3的文本。本文中的大部分材料是从FSF（经许可）最初作为各种讨论草案的所谓“基本原理文件”的部分文本编写。
 
 The FSF ran a somewhat public process to develop GPLv3, and it was the
 first attempt of its kind to develop a Free Software license this way.
@@ -20,14 +20,14 @@ from the firehose" effect. This chapter seeks to explain GPLv3 to
 newcomers, who perhaps are familiar with GPLv2 and who did not
 participate in the GPLv3 process.
 
-FSF运行了一个公开的开发GPLv3流程，这是首次尝试开发自由软件许可证的方法。最终，RMS是GPLv3的主要作者，但是他听取了各种个人甚至是营利性公司的反馈。然而，试图在事后理解GPLv3，有点像“就着消防带喝水”的感觉。本章旨在向可能熟悉GPLv2，而未参与过GPLv3流程的新手解释GPLv3。
+FSF运行了一个公开的开发GPLv3的流程，这是首次尝试开发自由软件许可证的方法。最终，RMS是GPLv3的主要作者，但是他听取了各种个人甚至是营利性公司的反馈。然而，试图在事后理解GPLv3，有点像“就着消防带喝水”的感觉。本章旨在向可能熟悉GPLv2，而未参与过GPLv3流程的新手解释GPLv3。
 
 Those who wish to drink from the firehose and take a diachronic
 approach to GPLv3 study by reading the step-by-step public drafting
 process of the GPLv3 (which occurred from Monday 16 January 2006
 through Monday 19 November 2007) should visit <http://gplv3.fsf.org/>.
 
-那些希望通过阅读GPLv3起草过程（从2006年1月16日星期一到2007年11月19日星期一）对GPLv3研究采取历时方法的人应该访问http://gplv3.fsf.org。
+那些希望通过阅读GPLv3起草过程（从2006年1月16日星期一到2007年11月19日星期一）对GPLv3研究采取历时方法的人应该访问<http://gplv3.fsf.org>。
 
 ## Understanding GPLv3 As An Upgraded GPLv2
 
@@ -43,8 +43,7 @@ new, but many projects have not upgraded due to (in some cases) mere
 laziness and (in other cases) policy preference for some of GPLv2's
 terms and/or policy opposition to GPLv3's terms.
 
-最终，GPLv2和GPLv3作为常规有效许可证共存。如第2章所述[^note]。GPLv1从未与GPLv2一起常规使用。然而，鉴于GPLv2的广泛流行和GPLv3发布时的现有寿命，一些人许可人更喜欢采用仅GPLv2或者GPLv2或者后续版本就不足为奇了。
-[^note]:有关⾮美国版权系统的简要讨论，请参阅本教程的第 1.2.4 节。
+最终，GPLv2和GPLv3作为常规有效许可证共存。如第2章所述。GPL第一版从未与GPLv2一起常规使用。然而，鉴于GPLv2的广泛流行和GPLv3发布时的现有寿命，一些人许可人更喜欢采用仅GPLv2，或者，GPLv2或者后续版本就不足为奇了。
 
 Given this "two GPLs world" is reality, it makes sense to consider
 GPLv3 in terms of how it differs from GPLv2. Also, most of the best
@@ -55,12 +54,16 @@ decade. These two factors usually cause even new students of GPL to
 start with GPLv2 and move on to GPLv3, and this tutorial follows that
 pattern.
 
+鉴于这个“两个 GPL 世界”是现实，对 GPLv3 与 GPLv2 的区别来考虑它是有意义的。 此外，世界上大多数最优秀的 GPL 专家必须定期处理这两个许可证，并且公认的是拥有数十年的 GPLv2 经验，理论上讲，最多的 GPLv3 经验可能不到十年。 这两个因素通常甚至会导致 GPL 的新人不是从 GPLv2 开始，而是直接然后转向 GPLv3，本教程遵循这种模式。
+
 Overall, the changes made in GPLv3 admittedly *increased* the
 complexity of the license. The FSF stated at the start of the GPLv3
 process that they would have liked to oblige those who have asked for
 a simpler and shorter GPL. Ultimately, the FSF gave priority to making
 GPLv3 a better copyleft license in the spirit of past GPL's. Obsession
 for concision should never trump software freedom.
+
+总的来说，GPLv3 中所做的更改无疑增加了许可证的复杂性。 FSF 在 GPLv3 流程开始时表示，他们愿意帮助那些要求更简单、更短的 GPL 的人。 最终，FSF 本着过去 GPL 的精神，优先考虑让 GPLv3 成为更好的 copyleft 许可证。 对简洁的痴迷永远不应胜过软件自由。
 
 The FSF had many different, important goals in seeking to upgrade to
 GPLv3. However, one important goal that is often lost in the
@@ -70,16 +73,19 @@ internationalized than GPLv2. In particular, the FSF sought to ease
 interpretation of GPL in other countries by replacement of
 USA-centric[^1^](#_bookmark95) copyright phrases
 
-^1^[]{#_bookmark95 .anchor}See Section
-[1.2.4](#non-usa-copyright-regimes) of this tutorial for a brief
-discussion about non-USA copyright systems.
+FSF 在寻求升级到 GPLv3 方面有许多不同的重要目标。 然而，在讨论政策细枝末节时经常遗漏的一个重要目标是一个相当简单但重要的问题。 也就是说，FSF 试图确保 GPLv3 比 GPLv2 更容易国际化。 特别是，FSF 试图通过替换以美国为中心的 [^1] 版权短语来简化其他国家/地区对 GPL 的解释。
+
+[^1]:有关非美国版权系统的简要讨论，请参阅本教程的第 1.2.4 节。
 
 and wording with neutral terminology rooted in description of behavior
 rather than specific statute. As can be seen in the section-by-section
 discussion of GPLv3 that follows, nearly every section had changes
 related to issues of internationalization.
 
+以及植根于行为描述而非特定法规的中性术语措辞。 从接下来对 GPLv3 的逐节讨论中可以看出，几乎每一节都有与国际化问题相关的更改。
+
 ## GPLv3 §0: Giving In On "Defined Terms"
+## GPLv3 0：在“条款定义”上的让步
 
 One of lawyers' most common complaints about GPLv2 is that defined
 terms in the document appear throughout. Most licenses define terms
@@ -88,6 +94,8 @@ should be easily understood both by lawyers and by software
 developers: it is a document designed to give freedom to software
 developers and users, and therefore it should be comprehensible to
 that constituency.
+
+律师对 GPLv2 最常见的抱怨之一是文档中定义的术语贯穿始终。 大多数许可证预先定义条款。 然而，GPL 始终被设计成一个应该易于被律师和软件开发人员理解的文件：它是一个旨在为软件开发人员和用户提供自由的文件，因此它应该易于被这类用户所理解。
 
 Interestingly enough, one coauthor of this tutorial who is both a
 lawyer and a developer pointed out that in law school, she understood
@@ -101,11 +109,17 @@ defined terms are somewhat straightforward and bring forward better
 worded definitions from GPLv2. Herein, this tutorial discusses a few
 of the new ones.
 
+有趣的是，本教程的一位合著者既是律师又是开发人员，她指出，在法学院，由于她的编程背景，她比其他法学院学生更快地理解术语的定义。 对于开发人员来说，拥有 **#define** （在 C 编程语言中）或其他类型的常量和/或在使用它们的地方自动扩展的宏是第二天性。 因此，添加一个术语的定义对开发人员来说并不是什么大问题，因此 GPLv3 也确实增加了新的定义。 这些定义的术语中的大多数都有些直截了当，并从 GPLv2 中提出了更好的措辞定义。 在此，本教程讨论的那些新增加的。
+
 GPLv3 0 includes definitions of five new terms not found in any form
 in GPLv2: "modify" "covered work", "propagate", "convey", and
 "Appropriate Legal Notices".
 
+GPLv3 〇条款包括 GPLv2 中没有以任何形式出现的五个新术语的定义：“修改”、“涵盖的作品”、“传播”、“传达”和“适当的法律声明”。
+
 ### Modify and the Work Based on the Program
+
+### 基于程序的修改和工作
 
 GPLv2 included a defined term, "work based on the Program", but also
 used the term "modify" and "based on" throughout the license. GPLv2's
@@ -123,6 +137,9 @@ more globally useful definition. GPLv3 drops all reference to USA
 the licensed work and all works where copyright permission from the
 licensed work's copyright holder.
 
+GPLv2 包括一个术语“基于程序的作品”的定义，但在整个许可证中也使用了术语“修改”和“基于”。 GPLv2 的“基于程序的作品”定义使用了美国版权法特有的艺术术语“衍生作品”[^2]。GPLv2 始终寻求涵盖美国相关版权法管辖的所有权利 和其他地方。 尽管与衍生作品相对应的不同标签概念在所有版权法体系中都得到认可，但这些对应概念可能在范围和广度上与美国衍生作品存在一定程度的差异。 因此，GPLv3 通过删除 GPLv2 对衍生作品的引用并提供更具全球实用性的定义，使这个问题国际化。 GPLv3 删除了所有对美国“衍生作品”的引用，并仅返回基本概念：GPL 涵盖许可作品和所有获得许可作品版权所有者版权许可的作品。
+[^2]:具有讽刺意味的是，在 GPLv2 的“基于程序的作品”定义中，对美国特定法律术语的大多数批评历史上主要不是来自美国以外的读者，而是来自美国境内的读者。 FSF 指出，它一般不同意这些观点，并对表达这些观点的精力表示困惑，因为 GPL 涉及许多其他更困难的法律问题。 尽管如此，FSF 认为，消除对本地版权术语的使用是有道理的。
+
 The new definitions returns to the common elements of copyright law.
 Copyright holders of works of software have the exclusive right to
 form new works by modification of the original --- a right that may be
@@ -134,7 +151,11 @@ in GPLv3 0, "modify" refers to basic copyright rights, and then this
 definition of "modify" is used to define "modified version of" and
 "work based on" as synonyms.
 
+新定义回归版权法的共同要素。 软件作品的版权持有者拥有通过修改原件形成新作品的专有权——这种权利在不同的法律体系中可能以不同的方式表达。 GPLv3 将此权利授予连续几代用户（特别是通过 GPLv3 5 中规定的 copyleft 条件，如本教程后面的 9.8 中所述）。 这里在 GPLv3 0 中，“修改”指的是基本版权，然后这个“修改”的定义用来定义“修改版本”和“基于”的同义词。
+
 ### The Covered Work
+
+### 涵盖的工作
 
 GPLv3 uses a common license drafting technique of building upon
 simpler definitions to make complex ones. The Program is a defined
@@ -144,21 +165,17 @@ GPLv2, but not as part of a definition. GPLv3 offers a single term
 "covered work", which enables some of the wording in GPLv3 to be
 simpler and clearer than its GPLv2 counterparts.
 
+GPLv3 使用一种通用的许可证起草技术，即在更简单的定义基础上构建复杂的定义。 “本程序”是贯穿 GPLv2 的一个定义术语，“涵盖”一词和短语“受本许可证涵盖”在 GPLv2 中与“本程序”一起使用，但不作为定义的一部分。 GPLv3 提供了一个单一的术语“涵盖的作品”，这使得 GPLv3 中的一些措辞比 GPLv2 对应的措辞更简单、更清晰。
+
 Next, to avoid locking GPLv3 into specific copyright statues, the
 GPLv3 defines two terms that are otherwise exotic to the language of
 international copyright.
 
-^2^[]{#_bookmark99 .anchor}Ironically, most criticism of USA-specific
-legal terminology in GPLv2's "work based on the Program" definition
-historically came not primarily from readers outside the USA, but from
-those within it. The FSF noted in that it did not generally agree with
-these views, and expressed puzzlement by the energy with which they
-were expressed, given the existence of many other, more difficult
-legal issues implicated by the GPL. Nevertheless, the FSF argued that
-it made sense to eliminate usage of local copyright terminology to
-good effect.
+接下来，为了避免将 GPLv3 锁定在特定的版权法规中，GPLv3 定义了两个对国际版权语言来说陌生的术语。
 
 ### Propagate
+
+### 传播
 
 To "propagate" a work covered by the license means any activity in a
 locale that requires permission of copyright holders in that locale's
@@ -166,10 +183,14 @@ legal system. However, personal use or modification for personal use
 are activities explicitly excluded from "propagation" *regardless* of
 domestic copyright law.
 
+“传播”许可证涵盖的作品是指在该地区的法律体系中需要版权所有者许可的地区的任何活动。 然而，无论国内版权法如何，个人使用或为个人使用而修改是明确排除在“传播”之外的活动。
+
 The term "propagate" serves two purposes. First, "propagate" provides
 a simple and convenient means for distinguishing between the kinds of
 uses of a work that GPL imposes conditions on and the kinds of uses
 that GPL does not (for the most part) impose conditions on.
+
+“传播”一词有两个目的。 首先，“传播”提供了一种简单方便的方式来区分 GPL 施加条件的作品的使用类型和 GPL 不（在大多数情况下）施加条件的使用类型。
 
 Second, "propagate" helps globalize GPL in its wording and effect:
 "derivative work" was in fact not the only term commonly used by local
@@ -182,6 +203,8 @@ differ from country to country. The GPL never necessarily intended the
 specific meaning of "distribution" that exists under USA (or any other
 country's) copyright law.
 
+其次，“传播”有助于 GPL 在措辞和效果上的全球化：“衍生作品”实际上并不是当地版权法规常用的唯一术语。 一些国家的版权法规中也使用了诸如“分发”（或英语以外的其他语言中的等效词）之类的术语。 GPLv2 的实践经验揭示了在全球使用的许可证中使用术语“分发”的尴尬：版权上下文中的“分发”范围可能因国家/地区而异。 GPL 未必意指美国（或任何其他国家/地区）版权法下存在的“分发”的特定含义。
+
 Indeed, even within a single country and language, the term
 distribution may be ambiguous; as a legal term of art, distribution
 varies significantly in meaning among those countries that recognize
@@ -193,6 +216,8 @@ of many countries, as well as certain international copyright
 treaties, recognize "making available to the public" or "communication
 to the public" as one of the exclusive rights of copyright holders.
 
+事实上，即使在单一的国家和语言中，术语分布也可能是模棱两可的； 作为一个法律术语，分配在承认它的国家之间的含义差异很大。 例如，GPLv3 起草过程中的评论表明，至少在一个国家/地区，分发可能不包括软件的网络传输，但可能包括组织内物理副本的部门间传输。 同时，许多国家的版权法以及某些国际版权条约都承认“向公众提供”或“向公众传播”是版权人的专有权利之一。
+
 Therefore, the GPLv3 defines the term "propagate" by reference to
 activities that require permission un- der "applicable copyright law",
 but excludes execution and private modification from the definition.
@@ -201,16 +226,25 @@ included within "propagation" but it also makes clear that, under the
 copyright laws of a given country, "propagation" may include other
 activities as well.
 
+因此，GPLv3 通过引用根据“适用版权法”需要许可的活动来定义术语“传播”，但从定义中排除了执行和私人修改。 GPLv3 的定义还给出了可能包含在“传播”范围内的活动示例，但它也明确指出，根据特定国家/地区的版权法，“传播”也可能包括其他活动。
+
 Thus, propagation is defined by behavior, and not by categories drawn
 from some particular national copyright statute. This helps not only
 with internationalization, but also factually-based terminology aids
 in developers' and users' understanding of the GPL.
 
+因此，传播是由行为定义的，而不是由某些特定国家版权法规中的类别定义的。 这不仅有助于国际化，而且基于事实的术语有助于开发人员和用户理解 GPL。
+
 As a further benefit, because "propagation" includes all exclusive
 rights granted under any particular copyright regime, the term
 automatically accounts for all exclusive rights under that regime.
 
+作为进一步的好处，因为“传播”包括任何特定版权制度下授予的所有专有权，该术语自动说明该制度下的所有专有权。
+
+
 ### Convey
+
+### 传达
 
 Next, GPLv3 defines a subset of propagate --- "convey". Conveying
 includes activities that constitute propagation of copies to others.
@@ -220,7 +254,11 @@ propagation that enables other parties to receive or make copies of
 the work, is called "conveying". Usually, conveying is the activity
 that triggers most of the other obligations of GPLv3.
 
+接下来，GPLv3 定义了传播的一个子集——“传达”（convey）。 传送包括构成向他人传播副本的活动。 与传播的定义一样，GPLv3 因此以行为而非法定条款处理软件副本的传输。 使其他方能够接收或复制作品的任何传播都称为“传送”。 通常，传送是触发 GPLv3 的大部分其他义务的活动。
+
 ### Appropriate Legal Notices
+
+### 适当的法律声明
 
 GPLv2 used the term "appropriate copyright notice and disclaimer of
 warranty" in two places, which is a rather bulky term. Also,
@@ -231,7 +269,11 @@ copyright notices. The Appropriate Legal Notice definition
 consolidates the material that GPLv2 traditionally required preserved
 into one definition.
 
+GPLv2 在两处使用了术语“适当的版权声明和免责声明”，这是一个相当庞大的术语。 此外，GPLv2 和其他授予软件自由的许可的经验表明，在整个 1990 年代，需要在传输时保存的通知类型的范围比仅版权通知更广泛。 适当的法律声明定义将 GPLv2 传统上要求保留的材料整合到一个定义中。
+
 ### Other Defined Terms
+
+### 请他术语的定义
 
 Note finally that not all defined terms in GPLv3 appear in GPLv3 0.
 Specifically, those defined terms that are confined in use to a single
@@ -240,7 +282,11 @@ contains those definitions focused on source code. In this tutorial,
 those defined terms are discussed in the section where they are
 defined and/or used.
 
+最后请注意，并不是所有 GPLv3 中定义的术语都出现在 GPLv3 条款〇中。具体来说，那些被限制在单个部分中使用的定义术语在使用它们的部分中定义，而 GPLv3 条款一包含那些专注于源代码的定义。 在本教程中，这些定义的术语将在定义和/或使用它们的部分进行讨论。
+
 ## GPLv3 §1: Understanding CCS
+
+### GPLv3 一：理解CCS
 
 Ensuring that users have the source code to the software they receive
 and the freedom to modify remains the paramount right embodied in the
@@ -250,7 +296,11 @@ Free Software Definition (found in
 contains all the defined terms related to this important software
 freedom.
 
+确保用户拥有他们收到的软件的源代码和修改的自由仍然是自由软件定义（在本教程的 1.1 中找到）中体现的首要权利。 因此，GPLv3 条款一可能是 GPLv3 最重要的部分之一，因为它包含与这一重要软件自由相关的所有定义条款。
+
 ### Source Code Definition
+
+### 源代码的定义
 
 First, GPLv3 1 retains GPLv2's definition of "source code" and adds an
 explicit definition of "object code" as "any non-source version of a
@@ -262,11 +312,19 @@ bytecode or minified Javascript. The definition of object code also
 ensures that licensees cannot escape their obligations under the GPL
 by resorting to shrouded source or obfuscated programming.
 
+首先，GPLv3 条款一保留了 GPLv2 对“源代码”的定义，并将“目标代码”明确定义为“作品的任何非源版本”。 目标代码并不局限于狭义的技术含义，而是广义地理解为包括除对其进行修改的首选形式之外的任何形式的作品。 因此，目标代码包括任何类型的源代码转换版本，例如字节码或缩小的 Javascript。 目标代码的定义还确保被许可人无法通过诉诸隐藏源代码或混淆编程来逃避 GPL 规定的义务。
+
 ### CCS Definition
+
+### CCS的定义
 
 The definition of CCS,[^3^](#_bookmark107) or, as GPLv3 officially
 calls it, "Corresponding Source" in GPLv3 1 4 is possibly the most
 complex definition in the license.
+
+CCS 的定义[^3]，或 GPLv3 官方称之为 GPLv3 条款一 4 中的“对应源”可能是许可证中最复杂的定义。
+
+[^3]:请注意，经常使用 GPLv2 和 GPLv3 的人的首选术语是“Complete Corresponding Source”，缩写为“CCS”。 诚然，“完整”一词不再出现在 GPLv3 中（它使用“全部”一词代替）。 然而，GPLv2 和 GPLv3 的早期草案本身都使用了“完整”一词，而早期的 GPLv3 草案甚至将这一定义术语称为“完整对应源”。 同时，首字母缩略词“CCS”（有时称为“C&CS”）在 GPL 执法者中的使用如此广泛，以至于即使专注于 GPLv3 的专家倾向于只说定义的术语“对应源”，它的使用仍在继续。
 
 The CCS definition is broad so as to protect users' exercise of their
 rights under the GPL. The definition includes particular examples to
@@ -281,6 +339,8 @@ include libraries invoked by the work that can be readily substituted
 by other existing implementations. While copyleft advocates never
 doubted this was required under GPLv2's definition of CCS, GPLv3 makes
 it abundantly clear with an extra example.
+
+CCS 的定义很宽泛，以保护用户行使其在 GPL 下的权利。 该定义包括特定示例，以消除对它们被视为 CCS 的任何疑问。 GPLv3 力求完全清楚地表明，被许可人无法通过将子程序组件动态链接到程序的原始版本来避免遵守 GPL 的要求。 这些示例还阐明了相应源代码中包含的共享库和动态链接的子程序是作品“专门”设计需要的那些，这阐明了它们不包括作品调用的库，这些库可以很容易地被其他人替换 现有的实施。 虽然 Copyleft 倡导者从不怀疑这是 GPLv2 对 CCS 的定义所要求的，但 GPLv3 通过一个额外的例子使其非常清楚。
 
 The GPL, as always, seeks to ensure users are truly in a position to
 install and run their modified versions of the program; the CCS
@@ -297,11 +357,15 @@ comes up in distribution of object code, it is more logical to place
 those requirements with the parts of GPLv3 dealing directly with
 object code distribution).
 
+GPL 一如既往地寻求确保用户真正能够安装和运行他们修改后的程序版本； CCS 定义旨在扩展以确保这种软件自由。 然而，尽管 CCS 的定义很广泛，但在许多情况下不足以保护用户的自由。 例如，GPL 程序或此类程序的修改版本可能会被锁定和限制。 GPLv3 条款六中的要求（在本教程的第 9.9 节中讨论）解决了这个问题。 （GPLv3 的早期草案在 CCS 的定义中包含了这些要求；然而，鉴于锁定问题只出现在目标代码的分发中，将这些要求放在 GPLv3 直接处理目标代码的部分中更为合乎逻辑分配）。
+
 The penultimate paragraph in GPLv3 2 notes that GPLv3's CCS definition
 does not require source that can be automatically generated. Many code
 generators, preprocessors and take source code as input and sometimes
 even have output that is still source code. Source code should always
 be whatever the original programmer preferred to modify.
+
+GPLv3 2 中的倒数第二段指出 GPLv3 的 CCS 定义不需要可以自动生成的源。 许多代码生成器、预处理器和将源代码作为输入，有时甚至输出仍然是源代码。 源代码应该始终是原始程序员喜欢修改的任何内容。
 
 GPLv3 1's final paragraph removes any ambiguity about what should be
 done on source-only distribu- tions. Specifically, the right to convey
@@ -314,18 +378,11 @@ has the right to modify a source code work by deleting any part of it,
 and there can be no requirement that free software source code be a
 whole functioning program.
 
-^3^[]{#_bookmark107 .anchor}Note that the preferred term for those who
-work regularly with both GPLv2 and GPLv3 is "Complete Corresponding
-Source", abbreviated to "CCS". Admittedly, the word "complete" no
-longer appears in GPLv3 (which uses the word "all" instead). However,
-both GPLv2 and the early drafts of GPLv3 itself used the word
-"complete", and early GPLv3 drafts even called this defined term
-"Complete Corresponding Source". Meanwhile, use of the acronym "CCS"
-(sometimes, "C&CS") was so widespread among GPL enforcers that its use
-continues even though GPLv3-focused experts tend to say just the
-defined term of "Corresponding Source".
+GPLv3 条款一的最后一段消除了关于应该在纯源代码发行版上做什么的任何歧义。 具体而言，完全允许传输未编译、无法运行或处于实验性进行中工作的源代码的权利，前提是不传输任何目标代码形式。 事实上，当结合 GPLv3 条款五中的许可时，很明显，如果一个人只传达源代码，就永远不会被要求提供更多。 人们始终有权通过删除源代码作品的任何部分来修改源代码作品，并且可以不要求自由软件源代码是一个完整的功能程序。
 
 ### The System Library Exception
+
+### 系统库例外
 
 The previous section skipped over one part of the CCS definition, the
 so-called system library exception. The "System Libraries" definition
@@ -340,9 +397,10 @@ exception for clarity replacing GPLv2's words "unless that component
 itself accompanies the executable" with "which is not part of the
 Major Component". The goal here is to not require disclosure of source
 code of certain libraries, such as necessary Microsoft Windows DLLs
-(which aren't part of Windows' kernel but accompany it) that are
-
+(which aren't part of Windows' kernel but accompany it) that are 
 required for functioning of copylefted programs compiled for Windows.
+
+上一节跳过了 CCS 定义的一部分，即所谓的系统库异常。 “系统库”定义（以及其中包含的“标准接口”和“主要组件”定义）旨在允许 copyleft 倡导者认为合理的某些分发安排。 系统库例外旨在允许 copylefted 软件与这些库链接，而禁止该链接对软件自由的伤害大于对专有软件的伤害。 系统库异常有两部分。 (a) 部分重写了 GPLv2 例外，以清楚地将 GPLv2 的措辞“除非该组件本身伴随可执行文件”替换为“它不是主要组件的一部分”。 这里的目标是不要求公开某些库的源代码，例如必要的 Microsoft Windows DLL（它们不是 Windows 内核的一部分，但伴随它）是为 Windows 编译的 copylefted 程序运行所必需的。
 
 However, in isolation, (a) would be too permissive, as it would
 sometimes allow distributors to evade important GPL requirements. Part
@@ -353,11 +411,16 @@ adjunct to a major essential operating system component, compiler, or
 interpreter. The more low-level the functionality provided by the
 library, the more likely it is to be qualified for this exception.
 
+但是，单独来看，(a) 过于宽容，因为它有时会允许发行商规避重要的 GPL 要求。 (b) 部分优先于 (a) 部分。 具体来说，(b) 仅指定了系统库可能提供的少数功能，并且仍然符合例外条件。 目标是确保系统库真正附属于主要的基本操作系统组件、编译器或解释器。 库提供的功能越低级，越有可能符合此异常。
+
+
 Admittedly, the system library exception is a frequently discussed
 topic of obsessed GPL theorists. The amount that has been written on
 the system library exception (both the GPLv2 and GPLv3 versions of
 it), if included herein, could easily increase this section of the
 tutorial to a length greater than all the others.
+
+诚然，系统库异常是痴迷于 GPL 的理论家经常讨论的话题。 如果包含在系统库异常（它的 GPLv2 和 GPLv3 版本）上的数量，很容易将本教程的这一部分增加到比其他所有部分都长的长度。
 
 Like any exception to the copyleft requirements of GPL, would-be GPL
 violators frequently look to the system library exception as a
@@ -369,7 +432,11 @@ harder and more strained the reader must study and read the system
 library exception, the more likely it is that the library in question
 does not qualify for it.
 
+与 GPL 的 copyleft 要求的任何例外一样，潜在的 GPL 违反者经常将系统库例外视为潜在的软件自由规避技术。 在考虑一个库是否符合系统库例外条件时，根据本教程作者数十年的 GPL 解释经验，这里有一个实用的论点需要考虑：读者必须越努力、越紧张地学习和阅读系统 library exception，有问题的图书馆越有可能不符合条件。
+
 ## GPLv3 §2: Basic Permissions
+
+### GPLv3 二：基本权利
 
 GPLv3 2 can roughly be considered as an equivalent to GPLv2 0
 (discussed in [3.1](#gplv2-0-freedom-to-run) of this tutorial).
@@ -387,12 +454,18 @@ with, the freedoms
 that the GPL seeks to protect, and the GPL cannot and should not
 restrict them.
 
+GPLv3 条款可以粗略地视为等同于 GPLv2 0（在本教程的 3.1 中讨论）。 但是，这里也可以找到 GPLv3 中常见的改进方式。 例如，GPLv3 条款二的第一句进一步推进了目标国际化。 根据某些国家/地区的版权法，版权许可可能需要包括明确规定授予权利的期限。 在包括美国在内的其他国家，这样的规定是不必要的，但却是允许的。 GPLv3 条款二第1项还承认 GPL 下的被许可人享有版权合理使用权或适用法律下的同等权利。 这些权利与自由相容而不冲突GPL 寻求保护的内容，而 GPL 不能也不应该限制它们。
+
 However, note that (sadly to some copyleft advocates) the unlimited
 freedom to run is confined to the *unmodified* Program. This
 confinement is unfortunately necessary since Programs that do not
 qualify as a User Product in GPLv3 6 (see [9.9.2](#user-products) in
 this tutorial) might have certain unfortunate restrictions on the
 freedom to run.[^4^](#_bookmark110)
+
+然而，请注意（对某些 copyleft 拥护者而言令人遗憾的是）无限的运行自由仅限于未修改的程序。 不幸的是，这种限制是必要的，因为在 GPLv3 条款六中不符合用户产品资格的程序（请参阅本教程中的 9.9.2）可能对运行自由有某些不幸的限制[^4]。
+
+[^4]: 详见本教程的§1.1.1“运行的自由”。
 
 GPLv3 2 2 distinguishes between activities of a licensee that are
 permitted without limitation and activities that trigger additional
@@ -404,6 +477,8 @@ other words, there is no direct analog to the first sentence of GPLv3
 2 2 in GPLv2 (See [5.1.3](#right-to-private-modification) of this
 tutorial for more on this issue.)
 
+GPLv3 条款二第2项区分被许可人允许但不限于的活动和触发额外要求的活动。 具体来说，GPLv3 条款二第2项保证了私下修改和运行程序的基本自由。 虽然这些基本自由通常也被视为 GPLv2 下用户权利的标准部分，但 GPLv3 在此更明确地说明了它们。 换句话说，在 GPLv2 中没有直接模拟 GPLv3 条款二第2项的第一句（有关此问题的更多信息，请参见本教程的 5.1.3。）
+
 Also, GPLv3 2 2 gives an explicit permission for a client to provide a
 copy of its modified software to a contractor exclusively for that
 contractor to modify it further, or run it, on behalf of the client.
@@ -411,21 +486,21 @@ However, the client can *only* exercise this control over its own
 copyrighted changes to the GPL-covered program. The parts of the
 program it obtained from other contributors must be provided to the
 contractor with the usual GPL freedoms. Thus, GPLv3 permits users to
-convey covered works to contractors operating exclusively on
-
-4[]{#_bookmark110 .anchor}See *§* [1.1.1](#the-freedom-to-run) of this
-tutorial for the details on "the freedom to run".
-
-the users' behalf, under the users' direction and control, and to
+convey covered works to contractors operating exclusively on the users' behalf, under the users' direction and control, and to
 require the contractors to keep the users' copyrighted changes
 confidential, but *only if* the contractor is limited to acting on the
 users' behalf (just as the users' employees would have to act).
+
+此外，GPLv3 第二款第2项明确允许客户向承包商提供其修改后软件的副本，专供承包商代表客户进一步修改或运行。 但是，客户只能对其自己对受 GPL 保护的程序的版权更改行使此控制权。 它从其他贡献者那里获得的程序部分必须以通常的 GPL 自由提供给承包商。 因此，GPLv3 允许用户将涵盖的作品传送给专门在代表用户，在用户的指导和控制下，并要求承包商对用户的受版权保护的更改保密，但前提是承包商仅限于代表用户行事（就像用户的员工会行动）。
+
 
 The strict conditions in this "contractors provision" are needed so
 that it cannot be twisted to fit other activities, such as making a
 program available to downstream users or customers. By making the
 limits on this provision very narrow, GPLv3 ensures that, in all other
 cases, contractor gets the full freedoms of the GPL that they deserve.
+
+需要此“承包商条款”中的严格条件，以使其不能被扭曲以适应其他活动，例如向下游用户或客户提供程序。 GPLv3 使这一条款的限制非常狭窄，确保在所有其他情况下，承包商获得他们应得的 GPL 的全部自由。
 
 The FSF was specifically asked to add this "contractors provisions" by
 large enterprise users of Free Software, who often contract with
@@ -435,6 +510,9 @@ with other companies to operate their data centers. Whether GPLv2
 permits these activities is not clear and may depend on variations in
 copyright law in different jurisdictions. The practices seem basically
 harmless, so FSF decided to make it clear they are permitted.
+
+FSF 被自由软件的大型企业用户特别要求添加这个“外包商规定”，他们经常与非雇员开发人员签订合同，在异地工作，进行修改供用户私人或内部使用，并经常与其他公司安排运营他们的数据中心。 GPLv2 是否允许这些活动尚不清楚，可能取决于不同司法管辖区版权法的变化。 这些做法基本上看起来是无害的，因此 FSF 决定明确表示它们是允许的。
+
 
 GPLv3 2's final paragraph includes an explicit prohibition of
 sublicensing. This provision ensures that GPL enforcement is always by
@@ -446,7 +524,11 @@ licensing provision found in GPLv3 *§*10 (which is discussed in more
 detail in *§* [9.13](#gplv3-10-explicit-downstream-license) of this
 tutorial).
 
+GPLv3 第二款的最后一段明确禁止再许可。 此条款确保 GPL 强制执行始终由版权所有者执行。 通常，再许可被认为是被许可人的实际便利或必要，以避免必须与分销链中的每个许可人协商许可。 GPL 以另一种方式解决了这个问题——通过 GPLv3 *§*10 中的自动许可条款（在本教程的第 9.13 节中有更详细的讨论）。
+
 ## GPLv3's views on DRM and Device Lock-Down
+
+## GPLv3 对 DRM 和设备锁定的看法
 
 The issues of DRM, device lock-down and encryption key disclosure were
 the most hotly debated during the GPLv3 process. FSF's views on this
@@ -455,12 +537,17 @@ related to these issues in the earliest drafts of GPLv3 to the final
 version of GPLv3 shows the FSF's willingness to compromise on tactical
 issues to reach the larger goal of software freedom.
 
+DRM、设备锁定和加密密钥泄露等问题是 GPLv3 过程中争论最激烈的问题。 遗憾的是，FSF 对此的看法经常被误解，将 GPLv3 最早草案中与这些问题相关的条款与 GPLv3 的最终版本进行比较，表明 FSF 愿意在战术问题上做出妥协，以实现更大的软件自由目标。
+
 Specifically, GPLv3 introduced provisions that respond to the growing
 practice of distributing GPL- covered programs in devices that employ
 technical means to restrict users from installing and running modified
 versions. This practice thwarts the expectations of developers and
 users alike, because the right to modify is one of the core freedoms
 the GPL is designed to secure.
+
+具体来说，GPLv3 引入了一些条款，以应对越来越多的在设备中分发 GPL 覆盖程序的做法，这些设备采用技术手段来限制用户安装和运行修改版本。 这种做法违背了开发人员和用户的期望，因为修改权是 GPL 旨在保护的核心自由之一。
+
 
 Technological measures to defeat users' rights. These measures are
 often described by such Orwellian phrases, such as "digital rights
@@ -487,6 +574,8 @@ particularly because copylefted software is ever
 more widely embedded in devices that impose technical limitations on
 the user's freedom to change it.
 
+破坏用户权利的技术措施。 这些措施通常用这样的奥威尔式短语来描述，例如“数字版权管理”实际上意味着限制或彻底破坏用户的合法权利，或者“可信计算”实际上意味着向人们出售他们不信任的计算机。 然而，这些措施在一个基本方面是相似的。 他们都采用技术手段将版权法体系（版权持有者的权力是一般自由的有限例外）变成虚拟监狱，凡是未明确允许的事情都被完全禁止。 这种“副版权”系统是在编写 GPLv2 之后很久就创建的——最初是通过美国和欧盟的立法，后来也通过其他司法管辖区的立法。 该立法规定了严重的民事甚至刑事处罚以逃避这些限制（通常被恰当地称为“越狱设备”），即使这样做的目的是恢复用户的合法权利，而该技术错误地阻止了他们 锻炼。 GPLv2 没有解决使用技术措施收回 GPL 授予的权利的问题，因为这些措施在 1991 年不存在，并且与当时向用户交付软件的形式无关。 GPLv3 解决了这些问题，特别是因为 copylefted 软件永远是更广泛地嵌入到对用户更改它的自由施加技术限制的设备中。
+
 However, FSF always made a clear distinction to avoid conflating these
 "lock-down" measures with legitimate applications that give users
 control, as by enabling them to choose higher levels of system or data
@@ -495,12 +584,16 @@ security of their communications using keys they can generate or copy
 to other devices for sending or receiving messages. Such technologies
 present no obstacles to software freedom and the goals of copyleft.
 
+然而，FSF 始终明确区分以避免将这些“锁定”措施与赋予用户控制权的合法应用程序混为一谈，例如通过使他们能够在其网络中选择更高级别的系统或数据安全，或通过允许他们保护使用他们可以生成或复制到其他设备以发送或接收消息的密钥来确保他们的通信安全。 这些技术对软件自由和 copyleft 的目标没有任何障碍。
+
 The public GPLv3 drafting process sought to balance these positions of
 copyleft advocates with various disparate views of the larger
 Free-Software-using community. Ultimately, FSF compromised to the
 GPLv3 3 and GPLv3 6 provisions that, taken together, are a minimalist
 set of terms sufficient to protect the software freedom against the
 threat of invasive para-copyright.
+
+公共 GPLv3 起草过程试图平衡 copyleft 倡导者的这些立场与更大的自由软件使用社区的各种不同观点。 最终，FSF 妥协于 GPLv3 第三款和第六款，这些条款合在一起是一组足以保护软件自由免受侵犯性准版权威胁的极简主义条款。
 
 The compromises made were ultimately quite reasonable. The primary one
 is embodied in GPLv3*§*6's
@@ -514,7 +607,11 @@ lock-down restrictions on users' ability to install modified versions
 of the GPL'd software itself, but again, *only* with regard to User
 Products.
 
+做出的妥协最终是相当合理的。 第一个体现在 GPLv3*§*6 的“用户产品”定义（详见本教程9.9.2）。 此外，一些早期 GPLv3 草案的读者似乎认为 GPLv3 包含对 DRM 的全面禁止； 但事实并非如此。 事实上，GPLv3 的任何部分都没有禁止对非 GPL 作品进行 DRM； 相反，GPLv3 禁止使用 DRM，专门用于锁定限制用户安装 GPL 软件本身的修改版本的能力，但同样仅限于用户产品。
+
 ## GPLv3 §3: What Hath DMCA Wrought
+
+## GPLv3 第三款：DMCA做了什么
 
 As discussed in [1.2.3](#software-and-non-copyright-legal-regimes) of
 this tutorial, [17 USC
@@ -529,6 +626,9 @@ users from being subjected to liability under anti-circumvention law
 for exercising their rights under the GPL, so far as the GPL can do
 so.
 
+如本教程 1.2.3 中所述，17 USC 1201 和相关部[^5]禁止用户规避实施 DRM 的技术措施。 由于这是版权法的一部分，而 GPL 主要是版权许可，而 DMCA 所说的“规避”只是 GPL 下的“修改软件”，因此 GPLv3 必须否认此类反规避条款不适用于 GPLv3 的软件。 GPLv3 第三款保护用户在 GPL 允许的范围内行使他们在 GPL 项下的权利时免于承担反规避法规定的责任。
+
+[^5]:USC 的这些部分通常被称为“数字千年版权法”或“DMCA”，因为这是对 USC 这些部分进行如此修改的法案的名称。
 First, GPLv3 3 1 declares that no GPL'd program is part of an
 effective technological protection measure, regardless of what the
 program does. Early drafts of GPLv3 3 1 referred directly to the DMCA,
@@ -544,6 +644,8 @@ similarly to the anticircumvention provisions of the DMCA in their
 implementation of WIPO. Furthermore, the addition of "or similar laws"
 provides an appropriate catch-all.
 
+首先，GPLv3 第三款第1项声明任何 GPL 程序都不是有效技术保护措施的一部分，无论该程序做什么。 GPLv3 第三款第1项的早期草案直接引用了 DMCA，但最终版本反而包含了对根据 1996 年 WIPO 条约和任何类似法律颁布的反规避法的国际法律引用。 美国境外的律师担心，美国法定参考可能被解读为表明选择将美国法律应用于整个许可。 尽管 FSF 不一定同意该观点，但 FSF 还是决定参考 WIPO 条约而不是 DMCA，因为一些国家的反规避法律在实施中已经（或可能）在结构上更类似于 DMCA 的反规避条款 产权组织。 此外，添加“或类似法律”提供了适当的包罗万象。
+
 GPLv3 3 2 states precisely that a conveying party waives the power to
 forbid circumvention of techno- logical measures only to the extent
 that such circumvention is accomplished through the exercise of GPL
@@ -554,18 +656,26 @@ party rights, as in some cases the conveying party will also be the
 party legally empowered to enforce or invoke rights arising under
 anticircumvention law.
 
+GPLv3 第三款第2项明确指出，仅当这种规避是通过在所传送的作品中行使 GPL 权利来实现时，传送方才放弃禁止规避技术措施的权力。 GPLv3 第三款第2项明确指出，所引用的“合法权利”是根据反规避法产生的具体权利。 并且指的是转让方的权利和第三方的权利，因为在某些情况下，转让方也将是依法有权执行或援引反规避法规定的权利的一方。
+
 These disclaimers by each licensor of any intention to use GPL'd
 software to stringently control access to other copyrighted works
 should effectively prevent any private or public parties from invoking
 DMCA-like laws against users who escape technical restriction measures
 implemented by GPL'd software.
 
+每个许可方的这些关于使用 GPL 软件严格控制对其他受版权保护作品的访问的意图的免责声明应该有效地防止任何私人或公共团体援引类似 DMCA 的法律来对付那些逃避 GPL 软件实施的技术限制措施的用户。
+
 ## GPLv3 §4: Verbatim Copying
+
+## GPLv3 第四款：逐字复制
 
 GPLv3 4 is a revision of GPLv2 1 (as discussed in
 [3.2](#gplv2-1-verbatim-copying) of this tutorial). There are almost
 no changes to this section from the GPLv2 1, other than to use the new
 defined terms.
+
+GPLv3 4 是 GPLv2 1 的修订版（如本教程 3.2 中所述）。 除了使用新定义的术语外，GPLv2 1 的这一部分几乎没有变化。
 
 The only notable change, of "a fee" to "any price or no price", is in
 the first sentence of GPLv3 4 2. The GPLv2 1 1 means that the GPL
@@ -577,10 +687,15 @@ software and/or that the GPL requires downloads to be gratis. Perhaps
 this is because GPLv2 referred to charging a "fee"; the term "fee" is
 generally used in connection with services.
 
+唯一值得注意的变化是 GPLv3 4 2 的第一句中将“收费”改为“任何价格或无价格”。GPLv2 1 1 表示 GPL 允许对软件分发收费。 尽管 copyleft 拥护者努力在 GPLv2 本身和其他文档中解释这一点，但显然仍有一些人认为 GPLv2 允许对服务收费但不允许销售软件副本和/或 GPL 要求免费下载。 也许这是因为 GPLv2 提到了收取“费用”； “费用”一词通常与服务相关。
+
+
 GPLv2's wording also referred to "the physical act of transferring."
 The intention was to distinguish charging for transfers from attempts
 to impose licensing fees on all third parties. "Physical" might be
 read, however, as suggesting "distribution in a physical medium only".
+
+GPLv2 的措辞还提到了“传输的物理行为”。 目的是将转让收费与向所有第三方征收许可费的尝试区分开来。 然而，“物理”可能被解读为暗示“仅在物理介质中分发”。
 
 To address these two issues, GPLv3 says "price" in place of "fee," and
 removes the term "physical." GPLv3 *§*4 has also been revised from its
@@ -590,24 +705,26 @@ corresponding section in GPLv2 in light of the GPLv3 *§*7 (see
 more). Specifically, a distributor of verbatim copies of the program's
 source code must obey any existing additional terms that apply to
 parts of the program pursuant to GPLv3 []{#_bookmark114 .anchor}*§*7.
-In
-
-^5^These sections of the USC are often referred to as the "Digital
-Millennium Copyright Act", or "DMCA", as that was the name of the bill
-that so-modified these sections of the USC.
-
-addition, the distributor is required to keep intact all license
+In addition, the distributor is required to keep intact all license
 notices, including notices of such additional terms.
+
+为了解决这两个问题，GPLv3 用“价格”代替“费用”，并删除了“物理”一词。 GPLv3 *§*4 也根据 GPLv3 *§*7 对 GPLv2 中的相应部分进行了修订（有关更多信息，请参见本教程的第 9.9.3 节）。 具体来说，程序源代码的逐字副本的分发者必须遵守根据 GPLv3 适用于程序部分的任何现有附加条款。此外，经销商必须完整保留所有许可通知，包括此类附加条款的通知。
 
 Finally, there is no harm in explicitly pointing out what ought to be
 obvious: that those who convey GPL-covered software may offer
 commercial services for the support of that software.
 
+最后，明确指出应该显而易见的事情并没有什么害处：那些传送 GPL 软件的人可能会提供商业服务来支持该软件。
+
 ## GPLv3 §5: Modified Source
+
+## GPLv3 第五款：修改源代码
 
 GPLv3 5 is the rewrite of GPLv2 2, which was discussed in
 [5.1](#gplv2-2-share-and-share-alike) of this tutorial. This section
 discusses the changes found in GPLv3 5 compared to GPLv2 2.
+
+GPLv3 5 是 GPLv2 2 的重写，在本教程的 5.1 中讨论过。 本节讨论 GPLv3 5 与 GPLv2 2 相比的变化。
 
 GPLv3 5(a) still requires modified versions be marked with "relevant
 date", but no longer says "the date of any change". The best practice
@@ -618,12 +735,17 @@ program. In particular, the modified files themselves need no longer
 be marked. This reduces administrative burdens for developers of
 modified versions of GPL'd software.
 
+GPLv3 5(a) 仍然要求修改版本标明“relevant date”，但不再写“date of any change”。 最佳做法是包括最新和/或最重要更改的日期以及进行这些更改的人员。 当然，与其 GPLv2 2(a) 相比，GPLv3 5(a) 稍微放宽了对程序变更通知的要求。 特别是，修改后的文件本身不再需要标记。 这减轻了 GPL 软件修改版本开发人员的管理负担。
+
 GPLv3 5(b) is a new but simple provision. GPLv3 5(b) requires that the
 license text itself must be unmodified (except as permitted by GPLv3
 7; see [9.9.3](#gplv3-7-additional-permissions) in this tutorial).
 Furthermore, it removes any perceived conflict between the words "keep
 intact all notices" in GPLv3 4, since operating under GPLv3 5 still
 includes all the requirements of GPLv3 4 by reference.
+
+GPLv3 5(b) 是一项新的但简单的规定。 GPLv3 5(b) 要求许可证文本本身必须未经修改（除非 GPLv3 7 允许；请参阅本教程中的 9.9.3）。 此外，它消除了 GPLv3 4 中“保持所有通知完整”一词之间的任何明显冲突，因为在 GPLv3 5 下运行仍然通过引用包含 GPLv3 4 的所有要求。
+
 
 GPLv3 5(c) is the primary source-code-related copyleft provision of
 GPL. (The object-code-related copy- left provisions are in GPLv3 6,
@@ -633,19 +755,27 @@ applies to the whole of the work. Such was stated already in GPLv2
 2(b), in "in whole or in part", but this simplified wording makes it
 clear it applies to the entire covered work.
 
+GPLv3 第五款 c 项是 GPL 中与源代码相关的主要 copyleft 条款。 （与目标代码相关的版权条款在 GPLv3 第六款中，在本教程的 9.9 中讨论）。 与 GPLv2 2(b) 相比，GPLv3 第五款 c 项声明 GPL 适用于整个作品。 GPLv2 2(b) 中已经以“全部或部分”的形式说明了这一点，但这种简化的措辞清楚地表明它适用于整个涵盖的作品。
+
 Another change in GPLv3 5(c) is the removal of the words "at no
 charge," which was often is misunder- stood upon na¨ıve reading of in
 GPLv2 (b) (as discussed in [5.1.2](#gplv2-2b) of this tutorial).
 
+GPLv3 第五款c项的另一个变化是删除了“免费”一词，这在天真阅读 GPLv2 (b) 时经常被误解（如本教程的 5.1.2 中所述）。
+
 Note that of GPLv2 2's penultimate and ante-penultimate paragraphs are
 now handled adequately by the definitions in GPLv3 0 and as such, have
 no direct analogs in GPLv3.
+
+请注意，GPLv2 第二款的倒数第二个和倒数第二个段落现在已由 GPLv3 第〇款中的定义充分处理，因此，在 GPLv3 中没有直接类似物。
 
 GPLv2 2's final paragraph, however, is reworded and expanded into the
 final paragraph of GPLv3 5, which now also covers issues related to
 copyright compilations (but not compilations into object code ---
 that's in the next section!). The intent and scope is the same as was
 intended in GPLv2.
+
+然而，GPLv2 第二款的最后一段被改写并扩展到 GPLv3 第五款的最后一段，现在还涵盖了与版权编译相关的问题（但不包括编译成目标代码——那是在下一节！）。 意图和范围与 GPLv2 中的意图和范围相同。
 
 ## GPLv3 §6: Non-Source and Corresponding Source
 
