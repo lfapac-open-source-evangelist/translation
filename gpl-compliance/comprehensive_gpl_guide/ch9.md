@@ -629,6 +629,7 @@ so.
 如本教程 1.2.3 中所述，17 USC 1201 和相关部[^5]禁止用户规避实施 DRM 的技术措施。 由于这是版权法的一部分，而 GPL 主要是版权许可，而 DMCA 所说的“规避”只是 GPL 下的“修改软件”，因此 GPLv3 必须否认此类反规避条款不适用于 GPLv3 的软件。 GPLv3 第三款保护用户在 GPL 允许的范围内行使他们在 GPL 项下的权利时免于承担反规避法规定的责任。
 
 [^5]:USC 的这些部分通常被称为“数字千年版权法”或“DMCA”，因为这是对 USC 这些部分进行如此修改的法案的名称。
+
 First, GPLv3 3 1 declares that no GPL'd program is part of an
 effective technological protection measure, regardless of what the
 program does. Early drafts of GPLv3 3 1 referred directly to the DMCA,
@@ -779,6 +780,8 @@ intended in GPLv2.
 
 ## GPLv3 §6: Non-Source and Corresponding Source
 
+## GPLv3 第六款：非源代码和对应源代码
+
 GPLv3 6 states the compliance obligations for distributing "non-source
 forms" of a program (which means any form other than CCS). As noted in
 [9.2,](#gplv3-0-giving-in-on-defined-terms) "object code" in GPLv3 is
@@ -791,6 +794,9 @@ requirement under closely parallels the provisions of [GPLv2
 compliant provisioning easier under contemporary technological
 conditions. Dis- tributors of GPLv3'd object code must provide access
 to the corresponding source code, in one of four specified ways.
+
+GPLv3 第六款规定了分发程序“非源代码形式”（即 CCS 以外的任何形式）的合规义务。 如 9.2 中所述，GPLv3 中的“目标代码”被广泛定义为作品的任何非源版本，因此不仅包括二进制文件或可执行文件，还包括混淆、最小化、压缩或其他非首选形式修改。 因此，GPLv3 第六款澄清并修订了 GPLv2 第三款。事实上，GPLv3 第六款的 CCS 要求与 GPLv2 第三款的规定非常相似，其变化旨在使合规供应在当代技术条件下更容易。 GPLv3 目标代码的分发者必须以四种指定方式之一提供对相应源代码的访问。
+
 
 GPLv3 6(a--b) now apply specifically to distribution of object code in
 a physical product. Physical products include embedded systems, as
@@ -805,6 +811,8 @@ offer. (Note that this is a substantial narrowing of requirements of
 offer fulfillment, and is a wonderful counterexample to dispute claims
 that the GPLv3 has more requirements than GPLv2.)
 
+GPLv3 6(a–b) 现在专门适用于在物理产品中分发目标代码。 物理产品包括嵌入式系统，以及物理软件分发介质，例如 CD。 与 GPLv2 3（在本教程的 5.2 中讨论）一样，目标代码的分发可能伴随着机器可读的源代码，或者它可能伴随着提供机器可读源代码的有效书面报价。 但是，与 GPLv2 不同的是，任何第三方都不能行使该要约； 相反，只有那些“拥有目标代码”的人才能行使要约。 （请注意，这是对要约履行要求的实质性缩小，并且是对 GPLv3 比 GPLv2 有更多要求的说法提出异议的一个很好的反例。）
+
 GPLv3 6(b) further revises the requirements for the written offer to
 provide source code. As before, the offer must remain valid for at
 least three years. In addition, even after three years, a distributor
@@ -817,12 +825,17 @@ appropriate requirement; a distributor should be prepared to provide
 source code if he or she is prepared to provide support for other
 aspects of a physical product.
 
+GPLv3 第六款(b) 进一步修改了对书面报价提供源代码的要求。 和以前一样，要约必须至少保持三年有效。 此外，即使在三年后，包含 GPL 目标代码的产品的分销商也必须提供源代码，只要该分销商还继续为该产品模型提供备件或客户支持。 这是一个合理且适当的要求； 如果分销商准备为物理产品的其他方面提供支持，则他或她应该准备好提供源代码。
+
+
 GPLv3 6(a--b) clarifies that the medium for software interchange on
 which the machine-readable source code is provided must be a durable
 physical medium. GPLv3 6(b)(2), however, permits a distributor to
 instead offer to provide source code from a network server instead,
 which is yet another example GPLv3 looser in its requirements than
 GPLv2 (see [5.2.2](#additional-source-provision-options) for details).
+
+GPLv3 第六款(a–b) 阐明了提供机器可读源代码的软件交换介质必须是耐用的物理介质。 然而，GPLv3 第六款(b)(2) 允许发行商转而提议从网络服务器提供源代码，这是 GPLv3 的要求比 GPLv2 宽松的另一个例子（详见 5.2.2）。
 
 GPLv3 6(c) gives narrower permission than GPLv2 3(c). The "pass along"
 option for GPLv3 6(c)(1) offers is now available only for individual
@@ -832,6 +845,8 @@ cannot comply with the GPL merely by making object code available on a
 publicly-accessible network server accompanied by a copy of the
 written offer to provide source code received from an upstream
 distributor.
+
+GPLv3 第六款（c）提供比 GPLv2 第三款（c）更窄的许可。 GPLv3 第六款（c）(1) 所述的“传递”选项现在仅适用于目标代码的单独分发； 此外，这种个人分发只能“偶尔且非商业性地”发生。 分销商不能仅通过在可公开访问的网络服务器上提供目标代码并附上书面报价的副本以提供从上游分销商收到的源代码来遵守 GPL。
 
 GPLv3 6(d) revises and improves GPLv2 3's final paragraph. When object
 code is provided by offering access to copy the code from a designated
@@ -851,6 +866,9 @@ source code provisioning server, and to ensure that this third-party
 server remains in operation for required period. This codifies
 formally the typical historical interpretation of GPLv2.
 
+GPLv3 第六款(d) 修改并改进了 GPLv2 第三款的最后一段。 当通过提供从指定位置复制代码的访问权限（例如通过启用对网络服务器的电子访问权限）来提供目标代码时，分销商必须仅提供等效的访问权限以“以相同方式通过相同位置”复制源代码 ”。 该措辞还允许分销商在单个网络门户或网页上向第三方提供对目标代码和源代码的访问权限，即使该访问权限可能包含指向不同物理服务器的链接。 例如，下游分销商可以提供到上游分销商服务器的链接，并与该服务器的运营商安排，只要下游分销商能够访问目标代码，就可以保持源代码可供复制。 因此，分发目标代码的一方仍有义务在显着位置（“目标代码下载旁边”）指向第三方源代码供应服务器，并确保该第三方服务器在规定的时间内保持运行。 这正式编纂了 GPLv2 的典型历史解释。
+
+
 Furthermore, under GPLv3 6(d), distributors may charge for the
 conveyed object code; however, those who pay to obtain the object code
 must be given equivalent and gratis access to obtain the CCS. (If
@@ -863,13 +881,20 @@ who has not purchased an object code download under GPLv3 *§*6(d).
 (Note: this does not change nor impact any obligations under GPLv3
 *§*6(b)(2); GPLv3 *§*6(d) is a wholly different provision.)
 
+此外，根据 GPLv3 第六款(d)，分销商可以对传送的目标代码收费； 但是，那些为获得目标代码而付费的人必须获得同等的免费访问权限才能获得 CCS。 （如果分销商免费提供目标代码，分销商必须同样免费提供 CCS。）那些没有从分销商那里获得目标代码的人（可能是因为他们选择不支付目标代码的费用）不在范围之内。 条款; 分销商没有特定义务向未根据 GPLv3 第六款(d) 购买目标代码下载的人提供 CCS。 （注意：这不会改变或影响 GPLv3 第六款(b)(2) 下的任何义务；GPLv3 第六款(d) 是完全不同的规定。）
+
 ### GPLv3 §6(e): Peer-to-Peer Sharing Networks
+
+### GPLv3 第六款e项：点对点共享网络
+
 
 GPLv3 6(e) allows provision of CCS via another server when the binary
 or other non-source form is dis- tributed by peer-to-peer protocols
 such as BitTorrent. Here the requirement is only that each peer be
 effectively informed of the location of the source code on a server as
 above.
+
+当二进制或其他非源代码形式通过对等协议（如 BitTorrent）分发时，GPLv3 第六款(e) 允许通过另一台服务器提供 CCS。 这里的要求只是像上面那样有效地通知每个对等方源代码在服务器上的位置。
 
 GPLv3 really did require this addition, even though it adds complexity
 to a key section of GPL. In particular, Decentralized peer-to-peer
@@ -883,6 +908,8 @@ as transmitters and recipients of blocks of a particular file, but
 they perceive the experience merely as users and receivers, and not as
 distributors in any conventional sense. At any given moment of time,
 most peers will not have the complete file.
+
+GPLv3 确实需要添加这一内容，尽管它增加了 GPL 关键部分的复杂性。 特别是，去中心化点对点文件共享对 GPLv2 和 GPLv3 初始草案中隐含的单向分发视图提出了挑战。 在 BitTorrent 分发中识别上游/下游链接既不简单也不合理； 这种分布是多向的、合作的和（有点）匿名的。 在点对点分发系统中，参与者既充当特定文件块的发送者又充当接收者，但他们仅将体验视为用户和接收者，而不是任何传统意义上的分发者。 在任何给定的时刻，大多数同行都不会拥有完整的文件。
 
 Meanwhile, GPLv3 6(d) permits distribution of a work in object code
 form over a network, provided that the distributor offers equivalent
@@ -901,9 +928,9 @@ transmission time. Third, in current practice, CCS packages themselves
 tend *not* to be transmitted through BitTorrent --- owing to reduced
 demand -- thus, there generally will be too few participants
 downloading the same source package at the same time to enable
-effective seeding and
+effective seeding and distribution.
 
-distribution.
+同时，GPLv3 第六款(d) 允许通过网络以目标代码形式分发作品，前提是分发者提供同等访问权限以“以相同方式通过相同位置”复制相应的源代码。 如果二进制文件与 CCS 打包在一起，则该措辞可能被解释为允许二进制文件的点对点分发，但至少出于三个原因，这种打包是不切实际的。 首先，即使 CCS 与目标代码打包在一起，它也只能在分发过程结束时供非播种对等方使用，但对等方已经向网络中的其他人提供了部分二进制文件。 其次，在实践中，点对点传输形式不太适合分发 CCS。 在大型发行版中，将 CCS 与目标代码打包在一起可能会导致文件大小和传输时间大幅增加。 第三，在目前的实践中，CCS 包本身往往不通过 BitTorrent 传输——由于需求减少——因此，通常同时下载相同源包的参与者太少，无法实现有效的播种和分配。
 
 GPLv3 6(e) addresses these issues. If a licensee conveys such a work
 of object code using peer-to-peer transmission, that licensee is in
@@ -912,18 +939,25 @@ object code and its CCS are publicly available at no charge under
 subsection GPLv3 6(d). The CCS therefore need not be provided through
 the peer-to-peer system that was used for providing the binary.
 
+GPLv3 第六款(e) 解决了这些问题。 如果被许可人使用点对点传输传送此类目标代码作品，如果被许可人根据 GPLv3 6 小节通知其他同行目标代码及其 CCS 是免费公开可用的，则该被许可人符合 GPLv3 第六款（ d). 因此，不需要通过用于提供二进制文件的对等系统来提供 CCS。
+
 Second, GPLv3 9 also clarifies that ancillary propagation of a covered
 work that occurs as part of the process of peer-to-peer file
 transmission does not require acceptance, just as mere receipt and
 execution of the Program does not require acceptance. Such ancillary
 propagation is permitted without limitation or further obligation.
 
+其次，GPLv3 第九款还阐明了作为点对点文件传输过程的一部分发生的涵盖作品的辅助传播不需要接受，就像仅仅接收和执行程序不需要接受一样。 这种辅助传播是允许的，没有限制或进一步的义务。
+
 ### User Products, Installation Information and Device Lock-Down
 
+### 用户产品、安装信息和设备锁定
 As discussed in [9.5](#gplv3s-views-on-drm-and-device-lock-down) of
 this tutorial, GPLv3 seeks to thwart technical measures such as
 signature checks in hardware to prevent modification of GPL'd software
 on a device.
+
+正如本教程 9.5 中所讨论的，GPLv3 试图阻止技术措施，例如硬件中的签名检查，以防止在设备上修改 GPL 软件。
 
 To address this issue, GPLv3 6 requires that parties distributing
 object code provide recipients with the source code through certain
@@ -933,7 +967,13 @@ software on the particular device that included it. (This strategy is
 not unlike that used in LGPLv2.1 to enable users to link proprietary
 programs to modified libraries.)
 
+为了解决这个问题，GPLv3 6 要求分发目标代码的各方通过某种方式向接收者提供源代码。 当这些分销商传递 CCS 时，他们还需要传递在包含它的特定设备上安装修改后的软件所需的任何信息或数据。 （此策略与 LGPLv2.1 中使用的策略没有什么不同，使用户能够将专有程序链接到修改后的库。）
+
+
+
 #### User Products
+
+#### 用户产品
 
 The scope of these requirements is narrow. GPLv3 6 introduces the
 concept of a "User Product", which includes devices that are sold for
@@ -941,10 +981,14 @@ personal, family, or household use. Distributors are only required to
 provide Installation Information when they convey object code in a
 User Product.
 
+这些要求的范围很窄。 GPLv3 6 引入了“用户产品”的概念，其中包括为个人、家庭或家庭使用而销售的设备。 当经销商在用户产品中传送目标代码时，他们只需要提供安装信息。
+
 In brief, the right to convey object code in a defined class of "User
 Products," under certain circumstances, depends on providing whatever
 information is required to enable a recipient to replace the object
 code with a functioning modified version.
+
+简而言之，在某些情况下，在定义的“用户产品”类别中传送目标代码的权利取决于提供使接收者能够使用功能修改版本替换目标代码所需的任何信息。
 
 This was a compromise that was difficult for the FSF to agree to
 during the GPLv3 drafting process. However, companies and governments
@@ -953,6 +997,9 @@ that they actually *want* their systems not to be under their own
 control. Rather than agreeing to this as a concession, or bowing to
 pressure, they ask for this as a *preference*. It is not clear that
 the GPL should interfere here, since the main problem lies elsewhere.
+
+这是 FSF 在 GPLv3 起草过程中难以同意的妥协。 然而，使用专业或企业级计算机设施的公司和政府报告称，他们实际上希望自己的系统不受自己的控制。 他们没有将此作为让步或屈服于压力而同意，而是将此视为一种偏好。 不清楚 GPL 是否应该干预这里，因为主要问题在别处。尽管在任何情况下对修改施加技术障碍都是错误的，但受限设备在当今最实际关注的领域属于用户产品定义。 大多数（如果不是全部）运行受 GPL 保护的程序的技术限制设备都是消费电子设备。 此外，制造商和这些用户之间的影响力悬殊，使得用户很难以其微弱和无组织的市场力量拒绝技术限制。 即使仅限于用户产品，该条款也解决了根本问题。
+
 
 While imposing technical barriers to modification is wrong regardless
 of circumstances, the areas where restricted devices are of the
@@ -963,6 +1010,8 @@ disparity in clout between the manufacturers and these users makes it
 difficult for the users to reject technical restrictions through their
 weak and unorganized market power. Even limited to User Products, this
 provision addresses the fundamental problem.
+
+用户产品定义的核心是根据美国联邦消费者保护法 Magnuson-Moss 保修法改编的“消费品”的子定义，该法案载于 15 USC 2301：“任何通常用于个人、 家庭或家庭目的。” 美国在以有利于消费者权利的方式对此定义进行自由司法和行政解释已有 30 年的经验[^6]。理想情况下，该解释体系[^7]将指导对 GPLv3 6 中消费品子定义的解释，并且 这有望为设备制造商和下游被许可人提供一定程度的法律确定性。
 
 The core of the User Product definition is a subdefinition of
 "consumer product" adapted from the Magnuson-Moss Warranty Act, a
@@ -977,6 +1026,8 @@ consumer product subdefinition in GPLv3 6, and this will hopefully
 provide a degree of legal certainty advantageous to device
 manufacturers and downstream licensees alike.
 
+Magnuson-Moss 下的一个公认的解释原则是解决歧义以支持覆盖。 也就是说，在不清楚产品是否属于消费品定义的情况下，该产品将被视为消费品[^8]。此外，对于给定的产品，“通常使用”被理解为是指 该类型产品的典型用途，而不是特定用途
+
 One well-established interpretive principle under Magnuson-Moss is
 that ambiguities are resolved in favor of coverage. That is, in cases
 where it is not clear whether a product falls under the definition of
@@ -985,17 +1036,11 @@ product.[^8^](#_bookmark122) Moreover, for a given product, "normally
 used" is understood to refer to the typical use of that type of
 product, rather than a particular use by
 
-^6^[]{#_bookmark120 .anchor}The Magnuson-Moss consumer product
-definition itself has been influential in the USA and Canada, having
-been adopted in []{#_bookmark121 .anchor}several state and provincial
-consumer protection laws.
+[^6]:Magnuson-Moss 消费品定义本身在美国和加拿大具有影响力，已被[]{#_bookmark121 .anchor}多个州和省的消费者保护法采纳。
 
-^7^The FSF, however, was very clear that incorporation of such legal
-interpretation was in no way intended to work as a []{#_bookmark122
-.anchor}general choice of USA law for GPLv3.
+[^7]:然而，FSF 非常清楚，纳入此类法律解释绝不是为了作为美国法律对 GPLv3 的一般选择。
 
-816 CFR *§* 700.1(a); *McFadden v. Dryvit Systems, Inc.*, 54 UCC Rep.
-Serv.2d 934 (D. Ore. 2004).
+[^8]:16 CFR § 700.1(a)； McFadden 诉 Dryvit Systems, Inc., 54 UCC Rep. Serv.2d 934 (D. Ore. 2004)。
 
 a particular buyer. Products that are commonly used for personal as
 well as commercial purposes are consumer products, even if the person
@@ -1005,6 +1050,8 @@ for commercial purposes.[^9^](#_bookmark124) Even a small amount of
 treated as a consumer product under
 Magnuson-Moss.[^10^](#_bookmark125)
 
+一个特定的买家。 通常用于个人和商业目的的产品是消费品，即使调用权利的人是打算将产品用于商业目的的商业实体[^9]。即使是少量的“正常”个人使用也足够了 使整个产品线在 Magnuson-Moss 下被视为消费品[^10]。
+
 However, Magnuson-Moss is not a perfect fit because in the area of
 components of dwellings, the settled interpretation under
 Magnuson-Moss is under-inclusive. Depending on how such components are
@@ -1013,6 +1060,8 @@ Magnuson-Moss consumer products.[^11^](#_bookmark126) Therefore, GPLv3
 defines User Products as a superset of consumer products that also
 includes "anything designed or sold for incorporation into a
 dwelling."
+
+然而，Magnuson-Moss 并不是一个完美的选择，因为在住宅的组成部分，Magnuson-Moss 下的固定解释是包容性不足的。 根据此类组件的制造或销售方式，它们可能被视为也可能不被视为 Magnuson-Moss 消费产品[^11]。因此，GPLv3 将用户产品定义为消费产品的超集，其中还包括“任何为公司设计或销售的产品” 住处。”
 
 Thus, the three sentences in the center of GPLv3's User Product
 definition encapsulate the judicial and administrative principles
@@ -1027,17 +1076,25 @@ of substantial non-consumer uses of a product does not negate a
 determination that it is a consumer product, unless such non-consumer
 uses represent the only significant mode of use of that product.
 
+因此，GPLv3 用户产品定义中心的三句话概括了美国过去三十年建立的关于 Magnuson-Moss 消费产品定义的司法和行政原则。 首先，它声明疑似案件的解决有利于定义下的覆盖范围。 其次，它表明消费品定义中的“通常使用”一词是指一类产品的典型或普遍使用，而不是特定用户的状态或特定用户的预期或实际使用。 第三，它明确指出，产品的大量非消费者使用的存在并不能否定它是消费品的决定，除非这种非消费者使用代表了该产品的唯一重要使用方式。
+
 It should be clear from these added sentences that it is the general
 mode of use of a product that determines objectively whether or not it
 is a consumer product. One could not escape the effects of the User
 Products provisions by labeling what is demonstrably a consumer
 product in ways that suggest it is "for professionals", for example.
 
+从这些增加的句子中应该清楚，是产品的一般使用方式客观地决定了它是否是消费品。 例如，通过以表明它是“专业人士”的方式标记明显是消费品的东西，无法逃避用户产品条款的影响。
+
 #### Installation Information
+
+#### 安装信息
 
 With the User Products definition complete, the "Installation
 Information" definition uses that to define what those receiving
 object code inside a User Product must receive.
+
+随着用户产品定义的完成，“安装信息”定义使用它来定义用户产品中那些接收目标代码必须接收的内容。
 
 Installation Information is information that is "required to install
 and execute modified versions of a covered work . . . from a modified
@@ -1063,6 +1120,8 @@ no
 obligation "to continue to provide support service, warranty, or
 updates" for such a work.
 
+安装信息是“安装和执行涵盖作品的修改版本所需的信息”。 . . 来自其“CCS”的修改版本，在传达涵盖工作的同一用户产品中。 GPLv3 提供了关于必须提供多少信息的指南：它“必须足以确保修改后的目标代码的继续运行在任何情况下都不会仅仅因为进行了修改而受到阻止或干扰。” 例如，如果仅仅因为修改的事实（不管修改的实际性质）使修改后的版本仅以禁用方式运行，那么所提供的信息将是不充分的。 信息不需要包含密钥； 安装信息可以是“任何方法、程序、授权密钥或其他信息”。 请注意，GPLv3 没有进一步定义“持续运行”。 但是，GPLv3 确实提供了一些额外的指导，涉及技术受限用户产品的分销商可以针对下游接收者采取的符合 GPLv3 的行动或不行动的范围，后者将所传送的目标代码替换为修改后的版本。 首先，GPLv3 明确了 GPLv3 意味着不为此类作品“继续提供支持服务、保证或更新”的义务。
+
 Second, most technically-restricted User Products are designed to
 communicate across networks. It is important for both users and
 network providers to know when denial of network access to devices
@@ -1074,6 +1133,8 @@ communication across the network". The second case is deliberately
 drawn in general terms, and it serves as a foundation for reasonable
 enforcement policies that respect recipients' right to modify while
 recognizing the legitimate interests of network providers.
+
+其次，大多数受技术限制的用户产品旨在跨网络通信。 对于用户和网络提供商来说，了解拒绝对运行修改版本的设备进行网络访问何时会违反 GPL 非常重要。 GPLv3 允许在两种情况下拒绝访问：“当修改本身对网络的运行产生重大不利影响时”，以及当修改本身“违反了网络通信的规则和协议时”。 第二种情况是故意用笼统的术语来描述的，它是合理执行政策的基础，这些政策尊重接收者的修改权，同时承认网络提供者的合法利益。
 
 ^9^[]{#_bookmark124 .anchor}16 CFR 700.1(a). Numerous court decisions
 interpreting Magnuson-Moss are in accord; see, e.g., *Stroebner
@@ -1097,6 +1158,12 @@ Concerning Review of Interpretations of Magnuson-Moss Warranty Act, 64
 Fed. Reg. 19,700 (April 22, 1999); see also, e.g., *McFadden*, 54
 U.C.C. Rep. Serv.2d at 934.
 
+[^9]:16 美国联邦法规 700.1(a)。 许多解释 Magnuson-Moss 的法院判决是一致的； 参见，例如，Stroebner Motors, Inc. []{#_bookmark125 .anchor}v。 Automobili Lamborghini S.p.A.，459 F. Supp.2d 1028, 1033（D. Hawaii 2006）。
+
+[^10]:Tandy Corp. 诉 Marymac Industries, Inc.，213 U.S.P.Q. 702（S.D. Tex. 1981）。 在本案中，法院得出结论认为 TRS-80 微型计算机是消费品，此类计算机是为各种用户设计和宣传的，[]{#_bookmark126 .anchor}包括小型企业和学校，并且最近才被推广用于 在家里使用。
+
+[^11]:消费者直接从零售商处购买的建筑材料，用于改善或改造现有住宅，属于 Magnuson-Moss 下的消费品，但在 消费者购买住宅的时间不属于消费品。 16 C.F.R. 700.1©–(f)； 联邦贸易委员会，关于审查 Magnuson-Moss 保证法案解释的最终行动，64 Fed。 注册。 19,700（1999 年 4 月 22 日）； 另见，例如，McFadden, 54 U.C.C. Rep. Serv.2d 在 934。
+
 Note that GPLv3 permits the practice of conveying object code in a
 mode not practically susceptible to modification by any party, such as
 code burned in ROM or embedded in silicon. The goal of the
@@ -1108,8 +1175,12 @@ provide Installation Information "does not apply if neither you nor
 any third party retains the ability to install modified object code on
 the User Product".
 
-Finally, GPLv3 6 makes it clear that there is also no requirement to
+请注意，GPLv3 允许以一种实际上不易被任何一方修改的模式传送目标代码，例如在 ROM 中烧录或嵌入硅中的代码。 安装信息要求的目标是确保下游被许可人在设备制造商或某些其他方保留修改权时获得真正的修改权。 因此，GPLv3 第六款的倒数第二段规定，提供安装信息的要求“不适用，如果您或任何第三方都没有保留在用户产品上安装修改后的目标代码的能力”。
+
+Finally, GPLv3 第六款makes it clear that there is also no requirement to
 provide warranty or support for the User Product itself.
+
+请注意，GPLv3 允许以一种实际上不易被任何一方修改的模式传送目标代码，例如在 ROM 中烧录或嵌入硅中的代码。 安装信息要求的目标是确保下游被许可人在设备制造商或某些其他方保留修改权时获得真正的修改权。 因此，GPLv3 第六款的倒数第二段规定，提供安装信息的要求“不适用，如果您或任何第三方都没有保留在用户产品上安装修改后的目标代码的能力”。
 
 ### GPLv3 §7: Additional Permissions
 
