@@ -13,11 +13,10 @@ their online digital identity. Self-sovereign identity (SSI) is a concept that p
 helps increase privacy, security and trust in a technology or organization. SSI is growing in popularity as more online websites and applications implement the 
 practice in their user experience.
 
-我们的数字身份是我们的一部分。 技术在日常生活中变得如此普遍，以至于个人希望并需要能够更好地管理其在线数字身份的能力。 自我主权身份 (SSI) 是一个将用户置于其数字身份中心的概念，让他们能够控制它，这有助于提高隐私、安全性和对技术或组织的信任。 随着越来越多的在线网站和应用程序在其用户体验中实施这种做法，SSI 越来越受欢迎。
+数字身份是我们自身的一部分。科技已经渗透到了我们的日常生活中，人们希望并需要有能力管理好自己的线上数字身份。自我主权身份(SSI)提出了一个概念，将用户置于数字身份中心，使得人们能够控制它，这有助于增加技术或组织的隐私性、安全性和信任度。随着越来越多的在线网站和应用程序在用户体验中采用这种做法，SSI越来越受欢迎。
 
 We want to make it easier for companies to implement SSI for the benefit of their users, so Linux Foundation Training & Certification has announced a new 
-upcoming online training course, [Getting Started with Self-Sovereign Identity (LFS178x)](https://www.edx.org/course/getting-started-with-self-sovereign-identity?utm_medium=partner-marketing&utm_source=affiliate&utm_campaign=linuxfoundation&utm_content=blog-lfs178). The six-to-seven hour course, which will be available to audit for free 
-for 10 weeks on the edX learning platform, provides a solid foundation on SSI with a 360 degree overview of its evolutionary journey, key concepts, standards, 
+upcoming online training course, [Getting Started with Self-Sovereign Identity (LFS178x)](https://www.edx.org/course/getting-started-with-self-sovereign-identity?utm_medium=partner-marketing&utm_source=affiliate&utm_campaign=linuxfoundation&utm_content=blog-lfs178). The six-to-seven hour course, which will be available to audit for free for 10 weeks on the edX learning platform, provides a solid foundation on SSI with a 360 degree overview of its evolutionary journey, key concepts, standards, 
 technological building blocks, use cases, real-world examples and implementation considerations. Pre-enrollment is open now, with course content becoming available 
 on October 5.
 
