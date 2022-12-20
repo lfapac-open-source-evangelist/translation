@@ -1,13 +1,19 @@
 ## Learn the Fundamentals of Self-Sovereign Identity in Free Online Training Course
+## 跟着免费在线培训课程，学习自我主权身份的基础知识
 
-## By Hyperledger September 13, 2022 Blog, Identity
+## By Hyperledger | September 13, 2022 | Blog, Identity
+## 作者：Hyperledger | 时间：2022年9月13日 | 博客，身份
 
-This post originally appeared on the Linux Foundation Training and Certification blog.
+This post originally appeared on the [Linux Foundation Training and Certification blog](https://training.linuxfoundation.org/blog/learn-the-fundamentals-of-self-sovereign-identity-in-free-online-training-course/).
+
+这篇文章最早出现在[Linux基础培训和认证的博客上](https://training.linuxfoundation.org/blog/learn-the-fundamentals-of-self-sovereign-identity-in-free-online-training-course/)。
 
 Our digital identities are part of who we are. Technology has become so pervasive in everyday life that individuals want and need the ability to better manage 
 their online digital identity. Self-sovereign identity (SSI) is a concept that puts users at the center of their digital identity, giving them control over it which 
 helps increase privacy, security and trust in a technology or organization. SSI is growing in popularity as more online websites and applications implement the 
 practice in their user experience.
+
+我们的数字身份是我们的一部分。 技术在日常生活中变得如此普遍，以至于个人希望并需要能够更好地管理其在线数字身份的能力。 自我主权身份 (SSI) 是一个将用户置于其数字身份中心的概念，让他们能够控制它，这有助于提高隐私、安全性和对技术或组织的信任。 随着越来越多的在线网站和应用程序在其用户体验中实施这种做法，SSI 越来越受欢迎。
 
 We want to make it easier for companies to implement SSI for the benefit of their users, so Linux Foundation Training & Certification has announced a new 
 upcoming online training course, [Getting Started with Self-Sovereign Identity (LFS178x)](https://www.edx.org/course/getting-started-with-self-sovereign-identity?utm_medium=partner-marketing&utm_source=affiliate&utm_campaign=linuxfoundation&utm_content=blog-lfs178). The six-to-seven hour course, which will be available to audit for free 
