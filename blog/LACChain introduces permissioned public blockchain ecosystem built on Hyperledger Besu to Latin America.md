@@ -1,6 +1,6 @@
-## ACChain introduces permissioned public blockchain ecosystem built on Hyperledger Besu to Latin America
+## LACChain introduces permissioned public blockchain ecosystem built on Hyperledger Besu to Latin America
 
-## ACChain向拉丁美洲推出基于Hyperledger Besu的许可公链生态系统
+## LACChain向拉丁美洲推出基于Hyperledger Besu的许可公链生态系统
 
 ## By Hyperledger | October 12, 2022 | Blog, Governance, Hyperledger Besu
 
