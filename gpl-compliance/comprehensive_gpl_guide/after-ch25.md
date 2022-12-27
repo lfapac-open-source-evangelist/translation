@@ -78,6 +78,146 @@ licenses.
 
 []{#_bookmark256 .anchor}**APPENDIX B**
 
+# GNU通用公共许可证
+
+第二版，1991年6月
+
+版权所有(C) 1989，1991自由软件基金会
+
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+任何人都可以复制和发布本许可证完整副本，但不允许修改。
+
+## 译者声明
+
+&emsp;This is an unofficial translation of the GNU General Public License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU GPL--only the original English text of the GNU GPL does that. However, we hope that this translation will help Chinese speakers understand the GNU GPL better.
+
+&emsp;&emsp;本译文是GNU通用公共许可协议的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可协议发布的软件的法律声明——只有GNU通用公共许可协议英文原版才具有法律效力。不过我们希望本翻译能够帮助中文读者更好地理解GNU通用公共许可协议。
+
+&emsp;You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
+
+&emsp;&emsp;仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+
+## 序言
+
+&emsp;&emsp;大部分软件的许可证都是被设计为剥夺你分享和修改的自由。相反，GNU通用公共许可证的目的是保护你分享和修改自由软件的自由——确保软件对所有用户都是自由的。本通用公共许可证适用于自由软件基金会的大部分软件以及任何作者承诺使用该许可证的软件（自由软件基金会的其他一些软件受GNU宽松通用许可证的保护）。你也可以将本许可证用于你的程序。
+
+&emsp;&emsp;自由软件，强调的是自由，而不是免费。本通用公共许可证的目的是保证你拥有分发自由软件的自由（如果你愿意还可以为此收费），确保你有收到源代码或者想要获得时拥有获得源代码的自由，确保你想要修改或者在新的自由软件中使用其中代码的自由，并且确保你有知情权。
+
+&emsp;&emsp;为了保护你的权利，我们设置了一些限制以防止其他人否定你的权利或者要求你放弃你的权利。这些限制在你分发或者修改这些软件时会成为你的责任。
+
+&emsp;&emsp;例如，你分发这类软件的副本，无论是免费的或者收费的，你必须授予接收者你拥有的所有权利。你必须保证他们也能收到或者能够获得源代码。并且你也要确保他们也知道他们的权利。
+
+&emsp;&emsp;我们通过两步保护你的权利：(1) 授予软件著作权；(2) 赋予你合法复制、分发和修改软件的权利。
+
+&emsp;&emsp;此外，为了保护每一位作者和我们自己，我们向每个人声明：自由软件是没有任何品质保证的。如果被其他人修改或者转发，我们希望接收者知道他们收到的不是原始版本，因此其他人引入的任何问题不会影响原作者的声誉。
+
+&emsp;&emsp;最后，自由软件还不停地收到软件专利的威胁。我们希望避免自由软件分发者以个人名义获取专利，从而导致自由软件成为私有软件。为了避免这种事情发生，我们明确声明：任何专利必须许可给任何人自由使用或者完全不进行许可。
+
+&emsp;&emsp;以下是复制、分发和修改的具体条款和条件。
+
+## 复制、分发与修改条款和条件
+
+&emsp;&emsp;0、本许可适用于任何著作权所有人在他的程序或作品中在声明在通用许可证发布的程序或作品。“程序”在下文中是指，任何程序或者作品，“程序的衍生作品”是指程序或者衍生作品包含该程序的全部或者部分，无论是逐字复制地或者修改的，或者是翻译成其他语言的。（下文中，翻译属于但不限于修改的范围）。每个被许可人均指“你”。
+
+&emsp;&emsp;除复制、分发、修改之外的其他行为不在本许可范围内。运行软件的行为是不受约束的，软件的输出一般不在本许可范围内，除非它构成了本程序的衍生作品（单独通过运行本软件产生）。具体情况依程序用途而定。
+
+&emsp;&emsp;1、如果你发布每个副本时，在显著的位置包含适当的版权声明和免责声明，包含本许可的全部声明和免责声明，你就可以在任何介质上复制和原文分发你收到的软件的源代码。
+
+&emsp;&emsp;你可以为你实际传播副本的实际行为收取费用，你也可以提供品质保证收取费用。
+
+&emsp;&emsp;2、你可以通过本程序或者其中任意部分，从而构成衍生作品，并在满足条款一以及下列3点要求的前提下复制或者分发修改的作品。
+
+&emsp;&emsp;&emsp;&emsp;  a）你必须在修改后的文件带有醒目的声明，说明你修改的任何文件和日期。
+
+&emsp;&emsp;&emsp;&emsp;  b）你必须将你发布或者发表的整个或者部分，或者依据本程序或者任意部分衍生的作品，全部免费地按照本许可的条款许可给所有第三方。
+
+&emsp;&emsp;&emsp;&emsp;  c）如果修改后的软件在运行时通常以交互的方式读取命令，你必须在让程序进入交互模式时打印或者显示合适的版权声明和免责声明（或者，你也可以提供品质保证），并且告诉用户可以在本约束下分发本软件，告知用户如何查阅本许可（例外：本程序自身是交互方式的但不打印声明，你的衍生作品也不需要打印声明）。
+
+&emsp;&emsp;上述要求对修改后作品的整体有效。如果作品可以独立的部分不是从本软件衍生的，可以合理地将它们作为独立或者另外的作品，进行独立分发，本许可及其条款不适应于它们。但是，当你将它们与本程序的衍生作品一同发布时，分发的作品必须作为一个整体按照本许可条款许可，本许可的授权延伸到全部作品，而无论其任何部分是谁写的。
+
+&emsp;&emsp;因此，本条款的目的不是声明或者争辩你创造的作品的全部权利，而是践行控制本程序衍生作品或者整体作品的分发。
+
+&emsp;&emsp;另外，与本程序或者衍生作品一同存储或者通过同一个介质上分发的其他非本程序的衍生作品不在本许可范围内。
+
+&emsp;&emsp;3、在上述条款一和二约束下，你可以复制或者分发本程序（或根据条款二的衍生作品）的目标代码或者可执行格式分发本程序时，你必须满足下列要求：
+
+&emsp;&emsp;&emsp;&emsp;a）附上完整的、机器可读的源代码，在上述条款一和二约束下，按照常用的软件交换媒介分发。或者
+
+&emsp;&emsp;&emsp;&emsp;  b）附上至少3年有效期的书面报价，向任何第三方，收取不高于你因分发源代码的实际花费的费用。源代码是在上述条款一和二约束下机器可读的完整的源代码，通过常用的软件交换介质分发。或者
+
+&emsp;&emsp;&emsp;&emsp;  c）附上你所收到的源代码的信息（该要求仅适用于非商业性分发，并且仅当你收到程序是目标代码或者可执行格式，同时还要满足本条款b项要求）。
+
+&emsp;&emsp;&emsp;&emsp;  作品的源代码是修改作品的首选格式。对于一个可执行的作品，完整的源代码是指其所有模块的所有源代码、相关接口定义文件、编译和安装所需的脚本。然而，作为例外，分发的源代码不必包括任何通常随运行本软件的目标操作系统的主要组件（编译器、内核等）一同分发的（源代码或者二进制）文件，除非它们是本软件的一部分。
+
+&emsp;&emsp;如果是通过指定访问位置的形式分发可执行文件或者目标代码，那么提供获取源代码副本相同地址也算分发源代码，即使不要求第三方在复制目标代码时复制源代码。
+
+&emsp;&emsp;4、除本许可之外，你不能复制、修改、再许可或者分发本程序。试图进行任何其他形式的复制、修改、再许可或者分发本程序都是无效的，并且本许可授予你的权利自动终止。然而，只要符合本许可条款，从你获得副本的其他人的权利仍然有效。
+
+&emsp;&emsp;5、你没有签署本许可，你也不必接受本许可。而且，此外无人可以授权你修改本程序及其衍生作品。除非你接受本协议，否则这些行为是被法律禁止的。然而，修改或者分发本软件（或基于本软件的任何作品），表明你接受本许可复制、分发或者修改本软件或者基于本软件的条款和条件。
+
+&emsp;&emsp;6、你每次再分发本程序（或本程序的衍生作品）时，接收者自动从原始权利人获得本许可，以复制、分发或者修改本软件。你不能对他们获得的权利引入任何限制。你也没有要求第三方遵循本许可的责任。
+
+&emsp;&emsp;7、如果由于法庭裁决或者专利侵权或者其他原因（不限于专利），使得你面临与本许可冲突的情况（无论由于法庭裁决、协议或者其他），这也不能成为你不遵守许可的理由。如果你不分发本程序，就能满足本许可条款和其他相关要求，你就不要分发本软件。例如，某专利许可不允许直接或者间接从你获得副本的接受者免费再分发本软件，为了同时满足本许可和它的要求，你的唯一做法就是不再分发本软件。
+
+&emsp;&emsp;如果在特定情况下本条款的任何部分无效或者无法实施，本条款的其余部分仍然适用，并且本条款作为整体适用于其他情况。
+
+&emsp;&emsp;本条款的目的不是怂恿你违反任何专利或者其他权利要求，或者与它们抗辩。本条款的目的纯粹是保护自由软件分发系统的完整性，即通过公共许可证来实现。通过一致地应用该分发系统，很多人已经向通过该系统分发的大量软件做出了慷慨的贡献；作者/贡献者也可以决定是否愿意通过其他渠道分发，被授权人无权干涉该决定。
+
+&emsp;&emsp;本条款旨在彻底阐明本许可其他条款所带来的当然后果。
+
+&emsp;&emsp;8、如果本程序的分发和/或使用收到一些国家专利或者著作权的限制，权利人可以在本许可下的软件中明确添加受限的地理范围，以排除那些受限的国家，因此分发仍然可以在其他国家进行。这种情况下，本许可将这些限制纳入许可范围内。
+
+&emsp;&emsp;9、自由软件基金会可能不时发布通用公共许可证的修订版和/或新版本。此类新版本与当前版本精神上相似，但是在描述新问题或者事项上的细节上可能不同。
+
+&emsp;&emsp;每个版本都有一个唯一的版本号。如果软件指定了具体的版本号和“任何后续版本”，你可以选择遵守该版本或者后续版本。如果软件没有指定具体的许可证版本号，你可以选择自由软件基金会发布的任何版本。
+
+&emsp;&emsp;10、如果你希望将本软件的部分并于分发条件不同的其他自由软件，应对书面请求作者的许可。对于自由软件基金会拥有著作权的软件，写信给自由软件基金会。我们有时会例外处理。我们的处理此类事情是有两个目标：保持所有自由软件衍生作品的自由属性以及促进软件共享和重用。
+
+## 免责声明
+
+&emsp;&emsp;11、本软件免费许可，因此在适用法律范围内不提供品质保证。除非另有书面声明，本软件著作权人和/或其他作者按“原样”提供本软件，不提供任何形式的显示的或隐式的品质保证，包括但不限于经济价值和适合特定用途的保证。本软件的全部品质和性能风险均由你承担。如果本软件出现缺陷、你将承担所有必要服务、修复和更正的成本。
+
+&emsp;&emsp;12、在任何情况下，除非适用的法律要求或者署名同意，任何版权方和/或任何按照上述条款修改或/和分发本软件的其他方都不对你的损失负责，包括任何一般的、特殊的、偶发的或者重大损失（包括但不限于因你或者第三方，或操作不当、或无法与其他软件错误协同造成的数据丢失，数据失真、失效），即使那些持有方或者其他人已被告知此类损失的可能性。
+
+&emsp;&emsp;**条款和条件结束**
+
+## 如何将上述条款应用于你的新程序
+
+&emsp;&emsp;如果你开发了一个新程序，并且希望它最大限度地被公众所使用，最好的办法就是将其作为自由软件，使得每个人都可以按照本许可协议分发和修改。
+
+&emsp;&emsp;为此，最安全、最有效的办法是将如下的声明附在每个文件开头，以明确传达免责声明。每个文件应当最少包含一个“版权声明”和一个本协议的完整声明。
+
+&emsp;&emsp;用一行标明程序的名称和作用。
+
+&emsp;&emsp;版权声明（C） 年份  作者姓名
+
+&emsp;&emsp;本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第二版或者后续版本（具体随你）。
+
+&emsp;&emsp;我们希望本程序有用，但是不提供任何保证，甚至不保证它的经济价值或者适合特定目的。具体细节参加GNU通过公共许可证。
+
+&emsp;&emsp;你应当随本程序收到了GNU通用公共许可证的副本，如果没有请致信自由软件基金会：51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+&emsp;&emsp;同时提供你的电子邮件或者纸质邮件地址。
+
+&emsp;&emsp;如果本程序是交互的，让它在交互模式启动前输出如下的简短声明：
+
+&emsp;&emsp;Gnomovision 第69版，版权所有（C）年份 作者姓名
+
+&emsp;&emsp;Gnomovision不提供任何品质保证，输入'show w'查看详情。本软件是自由软件，欢迎你根据许可条件再分发，输入'show c'查看详情。
+
+&emsp;&emsp;假设的命令'show w'和'show c'用于显示通用公共许可证相应的内容。当然，你也可以使用'show w'和'show c'之外的其他命，甚至点击鼠标或者菜单项等任何适合你程序的方式。
+
+&emsp;&emsp;如有必要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。如下例所示：
+
+&emsp;&emsp;Yoyodyne有限公司声明放弃James Hacker所写的'Gnomovision'（编译通过的程序）的版权权益。
+
+&emsp;&emsp;Ty Coon的签名 1989年4月1日
+
+&emsp;&emsp;副总裁 Ty Coon
+
+&emsp;&emsp;本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证。
+
 THE GNU GENERAL PUBLIC LICENSE, VERSION 2
 
 Copyright c
@@ -403,46 +543,6 @@ WITHOUT ANY WAR- RANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307,
-USA.
-
-Also add information on how to contact you by electronic and paper
-mail.
-
-If the program is interactive, make it output a short notice like this
-when it starts in an interactive mode:
-
-Gnomovision version 69, Copyright (C) yyyy name of author
-
-Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type 'show
-w'.
-
-This is Free Software, and you are welcome to redistribute it under
-certain conditions; type 'show c' for details.
-
-The hypothetical commands show w and show c should show the
-appropriate parts of the General Public License. Of course, the
-commands you use may be called something other than show w and show c;
-they could even be mouse-clicks or menu items---whatever suits your
-program.
-
-You should also get your employer (if you work as a programmer) or
-your school, if any, to sign a "copyright disclaimer" for the program,
-if necessary. Here is a sample; alter the names:
-
-Yoyodyne, Inc., hereby disclaims all copyright interest in the program
-'Gnomovision' (which makes passes at compilers) written by James
-Hacker.
-
-signature of Ty Coon, 1 April 1989 Ty Coon, President of Vice
-
-This General Public License does not permit incorporating your program
-into proprietary programs. If your program is a subroutine library,
-you may consider it more useful to permit linking proprietary
-applications with the library. If this is what you want to do, use the
-GNU Library General Public License instead of this License.
 
 []{#_bookmark258 .anchor}**APPENDIX C**
 
