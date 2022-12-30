@@ -235,6 +235,10 @@ One tap mobile
 **注：非LF出版的内容，可以SIG主席、主编、自愿者商议如何出版、排版等。**
 
 # 要求
+
+## 视频版
+[视频版介绍](https://www.bilibili.com/video/BV1dP4y1X7nY/?vd_source=e34ca37ba677f3508df1a64609b84272)
+
 ## 1. 完整
 翻译时，必须把**全部**英文内容翻译成中文。对于正文来说，这很容易做到。但是，正文之外的内容很容易被忽视。
 ### 1.1 图片
@@ -250,7 +254,7 @@ One tap mobile
 ## 3. 格式
 格式的翻译常常被忽视。译文中应该采用与原文相同的格式，例如标题、加粗、颜色等。
 
-[视频版介绍](https://www.bilibili.com/video/BV1dP4y1X7nY/?vd_source=e34ca37ba677f3508df1a64609b84272)
+
 
 # 工具
 
