@@ -1,6 +1,9 @@
 # [#HyperledgerAsia: A Sampling of the Many Hyperledger-Powered Solutions in Action Across Asia](https://www.hyperledger.org/blog/2022/12/20/hyperledgerasia-a-sampling-of-the-many-of-hyperledger-powered-solutions-in-action-across-asia)
 # [#HyperledgerAsia: 亚洲各地正在使用的许多超级账本解决方案的案例](https://www.hyperledger.org/blog/2022/12/20/hyperledgerasia-a-sampling-of-the-many-of-hyperledger-powered-solutions-in-action-across-asia)
 
+By Hyperledger | December 20, 2022 | Blog, Hyperledger Fabric, Hyperledger Iroha
+作者：Hyperledger | 2022 年 12 月 20 日 | 博客，Hyperledger Fabric, Hyperledger Iroha
+
 ![#HyperledgerAsia](https://www.hyperledger.org/wp-content/uploads/2022/12/Hyperledger-Asia-Post-1200-%C3%97-675-px1.jpeg)
 > #HyperledgerAsia
 > A Sampling of the Many Hyperledger-Powered Solutions in Action Across Asia
