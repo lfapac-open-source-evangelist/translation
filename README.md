@@ -250,6 +250,8 @@ One tap mobile
 ## 3. 格式
 格式的翻译常常被忽视。译文中应该采用与原文相同的格式，例如标题、加粗、颜色等。
 
+[视频版介绍](https://www.bilibili.com/video/BV1dP4y1X7nY/?vd_source=e34ca37ba677f3508df1a64609b84272)
+
 # 工具
 
 目前翻译项目使用github作为主要协助工具。你可以通过[github官方文档](https://docs.github.com/en)学习如何使用github。
