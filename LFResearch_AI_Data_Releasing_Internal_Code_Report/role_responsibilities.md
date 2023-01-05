@@ -6,7 +6,7 @@
 | 杨振涛|  |  01.md (Abstract)      | 1 | |
 | 杨振涛 |  |  02.md (Introduction)      | 2 | |
 | 杨振涛 |  |  03.md (Initial investigations)      | 1 | |
-| bingfeng |  |  04.md (Project funding, Legal considerations)      | 3 | |
+| bingfeng,王誓伟 |  |  04.md (Project funding, Legal considerations)      | 3 | |
 |  | zhaozhi |  05.md  (Project branding)     | 3  | |
 | zhaozhi |  |  06.md (Project launch)    | 1 | 11-12|
 | zhaozhi |  |  07.md (Summary of recommended)| 2 | 11-12|
