@@ -18,7 +18,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 孙振华 | Zhenhua Sun   | sunzhh02         | zhenhua-sun| 振华      |            | zhenhua.alan@icloud.com             |
 | 刘洁    | Jie Liu   | arnuojo        | arnuojo| arnuojo     |            | arnuojo@163.com             |
 # SIG例会
-例会采用双周例会形式，分别在月初和月末的周四晚上8点，例如2023年1月19日。会议采用zoom线上形式，会议信息如下。
+例会采用双周例会形式，在每隔一周的周四晚上8点，例如2023年1月19日。会议采用zoom线上形式，会议信息如下。
 
 Topic: LFAPAC Open Source Evangelist - Translation SIG Meeting
 Time: This is a recurring meeting Meet anytime
