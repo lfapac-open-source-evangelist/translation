@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Hong_Kong
+X-LIC-LOCATION:Asia/Hong_Kong
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:HKT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Hong_Kong:20230119T200000
+DTEND;TZID=Asia/Hong_Kong:20230119T210000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231231T155959Z;INTERVAL=2;BYDAY=TH
+DTSTAMP:20230112T040351Z
+ORGANIZER;CN=mcheung@linux.com:mailto:mcheung@linux.com
+UID:1lkhofeaa5sg1raohbcffnfp10@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=osevangelist@apac.linux.com;X-NUM-GUESTS=0:mailto:osevangelist@apac
+ .linux.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mcheung@linux.com;X-NUM-GUESTS=0:mailto:mcheung@linux.com
+X-MICROSOFT-CDO-OWNERAPPTID:1551586153
+CREATED:20230112T040349Z
+DESCRIPTION:Maggie Cheung is inviting you to a scheduled Zoom meeting.<br><
+ br>Topic: LFAPAC Open Source Evangelist - Translation SIG Meeting<br><br>Jo
+ in Zoom Meeting<br><a href="https://zoom.us/j/96925638178">https://zoom.us/
+ j/96925638178</a><br><br>Meeting ID: 969 2563 8178<br>One tap mobile<br>+86
+ 1053876330\,\,96925638178# China<br>+861087833177\,\,96925638178# China<br>
+ <br>Dial by your location<br>        +86 10 5387 6330 China<br>        +86 
+ 10 8783 3177 China<br>        400 669 9381 China Toll-free<br>        400 1
+ 82 3168 China Toll-free<br>        400 616 8835 China Toll-free<br>        
+ +852 5808 6088 Hong Kong SAR<br>        +852 5803 3730 Hong Kong SAR<br>   
+      +852 5803 3731 Hong Kong SAR<br>        800 931 645 Hong Kong SAR Toll
+ -free<br>        800 906 780 Hong Kong SAR Toll-free<br>        800 931 189
+  Hong Kong SAR Toll-free<br>Meeting ID: 969 2563 8178
+LAST-MODIFIED:20230112T040349Z
+LOCATION:https://zoom.us/j/96925638178
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LFAPAC Open Source Evangelist - Translation SIG Meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
