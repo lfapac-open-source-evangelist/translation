@@ -31,7 +31,11 @@ One tap mobile
 +861053876330,,96925638178# China
 +861087833177,,96925638178# China
 
-会议记录：[LFAPAC 开源布道者译道师会议记录](https://docs.qq.com/doc/DVWtzWE9vakxTYUdj)
+你也可以将Google Calendar的[邀请 Invite.ics](./attachments/invite.ics)导入自己的Google日历。
+
+会议记录：
+- 2023年[LF APAC 译道师会议记录](https://docs.qq.com/doc/DVVRMVklrWU9LUElV)
+- 2022年[LFAPAC 开源布道者译道师会议记录](https://docs.qq.com/doc/DVWtzWE9vakxTYUdj)
 # 志愿者招募
 本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
 联系人：赵振华 微信ID：richzhao
@@ -191,6 +195,7 @@ One tap mobile
 | 8 |[LACChain向拉丁美洲推出基于Hyperledger Besu的许可公链生态系统](https://mp.weixin.qq.com/s/O6mmWKQ1d-dFJEdYqZ2UYw)|王永雷| |2022-12-21|
 | 9 |[跟着免费在线培训课程，学习自我主权身份的基础知识](https://mp.weixin.qq.com/s/p8eIs3wQJsDployjR5Yp3A)|皮冰锋| |2022-12-21|
 | 10 |[声明 Hyperledger AnonCreds：开源，开放规范，保护隐私的可验证凭证](https://mp.weixin.qq.com/s/dsOKD1TQe-K_ESnMgT95Qg)|皮冰锋| |2022-12-21|
+| 11 |[HyperledgerAsia: 亚洲各地正在使用的许多超级账本解决方案的案例](https://mp.weixin.qq.com/s/RWEbhsMEb2xaLtQ7a0YeBQ)|李昌华| 赵振华 |2023-01-06|
 
 
 # 术语
