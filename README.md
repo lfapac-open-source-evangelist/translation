@@ -103,21 +103,10 @@ One tap mobile
 |  |  |  08.md (Ongoing support, endnotes)| 1 | |
 |  |  |  09.md (Conclusion to end)| 3 | |
 
-## 4. Address Cybersecurity Challenges in OSS 
+## 4. [Address Cybersecurity Challenges in OSS ](https://github.com/lfapac-open-source-evangelist/translation/tree/main/addressing-cybersecurity-challenges-in-oss)
 
-[addressing-cybersecurity-challenges-in-oss](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md)
+[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md)
 
-
-| 翻译 | 校对  |  任务                                                               | 页（英文原版） |
-| ----| -- | ---------------------------------------------------------------- | ------- |
-|  |   |  |                                                              |         |
-| |   |  00.md (Cover, Infographic)| 3 |
-|  |  |  01.md (Introduction)      | 2 |
-|  |  |  02.md (Open Source Software Security Perspectives)      | 11 |
-|  |  |  03.md (How Organizations are addressing and proiritizing their cybersecurity needs)      | 8 |
-|  | |  04.md  (The IT industry must take a more active role to improve OSS security and sustainability)     | 5  |
-| |  |  05.md (Conclusions and recommendations)    | 2 | 
-| |  |  06.md (Methodology to end)| 4 | 
 
 # 译道师作品集 
 
