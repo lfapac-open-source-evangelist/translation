@@ -43,11 +43,11 @@ One tap mobile
 # 待认领翻译任务 
 ## 1. [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](./attachments/comprehensive-gpl-guide.pdf)
 
-[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/role_responsibilities.md)
+[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/comprehensive_gpl_guide/role_responsibilities.md)
 
 ## 2. [GNU General Public License: A Comprehensive Tutorial and Guide](./attachments/Practical_GPL_Compliance_Digital.pdf)
 
-[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/role_responsibilities.md)
+[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/practical_gpl_compliance/role_responsibilities.md)
 
 ## 3. [Releasing Internal Code ](./attachments/LFResearch_AI_Data_Releasing_Internal_Code_Report.pdf)
 
