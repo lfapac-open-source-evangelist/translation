@@ -45,17 +45,15 @@ The standard Android software development kit as shipped by Google comes with a 
 
 These directories often contain a variety of prebuilt tools or even Linux kernel images that may be without obviously placed corresponding source code or written offer. Frequently there is a file called "PREBUILT" in the directory that also contains the binaries. This file points to source code and sometimes also contains more detailed build instructions. As an example (from an earlier version of Android, for the ccache tool):
 
-这些目录通常包含各种预编译的工具，甚至是Linux内核镜像，在它们里面可能没有放置相应的源代码或提供者的文字信息。通常在目录中有一个名为“PREBUILT”的文件也包含二进制文件。 该文件指向源代码，有时还包含更详细的构建说明。 作为示例（来自早期版本的 Android，用于 ccache 工具）：
+这些目录通常包含各种预编译的工具，甚至是Linux内核镜像，在它们里面可能没有放置相应的源代码或提供者的相关信息。在目录中通常有一个名为“PREBUILT”的文件也包含二进制文件。该文件指向源代码，有时还包含更详细的构建说明。作为示例（来自早期的安卓版本，用于ccache工具）：
 
-The objects in this prebuilt directory can be rebuilt using the source
-archive
+The objects in this prebuilt directory can be rebuilt using the source archive ccache-2.4-android-20070905.tar.gz hosted at [\<http://android.kernel.org/pub/\.](http://android.kernel.org/pub/)
 
-ccache-2.4-android-20070905.tar.gz hosted at
-[\<http://android.kernel.org/pub/\.](http://android.kernel.org/pub/)
+可以使用托管在[\<http://android.kernel.org/pub/\.](http://android.kernel.org/pub/)的源存档文件ccache-2.4-android-20070905.tar.gz 重构此预编译目录中的文件内容。
 
-It should be noted that these particular instructions may not be good
-enough to result in GPL compliance for chipset manufacturers, ODMs,
-and their downstream recipients, for a number of reasons:
+It should be noted that these particular instructions may not be good enough to result in GPL compliance for chipset manufacturers, ODMs, and their downstream recipients, for a number of reasons:
+
+需要注意的是，这些特定的指令可能不足以使芯片组制造商、ODM及其下游接收者遵守GPL协议，原因有很多：
 
 1.  This method does not produce a valid written offer, according to
     GPLv2 section 3b. While they arguably cover the originator of the
