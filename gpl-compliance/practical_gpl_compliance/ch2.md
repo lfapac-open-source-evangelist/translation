@@ -28,29 +28,24 @@ Another consideration is that for embedded Linux, the toolchain is a necessary c
 另一个考虑因素是，对于嵌入式Linux系统，工具链是重构二进制文件的必要组件。嵌入式Linux设备的CPU与普通PC不同。普通PC使用的是基于x86或x86-64架构的Intel或AMD芯片，而嵌入式设备通常使用ARM、MIPS或PowerPC芯片（也可以发现有其他芯片架构）构建而成。这些平台的二进制文件由号称的“交叉编译器”生成，该编译器在普通的PC上运行，但输出用于不同平台（如MIPS或ARM）的代码。构建一个可运行的交叉编译器是一项非常重要的任务；如果没有源代码和如何重构交叉编译器的确切描述（包括使用的脚本或是手动安装说明），将很难配置正确，重构成功。
 
 ## Pitfall #2: Android and Embedded Devices
+## 陷阱#2： 安卓和嵌入式设备
 
-Systems that are either running Android or that borrow heavily from
-Android, may have a few common pitfalls.
+Systems that are either running Android or that borrow heavily from Android, may have a few common pitfalls.
+
+运行安卓系统或与安卓类似的系统可能会遇到一些常见的缺陷。
 
 #### Android prebuilt tools
+#### 安卓预编译工具包
 
-The standard Android software development kit as shipped by Google
-comes with a large number of tools that are prebuilt for various
-platforms, such as Linux, Darwin, and Microsoft Windows, and even
-Linux kernel images for QEMU. Many of these tools are licensed under
-GPL or LGPL, such as GCC and binutils, cmake, gdb, and many others.
-These files can easily be identified by looking for directories that
-contain "prebuilt":
+The standard Android software development kit as shipped by Google comes with a large number of tools that are prebuilt for various platforms, such as Linux, Darwin, and Microsoft Windows, and even Linux kernel images for QEMU. Many of these tools are licensed under GPL or LGPL, such as GCC and binutils, cmake, gdb, and many others. These files can easily be identified by looking for directories that contain "prebuilt":
+
+谷歌发布的标准安卓软件开发工具包，附带了大量为各种平台预编译的工具，例如Linux、Darwin和Microsoft Windows，甚至还有用于QEMU的Linux内核镜像。这些工具中有许多是GPL或LGPL许可的，例如GCC和binutils、cmake、gdb等。通过查找包含“prebuilt”的目录，可以轻松找到这些文件：
 
 \$ find -d /path/to/android/sdk \| grep prebuilt
 
-These directories often contain a variety of prebuilt tools or even
-Linux kernel images that may be without obviously placed corresponding
-source code or written offer. Frequently there is a file called
-"PREBUILT" in the directory that also contains the binaries. This file
-points to source code and sometimes also contains more detailed build
-instructions. As an example (from an earlier version of Android, for
-the ccache tool):
+These directories often contain a variety of prebuilt tools or even Linux kernel images that may be without obviously placed corresponding source code or written offer. Frequently there is a file called "PREBUILT" in the directory that also contains the binaries. This file points to source code and sometimes also contains more detailed build instructions. As an example (from an earlier version of Android, for the ccache tool):
+
+这些目录通常包含各种预编译的工具，甚至是Linux内核镜像，在它们里面可能没有放置相应的源代码或提供者的文字信息。通常在目录中有一个名为“PREBUILT”的文件也包含二进制文件。 该文件指向源代码，有时还包含更详细的构建说明。 作为示例（来自早期版本的 Android，用于 ccache 工具）：
 
 The objects in this prebuilt directory can be rebuilt using the source
 archive
