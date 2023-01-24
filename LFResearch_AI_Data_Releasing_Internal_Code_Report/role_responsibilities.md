@@ -10,6 +10,5 @@
 |  | zhaozhi |  05.md  (Project branding)     | 3  | |
 | zhaozhi |  |  06.md (Project launch)    | 1 | 11-12|
 | zhaozhi |  |  07.md (Summary of recommended)| 2 | 11-12|
-|  |  |  08.md (Ongoing support, endnotes)| 1 | |
-|  |  |  09.md (Conclusion to end)| 3 | |
-
+| 周黎 |  |  08.md (Ongoing support, endnotes)| 1 | |
+| 周黎 |  |  09.md (Conclusion to end)| 3 | |
