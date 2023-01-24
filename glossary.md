@@ -3,21 +3,43 @@
 ## 通用
 
 ### Community
+
 社区
 
 ### Open Source Program Office
+
 开源办公室
 
+目前国内大部分公司都称其开源管理部门为开源办公室，因此采用此翻译。
+
 ### Innovators
+
 创新者
 
 ### Early Adopters
+
 试用者
 
 ### Procrastinator
+
 保守者
 
 ## 安全
 
 ### SBOM
+
 Software Bill of Materials, 软件材料清单
+
+## 合规
+
+### enforcement actions
+
+强制执行
+
+### Copyright
+
+著作权
+
+### Copyleft
+
+著佐权
