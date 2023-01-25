@@ -128,84 +128,79 @@ Linux内核许可文件有时是错误的，因为Google使用了预构建Linux�
 [b463fcde80f5615b3fe6891b8b78c010ec8cd37b](https://android.googlesource.com/platform/build/%2B/b463fcde80f5615b3fe6891b8b78c010ec8cd37b)**
 
 ## Pitfall #3: "Out of tree" Linux Kernel Modules
+## 陷阱#3：“外部的”Linux内核模块
 
-Many vendors ship Linux kernel modules that add functionality that is
-not provided by the standard Linux kernel, or that is not yet present
-in the version shipped for the device, such as support for certain
-hardware, firewalling modules, new security features, etc. Linux
-kernel modules for the 2.6 and later releases have the ".ko"
-extension. Kernel modules for the 2.4 and older kernel often have the
-extension ".o" (but that could also be used for regular object files).
+Many vendors ship Linux kernel modules that add functionality that is not provided by the standard Linux kernel, or that is not yet present in the version shipped for the device, such as support for certain hardware, firewalling modules, new security features, etc. Linux kernel modules for the 2.6 and later releases have the ".ko"
+extension. Kernel modules for the 2.4 and older kernel often have the extension ".o" (but that could also be used for regular object files).
 
-For these so-called "out of tree" kernel modules, it is important to
-find out which license they are under and if there is complete and
-corresponding source code.
+许多供应商发布的Linux内核模块添加了标准的Linux内核未提供的功能，或者设备所提供的版本中尚不存在的功能，例如对某些硬件的支持、防火墙模块、新的安全功能等。Linux2.6及更高版本的内核模块通常具有“.ko”扩展名。2.4和更早版本的内核模块通常具有“.o”扩展名（但也可用于常规目标文件）。
 
-Linux kernel modules can contain several fields that detail things
-such as the author and a description, but also a license field. An
+For these so-called "out of tree" kernel modules, it is important to find out which license they are under and if there is complete and corresponding source code.
 
-example from Linux kernel 4.5. (file "drivers/clk/clk-pwm.c") looks
-like this:
+对于这些所谓的“外部的”内核模块，重要的是要弄清楚它们使用的哪个许可证，以及是否有完整的对应源代码。
+
+Linux kernel modules can contain several fields that detail things such as the author and a description, but also a license field. An example from Linux kernel 4.5. (file "drivers/clk/clk-pwm.c") looks like this:
+
+Linux内核模块可以包含多个详细的信息字段，比如作者和文件描述等，还有一个许可证字段。以Linux内核4.5为例，其（文件“drivers/clk/clk-pwm.c”）格式如下：
 
 MODULE_AUTHOR("Philipp Zabel
 
 [\<p.zabel@pengutronix.de\");](mailto:p.zabel@pengutronix.de)
-MODULE_DESCRIPTION("PWM clock driver"); MODULE_LICENSE("GPL");
 
-These fields are then included in the kernel module binary when
+MODULE_DESCRIPTION("PWM clock driver"); 
 
-it is built. They can later be extracted from the binary either by
-using the "modinfo" tool (preferred) or manually (as recent versions
-of "modinfo" no longer support the format for Linux kernel 2.4 or
-older). The important fields to look at are the author field and the
-license field. The author field usually indicates the copyright
-holders of the specific code being reviewed. The license field could
-indicate the possible license of a file. This field is quite
-important, as certain pieces of functionality in the Linux kernel can
-only be used by modules that have explicitly declared that they are
+MODULE_LICENSE("GPL");
+
+These fields are then included in the kernel module binary when it is built. They can later be extracted from the binary either by using the "modinfo" tool (preferred) or manually (as recent versions of "modinfo" no longer support the format for Linux kernel 2.4 or older). The important fields to look at are the author field and the
+license field. The author field usually indicates the copyright holders of the specific code being reviewed. The license field could indicate the possible license of a file. This field is quite important, as certain pieces of functionality in the Linux kernel can only be used by modules that have explicitly declared that they are
 GPL-licensed.
 
-It also happens that kernel modules are distributed in a firmware or
-source code archive, but they are not used, because they are never
-loaded by the operating system, either because there are no programs
-to load them, or because the operating system does not allow it (it
-may be a different version or even a completely different
-architecture). Finding out if a module is used is outside of the scope
-of this book.
+在构建内核模块二进制文件时，这些信息将包含在其中。之后可以使用“modinfo”工具（首选）或手动从二进制文件中提取它们（因为“modinfo”的最新版本不再支持Linux内核2.4或更高级的版本）。主要查看作者字段和许可证字段。作者字段通常表示审查当前代码的版权所有者。许可证字段可以指示文件的可能许可证。这个字段非常重要，因为Linux内核中的某些功能只能由明确声明为GPL许可的模块使用。
+
+It also happens that kernel modules are distributed in a firmware or source code archive, but they are not used, because they are never loaded by the operating system, either because there are no programs to load them, or because the operating system does not allow it (it may be a different version or even a completely different
+architecture). Finding out if a module is used is outside of the scope of this book.
+
+还有一种情况是，内核模块分布在固件或源代码存档文件中，但未被使用过，因为操作系统从未加载过它们，要么是因为没有程序需要加载它们，要么是因为操作系统不允许（它可能是不同的版本，甚至是完全不同的体系结构）。确定一个模块是否被使用已经超出了本书的范围。
 
 #### Extracting License and Author Fields from a Kernel Module
+#### 从内核模块中提取许可证及作者信息
 
-The license field can be extracted from a Linux kernel module using
-the modinfo tool:
+The license field can be extracted from a Linux kernel module using the modinfo tool:
+
+使用以下的modinfo工具，可以从Linux内核模块中提取许可证字段：
 
 \$ modinfo -l /path/to/kernel/module
 
 Similarly, the author field can be extracted using:
 
+类似地，可以通过以下方式提取作者字段：
+
 \$ modinfo -a /path/to/kernel/module
 
-Note: Recent versions of the modinfo program no longer have support
-for kernel modules for Linux kernel 2.4.X and earlier (using the ".o"
-extension). For those modules, you can use the "strings" command
-instead:
+Note: Recent versions of the modinfo program no longer have support for kernel modules for Linux kernel 2.4.X and earlier (using the ".o" extension). For those modules, you can use the "strings" command instead:
+
+注意：最新版本的modinfo程序不再支持Linux内核2.4.X及更早版本的内核模块（使用“.o”扩展名）。对于这些模块，可以改用“strings”命令：
 
 \$ strings /path/to/kernel/module \| grep -i license
 
 #### Extracting Version and Architecture Fields from a Kernel Module
+#### 从内核模块中提取版本及体系结构信息
 
-Similarly to the license field, the version and architecture
-information can easily be retrieved from a Linux kernel module:
+Similarly to the license field, the version and architecture information can easily be retrieved from a Linux kernel module:
+
+与许可证字段类似，可以从Linux内核模块轻松地提取版本和体系结构信息：
 
 \$ modinfo /path/to/kernel/module \| grep \^vermagic
 
-For 2.4.X and earlier, the version can be extracted as follows
-(because the modinfo tool on recent Linux distributions no longer can
-process modules for 2.4 or earlier):
+For 2.4.X and earlier, the version can be extracted as follows (because the modinfo tool on recent Linux distributions no longer can process modules for 2.4 or earlier):
+
+对于2.4.X及更早的版本，可以按如下的方式提取版本信息（因为最近Linux发行版上的modinfo工具不再能够处理2.4或更早版本的模块）：
 
 \$ strings /path/to/kernel/module \| grep kernel\_ version
 
-The architecture can be retrieved using different means, such as the
-"file" command:
+The architecture can be retrieved using different means, such as the "file" command:
+
+体系结构信息可以用不同的方法提取出来，比如“file”命令：
 
 \$ file /path/to/kernel/module
 
