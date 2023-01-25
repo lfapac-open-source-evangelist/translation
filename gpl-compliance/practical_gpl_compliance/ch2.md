@@ -205,37 +205,21 @@ The architecture can be retrieved using different means, such as the "file" comm
 \$ file /path/to/kernel/module
 
 ## Pitfall #4: Rescue Mode/Install Mode Systems
+## 陷阱#4：修复模式/安装系统模式
 
-Quite a few embedded Linux devices have a special mode that is used
-only for system recovery (rescue mode) or when installing a new
-firmware. This is done by booting a different Linux kernel from a
-different partition on the flash memory. These rescue partitions are
-often not updated when a new firmware is released and are simply
-forgotten. However, for compliance, it is very important to have the
-complete and corresponding source code for all of the different Linux
-systems that are used on a device or while updating a firmware.
+Quite a few embedded Linux devices have a special mode that is used only for system recovery (rescue mode) or when installing a new firmware. This is done by booting a different Linux kernel from a different partition on the flash memory. These rescue partitions are often not updated when a new firmware is released and are simply
+forgotten. However, for compliance, it is very important to have the complete and corresponding source code for all of the different Linux systems that are used on a device or while updating a firmware.
 
-These rescue partitions tend to have different contents than other
-partitions. It is very common to see that both the rescue partition
-and the normal one have a copy of BusyBox, but with a different size
-and set of tools integrated. This means that they were built with
-different configurations. It is also not uncommon to see that a
-different Linux kernel (older version, known to work) has been used,
-but that the source code releases have the source code only for the
-Linux kernel that is booted in normal operation. There have also been
-instances where the C library was different (uClibc in the rescue
-partition, glibc in the normal partition, and so on).
+很多的嵌入式Linux设备有一种特殊模式，仅用于系统恢复（修复模式）或安装新固件时使用。这是通过从闪存上的不同分区启动不同的Linux内核来完成的。当发布新固件时，这些救援分区通常被遗忘了，不会被更新。然而为了合规性，在设备上安装不同的Linux系统，或更新固件的系统时，为这些系统提供完整且相应的源代码是非常重要的。
 
-It also happens that a separate version of Linux is booted only to
-perform the installation of a new firmware, and that version is
-embedded in the firmware update itself and is not on the device. Or,
-it could be that there are three different instances of Linux involved
-in one single firmware update: a temporary Linux booted when
-performing the update, a different version when writing a rescue
-partition, as well as a third version for the regular partition. It is
-important to look at everything that is installed or used at
-installation time: The device and the firmware update are both
-important.
+These rescue partitions tend to have different contents than other partitions. It is very common to see that both the rescue partition and the normal one have a copy of BusyBox, but with a different size and set of tools integrated. This means that they were built with different configurations. It is also not uncommon to see that a
+different Linux kernel (older version, known to work) has been used, but that the source code releases have the source code only for the Linux kernel that is booted in normal operation. There have also been instances where the C library was different (uClibc in the rescue partition, glibc in the normal partition, and so on).
+
+这些救援分区的内容与其他分区往往不同。通常救援分区和普通分区都有一个BusyBox的副本，但具有不同的文件大小，并集成了不同的工具集。这意味着它们是用不同的配置构建的。通常它们也使用了不同的Linux内核（旧版本，已知有效），但只有正常启动下的Linux内核版本才包含源代码文件。也有一些C库不同的例子（如恢复分区中的uClibc，普通分区中的glibc等）。
+
+It also happens that a separate version of Linux is booted only to perform the installation of a new firmware, and that version is embedded in the firmware update itself and is not on the device. Or, it could be that there are three different instances of Linux involved in one single firmware update: a temporary Linux booted when performing the update, a different version when writing a rescue partition, as well as a third version for the regular partition. It is important to look at everything that is installed or used at installation time: The device and the firmware update are both important.
+
+另一种情况是，启动一个独立的Linux版本仅用于新固件的安装，而该版本嵌入在固件更新本身，不在设备上。还有一种情况，一次固件更新可能涉及三个不同的Linux实例：执行更新时启动一个临时的Linux，写入救援分区时使用一个不同的实例，以及常规分区使用的第三个实例。重要的是在安装时，要查看安装或使用的所有内容，包括设备和固件更新，它们都很重要。
 
 ## Pitfall #5: Bootloader
 
