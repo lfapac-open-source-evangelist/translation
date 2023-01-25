@@ -17,7 +17,7 @@ DOUGLAS ADAMS
 
 One component that is essential for doing a rebuild is the toolchain, which consists of the compiler, assembler/linker/et cetera, and a C library. For embedded Linux systems, the compiler is almost always GCC (although LLVM is starting to be used), the assembler/ linker comes from GNU binutils, and the C library is glibc or uClibc (both LGPL licensed) or musl (MIT licensed) on "regular" embedded Linux, and bionic on Android systems (although glibc is frequently used on Android too for add on programs). Although LLVM and musl are being used increasingly in embedded systems, they are still the exception.
 
-进行重建必不可少的一个组件是工具链，它由编译器、汇编器/链接器等以及一个C库组成。对于嵌入式Linux系统，编译器几乎都是采用GCC（尽管现在开始使用了LLVM），汇编器/链接器来自GNU binutils，在“常规”嵌入式Linux上，C库一般采用glibc或uClibc（这两者都获得了LGPL许可）或是musl（MIT 许可），在安卓系统上一般采用bionic（虽然在安卓系统上，glibc也经常用于附加程序）。尽管LLVM和musl在嵌入式系统中的使用越来越多，但它们仍然是例外。
+进行重建必不可少的一个组件是工具链，它由编译器、汇编器/链接器等以及一个C库组成。对于嵌入式Linux系统，编译器几乎都是采用GCC（尽管现在开始使用了LLVM），汇编器/链接器来自GNU binutils，在“常规”嵌入式Linux上，C库一般采用glibc或uClibc（这两者都获得了LGPL许可）或是musl（MIT 许可），在Android系统上一般采用bionic（虽然在Android系统上，glibc也经常用于附加程序）。尽管LLVM和musl在嵌入式系统中的使用越来越多，但它们仍然是例外。
 
 The toolchain is often found to be not compliant. A common scenario is that a toolchain with GCC and GNU binutils is provided in binary-only form, without the source code or the offer for the source code. Although it is possible to use the provided binary toolchain to rebuild the binaries, it is not the correct approach. The GCC compiler and GNU binutils are released under GPL v2 or v3, depending on the version. Their source code, or a written offer for the source code, should be included with the binary. When glibc or uClibc is used, there is an additional reason: Parts of the (prebuilt) toolchain (from the C library) are sometimes copied from the toolchain into a firmware image. This means that the sources and configuration to rebuild the C library need to be provided too (as per the LGPL license conditions). The quickest way to fulfill the requirements is by having the complete toolchain sources.
 
@@ -28,24 +28,24 @@ Another consideration is that for embedded Linux, the toolchain is a necessary c
 另一个考虑因素是，对于嵌入式Linux系统，工具链是重构二进制文件的必要组件。嵌入式Linux设备的CPU与普通PC不同。普通PC使用的是基于x86或x86-64架构的Intel或AMD芯片，而嵌入式设备通常使用ARM、MIPS或PowerPC芯片（也可以发现有其他芯片架构）构建而成。这些平台的二进制文件由号称的“交叉编译器”生成，该编译器在普通的PC上运行，但输出用于不同平台（如MIPS或ARM）的代码。构建一个可运行的交叉编译器是一项非常重要的任务；如果没有源代码和如何重构交叉编译器的确切描述（包括使用的脚本或是手动安装说明），将很难配置正确，重构成功。
 
 ## Pitfall #2: Android and Embedded Devices
-## 陷阱#2： 安卓和嵌入式设备
+## 陷阱#2： Android和嵌入式设备
 
 Systems that are either running Android or that borrow heavily from Android, may have a few common pitfalls.
 
-运行安卓系统或与安卓类似的系统可能会遇到一些常见的缺陷。
+运行Android系统或与Android类似的系统可能会遇到一些常见的缺陷。
 
 #### Android prebuilt tools
-#### 安卓预编译工具包
+#### Android预构建工具包
 
 The standard Android software development kit as shipped by Google comes with a large number of tools that are prebuilt for various platforms, such as Linux, Darwin, and Microsoft Windows, and even Linux kernel images for QEMU. Many of these tools are licensed under GPL or LGPL, such as GCC and binutils, cmake, gdb, and many others. These files can easily be identified by looking for directories that contain "prebuilt":
 
-谷歌发布的标准安卓软件开发工具包，附带了大量为各种平台预编译的工具，例如Linux、Darwin和Microsoft Windows，甚至还有用于QEMU的Linux内核镜像。这些工具中有许多是GPL或LGPL许可的，例如GCC和binutils、cmake、gdb等。通过查找包含“prebuilt”的目录，可以轻松找到这些文件：
+谷歌发布的标准Android软件开发工具包，附带了大量为各种平台预编译的工具，例如Linux、Darwin和Microsoft Windows，甚至还有用于QEMU的Linux内核镜像。这些工具中有许多是GPL或LGPL许可的，例如GCC和binutils、cmake、gdb等。通过查找包含“prebuilt”的目录，可以轻松找到这些文件：
 
 \$ find -d /path/to/android/sdk \| grep prebuilt
 
 These directories often contain a variety of prebuilt tools or even Linux kernel images that may be without obviously placed corresponding source code or written offer. Frequently there is a file called "PREBUILT" in the directory that also contains the binaries. This file points to source code and sometimes also contains more detailed build instructions. As an example (from an earlier version of Android, for the ccache tool):
 
-这些目录通常包含各种预编译的工具，甚至是Linux内核镜像，在它们里面可能没有放置相应的源代码或源代码的书面要约。在目录中通常有一个名为“PREBUILT”的文件也包含二进制文件。该文件指向源代码，有时还包含更详细的构建说明。作为示例（来自早期的安卓版本，用于ccache工具）：
+这些目录通常包含各种预编译的工具，甚至是Linux内核镜像，在它们里面可能没有放置相应的源代码或源代码的书面要约。在目录中通常有一个名为“PREBUILT”的文件也包含二进制文件。该文件指向源代码，有时还包含更详细的构建说明。作为示例（来自早期的Android版本，用于ccache工具）：
 
 The objects in this prebuilt directory can be rebuilt using the source archive ccache-2.4-android-20070905.tar.gz hosted at [\<http://android.kernel.org/pub/\>.](http://android.kernel.org/pub/)
 
@@ -61,33 +61,22 @@ It should be noted that these particular instructions may not be good enough to 
 
 2.  As of the publication date of this book, it should be noted that one commonly referred to location for Android source, called android.kernel.org, has been offline since September 2011. This means that the relevant source code can no longer be found at this particular location, though it may be found at other URLs.
 
-    需要注意的是，截至本书出版之日，一个通常被称为安卓源代码的网址：android.kernel.org，自2011年9月以来一直处于离线状态。这意味着相关源代码已无法在这个网址找到，尽管它依然可能在其他网址中找到。
+    自2011年9月以来，一个被称为Android源代码的网址：android.kernel.org，一直处于离线状态，需要注意的是截至本书出版之日时仍然如此。这意味着在这个网址已经无法找到相关的源代码，虽然它依然可能在其他网址中找到。
 
 Having these prebuilt components in the source code archive without the corresponding source code can present a compliance risk.
 
-在没有相应源代码的源代码存档中拥有这些预构建组件可能会带来合规性风险。
+在没有相应源代码的代码存档中找到的这些预构建组件，可能会给项目带来合规性风险。
 
-One solution is to also include the source code for these prebuilt
-components. Another solution is to remove the components if they are
-not needed to do a rebuild (e.g., in most cases, it makes sense to
-remove the binaries for MS Windows and Darwin), or to replace the
-prebuilt components, if they are actually needed for the build, with
-instructions on how to fetch the prebuilt components from Android's
-Git server. You should make sure that the exact same version as the
-prebuilt versions is fetched; otherwise the build might fail or it
-might be difficult to compare binaries (see "Performing a Rebuild").
-It should be noted that for some components, such as the toolchain, it
-might
+One solution is to also include the source code for these prebuilt components. Another solution is to remove the components if they are not needed to do a rebuild (e.g., in most cases, it makes sense to remove the binaries for MS Windows and Darwin), or to replace the prebuilt components, if they are actually needed for the build, with instructions on how to fetch the prebuilt components from Android's Git server. You should make sure that the exact same version as the prebuilt versions is fetched; otherwise the build might fail or it might be difficult to compare binaries (see "Performing a Rebuild"). It should be noted that for some components, such as the toolchain, it might still be necessary to provide sources, in case glibc or uClibc has been used and shipped on the device or in the firmware.
 
-still be necessary to provide sources, in case glibc or uClibc has
-been used and shipped on the device or in the firmware.
+一种解决方案是找到这些预构建组件的源代码，并将它们包含进去。另一种解决方案是，如果重建时不需要的组件，可以删除掉（例如，在大多数情况下，删除MS Windows和Darwin的二进制文件是可行的）；如果重新构建确实需要这些组件，可以替换预构建的组件，并提供如何从Android的Git服务器获取预构建组件的说明。需要确保服务器上获取的版本与预构建版本完全相同；否则构建可能会失败或者比较二进制文件可能会有问题（请参阅“执行重建”）。应该注意的是，对于某些组件（例如工具链），可能仍然需要提供源代码，以防止设备或固件中使用了glibc或uClibc。
 
 #### Missing/Incorrect License Files
+#### 缺少的/不正确的许可证文件
 
-Android's build system generates a NOTICES.html.gz file that is
-displayed by default in the "legal" tab on a phone or tablet. This
-file is generated by a script that looks for files that indicate the
-license status, called "NOTICE."
+Android's build system generates a NOTICES.html.gz file that is displayed by default in the "legal" tab on a phone or tablet. This file is generated by a script that looks for files that indicate the license status, called "NOTICE."
+
+Android的构建系统会生成一个NOTICES.html.gz文件，在手机或平板电脑上，默认情况下该文件包含在“合法”选项卡中。该文件是由一个脚本生成，该脚本会查找指示许可证状态的相关文件，称为“NOTICE”。
 
 For some tools and programs in Android, you may find missing license
 identifiers or have used the wrong license text (in case of the Linux
