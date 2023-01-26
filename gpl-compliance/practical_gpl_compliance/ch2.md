@@ -222,34 +222,27 @@ It also happens that a separate version of Linux is booted only to perform the i
 另一种情况是，启动一个独立的Linux版本仅用于新固件的安装，而该版本嵌入在固件更新本身，不在设备上。还有一种情况，一次固件更新可能涉及三个不同的Linux实例：执行更新时启动一个临时的Linux，写入救援分区时使用一个不同的实例，以及常规分区使用的第三个实例。重要的是在安装时，要查看安装或使用的所有内容，包括设备和固件更新，它们都很重要。
 
 ## Pitfall #5: Bootloader
+## 陷阱#5：引导分区
 
-One overlooked component in compliance engineering is the bootloader.
-A few commonly used bootloaders on embedded Linux systems (e.g.,
-U-Boot and Redboot) are GPL-licensed. The reason they are overlooked
-is because they come preflashed on the boards or chips, and ODMs
-frequently do not touch this component at all. Many times the
-bootloader is also not included in a firmware update, but the firmware
-update overwrites only parts of the flash chip in a device and leaves
-the bootloader alone. However, if the bootloader is GPL- licensed,
-source code for the bootloader should be delivered as well.
+One overlooked component in compliance engineering is the bootloader. A few commonly used bootloaders on embedded Linux systems (e.g., U-Boot and Redboot) are GPL-licensed. The reason they are overlooked is because they come preflashed on the boards or chips, and ODMs frequently do not touch this component at all. Many times the
+bootloader is also not included in a firmware update, but the firmware update overwrites only parts of the flash chip in a device and leaves the bootloader alone. However, if the bootloader is GPL- licensed, source code for the bootloader should be delivered as well.
 
-If possible, perform your analysis on the firmware update as shipped
-to customers (see "Pitfall #4") as well as on a dump of the flash
-contents of the actual device, unless the firmware update is actually
-the same as the flash dump.
+合规工程中一个容易被忽视的组件是引导分区。嵌入式Linux系统上常用的引导分区（例如U-Boot和Redboot）是GPL许可的。被忽视的原因是因为它们被预先加载到了电路板或芯片上，而ODM通常无需接触这个组件。很多时候引导分区不包含在固件更新中，并且固件更新也只会覆盖设备中闪存芯片的一部分，不会影响到引导分区。但是如果引导分区是GPL许可的，则需要提供引导分区的源代码。
 
-If the bootloader is not included, it might be necessary to extract
-the contents of the bootloader from the device. This is outside of the
-scope of this book.
+If possible, perform your analysis on the firmware update as shipped to customers (see "Pitfall #4") as well as on a dump of the flash contents of the actual device, unless the firmware update is actually the same as the flash dump.
+
+如果可能，请对交付给客户的固件更新（请参阅“陷阱#4”）以及设备上的闪存的导出内容进行分析，确认固件更新与闪存的导出内容相同。
+
+If the bootloader is not included, it might be necessary to extract the contents of the bootloader from the device. This is outside of the scope of this book.
+
+如果不包含引导分区，则可能需要从设备中提取引导分区的内容。这超出了本书的范围。
 
 ## Pitfall #6: Missing Build System
+## 缺陷#6：缺少构建系统
 
-There are build systems that separate the sources of packages and the
-description of how to build them. Some build systems have a directory
-called "download" or "dl" that contains the sources, while the
-Makefiles, configurations, and patches are in a separate directory.
-Some companies will publish the contents of the directory only with
-the sources but not the build system.
+There are build systems that separate the sources of packages and the description of how to build them. Some build systems have a directory called "download" or "dl" that contains the sources, while the Makefiles, configurations, and patches are in a separate directory. Some companies will publish the contents of the directory only with the sources but not the build system.
+
+有一些构建系统将源文件包和对源文件的构建描述分开。而有一些构建系统设置一个名为“download”或“dl”的目录，其中包含源代码，而将Makefile、配置和补丁文件位于单独的目录中。一些公司只发布目录的内容，而不发布构建系统。
 
 This is wrong for a few reasons:
 
