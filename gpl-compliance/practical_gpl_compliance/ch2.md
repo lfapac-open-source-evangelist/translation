@@ -49,7 +49,7 @@ These directories often contain a variety of prebuilt tools or even Linux kernel
 
 The objects in this prebuilt directory can be rebuilt using the source archive ccache-2.4-android-20070905.tar.gz hosted at [\<http://android.kernel.org/pub/\>.](http://android.kernel.org/pub/)
 
-可以使用托管在[\<http://android.kernel.org/pub/\>](http://android.kernel.org/pub/)的源存档文件ccache-2.4-android-20070905.tar.gz 重构此预编译目录中的文件内容。
+可以使用托管在[\<http://android.kernel.org/pub/\>](http://android.kernel.org/pub/)的源文件归档文件ccache-2.4-android-20070905.tar.gz 重构此预编译目录中的文件内容。
 
 It should be noted that these particular instructions may not be good enough to result in GPL compliance for chipset manufacturers, ODMs, and their downstream recipients, for a number of reasons:
 
@@ -65,7 +65,7 @@ It should be noted that these particular instructions may not be good enough to 
 
 Having these prebuilt components in the source code archive without the corresponding source code can present a compliance risk.
 
-在没有相应源代码的代码存档中找到的这些预构建组件，可能会给项目带来合规性风险。
+在没有相应源代码的归档文件中找到的这些预构建组件，可能会给项目带来合规性风险。
 
 One solution is to also include the source code for these prebuilt components. Another solution is to remove the components if they are not needed to do a rebuild (e.g., in most cases, it makes sense to remove the binaries for MS Windows and Darwin), or to replace the prebuilt components, if they are actually needed for the build, with instructions on how to fetch the prebuilt components from Android's Git server. You should make sure that the exact same version as the prebuilt versions is fetched; otherwise the build might fail or it might be difficult to compare binaries (see "Performing a Rebuild"). It should be noted that for some components, such as the toolchain, it might still be necessary to provide sources, in case glibc or uClibc has been used and shipped on the device or in the firmware.
 
@@ -160,7 +160,7 @@ GPL-licensed.
 It also happens that kernel modules are distributed in a firmware or source code archive, but they are not used, because they are never loaded by the operating system, either because there are no programs to load them, or because the operating system does not allow it (it may be a different version or even a completely different
 architecture). Finding out if a module is used is outside of the scope of this book.
 
-还有一种情况是，内核模块分布在固件或源代码存档文件中，但未被使用过，因为操作系统从未加载过它们，要么是因为没有程序需要加载它们，要么是因为操作系统不允许（它可能是不同的版本，甚至是完全不同的体系结构）。确定一个模块是否被使用已经超出了本书的范围。
+还有一种情况是，内核模块分布在固件或源代码归档文件中，但未被使用过，因为操作系统从未加载过它们，要么是因为没有程序需要加载它们，要么是因为操作系统不允许（它可能是不同的版本，甚至是完全不同的体系结构）。确定一个模块是否被使用已经超出了本书的范围。
 
 #### Extracting License and Author Fields from a Kernel Module
 #### 从内核模块中提取许可证及作者信息
@@ -268,7 +268,7 @@ An often-encountered problem is that BusyBox cannot be rebuilt in such a way tha
 
 Source code release archives often contain only the source code for BusyBox, but not the configuration, because the build system is not included (see Pitfall #6).
 
-由于源代码发行存档通常不包括构建系统（参见陷阱 #6），因此它只包含了BusyBox的源代码，而不包含配置文件，。
+由于源代码发行版归档文件通常不包括构建系统（参见陷阱 #6），因此它只包含了BusyBox的源代码，而不包含配置文件，。
 
 An easy check for this is to look for a file called ".config" in the top-level source code file of the BusyBox source code tree. If it cannot be found, it might be in a separate directory in the build system, if present.
 
@@ -291,89 +291,73 @@ It is possible (with tools contained in the Binary Analysis Tool) to re-create a
 Quite often there are multiple BusyBox binaries included in a firmware, each with a different configuration. A common example is a rescue system (see Pitfall #4) that contains a minimal version of BusyBox, with the full system containing a BusyBox instance with much more functionality. The source code archive should include the
 configurations for all Busybox instances that are in use on the device, but frequently, the configuration for only one of the instances of BusyBox is present.
 
-一个固件中通常包含多个BusyBox二进制文件，每个二进制文件都有不同的配置。一个常见的例子是恢复系统（参见陷阱#4），它包含BusyBox的最小版本，而完整系统则包含一个具有多个功能的BusyBox实例。源代码存档应该覆盖设备上所包含的多个Busybox实例的配置信息，但通常只含有一个BusyBox实例的配置文件。
+一个固件中通常包含多个BusyBox二进制文件，每个二进制文件都有不同的配置。一个常见的例子是恢复系统（参见陷阱#4），它包含BusyBox的最小版本，而完整系统则包含一个具有多个功能的BusyBox实例。源代码归档文件应该覆盖设备上所包含的多个Busybox实例的配置信息，但通常只含有一个BusyBox实例的配置文件。
 
 ## Pitfall #8: Incorrect or Missing Linux Kernel Configuration Files
+## 陷阱#8：错误的或缺失的Linux内核配置文件
 
-Very similarly to Pitfall #7, the configuration file for the Linux
-kernel is often missing or incorrect.
+Very similarly to Pitfall #7, the configuration file for the Linux kernel is often missing or incorrect.
+
+类似于陷阱#7，Linux内核的配置文件经常丢失或是不正确。
 
 #### Finding which Linux kernel configuration was used
+#### 查找使用了哪个Linux内核配置
 
-Finding out what configuration was used to build a Linux kernel binary
-is not always trivial, and sometimes a rebuild and comparison (as
-described earlier in this book) will be necessary. Sometimes the
-kernel configuration will be included in the Linux kernel binary
+Finding out what configuration was used to build a Linux kernel binary is not always trivial, and sometimes a rebuild and comparison (as described earlier in this book) will be necessary. Sometimes the kernel configuration will be included in the Linux kernel binary as a bzip2 compressed file. This happens if the "CONFIG\_ IKCONFIG" option was enabled during the kernel build. In that case, it is easy to find the kernel configuration that was actually used (for example, by unpacking the binary with the Binary Analysis Tool and then looking for the configuration). If the configuration was not stored in the Linux kernel image, then your only option to verify whether a kernel configuration is 100% correct is a rebuild and compare.
 
-as a bzip2 compressed file. This happens if the "CONFIG\_ IKCONFIG"
-option was enabled during the kernel build. In that case, it is easy
-to find the kernel configuration that was actually used (for example,
-by unpacking the binary with the Binary Analysis Tool and then looking
-for the configuration). If the configuration was not stored in the
-Linux kernel image, then your only option to verify whether a kernel
-configuration is 100% correct is a rebuild and compare.
+找出用于构建Linux内核二进制文件的配置不那么简单，有时候需要进行重构，并进行对比（如本书前面所述）。有时候内核配置文件会被压缩为bzip2格式，包含在Linux内核二进制文件中。如果在构建内核的过程中启用了“CONFIG\_ IKCONFIG”选项，就会发生这种情况。在这种情况下很容易找到实际使用的内核配置文件（例如，通过二进制分析工具解压缩二进制文件，然后查找）。如果配置文件没有包含在Linux内核镜像中，那么验证内核配置是否100%正确的唯一方法就是重构并比对。
 
 #### Missing Linux kernel configuration file
+#### 缺失的Linux内核配置文件
 
-Source code release archives often contain only the source code for
-the Linux kernel, but not the configuration. Depending on the setup,
-the Linux kernel configuration could be in various locations. One
-common location is a file ".config" in the root of the Linux kernel
-source tree (generated by the Linux kernel configuration commands like
-"make config" or "make menuconfig"). Another location is in the "arch"
-subdirectory. By default, the Linux kernel source code tree contains
-many configuration files, and vendors tend to put the configurations
-there. For example, "arch/arm/ configs/bcm2835_defconfig" contains the
-configuration for a particular Broadcom board. Which configuration
-file to use is set by the build scripts. A third option is that the
-configuration file is kept outside of the Linux kernel archive, with
-the build scripts, and is first copied to the Linux kernel source code
-tree during the build. If the build system is missing (see Pitfall #6)
-and the configuration file is not included in the Linux kernel
-archive, then the Linux kernel source code will not be complete and
-corresponding.
+Source code release archives often contain only the source code for the Linux kernel, but not the configuration. Depending on the setup, the Linux kernel configuration could be in various locations. One common location is a file ".config" in the root of the Linux kernel source tree (generated by the Linux kernel configuration commands like "make config" or "make menuconfig"). Another location is in the "arch" subdirectory. By default, the Linux kernel source code tree contains
+many configuration files, and vendors tend to put the configurations there. For example, "arch/arm/ configs/bcm2835_defconfig" contains the configuration for a particular Broadcom board. Which configuration file to use is set by the build scripts. A third option is that the configuration file is kept outside of the Linux kernel archive, with the build scripts, and is first copied to the Linux kernel source code tree during the build. If the build system is missing (see Pitfall #6)
+and the configuration file is not included in the Linux kernel archive, then the Linux kernel source code will not be complete and corresponding.
+
+源代码发行版归档文件通常只包含Linux内核的源代码，而不包含配置文件。根据设置的不同，Linux内核配置文件可能位于不同的位置。通常是位于Linux内核源代码的根目录中的“.config”文件（由“make config”或“make menuconfig”等Linux内核配置命令生成）。还有是位于“arch”子目录中。默认情况下，Linux内核源代码树包含多个配置文件，厂商倾向于将配置文件放在那里。例如，“arch/arm/configs/bcm2835_defconfig”包含特定的Broadcom主板的配置。使用哪个配置文件由构建脚本设置。第三种情况是将配置文件与构建脚本一起保存在Linux内核归档文件之外，并在构建过程之前先复制到Linux内核源代码树中。如果缺少构建系统（请参阅陷阱#6），并且配置文件也未包含在Linux内核归档文件中，则Linux内核源代码将不完整且不对应。
 
 #### Multiple Linux kernel binaries, one configuration file
+#### 多个Linux内核二进制文件，一个配置文件
 
-Quite often there are multiple Linux kernel binaries included in a
-firmware, each with a different configuration. A common example is a
-rescue system (see Pitfall #4) which contains a minimal version of the
-Linux kernel, with the full system containing a Linux kernel
+Quite often there are multiple Linux kernel binaries included in a firmware, each with a different configuration. A common example is a rescue system (see Pitfall #4) which contains a minimal version of the Linux kernel, with the full system containing a Linux kernel instance with much more functionality. The source code archive, however, may have the configuration for only one of the two versions (or three, or even more).
 
-[]{#_bookmark16 .anchor}instance with much more functionality. The
-source code archive, however, may have the configuration for only one
-of the two versions (or three, or even more).
+一个固件中经常包含多个Linux内核二进制文件，每个都有不同的配置。一个常见的例子是恢复系统（参见陷阱#4），它包含一个Linux内核的最小版本，而完整的系统包含一个具有多个功能的 Linux内核实例。然而，源代码归档文件可能只有两个版本（或三个，甚至更多）中的一种配置。
 
 #### Incorrect Linux kernel configuration file
+#### 错误的Linux内核配置文件
 
-It also happens that the Linux kernel configuration file may simply be
-not correct and that the appropriate Linux kernel binary cannot be
-compiled because functionality has been added or removed in the
-configuration.
+It also happens that the Linux kernel configuration file may simply be not correct and that the appropriate Linux kernel binary cannot be compiled because functionality has been added or removed in the configuration.
+
+Linux内核配置文件可能根本不正确，并且由于在配置文件中添加或删除了某些功能，因此无法编译适当的Linux内核二进制文件。
 
 ## Pitfall #9: Not Including the Version Number in Firmware and Source Code Archive Filenames
+## 陷阱#9：不包括固件和源代码归档文件名中的版本号
 
-One very common mistake is that firmwares and corresponding source
-code archives often do not have the version name (and the device name)
-in the filename, but use a generic name, such as "GPL.zip," for
-various devices and versions of source code. This makes it very easy
-to make mistakes and deliver the wrong files, which might lead to the
-impression that you are out of compliance.
+One very common mistake is that firmwares and corresponding source code archives often do not have the version name (and the device name) in the filename, but use a generic name, such as "GPL.zip," for various devices and versions of source code. This makes it very easy to make mistakes and deliver the wrong files, which might lead to the impression that you are out of compliance.
 
-The solution is to use, or demand that suppliers use, a naming
-convention that would include:
+一个常见的错误是固件和相应的源代码归档文件的文件名中没有包含版本信息（和设备名称），而是使用通用名称，例如“GPL.zip” ，用于各种设备和源代码版本。这就很容易犯错误并提交错误的文件，可能会给人留下不合规的印象。
+
+The solution is to use, or demand that suppliers use, a naming convention that would include:
+
+解决方案是使用或要求供应商使用命名约定，该约定包括：
 
 -   Device name/model number (or multiple, if the files are identical)
 
+    包含设备名称/型号（如果文件相同则包含多个）
+
 -   Firmware revision number
+
+    固件修订版本号
 
 -   Revision level
 
-For example: A device called AB-123 with firmware 1.2.3.4 would have a
-firmware filename "FW_AB-123_1.2.3.4.bin" and a source code archive
-filename "GPL_AB-123_1.2.3.4-0.bin."
+    修订级别
 
-Using naming conventions like these will make it a lot easier to
-locate the right files, avoid making mistakes, and spot errors on
-download sites.
+For example: A device called AB-123 with firmware 1.2.3.4 would have a firmware filename "FW_AB-123_1.2.3.4.bin" and a source code archive filename "GPL_AB-123_1.2.3.4-0.bin."
+
+例如：名为AB-123、固件为1.2.3.4的设备的固件文件名为“FW_AB-123_1.2.3.4.bin”，源代码归档文件名为“GPL_AB-123_1.2.3.4-0.bin”。
+
+Using naming conventions like these will make it a lot easier to locate the right files, avoid making mistakes, and spot errors on download sites.
+
+按照这样的命名约定，可以更容易地查找正确的文件，避免出错，并很容易在下载站点上发现错误。
 
