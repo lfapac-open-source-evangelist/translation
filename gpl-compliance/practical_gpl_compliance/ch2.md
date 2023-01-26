@@ -246,63 +246,52 @@ There are build systems that separate the sources of packages and the descriptio
 
 This is wrong for a few reasons:
 
-1.  Any patches that might have been applied are now not included,
-    meaning that the source code is incomplete.
+这是错误的，原因如下：
 
-2.  []{#_bookmark14 .anchor}Makefiles and other build scripts often
-    contain configuration options (environment variables, compiler
-    options, etc.) that influence how a package is built. Without this
-    information, the binary cannot be rebuilt successfully, or at least
-    not (near-)identically.
+1.  Any patches that might have been applied are now not included, meaning that the source code is incomplete.
+
+    现在的系统不包括后期可能应用的任何补丁，这意味着源代码不完整。
+
+2.  Makefiles and other build scripts often contain configuration options (environment variables, compiler options, etc.) that influence how a package is built. Without this information, the binary cannot be rebuilt successfully, or at least not (near-)identically.
+
+    Makefile文件和其他构建脚本通常包含各种配置选项（如环境变量、编译器选项等），这些配置信息说明了如何构建二进制包。如果没有这些信息，无法成功重构二进制文件，即使重构成功可能也不完全相同。    
 
 ## Pitfall #7: Incorrect or Missing BusyBox Configuration Files
+## 缺陷#7：错误的或缺失的BusyBox配置文件
 
-An often-encountered problem is that BusyBox cannot be rebuilt in such
-a way that it corresponds to the binary or binaries in a firmware. The
-BusyBox program is very modular; functionality can be added or removed
-by editing a configuration file (usually using a special configuration
-program). This configuration file is read during build time and
-determines which functionalities (called "applets") will be included
-in the BusyBox binary. The configuration file is therefore a very
-necessary part of the "complete and corresponding source code," and a
-missing or incorrect configuration file for BusyBox has been enforced
-many times.
+An often-encountered problem is that BusyBox cannot be rebuilt in such a way that it corresponds to the binary or binaries in a firmware. The BusyBox program is very modular; functionality can be added or removed by editing a configuration file (usually using a special configuration program). This configuration file is read during build time and determines which functionalities (called "applets") will be included in the BusyBox binary. The configuration file is therefore a very necessary part of the "complete and corresponding source code," and a missing or incorrect configuration file for BusyBox has been enforced many times.
+
+经常遇到一个的问题是，不能以固件中对应的一个或多个二进制文件来重建BusyBox。BusyBox程序是非常模块化的；可以通过编辑配置文件（通常是使用特殊的配置程序）来添加或删除它的某项功能。在构建过程中读取配置文件信息，以确定哪些功能（也称为“小程序”）将包含在BusyBox二进制文件中。因此，配置文件是实现“完整且对应的源代码”的合规要求非常必要的一个部分，BusyBox的配置文件缺失或不正确的情况已经出现过多次。
 
 #### Missing BusyBox configuration file
+#### 缺失的BusyBox配置文件
 
-Source code release archives often contain only the source code for
-BusyBox, but not the configuration, because the build system is not
-included (see Pitfall #6).
+Source code release archives often contain only the source code for BusyBox, but not the configuration, because the build system is not included (see Pitfall #6).
 
-An easy check for this is to look for a file called ".config" in the
-top-level source code file of the BusyBox source code tree. If it
-cannot be found, it might be in a separate directory in the build
-system, if present.
+由于源代码发行存档通常不包括构建系统（参见陷阱 #6），因此它只包含了BusyBox的源代码，而不包含配置文件，。
+
+An easy check for this is to look for a file called ".config" in the top-level source code file of the BusyBox source code tree. If it cannot be found, it might be in a separate directory in the build system, if present.
+
+可以简单地校验下，即在BusyBox源代码树的顶级源代码文件中，是否能查到名为“.config”的文件。如果找不到，它可能就被包含在构建系统的单独目录中（如果存在单独目录）。
 
 #### Incorrect BusyBox configuration file
+#### 错误的BusyBox配置文件
 
-Another problem encountered at times is that the BusyBox
+Another problem encountered at times is that the BusyBox configuration file or files are incorrect: The original binary and the rebuilt binary have different sets of applets. In many of these cases, the chipset manufacturer or ODM cannot find or recreate the correct configuration file.
 
-[]{#_bookmark15 .anchor}configuration file or files are incorrect: The
-original binary and the rebuilt binary have different sets of applets.
-In many of these cases, the chipset manufacturer or ODM cannot find or
-recreate the correct configuration file.
+有时遇到的另一个问题是BusyBox的配置文件不正确：原始的二进制文件和重建的二进制文件对应不同的小程序集。在许多情况下，芯片组制造商或ODM无法找到或重新构建正确的配置文件。
 
-It is possible (with tools contained in the Binary Analysis Tool) to
-re-create a BusyBox configuration file that could be used as the basis
-of re-creating the real configuration file. However, this solution
-should be used only as a last resort.
+It is possible (with tools contained in the Binary Analysis Tool) to re-create a BusyBox configuration file that could be used as the basis of re-creating the real configuration file. However, this solution should be used only as a last resort.
+
+可以（使用二进制分析工具中包含的工具）重新创建一个BusyBox配置文件，可以用该配置文件作为重新创建的基础。但是此解决方案只能作为最后的手段使用。
 
 #### Multiple different BusyBox binaries, one configuration file
+#### 多个不同的BusyBox二进制文件，但只有一个配置文件
 
-Quite often there are multiple BusyBox binaries included in a
-firmware, each with a different configuration. A common example is a
-rescue system (see Pitfall #4) that contains a minimal version of
-BusyBox, with the full system containing a BusyBox instance with much
-more functionality. The source code archive should include the
-configurations for all Busybox instances that are in use on the
-device, but frequently, the configuration for only one of the
-instances of BusyBox is present.
+Quite often there are multiple BusyBox binaries included in a firmware, each with a different configuration. A common example is a rescue system (see Pitfall #4) that contains a minimal version of BusyBox, with the full system containing a BusyBox instance with much more functionality. The source code archive should include the
+configurations for all Busybox instances that are in use on the device, but frequently, the configuration for only one of the instances of BusyBox is present.
+
+一个固件中通常包含多个BusyBox二进制文件，每个二进制文件都有不同的配置。一个常见的例子是恢复系统（参见陷阱#4），它包含BusyBox的最小版本，而完整系统则包含一个具有多个功能的BusyBox实例。源代码存档应该覆盖设备上所包含的多个Busybox实例的配置信息，但通常只含有一个BusyBox实例的配置文件。
 
 ## Pitfall #8: Incorrect or Missing Linux Kernel Configuration Files
 
