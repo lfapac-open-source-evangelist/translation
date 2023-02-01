@@ -2,7 +2,7 @@
 
 ## 原版地址
 
-[Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](../../attachments/Enabling-Global-Collaboration.pdf)
+[Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](https://github.com/lfapac-open-source-evangelist/translation/blob/main/attachments/Enabling-Global-Collaboration.pdf)
 
 ## 认领列表
 

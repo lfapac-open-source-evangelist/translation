@@ -2,7 +2,7 @@
 
 ## 原版地址
 
-[Mentorship in Open Source](../../attachments/Mentorship-in-Open-Source.pdf)
+[Mentorship in Open Source](https://github.com/lfapac-open-source-evangelist/translation/blob/main/attachments/Mentorship-in-Open-Source.pdf)
 
 ＃# 认领列表
 
