@@ -69,11 +69,11 @@ One tap mobile
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md)
 
-## ５.　[Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](.／attachments/Enabling-Global-Collaboration.pdf)
+## ５.　[Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](https://github.com/lfapac-open-source-evangelist/translation/blob/main/attachments/Enabling-Global-Collaboration.pdf)
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/enable-golbal-collaboration/role_responsibilities.md)
 
-## ６.　[Mentorship in Open Source](.／attachments/Enabling-Global-Collaboration.pdf)
+## ６.　[Mentorship in Open Source](https://github.com/lfapac-open-source-evangelist/translation/blob/main/attachments/Mentorship-in-Open-Source.pdf)
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/Mentorship-in-open-source/role_responsibilities.md)
 
