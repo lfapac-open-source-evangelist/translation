@@ -38,7 +38,7 @@ One tap mobile
 +861053876330,,96925638178# China
 +861087833177,,96925638178# China
 
-你也可以将Google Calendar的[邀请 Invite.ics](./attachments/invite.ics)导入自己的Google日历。
+你也可以将Google Calendar的[邀请 Invite.ics](attachments/invite.ics)导入自己的Google日历。
 
 会议记录：
 
@@ -53,35 +53,35 @@ One tap mobile
 
 ## 待认领翻译任务
 
-## 1. [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](./attachments/comprehensive-gpl-guide.pdf)
+## 1. [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](attachments/comprehensive-gpl-guide.pdf)
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/comprehensive_gpl_guide/role_responsibilities.md)
 
-## 2. [GNU General Public License: A Comprehensive Tutorial and Guide](./attachments/Practical_GPL_Compliance_Digital.pdf)
+## 2. [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/gpl-compliance/practical_gpl_compliance/role_responsibilities.md)
 
-## 3. [Releasing Internal Code](./attachments/LFResearch_AI_Data_Releasing_Internal_Code_Report.pdf)
+## 3. [Releasing Internal Code](attachments/LFResearch_AI_Data_Releasing_Internal_Code_Report.pdf)
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/LFResearch_AI_Data_Releasing_Internal_Code_Report/role_responsibilities.md)
 
-## 4. [Address Cybersecurity Challenges in OSS](./attachments/Addressing%20Cybersecurity%20Challenges%20in%20Open%20Source%20Software%20-%20Report.pdf)
+## 4. [Address Cybersecurity Challenges in OSS](attachments/Addressing%20Cybersecurity%20Challenges%20in%20Open%20Source%20Software%20-%20Report.pdf)
 
 [我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/addressing-cybersecurity-challenges-in-oss/role_responsibilities.md)
 
-## ５.　[Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](https://github.com/lfapac-open-source-evangelist/translation/blob/main/attachments/Enabling-Global-Collaboration.pdf)
+## ５. [Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](attachments/Enabling-Global-Collaboration.pdf)
 
-[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/enable-golbal-collaboration/role_responsibilities.md)
+[我要认领](enable-golbal-collaboration/role_responsibilities.md)
 
-## ６.　[Mentorship in Open Source](https://github.com/lfapac-open-source-evangelist/translation/blob/main/attachments/Mentorship-in-Open-Source.pdf)
+## ６. [Mentorship in Open Source](attachments/Mentorship-in-Open-Source.pdf)
 
-[我要认领](https://github.com/lfapac-open-source-evangelist/translation/blob/main/Mentorship-in-open-source/role_responsibilities.md)
+[我要认领](Mentorship-in-open-source/role_responsibilities.md)
 
 ## 译道师作品集
 
 ## 书籍
 
-### [1.A Guide to Enterprise Open Source](./completed/Developing_and_Executing_Open_Source_Software_Strategy_Chinese.pdf)
+### [1.A Guide to Enterprise Open Source](completed/Developing_and_Executing_Open_Source_Software_Strategy_Chinese.pdf)
 
 翻译：
 
@@ -95,7 +95,7 @@ One tap mobile
 8. Maggie Cheung, Linux Foundation APAC
 9. Michelle Ko, Linux Foundation APAC
 
-### [2.The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness](./completed/LFResearch_SBOM_Report_CN_Chinese_112522.pdf)
+### [2.The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness](completed/LFResearch_SBOM_Report_CN_Chinese_112522.pdf)
 
 1. 赵振华
 2. 皮冰锋
@@ -113,7 +113,7 @@ One tap mobile
 14. Hin Yang, Linux Foundation APAC
 15. Dorothy Cheng, Linux Foundation APAC
 
-### [3.Technical Debt and Open Source Development](./completed/TechnicalDebtandOpenSourceDevelopment_Whitepaper_CN_121222-Final.pdf)
+### [3.Technical Debt and Open Source Development](completed/TechnicalDebtandOpenSourceDevelopment_Whitepaper_CN_121222-Final.pdf)
 
 1. 李建盛
 2. 皮冰锋
@@ -123,7 +123,7 @@ One tap mobile
 6. Maggie Cheung, Linux Foundation APAC
 7. Michelle Ko, Linux Foundation APAC
 
-### [4. Deep Dive Into OSPO](./completed/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_CN_121522-finalized.pdf)
+### [4. Deep Dive Into OSPO](completed/LFR_LFAID_Deep_Dive_Open_Source_Program_Offices_CN_121522-finalized.pdf)
 
 1. 赵振华
 2. 皮冰锋
@@ -164,7 +164,7 @@ One tap mobile
 
 ## 术语
 
-遇到不确定如何翻译的术语及时在群里和SIG会议上讨论。常见术语请参考[Glossary](./glossary.md)
+遇到不确定如何翻译的术语及时在群里和SIG会议上讨论。常见术语请参考[Glossary](glossary.md)
 
 ## 项目流程
 
@@ -259,8 +259,8 @@ One tap mobile
 
 ## 大事记
 
-[History](./history.md)
+[History](history.md)
 
 ## 参考资料
 
-[CY T154—2017 中文出版物夹用英文的编辑标准](./reference/CY-T154—2017-中文出版物夹用英文的编辑标准.pdf)
+[CY T154—2017 中文出版物夹用英文的编辑标准](reference/CY-T154—2017-中文出版物夹用英文的编辑标准.pdf)
