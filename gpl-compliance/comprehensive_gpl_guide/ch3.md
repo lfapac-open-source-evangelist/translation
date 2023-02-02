@@ -1,8 +1,9 @@
 
 
-[]{#_bookmark42 .anchor}**CHAPTER 3**
+[**CHAPTER 3**]{#_bookmark42 .anchor}
 
-[]{#_bookmark42 .anchor}**第3章**
+
+[**第3章**]{#_bookmark42 .anchor}
 
 RUNNING SOFTWARE AND VERBATIM COPYING
 
