@@ -1,6 +1,6 @@
 
-[]{#_bookmark27 .anchor}**CHAPTER 2**
-[]{#_bookmark27 .anchor}**第2章**
+[**CHAPTER 2**]{#_bookmark27 .anchor}
+[**第2章**]{#_bookmark27 .anchor}
 
 A TALE OF TWO COPYLEFT LICENSES
 
@@ -18,10 +18,6 @@ However, the GPL had both earlier versions before version 2, and, more
 well known, a revision to version
 
 然而，GPL既有第二版之前的早期版本，也有更知名的第三版修订版。
-
-3\.
-
-3\.
 
 ## Historical Motivations for the General Public License
 
@@ -46,9 +42,9 @@ license that gave but did not assure software freedom would be counter
 to the goals of the GNU Project. RMS invented "copyleft" as an answer
 to that problem, and began using various copyleft
 
-licenses for the early GNU Project programs.[^1^](#_bookmark30)
+licenses for the early GNU Project programs.[^1](#_bookmark30)
 
-为了实现对完全兼容Unix的操作系统的应用、保证所有人的软件自由，Richard M. Stallman（RMS）于1984年创建“GUN Not Unix（GNU）”项目。然而，RMS发现使用许可证可以赋予却不能保证软件自由，这可能与GUN项目的目标背道而驰。于是RMS发明了“著佐权”来解决这个问题，并且开始在早期GNU项目程序中使用各种形式的著佐权许可证。[^1^](#_bookmark30)
+为了实现对完全兼容Unix的操作系统的应用、保证所有人的软件自由，Richard M. Stallman（RMS）于1984年创建“GUN Not Unix（GNU）”项目。然而，RMS发现使用许可证可以赋予却不能保证软件自由，这可能与GUN项目的目标背道而驰。于是RMS发明了“著佐权”来解决这个问题，并且开始在早期GNU项目程序中使用各种形式的著佐权许可证。[^1](#_bookmark30)
 
 ## Proto-GPLs And Their Impact
 
@@ -78,7 +74,7 @@ Namely, down-
 
 这个阐述简明的条款是著佐权的根本创新。具体来说，著佐权通过著作权所有者对修改作品的权限的控制，增加了一个条件，即：
 
-^1^[]{#_bookmark30 .anchor}RMS writes more fully about this topic in
+[^1]{#_bookmark30 .anchor}RMS writes more fully about this topic in
 his essay entitled simply [*The GNU
 Project*](http://www.gnu.org/gnu/thegnuproject.html) . For those who
 want to hear the story in his own voice, [speech
@@ -86,7 +82,7 @@ recordings](http://audio-video.gnu.org/audio/) of his talk, *The Free
 Software Movement and the GNU/Linux Operating System* are also widely
 available
 *
-^1^[]{#_bookmark30 .anchor}RMS在其题为[《GNU工程》](http://www.gnu.org/gnu/thegnuproject.html)的文章中更详细地描述了这个话题。他关于*自由软件运动和GNU/Linux操作系统*的[演讲录音](http://audio-video.gnu.org/audio/)也随处可见，那些想通过他的声音听故事的人可以轻松获取。
+[^1]{#_bookmark30 .anchor}RMS在其题为[《GNU工程》](http://www.gnu.org/gnu/thegnuproject.html)的文章中更详细地描述了这个话题。他关于*自由软件运动和GNU/Linux操作系统*的[演讲录音](http://audio-video.gnu.org/audio/)也随处可见，那些想通过他的声音听故事的人可以轻松获取。
 
 stream users may only have permission to modify the work if they pass
 along the same permissions on the modified version that came
@@ -110,9 +106,9 @@ address more of the issues discussed earlier in *§*
 In January 1989, the FSF announced that the GPL had been converted
 into a "subroutine" that could be reused not just for all
 FSF-copyrighted programs, but also by anyone else. As the FSF claimed
-in its announcement of the GPLv1:[^2^](#_bookmark33)
+in its announcement of the GPLv1:[^2](#_bookmark33)
 
-1989年1月，FSF宣布GPL已经被转换成为一个“子例程”，不仅可以被所有受FSF著作权保护的程序重复使用，还可以被任何其他人重复使用。正如FSF在GPLv1的公告中所宣称的那样：[^2^](#_bookmark33)
+1989年1月，FSF宣布GPL已经被转换成为一个“子例程”，不仅可以被所有受FSF著作权保护的程序重复使用，还可以被任何其他人重复使用。正如FSF在GPLv1的公告中所宣称的那样：[^2](#_bookmark33)
 
 To make it easier to copyleft programs, we have been improving on the
 legalbol architecture of the General Public License to produce a new
@@ -128,11 +124,11 @@ get to a generalized, reusable GPLv1. In the context and mindset of
 the 1980s, this is not surprising. The idea of reusable licensing
 infrastructure was not only uncommon, it was virtually nonexistent!
 Even the early BSD licenses were simply copied and rewritten slightly
-for each new use.[^3^](#_bookmark34) The GPLv1's innovation of
+for each new use.[^3](#_bookmark34) The GPLv1's innovation of
 reusable licensing infrastructure, an obvious fact today, was indeed a
-novel invention for its day.[^4^](#_bookmark35)
+novel invention for its day.[^4](#_bookmark35)
 
-这一点，就像许多具有创造性的想法一样，回想起来似乎是显而易见的。但是，FSF在成立之初拥有一些人才，也能接触到优秀的律师。从第一个著佐权许可证到形成通用的、可重复使用的GPLv1，花了将近五年的时间。在20世纪80年代的背景和思维模式下，这并不奇怪。可重复使用基础许可的想法不仅不常见，而且几乎不存在！即使是早期的BSD许可证也只是通过简单地复制和改写来适应每个新用途。[^3^](#_bookmark34)GPLv1对可重复使用基础许可的创新，在今天是显而易见的事实，在当时确实是一项新颖的发明。[^4^](#_bookmark35)
+这一点，就像许多具有创造性的想法一样，回想起来似乎是显而易见的。但是，FSF在成立之初拥有一些人才，也能接触到优秀的律师。从第一个著佐权许可证到形成通用的、可重复使用的GPLv1，花了将近五年的时间。在20世纪80年代的背景和思维模式下，这并不奇怪。可重复使用基础许可的想法不仅不常见，而且几乎不存在！即使是早期的BSD许可证也只是通过简单地复制和改写来适应每个新用途。[^3](#_bookmark34)GPLv1对可重复使用基础许可的创新，在今天是显而易见的事实，在当时确实是一项新颖的发明。[^4](#_bookmark35)
 
 ## The GNU General Public License, Version 2
 
@@ -150,14 +146,14 @@ is worth noting below the three key changes that GPLv2 brought:
 
 虽然本指南不详细讨论GPLv1的条款，但GPLv2带来的三个关键变化值得一提：
 
--   Software patents and their danger are explicitly mentioned, inspiring (in part) the addition of GPLv2 *§§*5--7. (These sections are discussed in detail in *§*[7.2,](#gplv2-5-acceptance-copyright-style) *§*[7.3](#gplv2-6-gpl-my-one-and-only) and *§*[7.5](#gplv2-7-give-software-liberty-or-give-it-death) of this tutorial.)
--   软件专利及其风险被明确提及，(在一定程度上)激发了GPLv2 *§§*5-7的加入。(这些部分将在本指南的*§*[7.2](#gplv2-5-acceptance-copyright-style)、*§*[7.3](#gplv2-6-gpl-my-one-and-only)和*§*[7.5](#gplv2-7-give-software-liberty-or-give-it-death)中详细讨论。)
+-   Software patents and their danger are explicitly mentioned, inspiring (in part) the addition of GPLv2 §§5--7. (These sections are discussed in detail in §[7.2,](#gplv2-5-acceptance-copyright-style) §[7.3](#gplv2-6-gpl-my-one-and-only) and §[7.5](#gplv2-7-give-software-liberty-or-give-it-death) of this tutorial.)
+-   软件专利及其风险被明确提及，(在一定程度上)激发了GPLv2 §§5-7的加入。(这些部分将在本指南的§[7.2](#gplv2-5-acceptance-copyright-style)、§[7.3](#gplv2-6-gpl-my-one-and-only)和§[7.5](#gplv2-7-give-software-liberty-or-give-it-death)中详细讨论。)
 
--   GPLv2 *§*2's copyleft terms are expanded to more explicitly discuss the issue of combined works. (GPLv2 *§*2 is discussed in detail in *§* [5.1](#gplv2-2-share-and-share-alike) in this tutorial).
-- GPLv2 *§*2的著佐权术语得到了扩展，可以更明确地讨论组合作品的问题。(GPLv2 *§*2将在本指南的*§* [5.1](#gplv2-2-share-and-share-alike)中详细讨论)。
+-   GPLv2 §2's copyleft terms are expanded to more explicitly discuss the issue of combined works. (GPLv2 *§*2 is discussed in detail in *§* [5.1](#gplv2-2-share-and-share-alike) in this tutorial).
+- GPLv2 §2的著佐权术语得到了扩展，可以更明确地讨论组合作品的问题。(GPLv2 §2将在本指南的§[5.1](#gplv2-2-share-and-share-alike)中详细讨论)。
 
--   GPLv2 *§*3 includes more detailed requirements, including the phrase "the scripts used to control compi- lation and installation of the executable", which is a central component of current GPLv2 enforcement. (GPLv2 *§*3 is discussed in detail in *§*[5.2](#gplv2-3-producing-binaries) in this tutorial).
--   GPLv2 *§*3包含了更详细的需求，包括短语“用于控制可执行文件的编译和安装的脚本”，这是当前GPLv2实施的核心组件。(GPLv2 *§*3将在本指南的*§*[5.2](#gplv2-3-producing-binaries)中详细讨论)。
+-   GPLv2 §3 includes more detailed requirements, including the phrase "the scripts used to control compi- lation and installation of the executable", which is a central component of current GPLv2 enforcement. (GPLv2 §3 is discussed in detail in §[5.2](#gplv2-3-producing-binaries) in this tutorial).
+-   GPLv2 §3包含了更详细的需求，包括短语“用于控制可执行文件的编译和安装的脚本”，这是当前GPLv2实施的核心组件。(GPLv2 §3将在本指南的§[5.2](#gplv2-3-producing-binaries)中详细讨论)。
 
 The next chapter discusses GPLv2 in full detail, and readers who wish
 to dive into the section-by-section discussion of the GPL should jump
@@ -167,16 +163,16 @@ commentary. This contrasts greatly with the creation of GPLv3.
 
 下一章将详细讨论GPLv2，希望深入了解GPL逐节讨论的读者现在可以跳到那一章。然而，这里要指出的最有趣的事实是，GPLv2是如何在没有大肆宣传和有限报道的情况下发布的。这与GPLv3的诞生形成了鲜明对比。
 
-^2^[]{#_bookmark33 .anchor}The announcement of GPLv1 was published in
+[^2]{#_bookmark33 .anchor}The announcement of GPLv1 was published in
 the [GNU's Bulletin, vol 1, number 6 dated January
 1989.](http://www.gnu.org/bulletins/bull6.html#SEC8) (Thanks very
-mu[]{#_bookmark34 .anchor}ch to Andy Tai for his [consolidation of
+much to Andy Tai for his [consolidation of
 research on the history of the pre-v1
 GPL's.)](http://www.free-soft.org/gpl_history/)
 
-^2^[]{#_bookmark33 .anchor}GPLv1的公告发表在1989年1月的[GNU公报第1卷第6期](http://www.gnu.org/bulletins/bull6.html#SEC8)。(非常感谢Andy Tai[对GPL v1之前的历史进行的整合研究](http://www.free-soft.org/gpl_history/)。)
+[^2]{#_bookmark33 .anchor}GPLv1的公告发表在1989年1月的[GNU公报第1卷第6期](http://www.gnu.org/bulletins/bull6.html#SEC8)。(非常感谢Andy Tai[对GPL v1之前的历史进行的整合研究](http://www.free-soft.org/gpl_history/)。)
 
-^3^[]{#_bookmark34 .anchor}It remains an interesting accident of history that the early BSD
+[^3]{#_bookmark34 .anchor}It remains an interesting accident of history that the early BSD
 problematic "advertising clause" (discussion of which is somewhat
 beyond the scope of this tutorial) lives on into current day, simply
 because while the University of California at Berkeley gave unilateral
@@ -184,13 +180,13 @@ permission to remove the clause from *its* copyrighted works, others
 who adapted the BSD license with their own
 names in place of UC-Berkeley's never have.
 
-^3^[]{#_bookmark34 .anchor}早期BSD有问题的“广告条款”(关于它的讨论在某种程度上超出了本指南的范围)直到今天依然存在，这一直是历史上一个有趣的偶然事件，仅仅是因为当加州大学伯克利分校单方面允许从其受著作权保护的作品中删除该条款时，那些修改BSD许可证时用自己的名字代替加州大学伯克利分校的其他组织却从来没有这样做。
+[^3]{#_bookmark34 .anchor}早期BSD有问题的“广告条款”(关于它的讨论在某种程度上超出了本指南的范围)直到今天依然存在，这一直是历史上一个有趣的偶然事件，仅仅是因为当加州大学伯克利分校单方面允许从其受著作权保护的作品中删除该条款时，那些修改BSD许可证时用自己的名字代替加州大学伯克利分校的其他组织却从来没有这样做。
 
-^4^[]{#_bookmark35 .anchor}We're all just grateful that the FSF also opposes business method
+[^4]{#_bookmark35 .anchor}We're all just grateful that the FSF also opposes business method
 patents, since the FSF's patent on a "method for reusable licensing
 infrastructure" would have not expired until 2006!
 
-^4^[]{#_bookmark35 .anchor}我们都很感激FSF也反对商业方法专利，因为FSF的专利作为一种“可重复使用的基础许可模式”到2006年才失效！
+[^4]{#_bookmark35 .anchor}我们都很感激FSF也反对商业方法专利，因为FSF的专利作为一种“可重复使用的基础许可模式”到2006年才失效！
 
 ## The GNU General Public License, Version 3
 
@@ -200,7 +196,7 @@ RMS began drafting GPLv2.2 in mid-2002, and FSF ran a few discussion
 groups during that era about new text of that license. However,
 rampant violations of the GPL required more immediate attention of
 FSF's licensing staff, and as such, much of the early 2000's was spent
-doing GPL enforcement work.[^5^](#_bookmark38) In 2006, FSF began in
+doing GPL enforcement work.[^5](#_bookmark38) In 2006, FSF began in
 earnest drafting work for GPLv3.
 
 RMS在2002年年中开始起草GPLv2.2, FSF在那个时期组织了一些讨论小组，讨论该许可证的新文本。然而，猖獗的GPL侵权行为需要FSF的授权人员更加及时的关注，因此，2000年早期的大部分时间都花在了GPL的实施工作上。5 2006年，FSF正式开始GPLv3的起草工作。
@@ -268,7 +264,7 @@ indicated in shorthand by saying the license is simply "GPL"), or
 - name a specific version of GPL and give downstream recipients the
 option to choose that version "or any later version as published by
 the FSF" (usually indicated by saying the license is
-"GPLv*X*-or-later")[^6^](#_bookmark39)
+"GPLv*X*-or-later")[^6](#_bookmark39)
 
 - 指定一个特定的GPL版本，并让下游接收者选择该版本“或由FSF发布的任何更高版本”（一般会说许可证是“GPLv*X*或更高版本”）。[^6^](#_bookmark39)
 
@@ -298,12 +294,12 @@ using those licenses seems to
 
 在GPL之后出现的其他著佐权许可证，如知识共享“署名-相同方式共享”许可证、Eclipse公共许可证和Mozilla公共许可证要求所有选择使用这些许可证的任何版本的著作权所有者自动允许在新版本下使用其受著作权保护的作品。7 当然，知识共享组织、Eclipse基金会和Mozilla基金会（像FSF一样）通常都是他们自己的许可证的优秀管理员。使用这些许可证的著作权所有者似乎
 
-[^5^]{#_bookmark38 .anchor}More on GPL
+[^5]{#_bookmark38 .anchor}More on GPL
 enforcement is discussed in Part [II](#_bookmark169) of this tutorial.
 
-[^5^]{#_bookmark38 .anchor}关于GPL实施的更多内容将在本指南的第[二](#_bookmark169)部分中讨论.
+[^5]{#_bookmark38 .anchor}关于GPL实施的更多内容将在本指南的第[二](#_bookmark169)部分中讨论.
 
-[^6^]{#_bookmark39 .anchor}The shorthand of "GPL*X*+" is also popular for this situation. The
+[^6]{#_bookmark39 .anchor}The shorthand of "GPL*X*+" is also popular for this situation. The
 authors of this tutorial prefer "-or-later" syntax, because it (a)
 mirrors the words "or" and "later from the licensing statement, (b)
 the *X*+ doesn't make it abundantly clear that *X* is clearly included
@@ -311,13 +307,13 @@ as a license option and (c) the + symbol has other uses in computing
 (such as with regular expressions) that []{#_bookmark40 .anchor}mean
 something different.
 
-[^6^]{#_bookmark39 .anchor}“GPLX+”的简写在这种情况下也很流行。本指南的作者更倾向于使用“或更高版本”语法，因为它：(a)反映了许可陈述中的单词“or（或）”和“later（更高版本）”；(b) X+不能非常清楚地表明许可选项中包含X；(c) +符号在计算中有其他用途（例如正则表达式），其含义不同。
+[^6]{#_bookmark39 .anchor}“GPLX+”的简写在这种情况下也很流行。本指南的作者更倾向于使用“或更高版本”语法，因为它：(a)反映了许可陈述中的单词“or（或）”和“later（更高版本）”；(b) X+不能非常清楚地表明许可选项中包含X；(c) +符号在计算中有其他用途（例如正则表达式），其含义不同。
 
-[^7^]{#_bookmark40 .anchor}CC-BY-SA-2.0 and greater only permit licensing of adaptations under
+[^7]{#_bookmark40 .anchor}CC-BY-SA-2.0 and greater only permit licensing of adaptations under
 future versions; 1.0 did not have any accomodation for future version
 compatibility.
 
-[^7^]{#_bookmark40 .anchor}CC-BY-SA-2.0及更高版本只允许未来版本的改编许可；1.0没有为将来的版本兼容性做任何安排。
+[^7]{#_bookmark40 .anchor}CC-BY-SA-2.0及更高版本只允许未来版本的改编许可；1.0没有为将来的版本兼容性做任何安排。
 
 find it acceptable to fully delegate all future licensing decisions
 for their copyrights to these organizations without a second thought.
