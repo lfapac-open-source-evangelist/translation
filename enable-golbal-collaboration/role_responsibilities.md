@@ -9,8 +9,8 @@
 | 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
 | ----| -- | ---------------------------------------------------------------- | ------- | ------ |
 | 赵振华 | 赵振华   | 全书统稿 |                                                              |         |        |
-|  |   |  00-front-cover and contents.md | 2 |   |
-|  |  |  01-foreword and summary.md       | 5 | |
+|  王永雷|   |  00-front-cover and contents.md | 2 |   |
+|  王永雷|  |  01-foreword and summary.md       | 5 | |
 |  |  |  02-Enabling Innovation and Collaboration       | 4 | |
 |  |  |  03-Promoting Global Inclusion       | 4 | |
 |  |  |  04-Transcending Techno-Nationalism       | 4  | |
