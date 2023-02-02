@@ -94,10 +94,10 @@ originally to them.
 These original program-specific proto-GPLs give an interesting window
 into the central ideas and devel- opment of copyleft. In particular,
 reviewing them shows how the text of the GPL we know has evolved to
-address more of the issues discussed earlier in *§*
+address more of the issues discussed earlier in §
 [1.2.3.](#software-and-non-copyright-legal-regimes)
 
-这些起初特定于程序的原始GPL提供了一个了解著佐权的中心思想和发展的有趣窗口。此外，仔细研究它们可以看到我们熟悉的GPL文本是如何逐步演变以解决前面*§*
+这些起初特定于程序的原始GPL提供了一个了解著佐权的中心思想和发展的有趣窗口。此外，仔细研究它们可以看到我们熟悉的GPL文本是如何逐步演变以解决前面§
 [1.2.3.](#software-and-non-copyright-legal-regimes)中讨论过的更多问题的。
 
 ## The GNU General Public License, Version 1
