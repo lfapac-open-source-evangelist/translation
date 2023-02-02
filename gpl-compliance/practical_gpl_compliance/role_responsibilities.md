@@ -1,8 +1,8 @@
-# 英文原版
-1. [Practical GPL Compliance](../../attachments/Practical_GPL_Compliance_Digital.pdf)
+# Practical GPL Compliance
 
+## 1. [英文原版](../../attachments/Practical_GPL_Compliance_Digital.pdf)
 
-# 认领列表
+## ２．认领列表
 
 | 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
 | ----| -- | ---------------------------------------------------------------- | ------- | ------ |
