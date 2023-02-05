@@ -11,7 +11,7 @@
 | 赵振华 | 赵振华   | 全书统稿 |                                                              |         |        |
 |  王永雷|   |  00-front-cover and contents.md | 2 |   |
 |  王永雷|  |  01-foreword and summary.md       | 5 | |
-|  |  |  02-Enabling Innovation and Collaboration       | 4 | |
+|  Xiaobin.Liu |  |  02-Enabling Innovation and Collaboration       | 4 | |
 |  |  |  03-Promoting Global Inclusion       | 4 | |
 |  |  |  04-Transcending Techno-Nationalism       | 4  | |
 |  |  |  05-Breaking Down the Governance Silos     | 6 | |
