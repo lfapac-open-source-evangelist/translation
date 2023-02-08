@@ -4,9 +4,9 @@
 | --------------- | ------- | --------------------------------------------- | -------------- | ------------ |
 | 赵振华          | 赵振华  | 全书统稿                                      |                |              |
 | 杨振涛           |         | 00.md (Cover, Infographic, Contents)          | 4              |              |
-| 杨振涛          |         | 01.md (Abstract)                              | 1              |              |
-| 杨振涛          |         | 02.md (Introduction)                          | 2              |              |
-| 杨振涛          |         | 03.md (Initial investigations)                | 1              |              |
+| 杨振涛          |  赵梅      | 01.md (Abstract)                              | 1              |              |
+| 杨振涛          |  赵梅      | 02.md (Introduction)                          | 2              |              |
+| 杨振涛          |   赵梅     | 03.md (Initial investigations)                | 1              |              |
 | bingfeng,王誓伟 |         | 04.md (Project funding, Legal considerations) | 3              |              |
 | Xiaobin.Liu     | zhaozhi | 05.md  (Project branding)                     | 3              |              |
 | zhaozhi         | 杨振涛  | 06.md (Project launch)                        | 1              | 11-12        |
