@@ -8,22 +8,23 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 
 ## 活跃志愿者
 
-| 姓名  | English    | github          | 微信ID            | 微信昵称     | 擅长与兴趣 | 单位         | email                                                     |
-| --- | ---------- | --------------- | --------------- | -------- | -------- | ---------- | --------------------------------------------------------- |
-| 赵振华 | Rich Zhao  | zRich           | richzhao        | 锐旗       | 区块链，开源合规与安全，项目运营  |         | zhao.zhenhua@gmail.com |
-| 皮冰锋 | Winter Pi  | winterpi        | 19688624        | bingfeng |         |   | pi.bingfeng@gmail.com   |
-| 阎书利 | Shuli Yan  | T1YSL           | ysl201602430923 | 小怪兽      | 数据安全，开源数据库源码分析，信创    |     | 13624113201@163.com         |
-| 周冉  | Julia Zhou | JuliaZhou2022   | JuliaZhou1816   | 如梦       |         |   | juliazhou2022@gmail.com |
-| 徐斌  | Bruce Xu   | voidxb          | xb3150102384    | Bruce    |          | | 2016165068@qq.com             |
-| 马景贺 | Mike       | majinghe        | majinghe11      | 小马哥      |    | 极狐(GitLab) | devops008@sina.com           |
-| 王玉茂 | Amelia     | Ameliawangyumao | amelia\_2020    | Amelia   |  |   华为     | ameliawang375@gmail.com                                   |
-| 王永雷 | Leo Wang   | wangleo61       | 15900935447     | 永雷       |     |       | wangleo61@outlook.com     |
-| 全继安 | Paul Quan  |                 | 13570988065     | paul安    |      |      | 706309392@qq.com               |
-| 滕召智 | Ben Teng   | freet15         | freet15         | Ben      |       |     | freet15@gmail.com             |
-| 孙振华 | Zhenhua Sun   | sunzhh02         | zhenhua-sun| 振华      |       |     | zhenhua.alan@icloud.com             |
-| 刘洁    | Jie Liu   | arnuojo        | arnuojo| arnuojo     |     |       | arnuojo@163.com             |
-| 周黎    | ZHOU Li   | coolzhouly      | zhuiyue415| 狸叔   |  信息安全，新基建，项目管理  |       | coolzhoulyAT163.com            |
-| 刘晓斌 | Xiaobin Liu | lxbwolf | | | | | me@liuxb.email |
+| 姓名    | English      | github           | 微信ID           | 微信昵称  | 擅长与兴趣                           | 单位         | email                    |
+| ------ | ----------- | --------------- | --------------- | -------- | -------------------------------- | ------------ | ----------------------- |
+| 赵振华 | Rich Zhao   | zRich           | richzhao        | 锐旗     | 区块链，开源合规与安全，项目运营 |              | zhao.zhenhua@gmail.com  |
+| 皮冰锋 | Winter Pi   | winterpi        | 19688624        | bingfeng |                                  |              | pi.bingfeng@gmail.com   |
+| 阎书利 | Shuli Yan   | T1YSL           | ysl201602430923 | 小怪兽   |                                  |              | 13624113201@163.com     |
+| 周冉   | Julia Zhou  | JuliaZhou2022   | JuliaZhou1816   | 如梦     |                                  |              | juliazhou2022@gmail.com |
+| 徐斌   | Bruce Xu    | voidxb          | xb3150102384    | Bruce    |                                  |              | 2016165068@qq.com       |
+| 马景贺 | Mike        | majinghe        | majinghe11      | 小马哥   |                                  | 极狐(GitLab) | devops008@sina.com      |
+| 王玉茂 | Amelia      | Ameliawangyumao | amelia\_2020    | Amelia   |                                  | 华为         | ameliawang375@gmail.com |
+| 王永雷 | Leo Wang    | wangleo61       | 15900935447     | 永雷     |                                  |              | wangleo61@outlook.com   |
+| 全继安 | Paul Quan   |                 | 13570988065     | paul安   |                                  |              | 706309392@qq.com        |
+| 滕召智 | Ben Teng    | freet15         | freet15         | Ben      |                                  |              | freet15@gmail.com       |
+| 孙振华 | Zhenhua Sun | sunzhh02        | zhenhua-sun     | 振华     |                                  |              | zhenhua.alan@icloud.com |
+| 刘洁   | Jie Liu     | arnuojo         | arnuojo         | arnuojo  |                                  |              | arnuojo@163.com         |
+| 周黎   | ZHOU Li     | coolzhouly      | zhuiyue415      | 狸叔     | 信息安全，新基建，项目管理       |              | coolzhoulyAT163.com     |
+| 刘晓斌 | Xiaobin Liu | lxbwolf         |                 |          |                                  |              | me@liuxb.email          |
+|  赵梅   | Teri Zhao    |   terizhao   |    teri_zhao     |   小梅子   |    虚拟化，存储，项目管理，社区运营   |      VMware        |  terizhao@gmail.com                 |
 | 杨振涛 | Chris Yang | node | nodexy | Chris杨子江 | DevOps,Search engine,OSPO| vivo | nodexy@gmail.com |
 | 李明康 | Bright Li | nliver | Github_Li | 明说 | DevRel，开源运营，DevOps,OSPO | 开源社 | slibre@163.com |
 
