@@ -23,6 +23,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 孙振华 | Zhenhua Sun   | sunzhh02         | zhenhua-sun| 振华      |       |     | zhenhua.alan@icloud.com             |
 | 刘洁    | Jie Liu   | arnuojo        | arnuojo| arnuojo     |     |       | arnuojo@163.com             |
 | 周黎    | ZHOU Li   | coolzhouly      | zhuiyue415| 狸叔   |  信息安全，新基建，项目管理  |       | coolzhoulyAT163.com            |
+| 刘晓斌 | Xiaobin Liu | lxbwolf | | | | | me@liuxb.email |
 
 ## SIG例会
 
