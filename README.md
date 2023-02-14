@@ -25,6 +25,8 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 周黎   | ZHOU Li     | coolzhouly      | zhuiyue415      | 狸叔     | 信息安全，新基建，项目管理       |              | coolzhoulyAT163.com     |
 | 刘晓斌 | Xiaobin Liu | lxbwolf         |                 |          |                                  |              | me@liuxb.email          |
 |  赵梅   | Teri Zhao    |   terizhao   |    teri_zhao     |   小梅子   |    虚拟化，存储，项目管理，社区运营   |      VMware        |  terizhao@gmail.com                 |
+| 杨振涛 | Chris Yang | node | nodexy | Chris杨子江 | DevOps,Search engine,OSPO| vivo | nodexy@gmail.com |
+| 李明康 | Bright Li | nliver | Github_Li | 明说 | DevRel，开源运营，DevOps,OSPO | 开源社 | slibre@163.com |
 
 ## SIG例会
 
