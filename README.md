@@ -24,6 +24,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 刘洁    | Jie Liu   | arnuojo        | arnuojo| arnuojo     |     |       | arnuojo@163.com             |
 | 周黎    | ZHOU Li   | coolzhouly      | zhuiyue415| 狸叔   |  信息安全，新基建，项目管理  |       | coolzhoulyAT163.com            |
 | 刘晓斌 | Xiaobin Liu | lxbwolf | | | | | me@liuxb.email |
+| 杨振涛 | Chris Yang | node | nodexy | Chris杨子江 | DevOps,Search engine,OSPO| vivo | nodexy@gmail.com |
 
 ## SIG例会
 
