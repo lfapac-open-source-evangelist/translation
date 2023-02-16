@@ -12,7 +12,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | ------ | ----------- | --------------- | --------------- | -------- | -------------------------------- | ------------ | ----------------------- |
 | 赵振华 | Rich Zhao   | zRich           | richzhao        | 锐旗     | 区块链，开源合规与安全，项目运营 |              | zhao.zhenhua@gmail.com  |
 | 皮冰锋 | Winter Pi   | winterpi        | 19688624        | bingfeng |                                  |              | pi.bingfeng@gmail.com   |
-| 阎书利 | Shuli Yan   | T1YSL           | ysl201602430923 | 小怪兽   |                                  |              | 13624113201@163.com     |
+| 阎书利 | Shuli Yan   | T1YSL           | ysl201602430923 | 小怪兽   | 数据安全，开源数据库源码分析，信创|              | 13624113201@163.com     |
 | 周冉   | Julia Zhou  | JuliaZhou2022   | JuliaZhou1816   | 如梦     |                                  |              | juliazhou2022@gmail.com |
 | 徐斌   | Bruce Xu    | voidxb          | xb3150102384    | Bruce    |                                  |              | 2016165068@qq.com       |
 | 马景贺 | Mike        | majinghe        | majinghe11      | 小马哥   |                                  | 极狐(GitLab) | devops008@sina.com      |
