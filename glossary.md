@@ -23,6 +23,17 @@
 ### Procrastinator
 
 保守者
+### Mentor
+
+导师
+
+### Mentee
+
+学员 
+
+### Mentorship
+
+导师制/导师关系 
 
 ## 安全
 
