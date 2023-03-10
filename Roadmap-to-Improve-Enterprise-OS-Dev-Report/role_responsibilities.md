@@ -4,7 +4,7 @@
 
 [Roadmap to Improve Enterprise OS Dev Report](../attachments/Roadmap-to-Improve-Enterprise-OS-Dev-Report.pdf)
 
-＃# 认领列表
+## 认领列表
 
 | 翻译 | 校对  |  任务                                                               | 页（英文原版） | 预计完成时间 |
 | ----| -- | ---------------------------------------------------------------- | ------- | ------ |
