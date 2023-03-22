@@ -187,8 +187,6 @@ One tap mobile
 ![One Page Onboarding](./images/onboarding.png)
 
 
-![流程说明](https://ipic.zoomquiet.top/2023-03-22-LFAPAC-proj-flow.jpeg)
-
 ## 要求
 
 ## 视频版
