@@ -29,6 +29,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 李明康 | Bright Li | nliver | Github_Li | 明说 | DevRel，开源运营，DevOps,OSPO | 开源社 | slibre@163.com |
 | 琚攀攀 | Panpan Ju | cherrysx | fgnxpp | PPJ | HPC |  | 280056663@qq.com |
 | 张晓辉 | Addo Zhang | addozhang | addo_zhang | 大头² Addo | 云原生、Kubernetes、微服务、DevOps| Flomesh | duwasai@gmail.com |
+| 周琦 | Zoom Quiet | zoomquiet | zoomquiet | 大妈 | Pythonic/开发者关系/社区运营 | 101.camp | zoomquiet+lf@gmail.com |
 
 ## SIG例会
 
@@ -213,6 +214,9 @@ One tap mobile
 | g | LFAPAC 团队将在 LFAPAC 微信公众号推送文章。  | LFAPAC                |
 
 **注：非LF出版的内容，可以SIG主席、主编、自愿者商议如何出版、排版等。**
+
+
+![流程说明](https://ipic.zoomquiet.top/2023-03-22-LFAPAC-proj-flow.jpeg)
 
 ## 要求
 
