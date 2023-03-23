@@ -13,7 +13,7 @@
 |  王永雷|  |  01-foreword and summary.md       | 5 | |
 |  Xiaobin.Liu |  |  02-Enabling Innovation and Collaboration       | 4 | |
 |  |  |  03-Promoting Global Inclusion       | 4 | |
-|  |  |  04-Transcending Techno-Nationalism       | 4  | |
-| 周黎 |  |  05-Breaking Down the Governance Silos     | 6 | |
+| Bruce |  |  04-Transcending Techno-Nationalism       | 4  | |
+| 周黎 |  |  05-Breaking Down the Governance Silos     | 6 | 20230221已完成初稿|
 | |  |  06-conclusion.md | 5 | |
 | |  |  07-others | 3 | |
