@@ -1,11 +1,7 @@
 
-[**CHAPTER 2**]{#_bookmark27 .anchor}
+## CHAPTER 2 A TALE OF TWO COPYLEFT LICENSES
 
-[**第2章**]{#_bookmark27 .anchor}
-
-A TALE OF TWO COPYLEFT LICENSES
-
-两个著佐权许可证的故事
+## 第2章 两个著佐权许可证的故事
 
 While determining the proper methodology and criteria to yield an
 accurate count remains difficult, the GPL is generally considered one
@@ -20,9 +16,9 @@ well known, a revision to version
 
 然而，GPL既有第二版之前的早期版本，也有更知名的第三版修订版。
 
-## Historical Motivations for the General Public License
+### Historical Motivations for the General Public License
 
-## 2.1 通用公共许可证的历史动因
+### 2.1 通用公共许可证的历史动因
 
 The earliest license to grant software freedom was likely the Berkeley
 Software Distribution ("BSD") license. This license is typical of what
@@ -47,9 +43,9 @@ licenses for the early GNU Project programs.[^1](#_bookmark30)
 
 为了实现对完全兼容Unix的操作系统的应用、保证所有人的软件自由，Richard M. Stallman（RMS）于1984年创建“GUN Not Unix（GNU）”项目。然而，RMS发现使用许可证可以赋予却不能保证软件自由，这可能与GUN项目的目标背道而驰。于是RMS发明了“著佐权”来解决这个问题，并且开始在早期GNU项目程序中使用各种形式的著佐权许可证。[^1](#_bookmark30)
 
-## Proto-GPLs And Their Impact
+### Proto-GPLs And Their Impact
 
-## 2.2 原始GPL及其影响
+### 2.2 原始GPL及其影响
 
 The earliest copyleft licenses were specific to various GNU programs.
 For example, The Emacs General Public License was likely the first
@@ -100,9 +96,9 @@ address more of the issues discussed earlier in §
 这些起初特定于程序的原始GPL提供了一个了解著佐权的中心思想和发展的有趣窗口。此外，仔细研究它们可以看到我们熟悉的GPL文本是如何逐步演变以解决前面§
 [1.2.3.](#software-and-non-copyright-legal-regimes)中讨论过的更多问题的。
 
-## The GNU General Public License, Version 1
+### The GNU General Public License, Version 1
 
-## 2.3 GNU通用公共许可证，第一版
+### 2.3 GNU通用公共许可证，第一版
 
 In January 1989, the FSF announced that the GPL had been converted
 into a "subroutine" that could be reused not just for all
@@ -131,9 +127,9 @@ novel invention for its day.[^4](#_bookmark35)
 
 这一点，就像许多具有创造性的想法一样，回想起来似乎是显而易见的。但是，FSF在成立之初拥有一些人才，也能接触到优秀的律师。从第一个著佐权许可证到形成通用的、可重复使用的GPLv1，花了将近五年的时间。在20世纪80年代的背景和思维模式下，这并不奇怪。可重复使用基础许可的想法不仅不常见，而且几乎不存在！即使是早期的BSD许可证也只是通过简单地复制和改写来适应每个新用途。[^3](#_bookmark34)GPLv1对可重复使用基础许可的创新，在今天是显而易见的事实，在当时确实是一项新颖的发明。[^4](#_bookmark35)
 
-## The GNU General Public License, Version 2
+### The GNU General Public License, Version 2
 
-## 2.4 GNU通用公共许可证，第二版
+### 2.4 GNU通用公共许可证，第二版
 
 The GPLv2 was released two and a half years after GPLv1, and over the
 following sixteen years, it became the standard for copyleft licensing
@@ -189,9 +185,9 @@ infrastructure" would have not expired until 2006!
 
 [^4]{#_bookmark35 .anchor}我们都很感激FSF也反对商业方法专利，因为FSF的专利作为一种“可重复使用的基础许可模式”到2006年才失效！
 
-## The GNU General Public License, Version 3
+### The GNU General Public License, Version 3
 
-## 2.5 GNU通用公共许可证，第三版
+### 2.5 GNU通用公共许可证，第三版
 
 RMS began drafting GPLv2.2 in mid-2002, and FSF ran a few discussion
 groups during that era about new text of that license. However,
@@ -232,9 +228,9 @@ GPLv3 and its terms are discussed in detail in Chapter
 
 GPLv3及其术语将在第[9](#_bookmark93)章中详细讨论。
 
-## The Innovation of Optional "Or Any Later" Version
+### The Innovation of Optional "Or Any Later" Version
 
-## 2.6 可选“或任何后来”版本的创新
+### 2.6 可选“或任何后来”版本的创新
 
 An interesting fact of all GPL licenses is that there are ultimately
 multiple choices for use of the license. The FSF is the primary
@@ -335,9 +331,9 @@ designation clause discussed in Section
 
 但是请注意，FSF在此赋予了著作权所有者决策权，他们可以决定是否在起草未来GPL版本的工作中绝对信任FSF。就FSF而言，它确实鼓励著作权所有者默认选择“GPLv*X*或更高版本”（其中*X*是FSF发布的GPL的最新版本）。然而，FSF并**没有强制**要求选择使用任何GPL需要著作权所有者将其未来许可决策的权力交给FSF。事实上，FSF考虑了GPLv3的这种可能性却选择不这样做，而是选择了[9.17.](#gplv3-14-so-whens-gplv4)节中讨论的第三方管理指定条款。
 
-## Complexities of Two Simultaneously Popular Copylefts
+### Complexities of Two Simultaneously Popular Copylefts
 
-## 2.7 两个著佐权同时普遍使用的复杂性
+### 2.7 两个著佐权同时普遍使用的复杂性
 
 Obviously most GPL advocates would prefer widespread migration to
 GPLv3, and many newly formed projects who seek a copyleft license tend

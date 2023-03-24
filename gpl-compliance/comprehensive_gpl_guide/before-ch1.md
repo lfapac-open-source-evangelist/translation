@@ -1,53 +1,25 @@
 
-Copyleft and the
+# Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide
 
-GNU General Public License:
+Copyright &copy; 2018      Chestek Legal.
 
-A Comprehensive Tutorial and Guide
+Copyright &copy; 2003--2005, 2008, 2014--2015, 2018        Bradley M. Kuhn.
 
-Copyright c Copyright c Copyright c Copyright c Copyright c Copyright
-c
+Copyright &copy; 2014--2015        Anthony K. Sebro, Jr.
 
-2018 Chestek Legal.
+Copyright &copy; 2014              Denver Gingerich.
 
-2003--2005, 2008, 2014--2015, 2018 Bradley M. Kuhn.
+Copyright &copy; 2003--2007, 2014  Free Software Foundation, Inc.
 
-2014--2015 Anthony K. Sebro, Jr.
+Copyright &copy; 2008, 2014        Software Freedom Law Center.
 
-2014 Denver Gingerich.
+The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B](#_bookmark256)[--E](#_bookmark261)) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
 
-2003--2007, 2014 Free Software Foundation, Inc.
+Appendices [B--E](#_bookmark261) include copies of the texts of various licenses published by the FSF, and they are all licensed under the license, "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.". However, those who seek to make modified versions of those licenses should note the [explanation given in the GPL FAQ.](https://www.gnu.org/licenses/gpl-faq.html#ModifyGPL)
 
-2008, 2014 Software Freedom Law Center.
+As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog/master/) for full documentation of all contributions, and Appendix [A](#_bookmark255) contains a list of third-party works from which some material herein was adapted.
 
-The copyright holders grant the freedom to copy, modify, convey,
-adapt, and/or redistribute this work (except Appendices
-[B](#_bookmark256)[--E](#_bookmark261)) under the terms of the
-Creative Commons Attribution Share Alike 4.0 International License. A
-copy of that license is available at
-<https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
-
-Appendices [B--E](#_bookmark261) include copies of the texts of
-various licenses published by the FSF, and they are all licensed under
-the license, "Everyone is permitted to copy and distribute verbatim
-copies of this license document, but changing it is not allowed.".
-However, those who seek to make modified versions of those licenses
-should note the [explanation given in the GPL
-FAQ.](https://www.gnu.org/licenses/gpl-faq.html#ModifyGPL)
-
-As a public, collaborative project, this Guide is primarily composed
-of the many contributions received via its [public contribution
-process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md)
-Please [review its Git
-logs](https://k.copyleft.org/guide/changelog/master/) for full
-documentation of all contributions, and Appendix [A](#_bookmark255)
-contains a list of third-party works from which some material herein
-was adapted.
-
-The most recent version is available online at
-<https://copyleft.org/guide/>. Patches are indeed welcome to this
-material. Sources can be found in the Git repository at
-<https://k.copyleft.org/guide/>.
+The most recent version is available online at <https://copyleft.org/guide/>. Patches are indeed welcome to this material. Sources can be found in the Git repository at <https://k.copyleft.org/guide/>.
 
 CONTENTS
 
@@ -535,28 +507,16 @@ E.  [**The Affero General Public License, version 3**](#_bookmark261)
     **141**
 
 # PREFACE
+# 前言
 
-This tutorial is the culmination of nearly a decade of studying and
-writing about software freedom licensing and the GPL. Each part of
-this tutorial is a course unto itself, educating the reader on a
-myriad of topics from the deep details of the GPLv2 and GPLv3, common
-business models in the copyleft licensing area (both the friendly and
-unfriendly kind), best practices for compliance with the GPL, for
-engineers, managers, and lawyers, as well as real-world case studies
-of GPL enforcement matters.
+This tutorial is the culmination of nearly a decade of studying and writing about software freedom licensing and the GPL. Each part of this tutorial is a course unto itself, educating the reader on a myriad of topics from the deep details of the GPLv2 and GPLv3, common business models in the copyleft licensing area (both the friendly and unfriendly kind), best practices for compliance with the GPL, for engineers, managers, and lawyers, as well as real-world case studies of GPL enforcement matters.
 
-It is unlikely that all the information herein is necessary to learn
-all at once, and therefore this tutorial likely serves best as a
-reference book. The material herein has been used as the basis for
-numerous live tutorials and discussion groups since 2002, and the
-materials have been periodically updated. They likely stand on their
-own as excellent reference material.
+这篇教程是近十年来关于自由软件许可和GPL的研究和写作的总结。本教程的每一部分都是一个独立的课程，向读者介绍了许多主题，包括GPLv2和GPLv3的深入细节、copyleft许可证领域常见的商业模式（友好和不友好的类型）、工程师、经理和律师遵守GPL的最佳实践，以及GPL执法事项的实际案例研究。
 
-However, if you are reading these course materials without attending a
-live tutorial session, please note that this material is merely a
-summary of the highlights of the various CLE and other tutorial
-courses based on this material. Please be aware that during the actual
-courses, class discussion and presentation supplements this printed
-curriculum. Simply reading this material is **not equivalent** to
-attending a course.
+It is unlikely that all the information herein is necessary to learn all at once, and therefore this tutorial likely serves best as a reference book. The material herein has been used as the basis for numerous live tutorials and discussion groups since 2002, and the materials have been periodically updated. They likely stand on their own as excellent reference material.
 
+一次性学习所有的信息是不太可能的，因此本教程最好作为参考书使用。自2002年以来，这些材料已经被用作许多现场教程和讨论小组的基础，并且这些材料定期更新。它们可能作为优秀的参考材料独立存在。
+
+However, if you are reading these course materials without attending a live tutorial session, please note that this material is merely a summary of the highlights of the various CLE and other tutorial courses based on this material. Please be aware that during the actual courses, class discussion and presentation supplements this printed curriculum. Simply reading this material is **not equivalent** to attending a course.
+
+但是，如果你在没有参加现场教程的情况下阅读这些课程材料，请注意，这些材料仅是基于这些材料的各种CLE和其他教程课程的亮点摘要。请注意，在实际课程中，课堂讨论和演示会补充这个印刷课程。仅仅阅读这些材料是**不能等同于**参加课程的。

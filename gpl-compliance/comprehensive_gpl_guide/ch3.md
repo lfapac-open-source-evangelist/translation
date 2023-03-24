@@ -1,13 +1,8 @@
 
 
-[**CHAPTER 3**]{#_bookmark42 .anchor}
+## CHAPTER 3 RUNNING SOFTWARE AND VERBATIM COPYING
 
-
-[**第3章**]{#_bookmark42 .anchor}
-
-RUNNING SOFTWARE AND VERBATIM COPYING
-
-运行软件与逐字复制
+## 第3章 运行软件与逐字复制
 
 This chapter begins the deep discussion of the details of the terms of
 GPLv2. In this chapter, we consider the first two sections: GPLv2
@@ -16,8 +11,8 @@ the simplest rights that the user receives.
 
 本章开始深入讨论GPLv2条款的细节。在本章中，我们将考虑前两个部分：GPLv2 §§0-2。这些是GPL中简单明了的部分，定义了用户获得的最单纯的权利。
 
-## 3.1 GPLv2 §0: Freedom to Run
-## 3.1 GPLv2 §0：自由运行
+### 3.1 GPLv2 §0: Freedom to Run
+### 3.1 GPLv2 §0：自由运行
 
 GPLv2 §0, the opening section of GPLv2, sets forth that copyright law
 governs the work. It specifically points out that it is the "copyright
@@ -118,9 +113,9 @@ depth.)
 
 著作权法整体并没有就识别软件的衍生作品和/或组合作品提出明确而直接的指导方针。然而，没有著作权许可证——甚至GNU GPL——才应该对此负责。立法者和法院必须在边界模糊的案件中为我们提供指导。与此同时，律师们可能会根据文学或艺术著作权背景下制定的规则在计算机编程的不同背景下的应用情况，以及通过分析（有限的）案例法和各种渠道获得的指导来得出结论。（第[14.1](#evaluate-license-applicability)章深入讨论了这个问题。）
 
-## 3.2 GPLv2 §1: Verbatim Copying
+### 3.2 GPLv2 §1: Verbatim Copying
 
-## 3.2 GPLv2 §1：逐字复制
+### 3.2 GPLv2 §1：逐字复制
 
 GPLv2 §1 covers the matter of redistributing the source code of a
 program exactly as it was received. This section is quite
