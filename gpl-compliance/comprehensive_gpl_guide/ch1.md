@@ -19,35 +19,35 @@ Upon completion of this part of the tutorial, readers can expect to have learned
 
 看完本教程的这一部分后，读者可以期望学到以下内容：
 
--   The freedom-defending purpose of various terms in the GNU GPLv2 and GPLv3.
--   GNU GPLv2和GPLv3中各种术语，目的是捍卫自由；
+- The freedom-defending purpose of various terms in the GNU GPLv2 and GPLv3.
+- GNU GPLv2和GPLv3中各种术语，目的是捍卫自由；
 
--   The differences between GPLv2 and GPLv3.
--   GPLv2和GPLv3的区别；
+- The differences between GPLv2 and GPLv3.
+- GPLv2和GPLv3的区别；
 
--   The redistribution options under the GPLv2 and GPLv3.
--   基于GPLv2和GPLv3的再分发选项；
+- The redistribution options under the GPLv2 and GPLv3.
+- 基于GPLv2和GPLv3的再分发选项；
 
--   The obligations when modifying GPLv2'd or GPLv3'd software.
--   修改GPLv2或GPLv3软件时应遵循的义务；
+- The obligations when modifying GPLv2'd or GPLv3'd software.
+- 修改GPLv2或GPLv3软件时应遵循的义务；
 
--   How to build a plan for proper and successful compliance with the GPL.
--   如何制定计划以正确且成功地遵守GPL协议；
+- How to build a plan for proper and successful compliance with the GPL.
+- 如何制定计划以正确且成功地遵守GPL协议；
 
--   The business advantages that the GPL provides.
--   GPL提供的业务优势；
+- The business advantages that the GPL provides.
+- GPL提供的业务优势；
 
--   The most common business models used in conjunction with the GPL.
--   与GPL结合使用的最常见的商业模式；
+- The most common business models used in conjunction with the GPL.
+- 与GPL结合使用的最常见的商业模式；
 
--   How existing GPL'd software can be used in existing enterprises.
--   企业如何使用已有的GPL软件；
+- How existing GPL'd software can be used in existing enterprises.
+- 企业如何使用已有的GPL软件；
 
--   The basics of LGPLv2.1 and LGPLv3, and how they differ from the GPLv2 and GPLv3, respectively.
--   LGPLv2.1和LGPLv3的基础知识，以及它们分别与GPLv2和GPLv3的区别；
+- The basics of LGPLv2.1 and LGPLv3, and how they differ from the GPLv2 and GPLv3, respectively.
+- LGPLv2.1和LGPLv3的基础知识，以及它们分别与GPLv2和GPLv3的区别；
 
--   The basics to begin understanding the complexities regarding derivative and combined works of software.
--   开始了解有关软件的衍生和组合作品的复杂性的基础知识。
+- The basics to begin understanding the complexities regarding derivative and combined works of software.
+- 开始了解有关软件的衍生和组合作品的复杂性的基础知识。
 
 []{#_bookmark2 .anchor}
 
@@ -63,25 +63,25 @@ Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or jus
 
 ## 自由软件的定义
 
-The Free Software Definition is set forth in full on FSF's website at http://fsf.org/philosophy/free-sw.html. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
+The Free Software Definition is set forth in full on FSF's website at <http://fsf.org/philosophy/free-sw.html>. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
 
-自由软件定义在FSF的网站 http://fsf.org/philosophy/free-sw.html 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最相关的部分。
+自由软件定义在FSF的网站 <http://fsf.org/philosophy/free-sw.html> 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最相关的部分。
 
 A particular user has software freedom with respect to a particular program if that user has the following freedoms:
 
 如果某个特定用户具有以下自由，则这个用户就具有与特定程序相关的软件自由：
 
--   The freedom to run the program, for any purpose.
--   出于任何目的执行程序的自由；
+- The freedom to run the program, for any purpose.
+- 出于任何目的执行程序的自由；
 
--   The freedom to study how the program works, and modify it
--   了解程序的运行机制，可以随意修改的自由；
+- The freedom to study how the program works, and modify it
+- 了解程序的运行机制，可以随意修改的自由；
 
--   The freedom to redistribute copies.
--   随意分发软件副本的自由；
+- The freedom to redistribute copies.
+- 随意分发软件副本的自由；
 
--   The freedom to distribute copies of modified versions to others.
--   将修改后的软件副本分发给他人的自由。
+- The freedom to distribute copies of modified versions to others.
+- 将修改后的软件副本分发给他人的自由。
 
 The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2](#business-models) talks in detail about how this can unfortunately happen even if a program is released under the GPL.
 
@@ -213,8 +213,7 @@ The previous section set forth key freedoms and rights that are referred to as "
 The primary legal regime that applies to software is copyright law. Proprietary software exists at all only because copyright law governs software.<sup>3</sup> Copyright law, with respect to software, typically governs copying, modifying, and redistributing that software (For details of this in the USA, see [§106](http://www.copyright.gov/title17/92chap1.html#106) and [§117](http://www.copyright.gov/title17/92chap1.html#117) of [Title17](http://www.law.cornell.edu/uscode/text/17) of the *United States Code*).<sup>4</sup> By law (in the USA and in most other jurisdictions), the copyright holder (most typically,the author) of the work controls how others may copy, modify and/or distribute the work. For proprietary software, these controls are used
 to prohibit these activities. In addition, proprietary software distributors further impede modification in a practical sense by distributing only binary code and keeping the source code of the software secret.
 
-适用于软件的主要法律制度是版权法。专有软件的存在完全是因为版权法对软件的管理规定。<sup>3</sup> 关于软件的版权法，主要是对软件的复制、修改和再发行的管理规定（有关美国的详细信息，请参阅《美国法典》[第17篇](http://www.law.cornell.edu/uscode/text/17)的[§106](http://www.copyright.gov/title17/92chap1.html#106)和[§117](http://www.copyright.gov/title17/92chap1.html#117)）。<sup>4</sup> 根据法律（在美国和大多数其他司法管辖区），作品的版权持有者（通常是作者本人） 可以控制其他人如何复制、修改和/或分发作品。专有软件的这些控制行为禁止了软件的相关操作。此外，专有软件分销商只发行二进制可执行代码，严格保密源代码，这也进一步阻碍了实际意义上的代码修改。 
-
+适用于软件的主要法律制度是版权法。专有软件的存在完全是因为版权法对软件的管理规定。<sup>3</sup> 关于软件的版权法，主要是对软件的复制、修改和再发行的管理规定（有关美国的详细信息，请参阅《美国法典》[第17篇](http://www.law.cornell.edu/uscode/text/17)的[§106](http://www.copyright.gov/title17/92chap1.html#106)和[§117](http://www.copyright.gov/title17/92chap1.html#117)）。<sup>4</sup> 根据法律（在美国和大多数其他司法管辖区），作品的版权持有者（通常是作者本人） 可以控制其他人如何复制、修改和/或分发作品。专有软件的这些控制行为禁止了软件的相关操作。此外，专有软件分销商只发行二进制可执行代码，严格保密源代码，这也进一步阻碍了实际意义上的代码修改。
 
 <sup>3</sup> This statement is admittedly an oversimplification. Patents and trade secrets can cover software and make it effectively non-Free, and one can contract away their rights and freedoms regarding software, or source code can be practically obscured in binary-only distribution without reliance on any legal system. However, the primary control mechanism for software is copyright, and therefore this section focuses on how copyright restrictions make software proprietary.
 
@@ -333,9 +332,9 @@ The use, modification and distribution of software, like many endeavors, simulta
 
 与许多努力一样，软件的使用、修改和分发同时与多种不同的法律制度相互制约。正如早期通过脚注指出的那样，版权只是限制用户复制、共享、修改和/或重新分发软件的*最常见的方式*。但是专有软件许可证通常会使用所有各种机制来控制用户。例如：
 
-* Unfortunately, despite much effort by many in the software freedom community to end patents that read on software (i.e., patents on computational ideas), they still exist. As such, a software program might otherwise seem to be unrestricted, but a patent might read on the software and ruin everything for its users.<sup>7</sup>
+- Unfortunately, despite much effort by many in the software freedom community to end patents that read on software (i.e., patents on computational ideas), they still exist. As such, a software program might otherwise seem to be unrestricted, but a patent might read on the software and ruin everything for its users.<sup>7</sup>
 
-* 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即跟软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。<sup>7</sup>
+- 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即跟软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。<sup>7</sup>
 
 <sup>7</sup>See [6,](#_bookmark68) [7.5,](#gplv2-7-give-software-liberty-or-give-it-death) [9.14](#gplv3-11-explicit-patent-licensing) for more discussion on how
 the patent system interacts with copyleft, and read Richard M. Stallman's essay, [*Let's Limit the Effect of Software Patents, Since
@@ -433,7 +432,7 @@ proprietarize Samba, so the noncommercial users, and even other commercial users
 
 Commercial developers also work in concert with noncommercial developers. Those two now-long-since graduated students continue to contribute to Samba altruistically, but also get paid work doing it. Priorities change when a client is in the mix, but all the code is contributed back to the standard version. Meanwhile, many other
 individuals have gotten involved noncommercially as developers, because they want to "cut their teeth on Free Software," or because the problems interest them. When
-they get good at it, perhaps they will move on to another project, or perhaps they will become commercial developers of the software themselves. 
+they get good at it, perhaps they will move on to another project, or perhaps they will become commercial developers of the software themselves.
 
 商业开发商也会与非商业开发商合作。那两位已经毕业了的学生继续无私地为Samba做出贡献，但同时也获得了报酬。当有客户参与其中时，优先级会发生变化，但所有的代码都会回馈给标准版本。与此同时，许多其他人也作为开发者参与了非商业活动，因为他们想“在自由软件上小试牛刀”，或者是他们对这些问题感兴趣。当他们擅长编程时，也许会转向另一个项目，或者他们自己可能会成为软件的商业开发人员。
 
