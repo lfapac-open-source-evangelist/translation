@@ -507,10 +507,16 @@ E.  [**The Affero General Public License, version 3**](#_bookmark261)
     **141**
 
 # PREFACE
+# 前言
 
 This tutorial is the culmination of nearly a decade of studying and writing about software freedom licensing and the GPL. Each part of this tutorial is a course unto itself, educating the reader on a myriad of topics from the deep details of the GPLv2 and GPLv3, common business models in the copyleft licensing area (both the friendly and unfriendly kind), best practices for compliance with the GPL, for engineers, managers, and lawyers, as well as real-world case studies of GPL enforcement matters.
 
+这篇教程是近十年来关于自由软件许可和GPL的研究和写作的总结。本教程的每一部分都是一个独立的课程，向读者介绍了许多主题，包括GPLv2和GPLv3的深入细节、copyleft许可证领域常见的商业模式（友好和不友好的类型）、工程师、经理和律师遵守GPL的最佳实践，以及GPL执法事项的实际案例研究。
+
 It is unlikely that all the information herein is necessary to learn all at once, and therefore this tutorial likely serves best as a reference book. The material herein has been used as the basis for numerous live tutorials and discussion groups since 2002, and the materials have been periodically updated. They likely stand on their own as excellent reference material.
+
+一次性学习所有的信息是不太可能的，因此本教程最好作为参考书使用。自2002年以来，这些材料已经被用作许多现场教程和讨论小组的基础，并且这些材料定期更新。它们可能作为优秀的参考材料独立存在。
 
 However, if you are reading these course materials without attending a live tutorial session, please note that this material is merely a summary of the highlights of the various CLE and other tutorial courses based on this material. Please be aware that during the actual courses, class discussion and presentation supplements this printed curriculum. Simply reading this material is **not equivalent** to attending a course.
 
+但是，如果你在没有参加现场教程的情况下阅读这些课程材料，请注意，这些材料仅是基于这些材料的各种CLE和其他教程课程的亮点摘要。请注意，在实际课程中，课堂讨论和演示会补充这个印刷课程。仅仅阅读这些材料是**不能等同于**参加课程的。

@@ -1,15 +1,11 @@
 
-**Part I**
+# Part I： Detailed Analysis of the GNU GPL and Related Licenses
 
-**第一部分**
-
-**Detailed Analysis of the GNU GPL and Related Licenses**
-
-**GNU GPL 及相关许可证的详细分析**
+# 第一部分：GNU GPL 及相关许可证的详细分析
 
 This part of the tutorial gives a comprehensive explanation of the most popular Free Software copyright license, the GNU General Public License ("GNU GPL", or sometimes just "GPL") -- both version 2 ("GPLv2") and version 3 ("GPLv3") -- and teaches lawyers, software developers, managers and business people how to use the GPL (and GPL'd software) successfully both as a community-building "Constitution" for a software project, and to incorporate copylefted software into a new Free Software business and in existing, successful enterprises.
 
-本教程的这一部分对最流行的自由软件版权许可证，即GNU通用公共许可证（“GNU GPL”，有时简称为“GPL”）——版本 2（“GPLv2”）和版本 GPLv3（“GPLv3”）——进行了全面的解释，引导律师、软件开发人员、管理人员和业务人员如何成功地使用GPL（以及GPL的软件），将其作为软件项目的社区建设“章程”，并将版权不标准(copylefted)的软件合并到新的自由软件业务和现有的成功企业中。
+本教程的这一部分对最流行的自由软件版权许可证，即GNU通用公共许可证（“GNU GPL”，有时简称为“GPL”）——第2版（“GPLv2”）和第3版（“GPLv3”）——进行了全面的解释，引导律师、软件开发人员、管理人员和业务人员如何成功地使用GPL（以及GPL软件），将其作为软件项目的社区建设“章程”，并将著佐权(copylefted)的软件合并到新的自由软件业务和现有的成功企业中。
 
 To benefit from this part of the tutorial, readers should have a general familiarity with software development processes. A basic understanding of how copyright law applies to software is also helpful. The tutorial is of most interest to lawyers, software developers and managers who run or advise software businesses that modify and/or redistribute software under the terms of the GNU GPL (or who wish to do so in the future), and those who wish to make use of existing GPL'd software in their enterprise.
 
@@ -20,33 +16,25 @@ Upon completion of this part of the tutorial, readers can expect to have learned
 看完本教程的这一部分后，读者可以期望学到以下内容：
 
 - The freedom-defending purpose of various terms in the GNU GPLv2 and GPLv3.
-- GNU GPLv2和GPLv3中各种术语，目的是捍卫自由；
-
 - The differences between GPLv2 and GPLv3.
-- GPLv2和GPLv3的区别；
-
 - The redistribution options under the GPLv2 and GPLv3.
-- 基于GPLv2和GPLv3的再分发选项；
-
 - The obligations when modifying GPLv2'd or GPLv3'd software.
-- 修改GPLv2或GPLv3软件时应遵循的义务；
-
 - How to build a plan for proper and successful compliance with the GPL.
-- 如何制定计划以正确且成功地遵守GPL协议；
-
 - The business advantages that the GPL provides.
-- GPL提供的业务优势；
-
 - The most common business models used in conjunction with the GPL.
-- 与GPL结合使用的最常见的商业模式；
-
 - How existing GPL'd software can be used in existing enterprises.
-- 企业如何使用已有的GPL软件；
-
 - The basics of LGPLv2.1 and LGPLv3, and how they differ from the GPLv2 and GPLv3, respectively.
-- LGPLv2.1和LGPLv3的基础知识，以及它们分别与GPLv2和GPLv3的区别；
-
 - The basics to begin understanding the complexities regarding derivative and combined works of software.
+
+- GNU GPLv2和GPLv3中各种术语，目的是捍卫自由；
+- GPLv2和GPLv3的区别；
+- 基于GPLv2和GPLv3的再分发选项；
+- 修改GPLv2或GPLv3软件时应遵循的义务；
+- 如何制定计划以正确且成功地遵守GPL协议；
+- GPL提供的业务优势；
+- 与GPL结合使用的最常见的商业模式；
+- 企业如何使用已有的GPL软件；
+- LGPLv2.1和LGPLv3的基础知识，以及它们分别与GPLv2和GPLv3的区别；
 - 开始了解有关软件的衍生和组合作品的复杂性的基础知识。
 
 ## CHAPTER 1 WHAT IS SOFTWARE FREEDOM?
@@ -57,46 +45,47 @@ Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or jus
 
 研究GNU通用公共许可证（此处缩写为*GNU GPL*或简称*GPL*）必须首先考虑更广泛的软件自由世界。 GPL不是凭空产生的，它是为了体现和捍卫在GNU项目和自由软件基金会 (FSF) 成立时提出的一系列原则而创建的，FSF是一个维护、捍卫和促进软件自由哲学的卓越组织。 理解GPL的两个流行版本（GPLv2 和 GPLv3）及其条款和条件的先决条件是对它们背后的原则有基本的理解。GPL系列许可证与几乎所有其他的软件许可证不同，因为它们旨在捍卫和维护这些原则。
 
-### The Free Software Definition
+### 1.1 The Free Software Definition
 
-### 自由软件的定义
+### 1.1 自由软件的定义
 
 The Free Software Definition is set forth in full on FSF's website at <http://fsf.org/philosophy/free-sw.html>. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
 
-自由软件定义在FSF的网站 <http://fsf.org/philosophy/free-sw.html> 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最相关的部分。
+自由软件定义在FSF的网站 <http://fsf.org/philosophy/free-sw.html> 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最密切的部分。
 
 A particular user has software freedom with respect to a particular program if that user has the following freedoms:
 
 如果某个特定用户具有以下自由，则这个用户就具有与特定程序相关的软件自由：
 
 - The freedom to run the program, for any purpose.
+- The freedom to study how the program works, and modify it
+- The freedom to redistribute copies.
+- The freedom to distribute copies of modified versions to others.
+  
 - 出于任何目的执行程序的自由；
 
-- The freedom to study how the program works, and modify it
 - 了解程序的运行机制，可以随意修改的自由；
 
-- The freedom to redistribute copies.
 - 随意分发软件副本的自由；
 
-- The freedom to distribute copies of modified versions to others.
 - 将修改后的软件副本分发给他人的自由。
 
 The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2](#business-models) talks in detail about how this can unfortunately happen even if a program is released under the GPL.
 
 对“特定用户”的关注在这里尤为重要。某个特定程序的用户群的一部分人拥有这些自由的情况并不少见，而同一版本程序的其他用户则没有或只有其中的一部分自由。第 [12.2](#商业模式) 章节详细讨论了这种情况，即使程序是基于GPL发布的。
 
-Many people refer to software with these freedoms as "Open Source." Besides having a different political focus from those who call such software by the name "Free Software",[^1^](#_bookmark4), those who call the software "Open Source" are often focused on a side issue. Specifically, user access to the source code of a program is a prerequisite to make use of the freedom to modify. However, the important issue is what freedoms are granted in the license that applies to that source code.
+Many people refer to software with these freedoms as "Open Source." Besides having a different political focus from those who call such software by the name "Free Software"[^1], those who call the software "Open Source" are often focused on a side issue. Specifically, user access to the source code of a program is a prerequisite to make use of the freedom to modify. However, the important issue is what freedoms are granted in the license that applies to that source code.
 
-许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件” <sup>1</sup> 的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
+许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件” [^1] 的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
 
-<sup>1</sup>The political differences between the Free Software Movement and the Open Source Movement are documented on FSF's Web site at
+[^1]: The political differences between the Free Software Movement and the Open Source Movement are documented on FSF's Web site at
 <http://www.fsf.org/licensing/essays/free-software-for-freedom.html>.
 
-<sup>1</sup>自由软件运动和开源运动之间的政治分歧记录在FSF的网站上，网址为 <http://www.fsf.org/licensing/essays/free-software-for-freedom.html>.
+[^1]: 自由软件运动和开源运动之间的政治分歧记录在FSF的网站上，网址为 <http://www.fsf.org/licensing/essays/free-software-for-freedom.html>.
 
 Software freedom is only complete when no restrictions are imposed on how these freedoms are exercised. Specifically, users and programmers can exercise these freedoms noncommercially or commercially. Licenses that grant these freedoms for noncommercial activities but prohibit them for commercial activities are considered non-free. The Open Source Initiative (*OSI* ) (the arbiter of what is considered "Open Source") also regards such licenses as inconsistent with its "Open Source Definition".
 
-只有当如何行驶这些自由没有任何限制时，软件自由才是完整的。具体而言，用户和程序员可以非商业或商业的方式行使这些自由。那些仅限于非商业活动的一些自由，但禁止商业活动自由的许可，被认为是非自由的。开源促进会(*OSI*)（被认为是“开源”的仲裁者）也认为此类许可证与其“开源定义”不一致。
+只有当如何行使这些自由没有任何限制时，软件自由才是完整的。具体而言，用户和程序员可以非商业或商业的方式行使这些自由。那些仅限于非商业活动的一些自由，但禁止商业活动自由的许可，被认为是非自由的。开源促进会(*OSI*)（被认为是“开源”的仲裁者）也认为此类许可证与其“开源定义”不一致。
 
 In general, software for which any of these freedoms are restricted in any way is called "nonfree" software. Some use the term "proprietary software" more or less interchangeably with "nonfree software". The FSF published a useful [explanation of various types of software and how they relate to one another.](http://www.gnu.org/philosophy/categories.html)
 
@@ -109,7 +98,7 @@ Keep in mind that none of the terms "software freedom", "open source" and "free 
 Furthermore, throughout this text, we generally prefer the term "software freedom", as this is the least ambiguous term available to describe software that meets the Free Software Definition. For example, it is well known and often discussed that the adjective "free" has two unrelated meanings in English: "free as in freedom" and
 "free as in price". Meanwhile, the term "open source" is even more confusing, because it appears to refer only to the "freedom to study", which is merely a subset of one of the four freedoms.
 
-此外，在本文中，我们通常更喜欢“软件自由”一词，因为在那些描述符合自由软件定义的软件的一堆术语中，它的歧义最小。例如，大家经常讨论的英文中的形容词“自由”，它有两个不相关的含义：“使用的自由”和“价格的自由(免费)”。同时，“开源”一词更令人困惑，因为它似乎仅指“学习的自由”，这仅仅是四个自由中的一个。
+此外，在本文中，我们通常更喜欢“软件自由”一词，因为在那些描述符合自由软件定义的软件的一堆术语中，它的歧义最小。例如，大家经常讨论的英文中的形容词“自由”，它有两个不相关的含义：“使用的自由”和“价格的免费”。同时，“开源”一词更令人困惑，因为它似乎仅指“学习的自由”，这仅仅是四个自由中的一个。
 
 The remainder of this section considers each of each component of software freedom in detail.
 
