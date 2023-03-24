@@ -49,19 +49,17 @@ Upon completion of this part of the tutorial, readers can expect to have learned
 - The basics to begin understanding the complexities regarding derivative and combined works of software.
 - 开始了解有关软件的衍生和组合作品的复杂性的基础知识。
 
-[]{#_bookmark2 .anchor}
+## CHAPTER 1 WHAT IS SOFTWARE FREEDOM?
 
-**CHAPTER 1 WHAT IS SOFTWARE FREEDOM?**
-
-**第一章 什么是软件自由？**
+## 第一章 什么是软件自由？
 
 Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or just *GPL*) must begin by first considering the broader world of software freedom. The GPL was not created in a vacuum. Rather, it was created to embody and defend a set of principles that were set forth at the founding of the GNU Project and the Free Software Foundation (FSF) -- the preeminent organization that upholds, defends and promotes the philosophy of software freedom. A prerequisite for understanding both of the popular versions of the GPL (GPLv2 and GPLv3) and their terms and conditions is a basic understanding of the principles behind them. The GPL family of licenses are unlike nearly all other software licenses in that they are designed to defend and uphold these principles.
 
 研究GNU通用公共许可证（此处缩写为*GNU GPL*或简称*GPL*）必须首先考虑更广泛的软件自由世界。 GPL不是凭空产生的，它是为了体现和捍卫在GNU项目和自由软件基金会 (FSF) 成立时提出的一系列原则而创建的，FSF是一个维护、捍卫和促进软件自由哲学的卓越组织。 理解GPL的两个流行版本（GPLv2 和 GPLv3）及其条款和条件的先决条件是对它们背后的原则有基本的理解。GPL系列许可证与几乎所有其他的软件许可证不同，因为它们旨在捍卫和维护这些原则。
 
-## The Free Software Definition
+### The Free Software Definition
 
-## 自由软件的定义
+### 自由软件的定义
 
 The Free Software Definition is set forth in full on FSF's website at <http://fsf.org/philosophy/free-sw.html>. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
 
@@ -85,7 +83,7 @@ A particular user has software freedom with respect to a particular program if t
 
 The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2](#business-models) talks in detail about how this can unfortunately happen even if a program is released under the GPL.
 
-对“特定用户”的关注在这里尤为重要。某个特定程序的用户群的一部分人拥有这些自由的情况并不少见，而同一版本程序的其他用户则没有或只有其中的一部分自由。第[12.2](#商业模式)章节详细讨论了这种情况，即使程序是基于GPL发布的。
+对“特定用户”的关注在这里尤为重要。某个特定程序的用户群的一部分人拥有这些自由的情况并不少见，而同一版本程序的其他用户则没有或只有其中的一部分自由。第 [12.2](#商业模式) 章节详细讨论了这种情况，即使程序是基于GPL发布的。
 
 Many people refer to software with these freedoms as "Open Source." Besides having a different political focus from those who call such software by the name "Free Software",[^1^](#_bookmark4), those who call the software "Open Source" are often focused on a side issue. Specifically, user access to the source code of a program is a prerequisite to make use of the freedom to modify. However, the important issue is what freedoms are granted in the license that applies to that source code.
 
@@ -117,9 +115,9 @@ The remainder of this section considers each of each component of software freed
 
 本节的其余部分将详细考虑软件自由的每个组成部分。
 
-### The Freedom to Run
+#### The Freedom to Run
 
-### 执行程序的自由
+#### 执行程序的自由
 
 The first tenet of software freedom is the user's fully unfettered right to run the program. The software's license must permit any conceivable use of the software. Perhaps, for example, the user has discovered an innovative use for a particular program, one that the programmer never could have predicted. Such a use must not be
 restricted.
@@ -130,9 +128,9 @@ It was once rare that this freedom was restricted by even proprietary software; 
 
 曾经很少有使用软件的自由受到限制的情况，在专有软件中也很少见；但现在却很普遍。大多数基于最终用户许可协议（EULAs）的专有软件，通常限制某些类型的用途。任何这些形式的限制对软件自由来说，都是不可接受的。
 
-### The Freedom to Change and Modify
+#### The Freedom to Change and Modify
 
-### 更改和修改程序的自由
+#### 更改和修改程序的自由
 
 Perhaps the most useful right of software freedom is the users' right to change, modify and adapt the software to suit their needs. Access to the source code and related build and installation scripts are an essential part of this freedom. Without the source code, and the ability to build and install the binary applications from that source, users cannot effectively exercise this freedom.
 
@@ -147,9 +145,9 @@ companies to commission software modifications.
 
 更常见的是，用户还可以在商业上行使这种自由。每个用户或一组用户都可以在竞争激烈的自由市场中，雇用他们希望的任何人来修改和更改软件。这意味着公司有权雇用任何愿意修改其免费软件的人。此外，公司可以与其他公司签订合同，委托进行软件修改。
 
-### The Freedom to Copy and Share
+#### The Freedom to Copy and Share
 
-### 复制和分享软件的自由
+#### 复制和分享软件的自由
 
 Users share Free Software in a variety of ways. Software freedom advocates work to eliminate a fundamental ethical dilemma of the software age: choosing between obeying a software license and friendship (by giving away a copy of a program to your friend who likes the software you are using). Licenses that respect software
 freedom, therefore, permit altruistic sharing of software among friends.
@@ -172,9 +170,9 @@ Another common instance of commercial sharing is service-oriented distribution. 
 
 （本教程的[第12.2章](#商业模式)部分详细讨论了一些常见的利用商业实现自由软件的自由共享的业务模式。）
 
-### The Freedom to Share Improvements
+#### The Freedom to Share Improvements
 
-### 分享改进的自由
+#### 分享改进的自由
 
 The freedom to modify and improve is somewhat empty without the freedom to share those improvements. The software freedom community is built on the pillar of altruistic sharing of improved Free Software. Historically it was typical for a Free Software project to sprout a mailing list where improvements would be shared freely among members of the development community.<sup>2</sup> Such noncommercial sharing is the primary reason that Free Software thrives.
 
@@ -202,9 +200,9 @@ developers of the standard version refuse to serve the needs of some of the soft
 
 公司和个人有权制作的自由软件的增值版本。他们可以自由地改进，并分享具有不同功能和特性的自由软件版本。此外，这种自由可以用来服务于被剥夺权力的用户群体。如果标准版本的开发人员拒绝满足某些软件用户的需求，则其他实体有权创建一个长期或短期的分支，提供服务满足于这些软件用户。
 
-## How Does Software Become Free?
+### How Does Software Become Free?
 
-## 软件是如何变得自由的？
+### 软件是如何变得自由的？
 
 The previous section set forth key freedoms and rights that are referred to as "software freedom". This section discusses the licensing mechanisms used to enable software freedom. These licensing mechanisms were ultimately created as a community-oriented "answer" to the existing proprietary software licensing mechanisms. Thus, first, consider carefully why proprietary software exists in the first place.
 
@@ -241,9 +239,9 @@ conduct resulting in abandonment of copyright.) If copyright is disclaimed, the 
 
 现实世界中的软件默认受版权保护，并自动受该法律体系保护。但是，可以将软件移出版权系统的范围。版权所有者通常可以*放弃*他们的版权。（例如，根据美国版权法，版权所有者可以实施某些操作，放弃版权。）如果放弃版权，则该软件实际上不再受版权法的限制。不受版权限制的软件属于“公共领域软件”。
 
-### Public Domain Software
+#### Public Domain Software
 
-### 公共领域软件
+#### 公共领域软件
 
 In the USA and other countries that are parties to the Berne Convention on Copyright, software is copyrighted automatically by the author when she fixes the software in a tangible medium. In the software world, this usually means typing the source code of the software into a file.
 
@@ -274,9 +272,9 @@ The best example of software known to truly be in the public domain is software 
 
 目前所知的真正属于公共领域的软件最好的例子，是由美国政府发布的软件。根据《美国法典》[第17章101-105](http://www.law.cornell.edu/uscode/text/17/105)，在美国，美国政府出版的所有作品均不受版权保护。
 
-### Why Copyright Free Software?
+#### Why Copyright Free Software?
 
-### 为什么需要版权自由的软件？
+#### 为什么需要版权自由的软件？
 
 If simply disclaiming copyright on software yields Free Software, then it stands to reason that putting software into the public domain is the easiest and most straightforward way to produce Free Software. Indeed, some major Free Software projects have chosen this method for making their software Free. However, most of the Free Software in existence *is* copyrighted. In most cases (particularly in those of FSF and the GNU Project), this was done due to very careful planning.
 
@@ -324,9 +322,9 @@ Anything which is "a work" or a "work based on a work" licensed under a strong c
 
 <sup>6</sup> Copyleft社区使用术语“强copyleft”无疑是不准确的。例如，大多数人会认为GNU GPL是“强copyleft”许可证，但其实GPL本身有多种例外情况，比如许可证文本中的[GPLv3的系统库例外情况](#the-system-library-exception)。此外，copyleft社区一直在争论许可证从“强copyleft”到“不尊重软件自由的许可证”之间的界限，尽管最终这些争论实际上是关于许可证是否符合 [自由软件的定义](#the-free-software-definition)
 
-### Software and Non-Copyright Legal Regimes
+#### Software and Non-Copyright Legal Regimes
 
-### 软件和非版权法律制度
+#### 软件和非版权法律制度
 
 The use, modification and distribution of software, like many endeavors, simultaneously interacts with multiple different legal regimes. As was noted early via footnotes, copyright is merely the *most common way* to restrict users' rights to copy, share, modify and/or redistribute software. However, proprietary software licenses typically use every mechanism available to subjugate users. For example:
 
@@ -359,9 +357,9 @@ Thus, most proprietary software restricts users via multiple interlocking legal 
 
 所以，大多数专有软件会通过多种相互关联的法律和技术手段来限制用户。任何真正尊重用户软件自由的许可证，不仅必须授予适当的版权许可，还必须*防止*上述其他法律和技术手段的限制。
 
-### Non-USA Copyright Regimes
+#### Non-USA Copyright Regimes
 
-### 美国之外的版权制度
+#### 美国之外的版权制度
 
 Generally speaking, copyright law operates similarly enough in countries that have signed the Berne Convention on Copyright, and software freedom licenses have generally taken advantage of this international standardization of copyright law. However, copyright law does differ from country to country, and commonly, software freedom licenses like the GPL must be considered under the copyright law in the jurisdiction where any licensing dispute occurs.
 
@@ -372,9 +370,9 @@ require proper attribution for their work.
 
 那些最熟悉美国版权制度的人通常会惊讶地发现，有些版权控制既不能放弃也不能否认。具体来说，美国以外的许多版权制度都承认作者的道德权利概念。通常，道德权利与尊重软件自由完全兼容，因为道德权利通常是以软件自由许可所允许的控制为中心，例如作者要求对其作品进行适当归属的权利。
 
-## A Community of Equality
+### A Community of Equality
 
-## 平等的社区
+### 平等的社区
 
 The previous section described the principles of software freedom, a brief introduction to mechanisms that typically block these freedoms, and the simplest ways that copyright holders might grant those freedoms to their users for their copyrighted works of software. The previous section also introduced the idea of *copyleft* : a licensing mechanism to use copyright to not only grant software freedom to users, but also to uphold those rights against those who might seek to curtail them.
 
@@ -392,9 +390,9 @@ Simply put, though, the GPL ultimately creates a community of equality for both 
 
 不过，简单来说，最终GPL为商业用户及非商业用户创建了一个平等的社区。
 
-### The Noncommercial Community
+#### The Noncommercial Community
 
-### 非商业社区
+#### 非商业社区
 
 A GPL'd code base becomes a center of a vibrant development and user community. Traditionally, volunteers, operating noncommercially out of keen interest or "scratch an itch" motivations, produce initial versions of a GPL'd system. Because of the efficient distribution channels of the Internet, any useful GPL'd system is adopted quickly by noncommercial users.
 
@@ -408,9 +406,9 @@ Because of the symmetry and fairness inherent in GPL'd distribution, nearly ever
 
 就是因为GPL分发协议的对称性和公平性，几乎每个GPL项目都拥有一个活跃的非商业用户和开发者群体。
 
-### The Commercial Community
+#### The Commercial Community
 
-### 商业群体
+#### 商业群体
 
 By the same token, nearly all established GPL'd software systems have a vibrant commercial community. Nearly every GPL'd system that has gained wide adoption from noncommercial users and developers eventually begins to fuel a commercial system around that software.
 
@@ -440,9 +438,9 @@ No party is a threat to another in the GPL software scenario because everyone is
 
 在GPL软件场景中，任何一方都不会对另外一方构成威胁，因为每个人都是平等的。GPL协议平等地保护了商业和非商业贡献者和用户的权利。GPL协议创造信任，因为它位所有人提供了公平的竞争环境。
 
-### Law Analogy
+#### Law Analogy
 
-### 法律类比
+#### 法律类比
 
 In his introduction to Stallman's *Free Software, Free Society*, Lawrence Lessig draws an interesting analogy between the law and Free Software. He argues that the laws of a free society must be protected much like the GPL protects software. So that I might do true justice to Lessig's argument, I quote it verbatim:
 
