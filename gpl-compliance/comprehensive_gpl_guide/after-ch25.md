@@ -636,6 +636,7 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 # GNU Affero 通用公共许可证
 
 Version 3, 19 November 2007
+
 第3版, 2017年11月19日
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
