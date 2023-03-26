@@ -1,84 +1,72 @@
-**Appendices**
+## Appendices
 
-[]{#_bookmark255 .anchor}**APPENDIX A**
+## 附录
 
-CITATIONS OF INCORPORATED MATERIAL FROM OTHER PUBLISHED WORKS
+### APPENDIX A** CITATIONS OF INCORPORATED MATERIAL FROM OTHER PUBLISHED WORKS
 
-As a public, collaborative project, this Guide is primarily composed
-of the many contributions received via its [public contribution
-process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md)
-Please [review its Git logs](https://k.copyleft.org/guide/changelog)
-for full documentation of all contributions.
+### 从其他已发表作品中引用的材料的引证
 
-Below is a list of CC-By-SA-licensed works, with specific titles and
-publication dates, from which any material was incorporated into this
-Guide. The specific methods and details of incorporation are fully
-documented in the [Git logs](https://k.copyleft.org/guide/changelog)
-of the project.
+As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog) for full documentation of all contributions.
 
-- [*GPLv3 First Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/gpl-rationale-2006-01-16.html),
-    > published by the Free Software Foundation on 2006-01-16.
+作为一项公开的协作项目，本指南主要由通过其公共贡献流程收到的许多贡献组成。请查看Git日志以获取所有贡献的完整文档记录。
 
-- [*GPLv3 Second Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/opinions-draft-2.html), published
-    > by the Free Software Foundation circa 2006-07.
+Below is a list of CC-By-SA-licensed works, with specific titles and publication dates, from which any material was incorporated into this Guide. The specific methods and details of incorporation are fully documented in the [Git logs](https://k.copyleft.org/guide/changelog) of the project.
 
-- [*GPLv3 Third Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/gpl3-dd3-guide), published by the
-    > Free Software Foundation on 2007-03-28.
+以下是CC-By-SA许可的作品列表，包括特定的标题和出版日期，这些作品中的任何材料都被纳入了本指南中。具体的纳入方法和细节在项目的Git日志中得到了充分的记录。
 
-- [*GPLv3 Discussion Draft 3 FAQ*](http://gplv3.fsf.org/dd3-faq) ,
-    > published by the Free Software Foundation on 2007-03-28.
+- [*GPLv3 First Discussion Draft Rationale*](http://gplv3.fsf.org/gpl-rationale-2006-01-16.html), published by the Free Software Foundation on 2006-01-16.
 
-- [*GPLv3 Final Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/gpl3-dd4-guide.html), published
-    > by the Free Software Foundation on 2007-05-31.
+- [*GPLv3 Second Discussion Draft Rationale*](http://gplv3.fsf.org/opinions-draft-2.html), published by the Free Software Foundation circa 2006-07.
 
-- [*GPLv3 Final
-    > Rationale*](http://www.gnu.org/licences/gpl3-final-rationale.pdf),
-    > written and published by the Free Software Foundation on
-    > 2007-06-29.
+- [*GPLv3 Third Discussion Draft Rationale*](http://gplv3.fsf.org/gpl3-dd3-guide), published by the Free Software Foundation on 2007-03-28.
 
-[*A Practical Guide GPL
-Compliance*](http://www.softwarefreedom.org/resources/2008/compliance-guide.html),
-written by Bradley M. Kuhn, Aaron Williamson and Karen Sandler and
-published by the Software Freedom Law Center on 2008-08-20.
+- [*GPLv3 Discussion Draft 3 FAQ*](http://gplv3.fsf.org/dd3-faq) , published by the Free Software Foundation on 2007-03-28.
 
-[*Software Freedom Law Center Guide to GPL Compliance, 2nd
-Edition*](http://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html),
-written by Eben Moglen and Mishi Choudhary and published by the
-Software Freedom Law Center on 2014-10-31.
+- [*GPLv3 Final Discussion Draft Rationale*](http://gplv3.fsf.org/gpl3-dd4-guide.html), published by the Free Software Foundation on 2007-05-31.
 
-*Detailed Analysis of the GNU GPL and Related Licenses*, written by
-Bradley M. Kuhn, Daniel B. Ravicher, and John Sullivan and published
-by the Free Software Foundation for its CLE courses on 2004-01-20,
-2004-08-24, and 2014-03-24.
+- [*GPLv3 Final Rationale*](http://www.gnu.org/licences/gpl3-final-rationale.pdf), written and published by the Free Software Foundation on 2007-06-29.
 
-*Enforcement Case Studies*, written by Bradley M. Kuhn and published
-by the Free Software Foundation for its CLE courses on 2004-01-20,
-2004-08-24, and 2014-03-24.
+- [GPLv3第一次讨论草案理由](http://gplv3.fsf.org/gpl-rationale-2006-01-16.html)，由自由软件基金会于2006年1月16日发布。
 
-Please note, however, that this list above does not include nor
-adequately represent the substantial contributions from those who
-directly contributed to this Guide using its Git (and formerly, CVS)
-repository. Rather, this is a list of third-party published works from
-which any text was herein included under their
+- [GPLv3第二次讨论草案理由](http://gplv3.fsf.org/opinions-draft-2.html)，由自由软件基金会于2006年7月左右发布。
 
-CC-By-SA licensing. Thus, as the reader might expect, the [version
-control logs](https://k.copyleft.org/guide/changelog) contain the only
-true and accurate view available of who has contributed which portions
-of this project.
+- [GPLv3第三次讨论草案理由](http://gplv3.fsf.org/gpl3-dd3-guide)，由自由软件基金会于2007年3月28日发布。
 
-The remaining appendices include a full copy of GPLv2, GPLv3,
-LGPLv2.1, LGPLv3, and AGPLv3.
+- [GPLv3第三次讨论草案常见问题解答](http://gplv3.fsf.org/dd3-faq)，由自由软件基金会于2007年3月28日发布。
 
-These are the most commonly used licenses in the GPL family of
-licenses.
+- [GPLv3最终讨论草案理由](http://gplv3.fsf.org/gpl3-dd4-guide.html)，由自由软件基金会于2007年5月31日发布。
 
-[]{#_bookmark256 .anchor}**APPENDIX B**
+- [GPLv3最终理由](http://www.gnu.org/licences/gpl3-final-rationale.pdf)，由自由软件基金会于2007年6月29日撰写并发布。
 
-# GNU通用公共许可证
+[*A Practical Guide GPL Compliance*](http://www.softwarefreedom.org/resources/2008/compliance-guide.html), written by Bradley M. Kuhn, Aaron Williamson and Karen Sandler and published by the Software Freedom Law Center on 2008-08-20.
+
+[GPL合规实践指南](http://www.softwarefreedom.org/resources/2008/compliance-guide.html)，由Bradley M. Kuhn、Aaron Williamson和Karen Sandler撰写，并于2008年8月20日由软件自由法律中心出版。
+
+[*Software Freedom Law Center Guide to GPL Compliance, 2nd Edition*](http://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html), written by Eben Moglen and Mishi Choudhary and published by the Software Freedom Law Center on 2014-10-31.
+
+[软件自由法律中心GPL合规指南第2版](http://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html)，由Eben Moglen和Mishi Choudhary撰写，并于2014年10月31日由软件自由法律中心出版。
+
+*Detailed Analysis of the GNU GPL and Related Licenses*, written by Bradley M. Kuhn, Daniel B. Ravicher, and John Sullivan and published by the Free Software Foundation for its CLE courses on 2004-01-20, 2004-08-24, and 2014-03-24.
+
+《GNU GPL及相关许可证的详细分析》是由Bradley M. Kuhn、Daniel B. Ravicher和John Sullivan所著，由自由软件基金会于2004年1月20日、2004年8月24日和2014年3月24日发表于其CLE课程中的一篇文章。
+
+*Enforcement Case Studies*, written by Bradley M. Kuhn and published by the Free Software Foundation for its CLE courses on 2004-01-20, 2004-08-24, and 2014-03-24.
+
+《执行案例研究》是Bradley M. Kuhn撰写的，由自由软件基金会于2004年1月20日、2004年8月24日和2014年3月24日为其CLE课程出版。
+
+Please note, however, that this list above does not include nor adequately represent the substantial contributions from those who directly contributed to this Guide using its Git (and formerly, CVS) repository. Rather, this is a list of third-party published works from which any text was herein included under their CC-By-SA licensing. Thus, as the reader might expect, the [version control logs](https://k.copyleft.org/guide/changelog) contain the only true and accurate view available of who has contributed which portions of this project.
+
+请注意，上述列表不包括也无法充分代表那些直接通过Git（以前是CVS）代码库对本指南做出实质性贡献的人。相反，这是一个第三方已发布作品的列表，其中任何文本都是根据它们的CC-By-SA许可证在此处包含的。因此，正如读者所期望的那样，版本控制日志 包含了对谁在此项目的哪些部分做出了贡献的唯一真实和准确的视图。
+
+The remaining appendices include a full copy of GPLv2, GPLv3, LGPLv2.1, LGPLv3, and AGPLv3.
+
+其余的附录包括 GPLv2、GPLv3、LGPLv2.1、LGPLv3 和 AGPLv3 的完整副本。
+
+These are the most commonly used licenses in the GPL family of licenses.
+
+这些是GPL许可证家族中最常用的许可证。
+
+## APPENDIX B GNU通用公共许可证
 
 第二版，1991年6月
 
@@ -218,9 +206,7 @@ a）根据上述第1条和第2条要求，附上完整的、机器可读的源�
 
 本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证。
 
-[]{#_bookmark258 .anchor}**APPENDIX C**
-
-# GNU通用公共许可证
+## APPENDIX C GNU通用公共许可证
 
 第二版，1991年6月
 
@@ -374,9 +360,7 @@ a）根据上述第1条和第2条要求，附上完整的、机器可读的源�
 
 [简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
 
-[]{#_bookmark259 .anchor}**APPENDIX D**
-
-# GNU通用公共许可证
+## APPENDIX D GNU通用公共许可证
 
 第3版，2007年6月29日
 
@@ -629,11 +613,9 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
 本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 <https://www.gnu.org/licenses/why-not-lgpl.html>。
 
-[]{#_bookmark261 .anchor}**APPENDIX E**
+## APPENDIX E: GNU AFFERO GENERAL PUBLIC LICENSE
 
-# GNU AFFERO GENERAL PUBLIC LICENSE
-
-# GNU Affero 通用公共许可证
+## 附录#： GNU Affero 通用公共许可证
 
 Version 3, 19 November 2007
 

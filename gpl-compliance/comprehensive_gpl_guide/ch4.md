@@ -20,7 +20,7 @@ As an introductory matter, it is important to note that literal copying of a sig
 
 ### The Copyright Act
 
-###　版权法
+### 4.1 版权法
 
 The copyright act is of little, if any, help in determining the definition of a derivative work of software. However, the applicable provisions do provide some, albeit quite cursory, guidance. Section 101 of the Copyright Act sets forth the following definitions:
 
@@ -46,9 +46,9 @@ Therefore, before a court can ask whether one program is a derivative work of an
 
 因此，在法院可以询问一个程序是否是另一个程序的衍生作品之前，必须小心不要将原始程序中包含的任何思想、程序、流程、系统、操作方法、概念、原理或发现扩展到版权保护范围之内。解决“剥离”不受保护元素的问题，是法院之间最常见的争议问题。
 
-### Abstraction, Filtration, Comparison Test
+### 4.2 Abstraction, Filtration, Comparison Test
 
-### 抽象、筛选、比较测试
+### 4.2 抽象、筛选、比较测试
 
 As mentioned above, the AFC test for determining whether a computer program is a derivative work of an earlier program was created by the Second Circuit and has since been adopted in the Fifth, Tenth, and Eleventh Circuits. Computer Associates Intl., Inc. v. Altai, Inc., 982 F.2d 693 (2nd Cir. 1992); Engineering Dynamics, Inc. v. Structural Software, Inc., 26 F.3d 1335 (5th Cir. 1994); Kepner-Tregoe, Inc. v. Leadership Software, Inc., 12 F.3d 527 (5th Cir. 1994); Gates Rubber Co. v. Bando Chem. Indust., Ltd., 9 F.3d 823 (10th Cir. 1993); Mitel, Inc. v. Iqtel, Inc., 124 F.3d 1366 (10th Cir. 1997); Bateman v. Mnemonics, Inc., 79 F.3d 1532 (11th Cir. 1996); and, Mitek Holdings, Inc. v. Arce Engineering Co., Inc., 89 F.3d 1548 (11th Cir. 1996).
 
@@ -62,9 +62,9 @@ Often, the courts that apply the AFC test will perform a quick initial compariso
 
 通常，应用AFC测试的法院将对所涉及的两个程序的整体进行快速的初步比较，以帮助确定其中一个是否是另一个的派生作品。虽然这种整体比较并不能代替对AFC测试的全面应用，但有时它可以显示出从原始程序的某些组件与第二个程序进行比较时并不明显的复制模式。如果快速的初步比较揭示了这样的模式，法院更有可能得出结论，即第二个作品确实是原作的派生作品。
 
-#### Abstraction
+#### 4.2.1 Abstraction
 
-#### 抽象化
+#### 4.2.１ 抽象化
 
 The first step courts perform under the AFC test is separation of the work's ideas from its expression. In a process akin to reverse engineering, the courts dissect the original program to isolate each level of abstraction contained within it. Courts have stated that the abstractions step is particularly well suited for computer programs because it breaks down software in a way that mirrors the way it is typically created. However, the courts have also indicated that this step of the AFC test requires substantial guidance from experts, because it is extremely fact and situation specific.
 
@@ -74,9 +74,9 @@ By way of example, one set of abstraction levels is, in descending order of gene
 
 例如，一个抽象级别集合按照从一般到具体的顺序如下：主要目的、系统架构、抽象数据类型、算法和数据结构、源代码和目标代码。正如这组抽象级别所示，在 AFC 测试的抽象化步骤中，计算机程序的字面元素，即源代码和目标代码，被定义为特定的抽象级别。此外，程序的源代码和目标代码元素并不是形成发现第二个作品是原始程序的衍生作品的唯一元素。在某些情况下，为了避免法院进行冗长的事实调查，原始作品的版权所有人将提交其自己的保护元素列表。在这种情况下，法院将放弃执行自己的抽象化，直接进行 AFC 测试的第二步骤。
 
-#### Filtration
+#### 4.2.2 Filtration
 
-#### 过滤
+#### 4.2.2 过滤
 
 The most difficult and controversial part of the AFC test is the second step, which entails the filtration of protectable expression contained in the original program from any unprotectable elements nestled therein. In determining which elements of a program are unprotectable, courts employ a myriad of rules and procedures to sift from a program all the portions that are not eligible for copyright protection.
 
@@ -111,41 +111,41 @@ Portions of the source or object code of a computer program are rarely filtered 
 
 计算机程序的源代码或目标代码的部分很少被过滤为不可保护元素。然而，有些源代码和目标代码的独特部分被发现是不可保护的。例如，常量，即组成程序中用于执行计算的公式的不变整数，是不可保护的。此外，虽然在两个程序中发现的常见错误可以提供复制的强有力证据，但它们不享有任何超出包含它们的表达所享有的版权保护。
 
-#### Comparison
+#### 4.2.3 Comparison
 
-#### 比较
+#### 4.2.3 比较
 
 The third and final step of the AFC test entails a comparison of the original program's remaining protectable expression to a second program. The issue will be whether any of the protected expression is copied in the second program and, if so, what relative importance the copied portion has with respect to the original program overall. The ultimate inquiry is whether there is "substantial" similarity between the protected elements of the original program and the potentially derivative work. The courts admit that this process is primarily qualitative rather than quantitative and is performed on a case-by-case basis. In essence, the comparison is an ad hoc determination of whether the protectable elements of the original program that are contained in the second work are significant or important parts of the original program. If so, then the second work is a derivative work of the first. If, however, the amount of protectable elements copied in the second work are so small as to be de minimis, then the second work is not a derivative work of the original.
 
 AFC测试的第三个也是最后一个步骤是将原始程序剩余的可保护表达式与第二个程序进行比较。问题在于第二个程序中是否复制了任何受保护的表达式，如果有，复制部分在整个原始程序中的相对重要性是什么。最终的问题是原始程序的受保护元素与潜在的衍生作品之间是否存在“实质性”相似性。法院承认这个过程主要是定性而非定量的，是根据具体情况进行的。实质上，比较是一种临时决定，用于确定第二个作品中包含的原始程序可保护元素是否是原始程序的重要组成部分。如果是，那么第二个作品就是第一个作品的衍生作品。然而，如果第二个作品中复制的可保护元素数量非常少，以至于可以视为微不足道，则第二个作品不是原始作品的衍生作品。
 
-### Analytic Dissection Test
+### 4.3 Analytic Dissection Test
 
-### 分析解剖测试
+### 4.3 分析解剖测试
 
 The Ninth Circuit has adopted the analytic dissection test to determine whether one program is a derivative work of another. Apple Computer, Inc. v. Microsoft Corp., 35 F.3d 1435 (9th Cir. 1994). The analytic dissection test first considers whether there are substantial similarities in both the ideas and expressions of the two works at issue. Once the similar features are identified, analytic dissection is used to determine whether any of those similar features are protected by copyright. This step is the same as the filtration step in the AFC test. After identifying the copyrightable similar features of the works, the court then decides whether those features are entitled to "broad" or "thin" protection. "Thin" protection is given to non-copyrightable facts or ideas that are combined in a way that affords copyright protection only from their alignment and presentation, while "broad" protection is given to copyrightable expression itself. Depending on the degree of protection afforded, the court then sets the appropriate standard for a subjective comparison of the works to determine whether, as a whole, they are sufficiently similar to support a finding that one is a derivative work of the other. "Thin" protection requires the second work be virtually identical in order to be held a derivative work of an original, while "broad" protection requires only a "substantial similarity."
 
 第九巡回上诉法院采用了分析解剖测试来确定一个程序是否是另一个程序的衍生作品。《苹果电脑公司诉微软公司》（Apple Computer, Inc. v. Microsoft Corp.）, 35 F.3d 1435 (9th Cir. 1994)。分析解剖测试首先考虑两个作品的观点和表达是否存在实质性的相似之处。一旦发现相似之处，就使用分析解剖来确定是否有任何受版权保护的相似之处。这一步与AFC测试中的过滤步骤相同。在确定了两个作品中受版权保护的相似之处后，法院将决定这些特征是否有“广泛”的或“薄弱”的保护。对于非版权保护的事实或观点，如果它们只是通过组合而获得版权保护，则只有其结构和表达方式才受到“薄弱”保护，而版权保护的表达方式本身则获得“广泛”保护。根据所享有的保护程度，法院随后确定了适当的标准来进行主观比较，以确定两个作品是否整体上足够相似，从而支持其中一个作品是另一个作品的衍生作品的结论。如果采用“薄弱”保护，第二个作品必须几乎完全相同才能被认为是原始作品的衍生作品；而如果采用“广泛”保护，则只需要存在“实质性相似性”。
 
-### No Protection for "Methods of Operation"
+### 4.4 No Protection for "Methods of Operation"
 
-### “操作方法”不受保护
+### 4.4 “操作方法”不受保护
 
 The First Circuit has taken the position that the AFC test is inapplicable when the works in question relate to unprotectable elements set forth in 102(b). Their approach results in a much narrower definition of derivative work for software in comparison to other circuits. Specifically, the First Circuit holds that "method of operation," as used in 102(b) of the Copyright Act, refers to the means by which users operate computers. Lotus Development Corp. v. Borland Int'l., Inc., 49 F.3d 807 (1st Cir. 1995). In Lotus, the court held that a menu command hierarchy for a computer program was uncopyrightable because it did not merely explain and present the program's functional capabilities to the user, but also served as a method by which the program was operated and controlled. As a result, under the First Circuit's test, literal copying of a menu command hierarchy, or any other "method of operation," cannot form the basis for a determination that one work is a derivative of another. As a result, courts in the First Circuit that apply the AFC test do so only after applying a broad interpretation of 102(b) to filter out unprotected elements. E.g., Real View, LLC v. 20-20 Technologies, Inc., 683 F. Supp.2d 147, 154 (D. Mass. 2010).
 
 第一巡回法院认为，当涉及到《版权法案》第102(b)条列出的不受保护元素时，AFC测试不适用于所讨论的作品。他们的方法相对于其他巡回法院的软件派生作品定义更为狭窄。具体来说，第一巡回法院认为，《版权法案》第102(b)条所使用的“操作方法”是指用户操作计算机的方式。在Lotus Development Corp. v. Borland Int'l., Inc.案中，法院认为，计算机程序的菜单命令层次结构是无法受版权保护的，因为它不仅仅是向用户解释和展示程序的功能能力，还作为控制程序操作的方法。因此，在第一巡回法院的测试中，菜单命令层次结构或其他“操作方法”的文字复制不能成为确定一部作品是否为另一部作品的派生作品的依据。因此，适用AFC测试的第一巡回法院在筛选出未受保护元素的广泛解释之后，才会适用该测试。例如，Real View, LLC v. 20-20 Technologies, Inc., 683 F. Supp.2d 147, 154 (D. Mass. 2010)案。
 
-### No Test Yet Adopted
+### 4.5 No Test Yet Adopted
 
-### 尚未采用测试
+### 4.5 尚未采用测试
 
 Several circuits, most notably the Fourth and Seventh, have yet to declare their definition of derivative work and whether or not the AFC, Analytic Dissection, or some other test best fits their interpretation of copyright law. Therefore, uncertainty exists with respect to determining the extent to which a software program is a derivative work of another in those circuits. However, one may presume that they would give deference to the AFC test since it is by far the majority rule among those circuits that have a standard for defining a software derivative work.
 
 几个巡回法院，尤其是第四和第七巡回法院，尚未宣布他们对派生作品的定义以及AFC测试、分析性解剖或其他测试是否最适合他们对版权法的解释。因此，在这些巡回法院中，仍然存在不确定性，无法确定软件程序在多大程度上是另一部作品的派生作品。然而，可以假定他们会尊重AFC测试，因为在那些已经有定义软件派生作品标准的巡回法院中，AFC测试明显占多数。
 
-### Cases Applying Software Derivative Work Analysis
+### 4.6 Cases Applying Software Derivative Work Analysis
 
-### 应用于软件衍生作品分析的案例
+### 4.6 应用于软件衍生作品分析的案例
 
 In the preeminent case regarding the definition of a derivative work for software, Computer Associates v. Altai, the plaintiff alleged that its program, Adapter, which was used to handle the differences in operating system calls and services, was infringed by the defendant's competitive program, Oscar. About 30% of Oscar was literally the same code as that in Adapter. After the suit began, the defendant rewrote those portions of Oscar that contained Adapter code in order to produce a new version of Oscar that was functionally competitive with Adapter, without having any literal copies of its code. Feeling slighted still, the plaintiff alleged that even the second version of Oscar, despite having no literally copied code, also infringed its copyrights. In addressing that question, the Second Circuit promulgated the AFC test.
 
@@ -163,9 +163,9 @@ Perhaps not surprisingly, there have been few other cases involving a highly det
 
 也许不令人意外的是，很少有其他案例涉及高度详细的软件衍生作品分析。大多数情况下，案例涉及更明显的决策基础，包括被告的频繁恶意行为或原告的过度侵权行为。
 
-### How Much Do Derivative Works Matter?
+### 4.7 How Much Do Derivative Works Matter?
 
-### 派生作品有多重要？
+### 4.7 派生作品有多重要？
 
 It is certainly true that GPL intends for any work that is determined a "derivative work" under copyright law must be licensed as a whole under GPL, as will be discussed in the following chapter. However, as we finish up our discussion derivative works, we must note that preparation of a derivative work is by far not the only way to create a new work covered by GPL.
 
