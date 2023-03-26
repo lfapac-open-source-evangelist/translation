@@ -7,17 +7,17 @@ In this chapter, we discuss the two core sections that define the rights and obl
 
 本章中，我们讨论了修改、改进和/或重新分发GPL软件的权利和义务的两个核心部分。这些部分，即GPLv2 2-3，定义了GPLv2的核心权利和要求。
 
-### GPLv2 §2: Share and Share Alike
+### 5.1 GPLv2 §2: Share and Share Alike
 
-### GPLv2 第2条：分享和分享相同
+### 5.1 GPLv2 第2条：分享和分享相同
 
 For many, this is where the "magic" happens that defends software freedom upon redistribution. GPLv2 2 is the only place in GPLv2 that governs the modification controls of copyright law. If users distribute modified versions a GPLv2'd program, they must follow the terms of GPLv2 2 in making those changes. Thus, this sections ensures that the body of GPL'd software, as it continues and develops, remains Free as in freedom. To achieve that goal, GPLv2 2 first sets forth that the rights of redistribution of modified versions are the same as those for verbatim copying, as presented in GPLv2 1. Therefore, the details of charging money, keeping copyright notices intact, and other GPLv2 1 provisions are intact here as well. However, there are three additional requirements.
 
 对于许多人来说，这就是“魔法”发生的地方，它在重新分发时保护了软件自由。GPLv2 2是在GPLv2中仅控制版权法修改控制的地方。如果用户分发了GPLv2'd程序的修改版本，他们必须遵循GPLv2 2的条款进行更改。因此，这些部分确保了GPL'd软件库随着其不断发展和发展，仍然保持自由。为了实现这个目标，GPLv2 2首先规定修改版本的重新分发权与逐字复制的重新分发权相同，就像GPLv2 1中所述的那样。因此，收费细节、版权声明完整性和其他GPLv2 1规定也在这里得到保留。但是，还有三个额外的要求。
 
-#### The Simpler Parts of GPLv2 §2
+#### 5.1.1 The Simpler Parts of GPLv2 §2
 
-### GPLv2第2条简单部分
+### 5.1.1 GPLv2第2条简单部分
 
 The first (GPLv2 2(a)) requires that modified files carry "prominent notices" explaining what changes were made and the date of such changes. This section does not prescribe some specific way of marking changes nor does it control the process of how changes are made. Primarily, GPLv2 2(a) seeks to ensure that those receiving modified versions know the history of changes to the software. For some users, it is important to know that they are using the standard version of program, because while there are many advantages to using a fork, there are a few disadvantages. Users should be informed about the historical context of the software version they use, so that they can make proper support choices. Finally, GPLv2 2(a) serves an academic purpose --- ensuring that future developers can use a diachronic approach to understand the software.
 
@@ -27,13 +27,13 @@ GPLv2 2(c), a relatively simple section, requires that any program which (before
 
 GPLv2 2（c）是一个相对简单的部分，要求在运行之前“通常会交互地读取命令”的任何程序，以及显示或打印法律信息的程序也必须在修改版本中显示所有版权声明、保证免责声明、修改指示和指向许可证的指针。这个要求相对简单，与copyleft的一个重要政策目标有关：下游用户应该知道他们的权利。它的影响和细节是简单明了的。
 
-#### GPLv2 §2(b)
+#### 5.1.2 GPLv2 §2(b)
 
-#### GPLv2 2(b)
+#### 5.1.2 GPLv2 2(b)
 
-Meanwhile, GPLv2 2(b) requires careful and extensive study. Its four short lines embody the some of the essential legal details of "share and share alike". These 46 words are considered by some to be the most worthy of careful scrutiny because they can be a source of great confusion when not properly understood. In considering GPLv2 2(b), first note the qualifier: it *only* applies to derivative, combined and/or modified works that "you distribute or publish". Despite years of education efforts on this matter, many still believe that modifiers of GPL'd software *must* publish or otherwise share their changes. On the contrary, GPLv2 2(b) **does not apply if** the changes are never distributed. Indeed, the freedom to make private, personal, unshared changes to software for personal use only should be protected and defended.[^1^](#_bookmark60)
+Meanwhile, GPLv2 2(b) requires careful and extensive study. Its four short lines embody the some of the essential legal details of "share and share alike". These 46 words are considered by some to be the most worthy of careful scrutiny because they can be a source of great confusion when not properly understood. In considering GPLv2 2(b), first note the qualifier: it *only* applies to derivative, combined and/or modified works that "you distribute or publish". Despite years of education efforts on this matter, many still believe that modifiers of GPL'd software *must* publish or otherwise share their changes. On the contrary, GPLv2 2(b) **does not apply if** the changes are never distributed. Indeed, the freedom to make private, personal, unshared changes to software for personal use only should be protected and defended.[^5-1^]
 
-与此同时，GPLv2第2条(b)要求仔细而广泛的研究。它的四行简短文字包含了“共享及共享同类”的一些基本法律细节。这46个单词被一些人认为是最值得仔细审查的，因为当它们没有被正确理解时，它们可以成为极大的混淆源。在考虑GPLv2第2条(b)时，首先要注意限定语：它仅适用于您分发或发布的派生、组合和/或修改作品。尽管在这个问题上已经进行了多年的教育工作，但许多人仍然认为GPL'd软件的修改者必须发布或以其他方式分享他们的修改。相反，GPLv2第2条(b)不适用于从未分发的更改。事实上，应该保护和维护仅用于个人使用的私人、个人、未共享软件的更改的自由。[^1^](#_bookmark60)
+与此同时，GPLv2第2条(b)要求仔细而广泛的研究。它的四行简短文字包含了“共享及共享同类”的一些基本法律细节。这46个单词被一些人认为是最值得仔细审查的，因为当它们没有被正确理解时，它们可以成为极大的混淆源。在考虑GPLv2第2条(b)时，首先要注意限定语：它仅适用于您分发或发布的派生、组合和/或修改作品。尽管在这个问题上已经进行了多年的教育工作，但许多人仍然认为GPL'd软件的修改者必须发布或以其他方式分享他们的修改。相反，GPLv2第2条(b)不适用于从未分发的更改。事实上，应该保护和维护仅用于个人使用的私人、个人、未共享软件的更改的自由。[^5-1^]
 
 Next, we again encounter the same matter that appears in GPLv2 *§*0, in the following text:
 
@@ -81,9 +81,9 @@ Thus, GPL recognizes what is outside its scope. When a programmer's work is "sep
 
 因此，GPL认识到超出其范围的事情。当程序员的工作与任何可以与之结合的GPL程序代码“独立且独立”时，版权义务不适用于单独分发的工作。因此，远非试图将通用许可证超出版权范围，这些许可证明确限制了通用许可证的范围，以符合版权的范围。
 
-[^1^](#_bookmark60.anchor)Most Free Software enthusiasts believe there is a **moral** obligation to redistribute changes that are generally useful, and they often encourage companies and individuals to do so. However, there is a clear distinction between what one **ought** to do and what one **must** do.
+[^5-1^]: Most Free Software enthusiasts believe there is a **moral** obligation to redistribute changes that are generally useful, and they often encourage companies and individuals to do so. However, there is a clear distinction between what one **ought** to do and what one **must** do.
 
-[^1^](#_bookmark60.anchor)大多数自由软件爱好者认为有一种道德义务重新分发通常有用的更改，他们经常鼓励公司和个人这样做。然而，有一个明确的区别，即人们应该做什么和人们必须做什么。
+[^5-1^]: 大多数自由软件爱好者认为有一种道德义务重新分发通常有用的更改，他们经常鼓励公司和个人这样做。然而，有一个明确的区别，即人们应该做什么和人们必须做什么。
 
 GPL does not, however (as is sometimes suggested) distinguish "dynamic" from "static" linking of pro- gram code. It is occasionally suggested that a subroutine "dynamically" linked to GPL'd code is, by virtue of the linking alone, inherently outside the scope of copyleft on the main work. This is a misunderstanding. When two software components are joined together to make one work (whether a main and some library subroutines, two objects with their respective methods, or a program and a "plugin") the combination infringes the copyright on the components if the combination required copyright permission from the com- ponent copyright holders, as such permission was either not available or was available on terms that were not observed.
 
@@ -93,9 +93,9 @@ In other words, when combining other software with GPL'd components, the only av
 
 换句话说，当将其他软件与GPL组件结合使用时，唯一可用的许可是GPL。组合者必须尊重并遵守GPL作为整体所遵守的规定。无论这种组合是在链接器在可执行文件分发之前进行的，还是由操作系统在运行时为了共享库而进行的，或者是由语言在运行时的运行时引用所导致的（如Java程序）。
 
-The next phrase of note in GPLv2 2(b) is "licensed . . . at no charge." This phrase confuses many. The sloppy reader points out this as "a contradiction in GPL" because (in their confused view) that clause of GPLv2 2 says that re-distributors cannot charge for modified versions of GPL'd software, but GPLv2 1 says that they can. Avoid this confusion: the "at no charge" **does not** prohibit re-distributors from charging when performing the acts governed by copyright law,[^2^](#_bookmark62) but rather that they cannot charge a fee for the *license itself*. In other words, redistributors of (modified and unmodified) GPL'd works may charge any amount they choose for performing the modifications on contract or the act of transferring the copy to the customer, but they may not charge a separate licensing fee for the software.
+The next phrase of note in GPLv2 2(b) is "licensed . . . at no charge." This phrase confuses many. The sloppy reader points out this as "a contradiction in GPL" because (in their confused view) that clause of GPLv2 2 says that re-distributors cannot charge for modified versions of GPL'd software, but GPLv2 1 says that they can. Avoid this confusion: the "at no charge" **does not** prohibit re-distributors from charging when performing the acts governed by copyright law,[^5-2^] but rather that they cannot charge a fee for the *license itself*. In other words, redistributors of (modified and unmodified) GPL'd works may charge any amount they choose for performing the modifications on contract or the act of transferring the copy to the customer, but they may not charge a separate licensing fee for the software.
 
-GPLv2 2(b)中需要注意的下一句话是“免费授权”。这句话让很多人感到困惑。粗心的读者会指出这是“GPL中的矛盾”，因为（在他们混淆的观点中）GPLv2 2中的这一条款说，重新发布者不能为GPL软件的修改版本收费，而GPLv2 1却说他们可以。避免这种混淆： “免费”不是禁止重新发布者在执行受版权法约束的行为时收费，^2^ 而是他们不能为软件本身收取单独的许可费用。换句话说，（修改和未修改的）GPL作品的重新发布者可以为执行合同上的修改或向客户传递副本的行为收取任意金额，但他们不能为软件收取单独的许可费。
+GPLv2 2(b)中需要注意的下一句话是“免费授权”。这句话让很多人感到困惑。粗心的读者会指出这是“GPL中的矛盾”，因为（在他们混淆的观点中）GPLv2 2中的这一条款说，重新发布者不能为GPL软件的修改版本收费，而GPLv2 1却说他们可以。避免这种混淆： “免费”不是禁止重新发布者在执行受版权法约束的行为时收费，[^5-2^] 而是他们不能为软件本身收取单独的许可费用。换句话说，（修改和未修改的）GPL作品的重新发布者可以为执行合同上的修改或向客户传递副本的行为收取任意金额，但他们不能为软件收取单独的许可费。
 
 GPLv2 2(b) further states that the software must "be licensed . . . to all third parties." This too yields some confusion, and feeds the misconception mentioned earlier --- that all modified versions must be made available to the public at large. However, the text here does not say that. Instead, it says that the licensing under terms of the GPL must extend to anyone who might, through the distribution chain, receive a copy of the software. Distribution to all third parties is not mandated here, but GPLv2 2(b) does require re- distributors to license the whole work in a way that extends to all third parties who may ultimately receive a copy of the software.
 
@@ -103,23 +103,23 @@ GPLv2 2(b)进一步规定软件必须“授权……给所有第三方使用。�
 
 In summary, GPLv2 2(b) says what terms under which the third parties must receive this no-charge license. Namely, they receive it "under the terms of this License", the GPLv2. When an entity *chooses* to redistribute a work based on GPL'd software, the license of that whole work must be GPL and only GPL. In this manner, GPLv2 *§*2(b) dovetails nicely with GPLv2 *§*6 (as discussed in Section [7.3](#gplv2-6-gpl-my-one-and-only) of this tutorial).
 
-总之，GPLv2 2(b)规定了第三方必须获得此无费许可证的条款。换句话说，他们获得的是“本许可证”的条款，即GPLv2。当一个实体选择基于GPL软件再分发作品时，整个作品的许可证必须是GPL，只能是GPL。通过这种方式，GPLv2 §2(b)与GPLv2 §6（如本教程的7.3部分所讨论的）紧密结合。
+总之，GPLv2 2(b)规定了第三方必须获得此无费许可证的条款。换句话说，他们获得的是“本许可证”的条款，即GPLv2。当一个实体选择基于GPL软件再分发作品时，整个作品的许可证必须是GPL，只能是GPL。通过这种方式，GPLv2 2(b)与GPLv2 第6条（如本教程的7.3部分所讨论的）紧密结合。
 
 The final paragraph of GPLv2 2 is worth special mention. It is possible and quite common to aggregate various software programs together on one distribution medium. Computer manufacturers do this when they ship a pre-installed hard drive, and GNU/Linux distribution vendors do this to give a one-stop CD or URL for a complete operating system with necessary applications. The GPL very clearly permits such "mere aggregation" with programs under any license. Despite what you hear from its critics, the GPL is nothing like a virus, not only because the GPL is good for you and a virus is bad for you, but also because simple contact with a GPL'd code-base does not impact the license of other programs. A programmer must expend actual effort to cause a work to fall under the terms of the GPL. Redistributors are always welcome to simply ship GPL'd software alongside proprietary software or other unrelated Free Software, as long as the terms of GPL are adhered to for those packages that are truly GPL'd.
 
 GPLv2第2节的最后一段值得特别提及。在一个分发介质上聚合各种软件程序是可能且很常见的。计算机制造商在出货时这样做，GNU/Linux发行商则提供一站式CD或URL以获取具有必要应用程序的完整操作系统。GPL非常明确地允许这种“纯聚合”与任何许可证下的程序一起使用。尽管你从批评者那里听到的不是这样，GPL与病毒完全不同，不仅因为GPL对你有益而病毒对你有害，而且因为与GPL的代码库的简单接触不会影响其他程序的许可证。程序员必须实际努力才能使一个作品适用于GPL的条款。再分发者总是欢迎将GPL软件与专有软件或其他无关的自由软件一起分发，只要真正使用GPL的软件包的条款遵守GPL即可。
 
-#### Right to Private Modification
+#### 5.1.3 Right to Private Modification
 
-### 私有修改权
+#### 5.1.3 私有修改权
 
-The issue of private modifications of GPLv2'd works deserves special attention. While these rights are clearly explicit in GPLv3 2 2 (see [9.4](#gplv3-2-basic-permissions) of this tutorial for details), the permission to create private modifications is mostly implicit in GPLv2. Most notably, the requirements of GPLv2 2 (and GPLv2 3, which will be discussed next) are centered around two different copyright controls: both modification *and* distribution. As such, GPLv2 2's requirements need only be met when a modified version is distributed; one need not follow them for modified versions that are not distributed.[^3^](#_bookmark65)
+The issue of private modifications of GPLv2'd works deserves special attention. While these rights are clearly explicit in GPLv3 2 2 (see [9.4](#gplv3-2-basic-permissions) of this tutorial for details), the permission to create private modifications is mostly implicit in GPLv2. Most notably, the requirements of GPLv2 2 (and GPLv2 3, which will be discussed next) are centered around two different copyright controls: both modification *and* distribution. As such, GPLv2 2's requirements need only be met when a modified version is distributed; one need not follow them for modified versions that are not distributed.[^5-3^]
 
-对于 GPLv2 的作品进行私有修改的问题需要特别注意。虽然 GPLv3 2 2 中明确列出了这些权利（有关详情请参见本教程的 9.4 部分），但是在 GPLv2 中，创造私有修改的许可大多是暗含的。特别是，GPLv2 2（和将在下一节讨论的 GPLv2 3）的要求围绕两个不同的版权控制展开：修改和分发。因此，只有在分发修改版本时才需要遵守 GPLv2 2 的要求；对于未分发的修改版本，不需要遵守这些要求。[^3^](#_bookmark65)
+对于 GPLv2 的作品进行私有修改的问题需要特别注意。虽然 GPLv3 2 2 中明确列出了这些权利（有关详情请参见本教程的 9.4 部分），但是在 GPLv2 中，创造私有修改的许可大多是暗含的。特别是，GPLv2 2（和将在下一节讨论的 GPLv2 3）的要求围绕两个不同的版权控制展开：修改和分发。因此，只有在分发修改版本时才需要遵守 GPLv2 2 的要求；对于未分发的修改版本，不需要遵守这些要求。[^5-3^]
 
-[^2^](#_bookmark62.anchor)Recall that you could by default charge for any acts not governed by copyright law, because the license controls are confined by copyright.
+[^5-2^]: Recall that you could by default charge for any acts not governed by copyright law, because the license controls are confined by copyright.
 
-[^2^](#_bookmark62.anchor)请记住，您默认可以收取任何不受版权法约束的行为费用，因为许可控制受版权限制。
+[^5-2^]: 请记住，您默认可以收取任何不受版权法约束的行为费用，因为许可控制受版权限制。
 
 However, the careful reader of GPLv2 will notice that, unlike GPLv3, no other clauses of the license actually give explicit permission to make private modifications. Since modification of software is a control governed by copyright, a modifier needs permission from the copyright holder to engage in that activity.
 
@@ -129,9 +129,9 @@ In practice, however, traditional GPLv2 interpretation has always assumed that b
 
 然而，在实践中，传统的 GPLv2 解释一直假定拥有创造非分发修改版本的全面许可，而FSF 长期以来一直认为分发修改版本从来不是强制性的。这个问题是 GPLv3 明确文本阐明了长期解释 GPLv2 所确定的隐含政策和意图的众多问题之一。
 
-### GPLv2 §3: Producing Binaries
+### 5.2 GPLv2 §3: Producing Binaries
 
-### GPLv2 第3条：生成二进制文件
+### 5.2 GPLv2 第3条：生成二进制文件
 
 Software is a strange beast when compared to other copyrightable works. It is currently impossible to make a film or a book that can be truly obscured. Ultimately, the full text of a novel, even one written by William Faulkner, must be presented to the reader as words in some human-readable language so that they can enjoy the work. A film, even one directed by David Lynch, must be perceptible by human eyes and ears to have any value.
 
@@ -141,9 +141,9 @@ Software is not so. While the source code --- the human-readable representation 
 
 软件不同。尽管源代码是软件的人类可读表现形式，对程序员来说是非常重要的，但用户和程序员不能以这种人类可读的形式正确地使用软件。二进制代码，即计算机能够理解的一和零，必须是可预测且可获得的，才能充分发挥软件的作用。如果没有二进制文件，无论是目标文件还是可执行文件，该软件只能用于计算机科学的教学目的。
 
-Under copyright law, binary representations of the software are simply modified versions (and/or deriva- tive works) of the source code. Applying a systematic process (i.e., "compilation"[^4^](#_bookmark66)) to a work of source code yields binary code. The binary code is now a new work of expression fixed in the tangible medium of electronic file storage.
+Under copyright law, binary representations of the software are simply modified versions (and/or deriva- tive works) of the source code. Applying a systematic process (i.e., "compilation"[^5-4^]) to a work of source code yields binary code. The binary code is now a new work of expression fixed in the tangible medium of electronic file storage.
 
-根据版权法，软件的二进制表示只是源代码的修改版本（和/或派生作品）。将源代码作品应用一种系统的过程（即“编译”）会产生二进制代码。现在，二进制代码是以电子文件存储为载体的新的表达形式。
+根据版权法，软件的二进制表示只是源代码的修改版本（和/或派生作品）。将源代码作品应用一种系统的过程（即“编译”[^5-4^]）会产生二进制代码。现在，二进制代码是以电子文件存储为载体的新的表达形式。
 
 Therefore, for GPL'd software to be useful, the GPL, since it governs the rules for creation of modified works, must grant permission for the generation of binaries. Furthermore, notwithstanding the relative popularity of source-based GNU/Linux distributions like Gentoo, users find it extremely convenient to receive distribution of binary software. Such distribution is the redistribution of modified works of the software's source code. GPLv2 3 addresses the matter of creation and distribution of binary versions.
 
@@ -161,21 +161,21 @@ GPLv2 3(a) offers the option to directly accompany the source code alongside the
 
 GPLv2第3条(a)提供了在二进制文件分发的同时直接附带源代码的选择。这对于大多数分发者来说是最方便的选择，因为它意味着在二进制分发时完全完成了源代码提供义务（稍后将更详细地说明）。
 
-#### Complete, Corresponding Source (CCS)
+#### 5.2.1 Complete, Corresponding Source (CCS)
 
-#### 完整、对应的源代码（CCS）
+#### 5.2.1 完整、对应的源代码（CCS）
 
 Under GPLv2 3(a), the source code provided must be the "corresponding source code." Here "correspond- ing" primarily means that the source code provided must be that code used to produce the binaries being distributed. That source code must also be "complete". GPLv2 3's penultimate paragraph explains in de- tail what is meant by "complete". In essence, it is all the material that a programmer of average skill would need to actually use the source code to produce the binaries she has received. Complete source is required so that, if the licensee chooses, she should be able to exercise her freedoms to modify and redistribute changes. Without the complete source, it would not be possible to make changes that were actually directly derived from the version received.
 
 在GPLv2 3(a)下，提供的源代码必须是“对应的源代码”。在这里，“对应的”主要意味着提供的源代码必须是用于生成所分发的二进制文件的代码。该源代码还必须是“完整的”。GPLv2 3的倒数第二段详细解释了“完整”的含义。实质上，它是程序员需要实际使用源代码来生成收到的二进制文件所需的所有材料。需要完整的源代码，以便许可证持有人选择时，可以行使修改和重新分发更改的自由。如果没有完整的源代码，就不可能制作实际上是直接源自所收到版本的更改。
 
-[^3^](#_bookmark65.anchor)As a matter of best practice, it's useful to assume that all software may eventually be distributed later, even if there no plans for distribution at this time. Too often, GPL violations occur because of a late distribution decision of software that was []{#_bookmark66 .anchor}otherwise never intended for distribution.
+[^5-3^]: As a matter of best practice, it's useful to assume that all software may eventually be distributed later, even if there no plans for distribution at this time. Too often, GPL violations occur because of a late distribution decision of software that was []{#_bookmark66 .anchor}otherwise never intended for distribution.
 
-[^3^](#_bookmark65.anchor)作为最佳实践，有用的做法是假定所有软件最终都可能被分发，即使现在没有分发计划。由于本来没有意图进行分发的软件最终作出了分发决定，因此往往会出现GPL违规行为。
+[^5-3^]: 作为最佳实践，有用的做法是假定所有软件最终都可能被分发，即使现在没有分发计划。由于本来没有意图进行分发的软件最终作出了分发决定，因此往往会出现GPL违规行为。
 
-[^4^](#_bookmark65.anchor)"Compilation" in this context refers to the automated computing process of converting source code into binaries. It has absolutely nothing to do with the term "compilation" in copyright statues.
+[^5-4^]: "Compilation" in this context refers to the automated computing process of converting source code into binaries. It has absolutely nothing to do with the term "compilation" in copyright statues.
 
-[^4^](#_bookmark65.anchor)在此上下文中，“编译”是指将源代码自动转换为二进制文件的计算过程。它与版权法规中的“编译”一词完全无关。
+[^5-4^]: 在此上下文中，“编译”是指将源代码自动转换为二进制文件的计算过程。它与版权法规中的“编译”一词完全无关。
 
 Based on the appearance of those two words, GPL theorists will often refer to the source code required under the previsions of this section as "Complete, Corresponding Source", sometimes abbreviated as CCS. CCS is not a formal, defined term in GPLv2, but rather, GPL theorists coined the acronym CCS to embody not just the concepts of "complete" and "corresponding" as found in GPLv2, but the entirety of GPLv2's requirements for source code provisioning. In other words, GPL theorists might say: "the company provided some source, but it wasn't CCS", which would mean the source code failed in some ways to meet some term of GPLv2.
 
@@ -189,9 +189,9 @@ This requirement is not merely of theoretical value. If you pay a high price for
 
 这个要求不仅仅具有理论价值。如果你花了高价购买了带有CCS的GPL二进制文件副本，你就有自由以任何你选择的费用重新分发该作品，或者根本不分发。有时，一些公司会尝试违反GPL的欺诈手段，他们会生产非常专业化的二进制文件（也许是针对某种不常见的架构），然后提供相应的源代码，但是却不提供他们用来将这个源代码编译成专业化二进制文件所需要的"咒语"和构建计划。这样的发行版违反了GPL，因为下游用户无法有效地"控制编译和安装"这些二进制文件。
 
-#### Additional Source Provision Options
+#### 5.2.2 Additional Source Provision Options
 
-### 其他提供源代码的选项
+#### 5.2.2 其他提供源代码的选项
 
 Software distribution comes in many forms. Embedded manufacturers, for example, have the freedom to put GPL'd software into mobile devices with very tight memory and space constraints. In such cases, putting the source right alongside the binaries on the machine itself might not be an option. While it is recommended that this be the default way that people comply with GPL, the GPL does provide options when such distribution is unfeasible.
 

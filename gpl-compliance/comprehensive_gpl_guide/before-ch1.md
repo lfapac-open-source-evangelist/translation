@@ -1,6 +1,8 @@
 
 # Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide
 
+# Copyleft和GNU通用公共许可证：全面教程和指南
+
 Copyright &copy; 2018      Chestek Legal.
 
 Copyright &copy; 2003--2005, 2008, 2014--2015, 2018        Bradley M. Kuhn.
@@ -13,13 +15,33 @@ Copyright &copy; 2003--2007, 2014  Free Software Foundation, Inc.
 
 Copyright &copy; 2008, 2014        Software Freedom Law Center.
 
+版权所有©2018 Chestek Legal。
+
+版权所有©2003--2005，2008，2014--2015，2018 Bradley M. Kuhn。
+
+版权所有©2014--2015 Anthony K. Sebro, Jr。
+
+版权所有©2014 Denver Gingerich。
+
+版权所有©2003--2007，2014自由软件基金会。
+
+版权所有©2008，2014软件自由法律中心。
+
 The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B](#_bookmark256)[--E](#_bookmark261)) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
+
+版权持有者授予自由复制，修改，传播，适应和/或重新分发本作品（除附录B--E外），根据知识共享署名相同4.0国际许可协议的条款。该许可证的副本可在https://creativecommons.org/licenses/by-sa/4.0/legalcode找到。
 
 Appendices [B--E](#_bookmark261) include copies of the texts of various licenses published by the FSF, and they are all licensed under the license, "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.". However, those who seek to make modified versions of those licenses should note the [explanation given in the GPL FAQ.](https://www.gnu.org/licenses/gpl-faq.html#ModifyGPL)
 
+附录B--E包括由FSF发表的各种许可证的文本副本，它们都在许可证下许可，“每个人都被允许复制和分发本许可证文件的逐字副本，但不允许更改。”但是，那些试图制作修改版本的许可证的人应注意GPL FAQ中给出的解释。
+
 As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog/master/) for full documentation of all contributions, and Appendix [A](#_bookmark255) contains a list of third-party works from which some material herein was adapted.
 
+作为公共协作项目，本指南主要由通过其公共贡献过程接收到的许多贡献组成。请查看其Git日志以获取所有贡献的完整文档，附录A包含了一些本文所述材料的第三方作品列表。
+
 The most recent version is available online at <https://copyleft.org/guide/>. Patches are indeed welcome to this material. Sources can be found in the Git repository at <https://k.copyleft.org/guide/>.
+
+最新版本可在线获取https://copyleft.org/guide/。欢迎为此材料提供补丁。源代码可以在Git存储库https://k.copyleft.org/guide/中找到。
 
 CONTENTS
 
