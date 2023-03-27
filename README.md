@@ -30,6 +30,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 琚攀攀 | Panpan Ju | cherrysx | fgnxpp | PPJ | HPC |  | 280056663@qq.com |
 | 张晓辉 | Addo Zhang | addozhang | addo_zhang | 大头² Addo | 云原生、Kubernetes、微服务、DevOps| Flomesh | duwasai@gmail.com |
 | 周琦 | Zoom Quiet | zoomquiet | zoomquiet | 大妈 | Pythonic/开发者关系/社区运营 | 101.camp | zoomquiet+lf@gmail.com |
+| 王誓伟 | Edward Gavin | Edward-Gavin | Edward-Gavin    | Edward Gavin |  | weibo      | wsw_it_3325@163.com     |
 
 ## SIG例会
 
