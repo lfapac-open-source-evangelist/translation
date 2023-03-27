@@ -1,84 +1,72 @@
-**Appendices**
+## Appendices
 
-[]{#_bookmark255 .anchor}**APPENDIX A**
+## 附录
 
-CITATIONS OF INCORPORATED MATERIAL FROM OTHER PUBLISHED WORKS
+### APPENDIX A** CITATIONS OF INCORPORATED MATERIAL FROM OTHER PUBLISHED WORKS
 
-As a public, collaborative project, this Guide is primarily composed
-of the many contributions received via its [public contribution
-process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md)
-Please [review its Git logs](https://k.copyleft.org/guide/changelog)
-for full documentation of all contributions.
+### 从其他已发表作品中引用的材料的引证
 
-Below is a list of CC-By-SA-licensed works, with specific titles and
-publication dates, from which any material was incorporated into this
-Guide. The specific methods and details of incorporation are fully
-documented in the [Git logs](https://k.copyleft.org/guide/changelog)
-of the project.
+As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog) for full documentation of all contributions.
 
--   [*GPLv3 First Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/gpl-rationale-2006-01-16.html),
-    > published by the Free Software Foundation on 2006-01-16.
+作为一项公开的协作项目，本指南主要由通过其公共贡献流程收到的许多贡献组成。请查看Git日志以获取所有贡献的完整文档记录。
 
--   [*GPLv3 Second Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/opinions-draft-2.html), published
-    > by the Free Software Foundation circa 2006-07.
+Below is a list of CC-By-SA-licensed works, with specific titles and publication dates, from which any material was incorporated into this Guide. The specific methods and details of incorporation are fully documented in the [Git logs](https://k.copyleft.org/guide/changelog) of the project.
 
--   [*GPLv3 Third Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/gpl3-dd3-guide), published by the
-    > Free Software Foundation on 2007-03-28.
+以下是CC-By-SA许可的作品列表，包括特定的标题和出版日期，这些作品中的任何材料都被纳入了本指南中。具体的纳入方法和细节在项目的Git日志中得到了充分的记录。
 
--   [*GPLv3 Discussion Draft 3 FAQ*](http://gplv3.fsf.org/dd3-faq) ,
-    > published by the Free Software Foundation on 2007-03-28.
+- [*GPLv3 First Discussion Draft Rationale*](http://gplv3.fsf.org/gpl-rationale-2006-01-16.html), published by the Free Software Foundation on 2006-01-16.
 
--   [*GPLv3 Final Discussion Draft
-    > Rationale*](http://gplv3.fsf.org/gpl3-dd4-guide.html), published
-    > by the Free Software Foundation on 2007-05-31.
+- [*GPLv3 Second Discussion Draft Rationale*](http://gplv3.fsf.org/opinions-draft-2.html), published by the Free Software Foundation circa 2006-07.
 
--   [*GPLv3 Final
-    > Rationale*](http://www.gnu.org/licences/gpl3-final-rationale.pdf),
-    > written and published by the Free Software Foundation on
-    > 2007-06-29.
+- [*GPLv3 Third Discussion Draft Rationale*](http://gplv3.fsf.org/gpl3-dd3-guide), published by the Free Software Foundation on 2007-03-28.
 
-[*A Practical Guide GPL
-Compliance*](http://www.softwarefreedom.org/resources/2008/compliance-guide.html),
-written by Bradley M. Kuhn, Aaron Williamson and Karen Sandler and
-published by the Software Freedom Law Center on 2008-08-20.
+- [*GPLv3 Discussion Draft 3 FAQ*](http://gplv3.fsf.org/dd3-faq) , published by the Free Software Foundation on 2007-03-28.
 
-[*Software Freedom Law Center Guide to GPL Compliance, 2nd
-Edition*](http://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html),
-written by Eben Moglen and Mishi Choudhary and published by the
-Software Freedom Law Center on 2014-10-31.
+- [*GPLv3 Final Discussion Draft Rationale*](http://gplv3.fsf.org/gpl3-dd4-guide.html), published by the Free Software Foundation on 2007-05-31.
 
-*Detailed Analysis of the GNU GPL and Related Licenses*, written by
-Bradley M. Kuhn, Daniel B. Ravicher, and John Sullivan and published
-by the Free Software Foundation for its CLE courses on 2004-01-20,
-2004-08-24, and 2014-03-24.
+- [*GPLv3 Final Rationale*](http://www.gnu.org/licences/gpl3-final-rationale.pdf), written and published by the Free Software Foundation on 2007-06-29.
 
-*Enforcement Case Studies*, written by Bradley M. Kuhn and published
-by the Free Software Foundation for its CLE courses on 2004-01-20,
-2004-08-24, and 2014-03-24.
+- [GPLv3第一次讨论草案理由](http://gplv3.fsf.org/gpl-rationale-2006-01-16.html)，由自由软件基金会于2006年1月16日发布。
 
-Please note, however, that this list above does not include nor
-adequately represent the substantial contributions from those who
-directly contributed to this Guide using its Git (and formerly, CVS)
-repository. Rather, this is a list of third-party published works from
-which any text was herein included under their
+- [GPLv3第二次讨论草案理由](http://gplv3.fsf.org/opinions-draft-2.html)，由自由软件基金会于2006年7月左右发布。
 
-CC-By-SA licensing. Thus, as the reader might expect, the [version
-control logs](https://k.copyleft.org/guide/changelog) contain the only
-true and accurate view available of who has contributed which portions
-of this project.
+- [GPLv3第三次讨论草案理由](http://gplv3.fsf.org/gpl3-dd3-guide)，由自由软件基金会于2007年3月28日发布。
 
-The remaining appendices include a full copy of GPLv2, GPLv3,
-LGPLv2.1, LGPLv3, and AGPLv3.
+- [GPLv3第三次讨论草案常见问题解答](http://gplv3.fsf.org/dd3-faq)，由自由软件基金会于2007年3月28日发布。
 
-These are the most commonly used licenses in the GPL family of
-licenses.
+- [GPLv3最终讨论草案理由](http://gplv3.fsf.org/gpl3-dd4-guide.html)，由自由软件基金会于2007年5月31日发布。
 
-[]{#_bookmark256 .anchor}**APPENDIX B**
+- [GPLv3最终理由](http://www.gnu.org/licences/gpl3-final-rationale.pdf)，由自由软件基金会于2007年6月29日撰写并发布。
 
-# GNU通用公共许可证
+[*A Practical Guide GPL Compliance*](http://www.softwarefreedom.org/resources/2008/compliance-guide.html), written by Bradley M. Kuhn, Aaron Williamson and Karen Sandler and published by the Software Freedom Law Center on 2008-08-20.
+
+[GPL合规实践指南](http://www.softwarefreedom.org/resources/2008/compliance-guide.html)，由Bradley M. Kuhn、Aaron Williamson和Karen Sandler撰写，并于2008年8月20日由软件自由法律中心出版。
+
+[*Software Freedom Law Center Guide to GPL Compliance, 2nd Edition*](http://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html), written by Eben Moglen and Mishi Choudhary and published by the Software Freedom Law Center on 2014-10-31.
+
+[软件自由法律中心GPL合规指南第2版](http://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html)，由Eben Moglen和Mishi Choudhary撰写，并于2014年10月31日由软件自由法律中心出版。
+
+*Detailed Analysis of the GNU GPL and Related Licenses*, written by Bradley M. Kuhn, Daniel B. Ravicher, and John Sullivan and published by the Free Software Foundation for its CLE courses on 2004-01-20, 2004-08-24, and 2014-03-24.
+
+《GNU GPL及相关许可证的详细分析》是由Bradley M. Kuhn、Daniel B. Ravicher和John Sullivan所著，由自由软件基金会于2004年1月20日、2004年8月24日和2014年3月24日发表于其CLE课程中的一篇文章。
+
+*Enforcement Case Studies*, written by Bradley M. Kuhn and published by the Free Software Foundation for its CLE courses on 2004-01-20, 2004-08-24, and 2014-03-24.
+
+《执行案例研究》是Bradley M. Kuhn撰写的，由自由软件基金会于2004年1月20日、2004年8月24日和2014年3月24日为其CLE课程出版。
+
+Please note, however, that this list above does not include nor adequately represent the substantial contributions from those who directly contributed to this Guide using its Git (and formerly, CVS) repository. Rather, this is a list of third-party published works from which any text was herein included under their CC-By-SA licensing. Thus, as the reader might expect, the [version control logs](https://k.copyleft.org/guide/changelog) contain the only true and accurate view available of who has contributed which portions of this project.
+
+请注意，上述列表不包括也无法充分代表那些直接通过Git（以前是CVS）代码库对本指南做出实质性贡献的人。相反，这是一个第三方已发布作品的列表，其中任何文本都是根据它们的CC-By-SA许可证在此处包含的。因此，正如读者所期望的那样，版本控制日志 包含了对谁在此项目的哪些部分做出了贡献的唯一真实和准确的视图。
+
+The remaining appendices include a full copy of GPLv2, GPLv3, LGPLv2.1, LGPLv3, and AGPLv3.
+
+其余的附录包括 GPLv2、GPLv3、LGPLv2.1、LGPLv3 和 AGPLv3 的完整副本。
+
+These are the most commonly used licenses in the GPL family of licenses.
+
+这些是GPL许可证家族中最常用的许可证。
+
+## APPENDIX B GNU通用公共许可证
 
 第二版，1991年6月
 
@@ -218,10 +206,7 @@ a）根据上述第1条和第2条要求，附上完整的、机器可读的源�
 
 本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证。
 
-
-[]{#_bookmark258 .anchor}**APPENDIX C**
-
-# GNU通用公共许可证
+## APPENDIX C GNU通用公共许可证
 
 第二版，1991年6月
 
@@ -375,15 +360,14 @@ a）根据上述第1条和第2条要求，附上完整的、机器可读的源�
 
 [简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
 
-
-[]{#_bookmark259 .anchor}**APPENDIX D**
-# GNU通用公共许可证
+## APPENDIX D GNU通用公共许可证
 
 第3版，2007年6月29日
 
-版权所有 (C) 2007年 自由软件基金会 https://fsf.org/。
+版权所有 (C) 2007年 自由软件基金会 <https://fsf.org/>。
 
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
+
 ## 引言
 
 GNU通用公共许可证是一份面向软件及其他类型作品的、著佐权许可证。
@@ -614,7 +598,6 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
     你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
 
-
 同时提供你的电子邮件或者纸质邮件地址。
 
 如果本程序是交互的，使其在交互模式启动前输出如下的简短声明：
@@ -626,25 +609,28 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
 假设的命令`show w` 和 `show c` 用于显示通用公共许可证相应的内容。当然，你也可以使用`show w` 和 `show c` 之外的其他命令，对于图形界面程序，你可以使用“关于”对话框。
 
-如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看  https://www.gnu.org/licenses/。
+如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看  <https://www.gnu.org/licenses/>。
 
-本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 https://www.gnu.org/licenses/why-not-lgpl.html。
+本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 <https://www.gnu.org/licenses/why-not-lgpl.html>。
 
-[]{#_bookmark261 .anchor}**APPENDIX E**
+## APPENDIX E: GNU AFFERO GENERAL PUBLIC LICENSE
 
-# GNU AFFERO GENERAL PUBLIC LICENSE
-# GNU Affero 通用公共许可证
+## 附录#： GNU Affero 通用公共许可证
+
 Version 3, 19 November 2007
+
 第3版, 2017年11月19日
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
-版权所有 (C) 2007年 自由软件基金会 https://fsf.org/。
+版权所有 (C) 2007年 自由软件基金会 <https://fsf.org/>。
 
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
 ## Preamble
+
 ## 引言
+
 The GNU Affero General Public License is a free, copyleft license
 for software and other kinds of works, specifically designed to ensure
 cooperation with the community in the case of network server software.
@@ -710,10 +696,13 @@ The precise terms and conditions for copying, distribution and
 modification follow.
 
 下文是关于复制、分发和修改的详细条款和条件。
+
 ## Terms and Conditions
+
 ## 条款和条件
 
-### 0. Definitions.
+### 0. Definitions
+
 ### 0. 定义
 
 ``This License`` refers to version 3 of the GNU Affero General Public License.
@@ -769,7 +758,8 @@ menu, a prominent item in the list meets this criterion.
 
 显示“适当的法律声明”的交互式用户界面应包括一个方便和醒目的可视化方式显示：（1）适当的版权声明；（2）告知用户没有品质担保（提供了品质担保的情况除外），被授权人可以在本许可证约束下传递该作品，及查看本许可证副本的途径。如果该界面是以命令列表或者选项方式显示，如菜单，在列表项显示上述法律声明，也是符合本要求。
 
-### 1. Source Code.
+### 1. Source Code
+
 ### 1. 源代码
 
 The ``source code`` for a work means the preferred form of the work
@@ -824,7 +814,8 @@ same work.
 
 源代码形式作品的相应源代码即该作品本身。
 
-### 2. Basic Permissions.
+### 2. Basic Permissions
+
 ### 2. 基本授权
 
 All rights granted under this License are granted for the term of
@@ -856,7 +847,8 @@ makes it unnecessary.
 
 仅当满足后文所述条件时，其他各种情况下的传递才是被允许的。不允许再授权，而第10条的存在也使再授权变得没有必要。
 
-### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+### 3. Protecting Users' Legal Rights From Anti-Circumvention Law
+
 ### 3. 保护用户的合法权益免受反破解法限制
 
 No covered work shall be deemed part of an effective technological
@@ -877,7 +869,8 @@ technological measures.
 
 如果你传递一个涵盖的作品，即表明你放弃禁止技术规避措施的法律权利，行使本许可证所授予权利可以实现规避，同时，你也放弃禁止技术规避措施相关的法律赋予你或者第三方限制运行或者修改本作品的权利。
 
-### 4. Conveying Verbatim Copies.
+### 4. Conveying Verbatim Copies
+
 ### 4. 传递原始副本
 
 You may convey verbatim copies of the Program's source code as you
@@ -895,7 +888,8 @@ and you may offer support or warranty protection for a fee.
 
 你可以免费或收任何费用传递，也可以选择提供技术支持或品质担保以收取费用。
 
-### 5. Conveying Modified Source Versions.
+### 5. Conveying Modified Source Versions
+
 ### 5. 传递经过修改的源代码
 
 You may convey a work based on the Program, or the modifications to
@@ -904,15 +898,15 @@ terms of section 4, provided that you also meet all of these conditions:
 
 你可以以第4条规定的源代码形式传递基于本程序的作品或修改的内容，但必须满足以下要求：
   
-  - a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
+- a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
 
-  - a) 该作品必须带有明显的修改声明及相应的日期。
+- a) 该作品必须带有明显的修改声明及相应的日期。
   
-  - b)  The work must carry prominent notices stating that it is released under this License and any conditions added under section 7.  This requirement modifies the requirement in section 4 to ``keep intact all notices``.
+- b)  The work must carry prominent notices stating that it is released under this License and any conditions added under section 7.  This requirement modifies the requirement in section 4 to ``keep intact all notices``.
 
-  - b) 该作品必须带有明显的声明，指明其在本许可证及任何符合第7条的附加条款下发布。这个要求修正了第4条关于“完整保留所有声明”的内容。
+- b) 该作品必须带有明显的声明，指明其在本许可证及任何符合第7条的附加条款下发布。这个要求修正了第4条关于“完整保留所有声明”的内容。
   
-  - c) You must license the entire work, as a whole, under this
+- c) You must license the entire work, as a whole, under this
   License to anyone who comes into possession of a copy.  This
   License will therefore apply, along with any applicable section 7
   additional terms, to the whole of the work, and all its parts,
@@ -920,14 +914,14 @@ terms of section 4, provided that you also meet all of these conditions:
   permission to license the work in any other way, but it does not
   invalidate such permission if you have separately received it.
 
-  - c) 你必须按照本许可证将该作品整体许可给任何得到副本的人。本许可证与符合第7条的附加条款共同适用于整个作品，以及作品的任何一部分，不管它们是如何组建的。本许可证不允许以其他形式许可本作品，但不会使你已经单独收到的其他授权无效。
+- c) 你必须按照本许可证将该作品整体许可给任何得到副本的人。本许可证与符合第7条的附加条款共同适用于整个作品，以及作品的任何一部分，不管它们是如何组建的。本许可证不允许以其他形式许可本作品，但不会使你已经单独收到的其他授权无效。
 
-  - d) If the work has interactive user interfaces, each must display
+- d) If the work has interactive user interfaces, each must display
   Appropriate Legal Notices; however, if the Program has interactive
   interfaces that do not display Appropriate Legal Notices, your
   work need not make them do so.
 
-  - d) 如果该作品有交互式用户界面，则其必须显示适当的法律声明。然而，当该程序有交互式用户界面却不显示适当的法律声明时，你的作品也无需使其显示。
+- d) 如果该作品有交互式用户界面，则其必须显示适当的法律声明。然而，当该程序有交互式用户界面却不显示适当的法律声明时，你的作品也无需使其显示。
 
 A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
@@ -941,7 +935,8 @@ parts of the aggregate.
 
 一个涵盖的作品与其他单独且独立的作品组成一个组合，其中的单独作品既不是涵盖的作品的自然延伸，也不是为了与涵盖的作品组成更大程序而与被保护作品存储或者分发介质上，并且这种组合和组合后的版权不会限制单独作品的授权，则这种组合称为“组合体”。
 
-### 6. Conveying Non-Source Forms.
+### 6. Conveying Non-Source Forms
+
 ### 6. 以非源代码形式传递
 
 You may convey a covered work in object code form under the terms
@@ -951,14 +946,14 @@ in one of these ways:
 
 你可以以第4条和第5条所述那样以目标代码形式传递涵盖的作品，同时在本许证可规范下以如下方式之一传递机器可读的对应源代码：
   
-  - a) Convey the object code in, or embodied in, a physical product
+- a) Convey the object code in, or embodied in, a physical product
   (including a physical distribution medium), accompanied by the
   Corresponding Source fixed on a durable physical medium
   customarily used for software interchange.
 
-  - a) 通过物理产品（包括物理分发媒介）传递或者嵌入目标代码时，通过常用于软件交换的耐用型物理媒介传递相应的源代码。
+- a) 通过物理产品（包括物理分发媒介）传递或者嵌入目标代码时，通过常用于软件交换的耐用型物理媒介传递相应的源代码。
   
-  - b) Convey the object code in, or embodied in, a physical product
+- b) Convey the object code in, or embodied in, a physical product
   (including a physical distribution medium), accompanied by a
   written offer, valid for at least three years and valid for as
   long as you offer spare parts or customer support for that product
@@ -970,17 +965,17 @@ in one of these ways:
   conveying of source, or (2) access to copy the
   Corresponding Source from a network server at no charge.
 
-  - b) 通过物理产品（包括物理分发媒介）时，附随具有至少3年有效期的书面承诺，并且有效期涵盖提供的备件或客户支持，以授予任何目标代码的持有者：（1）获得产品中全部涵盖的软件的相应源代码的副本，副本通过常用于软件交换的耐用型物理媒介提供，且收费不超过其合理的传递成本；或者（2）通过网络免费获得相应源代码的途径。
+- b) 通过物理产品（包括物理分发媒介）时，附随具有至少3年有效期的书面承诺，并且有效期涵盖提供的备件或客户支持，以授予任何目标代码的持有者：（1）获得产品中全部涵盖的软件的相应源代码的副本，副本通过常用于软件交换的耐用型物理媒介提供，且收费不超过其合理的传递成本；或者（2）通过网络免费获得相应源代码的途径。
 
-  - c) Convey individual copies of the object code with a copy of the
+- c) Convey individual copies of the object code with a copy of the
   written offer to provide the Corresponding Source.  This
   alternative is allowed only occasionally and noncommercially, and
   only if you received the object code with such an offer, in accord
   with subsection 6b.
 
-  - c) 单独传递目标代码的副本时，伴以提供源代码的书面承诺。本选项仅在偶尔并且非商业情况下，同时你收到也是第6条b项所述的目标代码的情况下可用。
+- c) 单独传递目标代码的副本时，伴以提供源代码的书面承诺。本选项仅在偶尔并且非商业情况下，同时你收到也是第6条b项所述的目标代码的情况下可用。
   
-  - d) Convey the object code by offering access from a designated
+- d) Convey the object code by offering access from a designated
   place (gratis or for a charge), and offer equivalent access to the
   Corresponding Source in the same way through the same place at no
   further charge.  You need not require recipients to copy the
@@ -993,16 +988,15 @@ in one of these ways:
   Corresponding Source, you remain obligated to ensure that it is
   available for as long as needed to satisfy these requirements.
 
-  - d) 通过在指定地址获取目标代码（无论是否收费）的形式传递目标代码时，对同一地址以同样的方式提供相应源代码同等访问权限，并不得额外收费。你不必要求接收者在复制目标代码的同时复制源代码。如果提供获取目标代码的地址为网络服务器，相应的源代码可以提供在另一个支持相同复制功能的服务器上（由你或者第三方运营），不过你要在目标代码处指出相应源代码的确切路径。不管你用什么源代码服务器，你有义务要确保持续可用以满足这些要求。
+- d) 通过在指定地址获取目标代码（无论是否收费）的形式传递目标代码时，对同一地址以同样的方式提供相应源代码同等访问权限，并不得额外收费。你不必要求接收者在复制目标代码的同时复制源代码。如果提供获取目标代码的地址为网络服务器，相应的源代码可以提供在另一个支持相同复制功能的服务器上（由你或者第三方运营），不过你要在目标代码处指出相应源代码的确切路径。不管你用什么源代码服务器，你有义务要确保持续可用以满足这些要求。
 
-  - e) Convey the object code using peer-to-peer transmission, provided
+- e) Convey the object code using peer-to-peer transmission, provided
   you inform other peers where the object code and Corresponding
   Source of the work are being offered to the general public at no
   charge under subsection 6d.
 
-  - 3) 通过点对点传输传递目标代码时，告知其他节点目标代码和源代码在何处，并以第6条d项形式向大众免费提供。
+- 3) 通过点对点传输传递目标代码时，告知其他节点目标代码和源代码在何处，并以第6条d项形式向大众免费提供。
   
-
 A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be
 included in conveying the object code work.
@@ -1065,7 +1059,8 @@ unpacking, reading or copying.
 
 根据本条规定，所专递相应源代码和所提供的安装信息必须以公开的文档格式（并且以源代码形式实现对公众可用）存在，同时不得对解包、阅读和复制设置任何密码或秘钥。
 
-### 7. Additional Terms.
+### 7. Additional Terms
+
 ### 7. 附加条款
 
 ``Additional permissions`` are terms that supplement the terms of this
@@ -1094,40 +1089,40 @@ that material) supplement the terms of this License with terms:
 
 尽管本许可证还有的其他条款，对于你添加到涵盖的作品中的材料，你可以对本许可证（如果你获得该材料版权持有人的授权）添加如下补充条款：
 
-  - a) Disclaiming warranty or limiting liability differently from the
+- a) Disclaiming warranty or limiting liability differently from the
   terms of sections 15 and 16 of this License; or
 
-  - a) 以第15条、第16条之外的方式，拒绝提供品质担保或缩小责任范围。或者
+- a) 以第15条、第16条之外的方式，拒绝提供品质担保或缩小责任范围。或者
 
-  - b) Requiring preservation of specified reasonable legal notices or
+- b) Requiring preservation of specified reasonable legal notices or
   author attributions in that material or in the Appropriate Legal
   Notices displayed by works containing it; or
 
-  - b) 要求在此材料中或在法律声明中包含特定的合理法律声明或作者信息。或者
+- b) 要求在此材料中或在法律声明中包含特定的合理法律声明或作者信息。或者
   
-  - c) Prohibiting misrepresentation of the origin of that material, or
+- c) Prohibiting misrepresentation of the origin of that material, or
   requiring that modified versions of such material be marked in
   reasonable ways as different from the original version; or
 
-  - c) 禁止对该原始材料不当描述，或要求用不同与原始版本的方式对该材料修改版本合理标示。或者
+- c) 禁止对该原始材料不当描述，或要求用不同与原始版本的方式对该材料修改版本合理标示。或者
   
-  - d) Limiting the use for publicity purposes of names of licensors or
+- d) Limiting the use for publicity purposes of names of licensors or
   authors of the material; or
 
-  - d) 限制公开使用授权人或者该材料作者姓名。或者
+- d) 限制公开使用授权人或者该材料作者姓名。或者
 
-  - e) Declining to grant rights under trademark law for use of some
+- e) Declining to grant rights under trademark law for use of some
   trade names, trademarks, or service marks; or
 
-  - e) 拒绝使用在商标法下使用商号、商标及服务标识。
+- e) 拒绝使用在商标法下使用商号、商标及服务标识。
 
-  - f) Requiring indemnification of licensors and authors of that
+- f) Requiring indemnification of licensors and authors of that
   material by anyone who conveys the material (or modified versions of
   it) with contractual assumptions of liability to the recipient, for
   any liability that these contractual assumptions directly impose on
   those licensors and authors.
 
-  - f) 任何传递该材料（或其修改版）者，如果对接收者提供契约性责任许诺，需要为授权人或者该材料作者承担赔偿责任，因为任何契约假设责任都造成授权人或者作者承担。
+- f) 任何传递该材料（或其修改版）者，如果对接收者提供契约性责任许诺，需要为授权人或者该材料作者承担赔偿责任，因为任何契约假设责任都造成授权人或者作者承担。
 
 All other non-permissive additional terms are considered ``further
 restrictions`` within the meaning of section 10.  If the Program as you
@@ -1154,7 +1149,8 @@ the above requirements apply either way.
 
 附加条款，不管是授权的还是非授权的，可以以独立的书面许可出现，也可以声明为例外情况，两种做法都可以实现上述要求。
 
-### 8. Termination.
+### 8. Termination
+
 ### 8. 终止
 
 You may not propagate or modify a covered work except as expressly
@@ -1191,7 +1187,8 @@ material under section 10.
 
 当你享有的权利如本条所述被中止时，根据本许可证从你这里获得许可的第三方的权利不会因此中止。在你的权利恢复之前，你没有资格凭第10条获得同一材料的许可。
 
-### 9. Acceptance Not Required for Having Copies.
+### 9. Acceptance Not Required for Having Copies
+
 ### 9. 持有副本不需要接受
 
 You are not required to accept this License in order to receive or
@@ -1205,7 +1202,8 @@ covered work, you indicate your acceptance of this License to do so.
 
 你不必为接收或运行本程序而接受本许可。类似地，仅仅因点对点传输接收到副本引发的对涵盖的作品的辅助性传播，并不要求接受本许可证。但是，除本许可证外没有什么可以授权你传播或修改任何涵盖的作品。如果你不接受本许可证，这些行为就侵犯了著作权。因此，一旦修改和传播一个涵盖的作品，就表明你接受了本许可证。
 
-### 10. Automatic Licensing of Downstream Recipients.
+### 10. Automatic Licensing of Downstream Recipients
+
 ### 10. 对下游接收者的自动授权
 
 Each time you convey a covered work, the recipient automatically
@@ -1237,7 +1235,8 @@ sale, or importing the Program or any portion of it.
 
 你不可以对本许可证所授权利的行使施以进一步的限制。例如，你不可以索要许可费或版税，或就行使本许可证所授予的权利征收其他费用；你也不能发起诉讼（包括交互诉讼和反诉），宣称制作、使用、零售、批发、引进本程序或其部分的行为侵犯了任何专利声明。
 
-### 11. Patents.
+### 11. Patents
+
 ### 11. 专利
 
 A ``contributor`` is a copyright holder who authorizes use under this
@@ -1323,7 +1322,8 @@ otherwise be available to you under applicable patent law.
 
 本许可证的任何部分不应被解释成在排斥或限制任何暗含的许可，或者其他在适用专利法下对抗侵权的措施。
 
-### 12. No Surrender of Others' Freedom.
+### 12. No Surrender of Others' Freedom
+
 ### 12. 不得牺牲他人的自由
 
 If conditions are imposed on you (whether by court order, agreement or
@@ -1338,7 +1338,8 @@ License would be to refrain entirely from conveying the Program.
 
 即便你面临与本许可证条款冲突的条件（来自于法庭要求、协议或其他），也不能成为你违反本许可证的理由。倘若你不能在传递涵盖的作品时同时满足本许可证和其他相关文件的要求，那么你就不要传递本程序。例如，你为了遵循某些要求，你必须向传递对象的接收者收取版税，唯一能同时满足它和本许可证要求的做法便是不传递本程序。
 
-### 13. Remote Network Interaction; Use with the GNU General Public License.
+### 13. Remote Network Interaction; Use with the GNU General Public License
+
 ### 13. 远程网络交互；与GNU GPL通用公共许可证一起使用
 
 Notwithstanding any other provision of this License, if you modify the
@@ -1363,7 +1364,8 @@ will remain governed by version 3 of the GNU General Public License.
 
 尽管本许可证有其他规定，你有权将任何涵盖的作品与根据 GNU 通用公共许可证第 3 版许可的作品链接或组合成一个单一的组合作品，并传递由此产生的作品。 本许可证的条款将继续适用于包含作品的部分，但与之结合的作品将继续受 GNU 通用公共许可证第 3 版的约束。
 
-### 14. Revised Versions of this License.
+### 14. Revised Versions of this License
+
 ### 14. 本许可证的修订版
 
 The Free Software Foundation may publish revised and/or new versions of
@@ -1398,7 +1400,8 @@ later version.
 
 后续版本可能会给予你额外或不同的许可。但是，任何作者或版权持有人的义务，不会因为你选择新后续版本而增加。
 
-### 15. Disclaimer of Warranty.
+### 15. Disclaimer of Warranty
+
 ### 15. 免责声明
 
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
@@ -1413,7 +1416,8 @@ NECESSARY SERVICING, REPAIR OR CORRECTION.
 
 本程序在适用法律范围内不提供品质担保。除非另作书面声明，版权持有人及其他程序提供者“概”不提供任何显式或隐式的品质担保，品质担保所指包括而不仅限于有经济价值和适合特定用途的保证。全部风险，如程序的质量和性能问题，皆由你承担。若程序出现缺陷，你将承担所有必要的修复和更正服务的费用。
 
-### 16. Limitation of Liability.
+### 16. Limitation of Liability
+
 ### 16. 责任限制
 
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
@@ -1429,7 +1433,8 @@ DAMAGES.
 
 除非适用法律或书面协议要求，任何版权持有人或本程序按本许可证可能存在的第三方修改和再发布者，都不对你的损失负有责任，包括由于使用或者不能使用本程序造成的任何一般的、特殊的、偶发的或重大的损失（包括而不限于数据丢失、数据失真、你或第三方的后续损失、其他程序无法与本程序协同运作），即使有人声称会对此负责。
 
-### 17. Interpretation of Sections 15 and 16.
+### 17. Interpretation of Sections 15 and 16
+
 ### 17. 第15条和第16条的解释
 
 If the disclaimer of warranty and limitation of liability provided
@@ -1506,6 +1511,6 @@ specific requirements.
 You should also get your employer (if you work as a programmer) or
 school, if any, to sign a ``copyright disclaimer`` for the program, if
 necessary.  For more information on this, and how to apply and follow
-the GNU AGPL, see \texttt{https://www.gnu.org/licenses/}.
+the GNU AGPL, see \texttt{<https://www.gnu.org/licenses/>}.
 
-如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看 https://www.gnu.org/licenses/。
+如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看 <https://www.gnu.org/licenses/>。
