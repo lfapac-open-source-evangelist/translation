@@ -1,6 +1,7 @@
 ![](media/image1.png)
 
 ## PRACTICAL GPL COMPLIANCE
+
 ## 实用的GPL合规性
 
 A GUIDE FOR STARTUPS, SMALL BUSINESS AND ENGINEERS
@@ -24,8 +25,8 @@ ISBN: 978-0-9989078-0-2
 1 Letterman Drive
 Building D
 Suite D4700
-San Francisco CA 
-94129 
+San Francisco CA
+94129
 
 莱特曼大道1号，D栋，套房D4700，加利福利亚旧金山，邮编：94129
 
@@ -33,9 +34,10 @@ Phone/Fax: +1 415 723 9709
 
 电话/传真：+1 415 723 9709
 
-https://linuxfoundation.org
+<https://linuxfoundation.org>
 
 ## About the Authors
+
 ## 关于作者
 
 ##### ![](media/image4.png)Shane Coughlan
@@ -56,18 +58,25 @@ the past he served on the board of NLUUG and was a member of the coreteam of gpl
 Armijn Hemel是Tjaldur软件治理解决方案的创始人。他是开源许可合规和供应链管理领域的活跃研究人员，也是国际公认的专家。当年他在荷兰乌得勒支大学计算机科学专业学习时，就率先使用NixOS进行可重复的项目构建。过去，他曾在NLUUG董事会任职，并且是gpl-violations.org组织的核心团队的成员之一。现在他是NixOS基金会的董事会成员。
 
 ## To Kate, for tirelessly driving the compliance community forward
+
 ## 感谢Kate, 感谢她孜孜不倦地推动合规社区向前发展
+
 ARMIJN HEMEL
 
 ## To Lana, who has a sense of curiosity that spans the whole world
+
 ## 感谢Lana，她拥有跨越全世界地好奇心
+
 SHANE COUGHLAN
 
 # "Don't Panic."
+
 # “不要恐慌。”
+
 DOUGLAS ADAMS
 
 ## Introduction
+
 ## 简介
 
 Practical GPL Compliance is a compliance guide for startups, small businesses, and engineers, particularly focused on complying with the versions of the GNU General Public License (GPL). It is designed for engineers shipping products with GPL-licensed software included (e.g., consumer electronics, drones, IoT devices). Its goal is to provide practical information to quickly address common issues. It is intended to be useful for solving real-world challenges rather than providing perfection in an imperfect world and to serve as the basis for empowering a compliance engineer or compliance team to get their job done as efficiently as possible. Hopefully, the practices laid out in this guide will assist you in complying with other open source license terms as well.
@@ -88,16 +97,17 @@ Thankfully, compliance engineering is no longer a "black box" mastered by only a
 
 Practical GPL Compliance and Open Source Compliance in the Enterprise work together to help engineers, startups, small companies, and enterprises master open source license compliance. However, they do not exist in isolation, and you can find more materials via the Linux Foundation Open Compliance Program at [**https://compliance.linuxfoundation.org**](https://compliance.linuxfoundation.org/). To get you started, Appendix 1 contains an overview of other publications available and a list of useful compliance templates.
 
-企业中的实用GPL合规性和开源合规性，可以帮助工程师、初创公司、小公司和企业掌握开源代码许可合规性。除此之外，您还可以通过Linux基金会开放合规计划 (https://compliance.linuxfoundation.org/)找到更多资料。为帮助您快速入门，附录1包含了其他出版物的概述和一些有用的合规模板列表。
+企业中的实用GPL合规性和开源合规性，可以帮助工程师、初创公司、小公司和企业掌握开源代码许可合规性。除此之外，您还可以通过Linux基金会开放合规计划 (<https://compliance.linuxfoundation.org/>)找到更多资料。为帮助您快速入门，附录1包含了其他出版物的概述和一些有用的合规模板列表。
 
 You may also be interested in Appendix 2: Compliance Standards, Appendix 3: Professional Networks, and Appendix 4: Tools and Infrastructure. There is a wealth of free resources available via The Linux Foundation and from other parties to ensure that knowledge of best practices and processes is readily available to you. Or..., just
 go to the next page and get started right away with our cheat sheet.
 
 附录2：合规标准，附录3：专业网络，附录4：工具和基础设施，可能您都会比较感兴趣。Linux基金会和其他各方提供了大量免费资源，以确保您可以随时获得最佳实践和流程的知识。或者...，只需转到下一页并立即开始使用我们的备忘单。
 
-1.  [**http://go.linuxfoundation.org/open-source-compliance-ebook**](http://go.linuxfoundation.org/open-source-compliance-ebook)
+1. [**http://go.linuxfoundation.org/open-source-compliance-ebook**](http://go.linuxfoundation.org/open-source-compliance-ebook)
 
 ## The GPL Compliance Engineer Task-Based Cheat Sheet
+
 ## GPL合规工程师基于任务的备忘单
 
 No time to read a book? Welcome to our world. We suggest copying this page, pinning it to your desk, and using it as a shortcut for getting things done.
@@ -129,6 +139,7 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 [Get flowcharts to help 54](#step-4)  获取便捷的流程图
 
 ## Table of Contents
+
 ## 目录
 
 ##### [Chapter 1: Approach 1](#_bookmark0) 第一章：方法1
@@ -208,5 +219,3 @@ No time to read a book? Welcome to our world. We suggest copying this page, pinn
 [Appendix 3: Professional Networks 69](#_bookmark37)  附录3：专业网络
 
 [Appendix 4: Tools & Infrastraucture 70](#appendix-4-tools-and-infrastructure) 附录4：工具和基础设施
-
-
