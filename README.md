@@ -60,36 +60,36 @@ One tap mobile
 联系人：赵振华 微信ID：richzhao
 
 ## 待认领翻译任务
-
+<!-- 
 ## 1. [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](attachments/comprehensive-gpl-guide.pdf)
 
-[我要认领](gpl-compliance/comprehensive_gpl_guide/role_responsibilities.md)
+[我要认领](gpl-compliance/comprehensive_gpl_guide/role_responsibilities.md) -->
 
-## 2. [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
+## 1. [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
 
 [我要认领](gpl-compliance/practical_gpl_compliance/role_responsibilities.md)
 
-## 3. [Releasing Internal Code](attachments/LFResearch_AI_Data_Releasing_Internal_Code_Report.pdf)
+<!-- ## 3. [Releasing Internal Code](attachments/LFResearch_AI_Data_Releasing_Internal_Code_Report.pdf)
 
-[我要认领](LFResearch_AI_Data_Releasing_Internal_Code_Report/role_responsibilities.md)
+[我要认领](LFResearch_AI_Data_Releasing_Internal_Code_Report/role_responsibilities.md) -->
 
-## 4. [Address Cybersecurity Challenges in OSS](attachments/Addressing%20Cybersecurity%20Challenges%20in%20Open%20Source%20Software%20-%20Report.pdf)
+## 2. [Address Cybersecurity Challenges in OSS](attachments/Addressing%20Cybersecurity%20Challenges%20in%20Open%20Source%20Software%20-%20Report.pdf)
 
 [我要认领](addressing-cybersecurity-challenges-in-oss/role_responsibilities.md)
+<!-- 
+## 3. [Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](attachments/Enabling-Global-Collaboration.pdf)
 
-## ５. [Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](attachments/Enabling-Global-Collaboration.pdf)
+[我要认领](enable-golbal-collaboration/role_responsibilities.md) -->
 
-[我要认领](enable-golbal-collaboration/role_responsibilities.md)
-
-## ６. [Mentorship in Open Source](attachments/Mentorship-in-Open-Source.pdf)
+## 3. [Mentorship in Open Source](attachments/Mentorship-in-Open-Source.pdf)
 
 [我要认领](Mentorship-in-open-source/role_responsibilities.md)
 
-## 7. [Roadmap to Improve Enterprise OS Dev](attachments/Roadmap-to-Improve-Enterprise-OS-Dev-Report.pdf)
+## 4. [Roadmap to Improve Enterprise OS Dev](attachments/Roadmap-to-Improve-Enterprise-OS-Dev-Report.pdf)
 
 [我要认领](Roadmap-to-Improve-Enterprise-OS-Dev-Report/role_responsibilities.md)
 
-## 8. [Managing OS Projects on Github](attachments/Managing-OS-Projects-on-Github.pdf)
+## 5. [Managing OS Projects on Github](attachments/Managing-OS-Projects-on-Github.pdf)
 
 [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
@@ -185,7 +185,6 @@ One tap mobile
 ## 项目流程
 
 ![One Page Onboarding](./images/onboarding.png)
-
 
 ## 要求
 
