@@ -156,6 +156,34 @@ One tap mobile
 13. Maggie Cheung, Linux Foundation APAC
 14. Michelle Ko, Linux Foundation APAC
 
+### [5. 助力全球协助-开源代码的领导者如何面对分裂的挑战](completed/Enabling-Global-Collaboration-Chinese.pdf)
+
+中文版贡献者：
+
+1. 赵振华
+2. 刘晓斌
+3. 徐斌
+4. 周黎
+5. Donald Liu, Linux Foundation APAC
+6. Maggie Cheung, Linux Foundation APAC
+
+### [6. 将内部代码发布为一个新的开源项目：干系人指南](completed/Releasing-Internal-Code-Chinese.pdf)
+
+中文版贡献者：
+
+1. 赵振华
+2. 杨振涛
+3. 李明康
+4. 赵梅
+5. 皮冰峰
+6. 王誓伟
+7. 刘晓斌
+8. 腾召智
+9. 周黎
+10. 徐斌
+11. Donald Liu, Linux Foundation APAC
+12. Maggie Cheung, Linux Foundation APA
+ 
 ## 博客
 
 | 序号 | 文章                                                                         | 翻译 | 校对 | 发表日期 |
