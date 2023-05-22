@@ -93,7 +93,7 @@ One tap mobile
 
 [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
-## 6. [State of Tech Talnet Report 2023](attachments/Training-State-of-Tech-Talent-2023-Report.pdf)
+## 6. [State of Tech Talent Report 2023](attachments/Training-State-of-Tech-Talent-2023-Report.pdf)
 
 [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
