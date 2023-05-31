@@ -1,36 +1,36 @@
-## Metrics for Everybody
+## 通用指标
 
-43. How many open source projects does your company maintain? (select one)
+43. 贵公司维护了多少个开源项目？（单选）
 * 0
 * 1-5
 * 6-10
 * 11-50
 * 51-100
 * 101-1,000
-* More than 1,000
-* Don't know
+* 超过 1,000
+* 不太了解
 
-44. How many developers (full time or part time) in your organization contribute to open source projects you depend on? (select one)
+44. 您所在组织中有多少开发人员（全职或兼职）为您所依赖的开源项目做出贡献？（单选）
 * 0
 * 1-5
 * 6-10
 * 11-100
-* More than 100
-* Don't know
+* 超过 100
+* 不太了解
 
-45. How often does your average application development team release code into production? (select one)
-* Hourly
-* Daily
-* Weekly
-* Monthly
-* Quarterly
-* Annually
-* Don’t know
+45. 平均而言你的应用开发团队多久发布一次代码到生产环境？（单选）
+* 每小时
+* 每天
+* 每周
+* 每月
+* 每季度
+* 每年
+* 不太了解
  
-46. What percentage of your organization's products include open source components? (select one)
+46. 您所在组织的产品中包含开源组件的百分比是多少？（单选）
 * 1-20%
 * 21-40%
 * 41-60%
 * 61-80%
 * 81-100%
-* We do not have products with software components Don't know
+* 我们的产品不涉及软件组件，不了解
