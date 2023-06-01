@@ -1,52 +1,45 @@
-## Tell us your plans
+***
+## License Compliance and Security
 
-22.	When does your organization plan to start a program or initiative? (select one)
-* In the next 6 months
-* In the next year
-* 1-2 years from now
-* Over 2 years from now
+38. Does your OSPO or similar open source initiative directly address open source security issues? (select one)
+* Yes, the OSPO makes decisions on how the organization's workforce can identify security risks in open source projects and how to help build more secure software in those projects (internal education, guidelines, best practices, policies, etc.)
+* No, but the OSPO provides advice to the team unit / department that is in charge
+* No, we don't focus on open source security.
+* Don’t know or not sure
 
-23. Will the program or initiative be formally structured with dedicated person-hours, reporting structure and/or job titles? (select one)
-* Yes
-* No
-* Don't know
+41. How does your organization check for open source license compliance? (select all that apply)
+* Organizational processes
+* Departmental-level processes
+* Automation of processes
+* Case-by-case basis
+* Don't know or not applicable
+* No processes or approaches
 
-24. Where will the open source program or initiative be located within the organization? If the eﬀort is informal, answer based on who the primary organizers will report to. (select one)
-* Legal
-* Software engineering and development
-* IT
-* Oﬀice of the CTO
-* Developer relations, marketing or communications
-* Security, compliance or risk management
-* Don't know
-* Other (please specify)
- 
-25. What does your organization aim to accomplish by starting an open source program? (select all that apply)
-* Increased developer recruitment and retention
-* Increased speed and agility in development cycle
-* Better license compliance
-* Lower licensing fees Lower support costs
-* More inﬂuence in open source communities
-* Increased contributions to in-house open source projects from external or third-party contributors
-* More awareness of open source use and commercial dependencies
-* Increased market adoption of open source projects
-* Increased participation in external open source projects
-* Faster time to market with new products
-* Increased innovation
-* Culture change, with improved interaction among departments
-* Better security testing and vulnerability management
-* Other (please specify)
+42. How does your organization scan for vulnerabilities and open source security compliance? (select all that apply)
+* Organizational processes
+* Departmental-level processes
+* Automation of processes
+* Case-by-case basis
+* Don't know or not applicable
+* No processes or approaches
 
-26. What have been the top three biggest challenges in establishing an open source program or initiative? (select three)
-* Strategy: planning or knowing how to approach it
-* Finding an open source program manager
-* Finding legal staﬀ with open source expertise
-* Setting an open source policy
-* Getting executive support and buy-in
-* Getting engineering support and buy-in
-* Setting a budget and estimating program costs
-* Assessing or quantifying existing open source use and contribution
-* Resources required to perform license compliance
-* Finding commercial dependencies
-* Tool selection
-* Other (please specify)
+43. How many tools do you or your team use to automate and enforce open source license compliance? (select one)
+* 0
+* 1
+* 2
+* 3-5
+* More than 5
+* Don't know or not applicable
+
+***
+These last two questions are optional.
+
+44.	What is the name of your organization? (This information will not be published)
+* Organization
+
+45.	If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
+* Name
+* Organization
+* Email
+
+Thank you for completing the survey!
