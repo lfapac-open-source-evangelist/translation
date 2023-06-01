@@ -1,65 +1,72 @@
-## Tell us about the program's impact
+## Open source usage and best practices
 
-16.	What are the areas where your organization has most beneﬁted from the open source program or initiative? (select all that apply)
-* Increased developer recruitment and retention
-* Increased speed and agility in the development cycle
-* Better license compliance
-* Lower licensing fees
-* Lower support costs
-* More inﬂuence in open source communities
-* Increased contributions to in-house open source projects from external or third-party contributors
-* More awareness of open source use and commercial dependencies
-* Increased market adoption of open source projects
-* Increased participation in external open source projects
-* Faster time to market with new products
-* Increased innovation
-* Culture change, with improved interaction among departments
-* Better security testing and vulnerability management
+31. How often does your organization do the following activities? (select one per row)
+* Contribute code upstream 
+* Use open source code for noncommercial or internal reasons 
+* Use open source code in commercial products 
+* Recruit and hire developers to work on open source projects
+* Train developers to contribute to open source projects
+* Create its own open source projects
+* Attend and speak at open source events or conferences
+
+
+32. How many open source projects does your company maintain? (select one)
+* 0
+* 1-5
+* 6-10
+* 11-50
+* 51-100
+* 101-1,000
+* More than 1,000
+* Don't know or not sure
+
+33. How many developers (full time or part time) in your organization contribute to open source projects you depend on? (select one)
+* 0
+* 1-5
+* 6-10
+* 11-100
+* More than 100
+* Don't know or not sure
+
+34. What percentage of your organization's products include open source components? (select one)
+* 1-20%
+* 21-40%
+* 41-60%
+* 61-80%
+* 81-100%
+* Don't know or not sure
+* We do not have products with software components
+
+35. For each of the following, please indicate if your organization uses the free and/or paid versions of the vendor offerings to manage open source repositories. (multiple responses per row are allowed)
+
+* GitLab
+* GitHub
+* BitBucket
+* Gitee
+* Other vendor
+
+36. Which technology area does your organization focus its open source activities on? (select all that apply)
+* AI, ML, Data & Analytics
+* Blockchain
+* CI/CD & Site Reliability
+* Cloud
+* Containers & Virtualization
+* DevOps
+* IoT & Embedded
+* Networking & Edge
+* Open Hardware
+* Safety-Critical Systems
+* Security
+* Storage
+* System Administration
+* Web & Application Development
 * Other (please specify)
- 
-17.	What are the ways your open source program or initiative quantiﬁes success? (select all that apply)
-* Fewer license violations
-* Faster compliance process
-* Volume of upstream code contributions
-* Number of open source projects initiated
-* Number of contributors
-* Market adoption or use of projects
-* Developer velocity, eﬀiciency, and/or productivity
-* Developer hiring and onboarding
-* Reach in open source communities
-* Frequency of dependency updates 
-* Mean time to detect vulnerabilities
-* Time to market with new products
-* Project code quality
-* Cost savings
-* Other (please specify)
 
-18. What are the top three challenges your open source program or initiative faces? (select three)
-* Finding and recruiting open source developers
-* Ability to inﬂuence open source projects
-* Executive awareness and support
-* Insuﬀicient budget, program costs
-* Internal awareness of the program
-* External awareness (marketing and communications)
-* License compliance overhead
-* Getting teams on board with compliance and security approaches
-* Vulnerability monitoring and remediation
-* Tracking metrics and performance
-* Tool selection and adoption
- 
-19. How business-critical is your open source program or initiative to the success of your engineering or product teams?  (select one)
-* Extremely critical
-* Very critical
-* Somewhat critical
-* Not so critical
-* Not at all critical
-
-20. Has the open source program or initiative had a positive impact on your organization's software practices? (select one)
-* Yes
-* No
-* Don't know
-
-## Tell us about the program's impact
-
-21.	Please provide one or two speciﬁc examples of the positive impact the program or initiative has had on your organization's software practices.
-* Open-ended text box
+37. On average, how often do your application development teams release code into production? (select one)
+* Hourly
+* Daily
+* Weekly
+* Monthly
+* Quarterly
+* Annually
+* Don't know or not applicable
