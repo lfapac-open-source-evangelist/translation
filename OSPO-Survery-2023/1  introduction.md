@@ -44,3 +44,51 @@
 * United States or Canada
 * Mexico, Central America, the Caribbean, and South America
 * Don't know or not sure
+
+6. Which response best describes the organization you work for? (select one)
+* “End user” organization that primarily uses IT products/services to support its business activities
+* Hardware and/or software vendor
+* Hardware and/or software supplier
+* Embedded systems vendor
+* System integrator or IT consulting firm
+* Cloud service provider or managed service provider
+* Software reseller or distributor
+* Non-profit association or foundation
+* Academic or research institution
+* Government entity or agency
+* Other entity (please specify)
+
+ 7. Which of the following best describes your organization's primary industry?
+* Agriculture
+* Automotive
+* Business services (accounting, management consulting, legal, etc.)
+* Consumer packaged goods
+* Construction / engineering
+* Education (K-12, primary, secondary)
+* Education (college, university)
+* Financial services (banking, insurance, securities, etc.)
+* Government (federal, national)
+* Government (state, local)
+* Health care
+* Hospitality & travel
+* Life sciences (biotech, pharmaceuticals, etc.)
+* Manufacturing (discrete or process)
+* Media (broadcast communications, entertainment, publishing, website, social networking, etc.)
+* Mining, oil, and gas
+* Real estate, rental, and leasing
+* Retail, wholesale, & eCommerce
+* Telecommunications / Internet service provider (ISP) / web hosting
+* Transportation & logistics (other than automotive)
+* Utilities / energy
+* Cross-industry information technology (IT vendor, service provider, or manufacturer)
+
+8. Does your organization have a formal policy governing use and contribution to open source projects in the following areas?
+
+*CHOICES: yes / no / not sure*
+
+* Use of open source code in products (dependencies)	
+* Allowing staff to contribute to non-work-related open source projects in their personal time 	
+* Releasing open source code or projects 	
+* Contributing upstream to open source projects 	
+* Sponsoring open source projects, events or foundations 	
+* Contributing to third-party and other projects not considered to be upstream 
