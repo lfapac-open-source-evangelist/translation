@@ -1,11 +1,11 @@
-# 2023 Open Source Program Office (OSPO) Survey
+# 2023 开源项目办公室（OSPO）年度调研
 
-The TODO Group, together with Linux Foundation Research, Partner 1, is conducting a survey as part of a research project on the prevalence and outcomes of open source programs and similar open source initiatives operating across the globe.
+TODO Group 与 Linux 基金会研究中心一起进行此次调查，作为研究项目的一部分，该项目涉及全球范围内运行的开源办公室和类似开源计划的流行度和结果。
 
-*This survey should take no more than 15 minutes of your time.*
+*完成此调查预计耗时约 15 分钟*
 
-As a thank you for participating in this research, once you have completed the survey, a code will be displayed on the confirmation page which can be used for a 25% discount on any Linux Foundation training course or certification exam listed in our [catalog](https://training.linuxfoundation.org/full-catalog/).
+为了感谢您参与这项研究，在完成调查后的确认页面上将会显示一个优惠码，该 25% 折扣优惠码可用于我们的[目录](https://training.linuxfoundation.org/full-catalog/)中列出的任何 Linux 基础培训课程或认证考试。
 
-Your responses are anonymous and will be used to compile a report to be released later this year. Only one response per organization will be included in the study results if you choose to provide that information. 
+您的参与是匿名的，会用于编制本年度晚些时候发布的报告。如果您选择提供这些信息，最终的研究结果中对于每个组织只会包含一个反馈。
 
-Your name and/or organization name will not be displayed. Reviews are attributed to your role, organization size, and industry. Responses will be subject to the Linux Foundation’s Privacy Policy, available at [https://linuxfoundation.org/privacy](https://linuxfoundation.org/privacy). Please note that research partners who are not Linux Foundation employees will review the survey results. Survey partners are not permitted to use your data for other purposes. 
+您的姓名和/或组织名称将不会显示。相关评审只涉及您的角色、组织规模和行业。您的反馈将遵守 Linux 基金会的隐私政策，详见 https://linuxfoundation.org/privacy 。请注意，非 Linux 基金会员工的研究合作伙伴将会评审调查结果，但不允许调查合作伙伴将您的数据用于其他目的。
