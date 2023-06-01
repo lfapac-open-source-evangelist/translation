@@ -2,6 +2,8 @@
 
 https://github.com/todogroup/osposurvey/blob/main/2023/questions.md 
 
+Translation work tracked by this issue https://github.com/todogroup/osposurvey/issues/116 
+
 
 ## Survey Blog 
 
