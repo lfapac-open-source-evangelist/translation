@@ -1,8 +1,6 @@
 # 2023 Open Source Program Office (OSPO) Survey
 
-## Introduction
-
-The TODO Group and Linux Foundation Research are conducting a survey as part of a research project on the prevalence and outcomes of open source programs and similar open source initiatives operating across the globe. We are thankful for the support of Alibaba, CHAOSS, CyberTrust, Dynatrace, GitHub, InnerSource Commons, Kaiyuanshe, Open Infrastructure Foundation, Open Source Initiative, OpenChain, OpenSSF, and Salesforce as distributors of this survey.
+The TODO Group, together with Linux Foundation Research, Partner 1, is conducting a survey as part of a research project on the prevalence and outcomes of open source programs and similar open source initiatives operating across the globe.
 
 *This survey should take no more than 15 minutes of your time.*
 
