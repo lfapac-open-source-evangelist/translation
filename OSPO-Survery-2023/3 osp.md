@@ -1,9 +1,11 @@
 *** 
 ## OSPO sustainability
 For the following questions, OSPO Sustainability refers to how the OSPO or open source initiatives are maintained within the organization (how the value of what the OSPO does is perceived and communicated to different organizational units). Open Source Sustainability refers to how the OSPO engages with various actors in the open source ecosystem (e.g., maintainers of open source projects, projects within foundations, independent projects).
+
 OSPO的可持续性是关于OSPO如何保持在企业内推进开源的举措（企业内部不同机构如何感知OSPO价值）。开源的可持续性则是OSPO如何与开源生态各个相关方的互动（包括开源项目的维护人员、开源基金会的项目、独立开源项目等）。
 
 Question Title
+
 调研问题如下
 
 27. How often does your OSPO or similar open source initiative work on OSPO sustainability (maintaining the initiative in the long term)? (select one)
