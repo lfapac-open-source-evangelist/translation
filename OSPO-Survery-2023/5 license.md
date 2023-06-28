@@ -1,45 +1,46 @@
 ***
-## License Compliance and Security
+## 许可证合规与安全
 
-38. Does your OSPO or similar open source initiative directly address open source security issues? (select one)
-* Yes, the OSPO makes decisions on how the organization's workforce can identify security risks in open source projects and how to help build more secure software in those projects (internal education, guidelines, best practices, policies, etc.)
-* No, but the OSPO provides advice to the team unit / department that is in charge
-* No, we don't focus on open source security.
-* Don’t know or not sure
+38. 您的 OSPO 或类似的开源行动是否直接决策开源安全相关问题？（单选）
+* 是的，OSPO 决定组织的员工如何识别开源项目中的安全风险，以及如何帮助在这些项目中构建更安全的软件（如内部教育培训、指导方针、最佳实践、政策制度等）
+* 不是，但 OSPO 向负责这些的团队/部门提供建议
+* 不是，我们不关注开源安全
+* 不了解或不确定
 
-41. How does your organization check for open source license compliance? (select all that apply)
-* Organizational processes
-* Departmental-level processes
-* Automation of processes
-* Case-by-case basis
-* Don't know or not applicable
-* No processes or approaches
+41. 您的组织如何检查开源许可证的合规性？（多选）
+* 组织级流程
+* 部门级流程
+* 流程已自动化
+* 按需求逐个对接
+* 不了解或不适用
+* 没有相关流程或对策
 
-42. How does your organization scan for vulnerabilities and open source security compliance? (select all that apply)
-* Organizational processes
-* Departmental-level processes
-* Automation of processes
-* Case-by-case basis
-* Don't know or not applicable
-* No processes or approaches
+42. 您的组织是如何扫描漏洞和开源安全合规性的？（多选）
+* Organizational processes 组织级流程
+* Departmental-level processes 部门级流程
+* Automation of processes 流程已自动化
+* 按需求逐个对接
+* 不了解或不适用
+* 没有相关流程或对策
 
-43. How many tools do you or your team use to automate and enforce open source license compliance? (select one)
+43. 您或您的团队使用了多少工具用于自动化和强制开源许可证合规？（单选）
 * 0
 * 1
 * 2
 * 3-5
-* More than 5
-* Don't know or not applicable
+* 对于 5
+* 不了解或不适用
 
 ***
-These last two questions are optional.
+以下两个问题为可选。
 
-44.	What is the name of your organization? (This information will not be published)
-* Organization
+44. 您的组织名称？（该信息不会公开）
+* 组织
 
-45.	If you are interested in participating in an in-depth interview, please provide us with your name, email address, and the name of your organization.
-* Name
-* Organization
-* Email
+45.	如果你有意愿进一步参与深度访谈，请提供您的姓名、邮件地址和所在组织。
+* 姓名
+* 组织
+* 邮件 
 
-Thank you for completing the survey!
+
+感谢你完成本次调研！
