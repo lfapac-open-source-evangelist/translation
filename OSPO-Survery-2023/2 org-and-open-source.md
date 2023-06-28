@@ -150,7 +150,9 @@ OSPO起到公司和开源社区之间关键桥梁的作用。确保公司成为�
 * Somewhat likely to decrease
 * Very likely to decrease
 * Don't know
-16. 因应最近的宏观经济情况，您公司在未来的财政年度中，对开源举措的资金投入的增加或减少的可能性是 ？（单选）
+
+14. （可能是序号编排错误）因应最近的宏观经济情况，您公司在未来的财政年度中，对开源举措的资金投入的增加或减少的可能性是 ？（单选）
+
 * 很可能增加
 * 估计会增加
 * 保持不变
@@ -164,7 +166,9 @@ OSPO起到公司和开源社区之间关键桥梁的作用。确保公司成为�
 * 6-10 years
 * More than 10 years
 * Don't know
-17.  您公司的开源计划或专项行动，是在什么时间阶段成立或实施的？（单选）
+
+15.  您公司的开源计划或专项行动，是在什么时间阶段成立或实施的？（单选）
+
 * 0-2年前
 * 3-5年前
 * 6-10年前
@@ -181,7 +185,9 @@ OSPO起到公司和开源社区之间关键桥梁的作用。确保公司成为�
 * $300,000 or more
 * I prefer not to answer not to answer this question
 * Don't know or not sure
-18. 您公司每年投入开源计划的财政支持额度是多少，这是我们的评估基准之一（可选题，请单选）
+
+16. 您公司每年投入开源计划的财政支持额度是多少，这是我们的评估基准之一（可选题，请单选）
+
 * 0-3.9万美金（0 - 约28万人民币）
 * 4万-7.5万美金（约 28万 - 52万人民币）
 * 7.5万 - 9.9万美金（约52万 - 70万人民币）
@@ -199,7 +205,15 @@ OSPO起到公司和开源社区之间关键桥梁的作用。确保公司成为�
 * Somewhat likely to increase
 * Very likely to increase
 * Don't know or not sure
-(重复问题，跳过)
+
+17. （与前面问题重复，可能是编辑错误）因应最近的宏观经济情况，您公司在未来的财政年度中，对开源举措的资金投入的增加或减少的可能性是 ？（单选）
+* 很可能增加
+* 估计会增加
+* 保持不变
+* 估计会减少
+* 很可能减少
+* 不清楚
+
 
 18. How long ago was the program or initiative established? (select one)
 * 0-2 years
@@ -207,7 +221,14 @@ OSPO起到公司和开源社区之间关键桥梁的作用。确保公司成为�
 * 6-10 years
 * More than 10 years
 * Don't know or not sure
-(重复问题，跳过)
+
+18.（与前面问题重复，可能是编辑问题）您公司的开源计划或专项行动，是在什么时间阶段成立或实施的？（单选）
+* 0-2年前
+* 0-2年
+* 3-5年前
+* 6-10年前
+* 早于10年前
+* 不清楚，不确认
 
 19. Are there any antipatterns (bad practices) that you would like to share about how OSPOs are created or managed?
 
@@ -332,7 +353,9 @@ OSPO起到公司和开源社区之间关键桥梁的作用。确保公司成为�
 * Software practices
 * Research practices 	
 * Employee retention 	
-* Interoperability and technology transfer 	
+
+* Interoperability and technology transfer 
+
 24. 请给出您公司的开源计划或开源专项行动在下列领域是否起到正面作用（请对每一项都给出 “是”、“否”、“不清楚不确认”的答案）
 * 软件活动：
 * 研究活动：
