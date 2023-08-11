@@ -2,3 +2,5 @@
 !.gitignore
 
 *.Identifier
+
+./gpl-compliance/practical_gpl_compliance

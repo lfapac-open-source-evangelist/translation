@@ -187,6 +187,33 @@ One tap mobile
 10. 徐斌
 11. Donald Liu, Linux Foundation APAC
 12. Maggie Cheung, Linux Foundation APA
+
+### [7. OSPO 的商业价值 ](completed/The-Business-Value-of-OSPO.pdf)
+
+中文版贡献者：
+
+1. 杨振涛
+2. 赵振华
+3. 徐斌
+4. 皮冰峰
+5. 周冉
+6. Donald Liu, Linux Foundation APAC
+7. Maggie Cheung, Linux Foundation APAC
+8. Wendy Tse, Linux Foundation APAC
+
+### [8. 开源世界的导师关系 ](completed/LFX-Mentorship-Report_CN_081123-finalized.pdf)
+
+中文版贡献者：
+
+1. 杨振涛
+2. 赵振华
+3. 徐斌
+4. 腾召智
+5. 皮冰峰
+6. 周黎
+7. Donald Liu, Linux Foundation APAC
+8. Maggie Cheung, Linux Foundation APAC
+9. Wendy Tse, Linux Foundation APAC
  
 ## 博客
 
