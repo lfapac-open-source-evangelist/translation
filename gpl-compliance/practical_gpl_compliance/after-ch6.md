@@ -126,16 +126,16 @@ The Linux Foundation has compiled this extensive checklist of compliance practic
 
 Linux基金会编制了这份普适的法规遵循实践清单，这些案例可以在业界领先的合规程序中检索到。企业可将此清单作为内部可信工具，用来评估他们实施严格合规流程工作的进度，并借以确定改进流程的优先级事项。自评估清单的编制至少参考了两个成熟过程的成熟度模型经验，例如软件工程学会的性能成熟度模型:
 
--   A distinction should be made between process goals and the practices implemented to achieve those goals. The compliance checklist explicitly recognizes valid alternative practices that may be used to achieve a particular goal.
+- A distinction should be made between process goals and the practices implemented to achieve those goals. The compliance checklist explicitly recognizes valid alternative practices that may be used to achieve a particular goal.
 
 19. **[https://www.linux.com/publications/foss-compliance-practices-](https://www.linux.com/publications/foss-compliance-practices-supplied-software)
     [supplied-software](https://www.linux.com/publications/foss-compliance-practices-supplied-software)**
 
--   应当区分阶段性目标和为实现这些目标而做出的实践。合规清单明确地识别了可用于实现特定目标的有效替代方式。
+- 应当区分阶段性目标和为实现这些目标而做出的实践。合规清单明确地识别了可用于实现特定目标的有效替代方式。
 
--   Process adoption progresses from initial process definition through institutionalization to a state of controlled process management. The goal of a compliance process, as with any process, is to achieve consistent and expected business results from its use. A checklist of recommended practices should prompt companies to assess the extent to which they've institutionalized compliance actions and to which those actions produce needed business results.
+- Process adoption progresses from initial process definition through institutionalization to a state of controlled process management. The goal of a compliance process, as with any process, is to achieve consistent and expected business results from its use. A checklist of recommended practices should prompt companies to assess the extent to which they've institutionalized compliance actions and to which those actions produce needed business results.
     
--   程序所采用的的流程，是从最初的过程定义一直到制度化发展后的受控过程管理形式。与其他程序一样，合规程序的目标是通过落实而达到与预期一致的业务成果。推荐采用的清单应该能推动企业对现有合规工作制度化的程度进行评估，并了解这些工作所产生的业务成果。
+- 程序所采用的的流程，是从最初的过程定义一直到制度化发展后的受控过程管理形式。与其他程序一样，合规程序的目标是通过落实而达到与预期一致的业务成果。推荐采用的清单应该能推动企业对现有合规工作制度化的程度进行评估，并了解这些工作所产生的业务成果。
 
 Compliance practices included in the checklist will improve the effectiveness of compliance programs as well as deliver tangible benefits relative to the cost of those practices. A process failure modes effects analysis (FMEA) approach has been used to identify the ways in which a compliance process can fail and practices to prevent those process failures.
 
@@ -177,15 +177,15 @@ Education and training build a base of knowledgeable resources to guide your ope
 
 教育和培训可以提供基础的知识资源，为您的开源之旅指明方向。然而，如果每个人都以各自不同的方式实现法规遵循，那么这些工具本身并不能解决效率方面的问题。Linux基金会的项目使得业内能够为公司和整个供应链制定合规标准，从而以统一的方式交流合规数据。
 
--   OpenChain identifies common best practices in open source compliance that should be applied as a standard across a supply chain.20
+- OpenChain identifies common best practices in open source compliance that should be applied as a standard across a supply chain.20
     
--   OpenChain列举了开源合规中常见的最佳实践，可以成为整个供应链的标准化应用。20
+- OpenChain列举了开源合规中常见的最佳实践，可以成为整个供应链的标准化应用。20
 
--   SPDX Specifications enable projects and organizations to communicate accurate summaries of the licensing and copyright information in software deliverables.21
+- SPDX Specifications enable projects and organizations to communicate accurate summaries of the licensing and copyright information in software deliverables.21
     
--   SPDX规范可以使项目和组织获取软件交付物的准确协议和版权信息摘要。21
+- SPDX规范可以使项目和组织获取软件交付物的准确协议和版权信息摘要。21
 
--   SPDX License List is a curated list of commonly found licenses that can be referenced by the use of a standardized
+- SPDX License List is a curated list of commonly found licenses that can be referenced by the use of a standardized
 
 20. [**https://www.openchainproject.org**](https://www.openchainproject.org/)
 
@@ -193,11 +193,11 @@ Education and training build a base of knowledgeable resources to guide your ope
 
 []{#_bookmark37 .anchor}short identifier per license. For each short identifier, the list contains the full name for each license, vetted license text, other basic information, and a canonical permanent URL for each license and exception.22
 
--   SPDX许可证列表是一个常用许可证的精选列表，各个许可证都可以通过使用对应的标准化短标识符来引用。具体到每个短标识符，列表中则包含了相应许可证的全称、许可证发布版文本、其他基本信息以及每个许可证的永久性URL，等等。22
+- SPDX许可证列表是一个常用许可证的精选列表，各个许可证都可以通过使用对应的标准化短标识符来引用。具体到每个短标识符，列表中则包含了相应许可证的全称、许可证发布版文本、其他基本信息以及每个许可证的永久性URL，等等。22
 
--   SPDX Meta Tags enable the use of the standardized short identifier in source code to efficiently refer to a license without having to redundantly reproduce the full license.23
+- SPDX Meta Tags enable the use of the standardized short identifier in source code to efficiently refer to a license without having to redundantly reproduce the full license.23
     
--   SPDX元标签允许在源代码中使用标准化的短标识符，从而有效地引用许可证，而不必冗余地复制完整的许可证。23
+- SPDX元标签允许在源代码中使用标准化的短标识符，从而有效地引用许可证，而不必冗余地复制完整的许可证。23
 
 ## Appendix 3: Professional Networks
 
@@ -207,17 +207,17 @@ You're not alone in your open source compliance journey. Many of our members hav
 
 开源合规的路上，没有孤勇者。很多成员都会发现参与我们主导的项目是有益的，访问参与项目的专家网络也很便捷。此外，Linux基金会还创办了专业网络，帮助专业合规人士建立沟通，并就改进法规遵循实践、工具和流程的方法进行协作。
 
--   TODO Group24
+- TODO Group24
 
--   Compliance Directory25
+- Compliance Directory25
 
--   OpenChain26
+- OpenChain26
 
--   TODO工作组24
+- TODO工作组24
 
--   合规指南25
+- 合规指南25
 
--   OpenChain26
+- OpenChain26
 
 22. [**https://spdx.org/license-list**](https://spdx.org/license-list)
 
@@ -238,21 +238,21 @@ To achieve higher levels of scale and reduce the overhead costs of compliance, c
 
 公司已经为研发开源工具和基础设施做出了贡献，为了进一步提高规模并减少合规的间接成本，以较低的成本实现合规，不仅可以提高跨组织的效率，还能提高法规遵循与产品开发的集成效率。
 
--   **FOSSology** scans codebases, identifies licenses in use, creates machine readable license lists, and enables automatic notice-file creation.27
+- **FOSSology** scans codebases, identifies licenses in use, creates machine readable license lists, and enables automatic notice-file creation.27
     
--   **FOSSology** 可以用来扫描代码库、识别正在使用的许可证、创建机器可读的许可证列表，并激活创建自动通知文件。27
+- **FOSSology** 可以用来扫描代码库、识别正在使用的许可证、创建机器可读的许可证列表，并激活创建自动通知文件。27
 
--   **FOSS Bar Code Tracker** simplifies the way FOSS components are tracked and reported in commercial products. The tool allows companies to easily generate custom QR codes for each product containing FOSS. The QR codes contain important information about the FOSS stack contained in a product, such as component names, version numbers, license information, and links to download the source code, among other details.28
+- **FOSS Bar Code Tracker** simplifies the way FOSS components are tracked and reported in commercial products. The tool allows companies to easily generate custom QR codes for each product containing FOSS. The QR codes contain important information about the FOSS stack contained in a product, such as component names, version numbers, license information, and links to download the source code, among other details.28
     
--   **FOSS条码跟踪器** 简化了在商用产品中跟踪和报告自由/开源软件组件的方式。企业可以使用该工具轻松为每个包含自由/开源软件的产品生成自定义二维码。二维码内含有关于产品中自由/开源软件部分的重要信息，例如组件名称、版本号、许可信息和下载源代码的链接，以及其他详细信息。28
+- **FOSS条码跟踪器** 简化了在商用产品中跟踪和报告自由/开源软件组件的方式。企业可以使用该工具轻松为每个包含自由/开源软件的产品生成自定义二维码。二维码内含有关于产品中自由/开源软件部分的重要信息，例如组件名称、版本号、许可信息和下载源代码的链接，以及其他详细信息。28
 
--   **SPDX Tools** are tools for validating, transforming, reading, and writing SPDX format files. SPDX Tools also provides links to community-maintained and commercially available tools that support SPDX.29
+- **SPDX Tools** are tools for validating, transforming, reading, and writing SPDX format files. SPDX Tools also provides links to community-maintained and commercially available tools that support SPDX.29
     
--   **SPDX工具** 可以用来验证、转换、读取和写入SPDX格式文件。SPDX工具还提供了支持SPDX的社区维护和商用工具的链接。29
+- **SPDX工具** 可以用来验证、转换、读取和写入SPDX格式文件。SPDX工具还提供了支持SPDX的社区维护和商用工具的链接。29
 
--   **Dependency Checker** is capable of identifying code combinations at the dynamic and static link level. The tool also offers a license policy framework that enables FOSS compliance officers to define combinations of licenses and linkage methods that are to be flagged if found as a result of running the tool.30
+- **Dependency Checker** is capable of identifying code combinations at the dynamic and static link level. The tool also offers a license policy framework that enables FOSS compliance officers to define combinations of licenses and linkage methods that are to be flagged if found as a result of running the tool.30
     
--   **依赖检查器** 能够在动态链接和静态链接水平上识别代码组合。该工具还提供了一个许可策略框架，允许自由/开源软件合规官员自定义许可证和链接方式的组合，如果在运行该工具时发现这些方式，将对其进行标记。30
+- **依赖检查器** 能够在动态链接和静态链接水平上识别代码组合。该工具还提供了一个许可策略框架，允许自由/开源软件合规官员自定义许可证和链接方式的组合，如果在运行该工具时发现这些方式，将对其进行标记。30
 
 27. [**https://www.fossology.org/**](https://www.fossology.org/)
 
@@ -262,9 +262,9 @@ To achieve higher levels of scale and reduce the overhead costs of compliance, c
 
 30. [**http://git.linuxfoundation.org/dep-checker.git**](http://git.linuxfoundation.org/dep-checker.git)
 
-    -   **The Code Janitor** provides linguistic review capabilities to make sure developers did not leave comments in the source code.31
+    - **The Code Janitor** provides linguistic review capabilities to make sure developers did not leave comments in the source code.31
         
-    -   **The Code Janitor** 提供了语言审计功能，以确保开发人员没有在源代码中留下注释。31
+    - **The Code Janitor** 提供了语言审计功能，以确保开发人员没有在源代码中留下注释。31
 
 31. [**http://git.linuxfoundation.org/janitor.git**](http://git.linuxfoundation.org/janitor.git)
 
@@ -288,31 +288,31 @@ The goal of this guide is to demystify GPL Compliance Engineering and to make it
 
 \"如今，开源许可合规不仅仅需要简单的法律建议。本指南基于作者的长期经验，并为合规工程师提供了一系列关于如何解决所面临的技术挑战的独特实用信息集合。\"
 
--   Dr. Till Jaeger, Partner at JBB Rechtsanwälte
+- Dr. Till Jaeger, Partner at JBB Rechtsanwälte
 
--   Till Jaeger博士，JBB律所事务所合伙人
+- Till Jaeger博士，JBB律所事务所合伙人
 
 \"Shane Coughlan and Armijn Hemel have created a wonderful resource for anyone working with open source software being shipped in a device. They describe in detail how to ensure compliance with the various software licenses and communities in which we all rely on.\"
 
 \"Shane Coughlan和Armijn Hemel为所有开源软件用户提供了一个很棒的资源。他们详细介绍了如何确保各种软件许可证和我们所依赖的社区的合规。\"
 
--   Greg Kroah-Hartman, Linux Kernel Maintainer and Fellow at The Linux Foundation
+- Greg Kroah-Hartman, Linux Kernel Maintainer and Fellow at The Linux Foundation
     
--   Greg Kroah-Hartman，Linux内核维护者、Linux基金会研究员
+- Greg Kroah-Hartman，Linux内核维护者、Linux基金会研究员
 
 \"Armijn Hemel is the world\'s foremost expert on the technical aspects of GPL compliance. This book is an indispensable starting point for all compliance engineers.\"
 
 \"Armijn Hemel是世界领先的GPL合规技术专家。这本书是所有合规工程师不可或缺的起点。\"
 
--   Professor Eben Moglen, President and Executive Director at Software Freedom Law Center
+- Professor Eben Moglen, President and Executive Director at Software Freedom Law Center
     
--   Eben Moglen教授，软件自由法律中心总裁兼执行董事
+- Eben Moglen教授，软件自由法律中心总裁兼执行董事
 
 "A practical guide with hands-on advice that condenses the significant experience of pioneers in GPL compliance who actually made some of the tools of the trade. Given their longstanding and recognized experience in compliance this is one of the most keenly awaited texts by compliance advisors and in-house officers. I am glad we now have it and that it exceeds my high expectations."
 
 “这是一个具有实操参考价值的实用指南，它浓缩了业内开拓者们在开发过程中GPL合规的重要经验。鉴于他们具有在合规方面长期和公认的经验，这也成为合规顾问和内部人员最热切期待的文本之一。很高兴我们现在可以拥有它，这比我的预期还要高。”
 
--   Carlo Piana, Founder at Array Law and General Counsel at Free Software Foundation Europe e.V.
+- Carlo Piana, Founder at Array Law and General Counsel at Free Software Foundation Europe e.V.
     
--   Carlo Piana，Array Law创始人、欧洲自由软件基金会总法律顾问。
+- Carlo Piana，Array Law创始人、欧洲自由软件基金会总法律顾问。
 
