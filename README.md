@@ -215,6 +215,15 @@ One tap mobile
 8. Maggie Cheung, Linux Foundation APAC
 9. Wendy Tse, Linux Foundation APAC
  
+### [9. 解决开源软件中的网络安全挑战 ](completed/Addressing-Cybersecurity-Challenges-in-Open-Source-Software-CN.pdf)
+
+1. 吴昊
+2. 李昌华
+3. 赵振华
+4. Donald Liu, Linux Foundation APAC
+5. Maggie Cheung, Linux Foundation APAC
+6. Wendy Tse, Linux Foundation APAC
+
 ## 博客
 
 | 序号 | 文章                                                                         | 翻译 | 校对 | 发表日期 |
