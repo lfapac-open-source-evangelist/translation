@@ -4,13 +4,13 @@
 
 ### Community
 
-社区
+社区/共同体
 
 ### Open Source Program Office
 
 开源办公室
 
-目前国内大部分公司都称其开源管理部门为开源办公室，因此采用此翻译。
+*注：目前国内大部分公司都称其开源管理部门为开源办公室，因此采用此翻译。*
 
 ### Innovators
 
@@ -23,6 +23,7 @@
 ### Procrastinator
 
 保守者
+
 ### Mentor
 
 导师
@@ -34,6 +35,19 @@
 ### Mentorship
 
 导师制/导师关系 
+
+### Open Source Environmentalist
+
+开源生态保护者
+
+## Open Source Gatekeeper
+
+开源守卫者 
+
+### General Member 
+
+普通会员
+
 
 ## 安全
 
