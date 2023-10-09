@@ -11,9 +11,14 @@ Stephen Hendrick, Linux Foundation Research
 
 Ana Jimenez Santamaria, TODO Group
 
-### Raw report 
+### 原版地址 
 https://www.linuxfoundation.org/research/ospo-2023?hsLang=en 
 
+### 翻译步骤
+1. 根据下方任务列表划分，认领任务，如 00.md，对应1~3页；
+2. 创建 00.md 文件，录入原始英文后提交
+3. 翻译英文为中文后提交
+4. 提交PR，至少保留上述两次提交记录，勿squash所有提交记录；等待review 。
 
 ## 任务列表
 
