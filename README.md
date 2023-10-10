@@ -17,7 +17,7 @@ LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translat
 | 徐斌   | Bruce Xu    | voidxb          | xb3150102384    | Bruce    |                                  |              | 2016165068@qq.com       |
 | 马景贺 | Mike        | majinghe        | majinghe11      | 小马哥   |                                  | 极狐(GitLab) | devops008@sina.com      |
 | 王玉茂 | Amelia      | Ameliawangyumao | amelia\_2020    | Amelia   |                                  | 华为         | ameliawang375@gmail.com |
-| 王永雷 | Leo Wang    | wangleo61       | 15900935447     | 永雷     |                                  |              | wangleo61@outlook.com   |
+| 王永雷 | Leo Wang    | wangleo61       | 15900935447     | 永雷     | 软件安全，开源治理                   | Synopsys      | wangleo61@outlook.com   |
 | 全继安 | Paul Quan   |                 | 13570988065     | paul安   |                                  |              | 706309392@qq.com        |
 | 滕召智 | Ben Teng    | freet15         | freet15         | Ben      |                                  |              | freet15@gmail.com       |
 | 孙振华 | Zhenhua Sun | sunzhh02        | zhenhua-sun     | 振华     |                                  |              | zhenhua.alan@icloud.com |
