@@ -15,10 +15,10 @@ Ana Jimenez Santamaria, TODO Group
 https://www.linuxfoundation.org/research/ospo-2023?hsLang=en 
 
 ### 翻译步骤
-1. 根据下方任务列表划分，认领任务，如 00.md，对应1~3页；
-2. 创建 00.md 文件，录入原始英文后提交
+1. 根据下方任务列表划分，创建一个新的issue来认领任务，如 00.md，对应1~3页，可以命名issue为： State of OSPO 00，然后assign给自己
+2. 在fork后的仓库里创建 00.md 文件，录入原始英文后提交
 3. 翻译英文为中文后提交
-4. 提交PR，至少保留上述两次提交记录，勿squash所有提交记录；等待review 。
+4. 提交PR，至少保留上述两次提交记录，勿squash所有提交记录；等待review；继续下一个任务认领。
 
 ## 任务列表
 
