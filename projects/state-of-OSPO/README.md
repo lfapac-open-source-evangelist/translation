@@ -26,7 +26,7 @@ https://www.linuxfoundation.org/research/ospo-2023?hsLang=en
 | ----     | ------- | 
 | 00.md TODO  |  1～3 |                               
 | 01.md TODO  |  4～6 | 
-| 02.md TODO  |  7  | 
+| [02.md](02.md)   |  7  | 
 | 03.md TODO  |  8~10  | 
 | 04.md TODO  |  11~13  | 
 | 05.md TODO  |  14~16  | 
