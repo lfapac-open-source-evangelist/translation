@@ -30,11 +30,11 @@
 
 ### Mentee
 
-学员 
+学员
 
 ### Mentorship
 
-导师制/导师关系 
+导师制/导师关系
 
 ### Open Source Environmentalist
 
@@ -42,12 +42,11 @@
 
 ## Open Source Gatekeeper
 
-开源守卫者 
+开源守卫者
 
-### General Member 
+### General Member
 
 普通会员
-
 
 ## 安全
 
