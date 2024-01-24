@@ -2,6 +2,12 @@
 
 该仓库是记录LFAPAC 开源布道者译道师 SIG相关内容。
 
+## 贡献者
+
+<a href="https://github.com/lfapac-open-source-evangelist/translation/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=lfapac-open-source-evangelist/translation&max=600" />
+</a>
+
 ## 译道师SIG背景
 
 LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translation SIG，是LFAPAC布道师团队下的翻译小组。本小组主要翻译开源相关的书籍、文章、报告等。
