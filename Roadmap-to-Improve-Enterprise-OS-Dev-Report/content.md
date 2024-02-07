@@ -100,7 +100,7 @@ About the author.................................................... 18
 Foreword
 ========
 
-引言
+序言
 ========
 
 “In real open source, you have the right to control your own destiny.”
@@ -121,6 +121,11 @@ shifted from being passive consumers to proactive participants in
 open source communities. This heightened collaboration spurred
 even faster innovation.
 
+过去的 20 年发生了很多变化，像 IBM 这样的公司也踏上了开源之旅。在前 10 年间，
+企业为了满足自己的需求，开始贡献开源项目；他们在技术、协作和社区方面进行了战略投资，
+并建立起一个全新的生态系统。随后的 10 年，我们在开源社区逐渐看到了超大规模的云提供商和财富 500 强
+公司，他们从被动的消费者转变为主动参与者。合作的紧密程度激发了更快的创新。
+
 We have learned that companies who only participate in open
 source on an ad-hoc basis cannot achieve long-term success.
 The key is for companies to take a more structured, enterprise
@@ -137,21 +142,18 @@ time and talent to improve the code base and remediate issues in
 open source software if they arise. That is what it means to be a
 good member of an open source community.
 
-在过去 20 年中发生了很多变化，像 IBM 这样的公司踏上了开源之旅。在前 10 年，
-企业开始通过贡献开源项目来满足自己的需求；他们在技术、协作和社区方面进行了战略投资，
-并建立起一个全新的生态系统。随后的 10 年，我们看到了超大规模的云提供商和财富 500 强
-公司的出现，他们从被动的消费者转变为开源社区的主动参与者。合作的提升激发了更快的创新。
-我们了解到那些仅临时参与开源的公司无法获得长期成功。关键是公司要采取更加结构化的企业方法，
-将开源置于其技术战略的核心。为了能够真正从开源社区模型受益，每个贡献者都有责任对社区进行必要的投资。
-这包括为公司的开源开发人员提供适当的工具、培训和指导，使其成为强大的社区贡献者进而成长为领导者。
-这就意味着我们需要共同努力，不仅要解决那些能挠到我们自己痒处的问题，还要通过扩大影响范围，集中时间
+
+我们已经了解到，那些只是临时参与开源的公司无法获得长期的成功。关键是公司要采取更加结构化的企业方法，
+将开源置于其技术战略的核心。为了能够真正从开源社区模式中受益，每个贡献者都有责任对社区进行必要的投资。
+这包括为公司的开源项目开发人员提供适当的工具、培训和指导，使其成为强大的社区贡献者，进而成为领导者。
+这就意味着我们需要共同努力，不仅要解决我们自己的痛点，还要通过扩大影响范围，集中时间
 和人才来改进代码库，并在开源软件出现问题时进行补救。这就是成为一个开源社区优秀成员的意义。
 
 This document provides an overview and step by step guide for
 companies to engage in open source development, no matter
 where you are on your journey.
 
-本文档为企业参与开源开发提供了概述和分步指南，无论你在开源的哪个阶段。
+本文档为企业参与开源开发提供了概述和分步指南，适合于在开源路上的每一家企业。
 
 **JESSICA MURILLO**
 
@@ -164,9 +166,9 @@ where you are on your journey.
 | Track success through specifically designed metrics for an open source environment.   | Follow a lightweight and tailored approach to source code contribution approvals.   | Share information across divisions and foster internal collaborations for successful implementation of innersource practices.    |
 | 通过专门为开源环境设计的指标来跟踪成功。 | 遵循轻量级和量身定制的方法来批准源代码贡献。 | 跨部门共享信息并促进内部协作以成功实施内部资源实践。 |
 | Contribute strategically to projects that are commonly used across products and services to remain essential, justifiable, and fundable.    |  Allocate time for open source developers to meet upstream responsibilities, especially if they are maintainers.  | Partner with product teams on upstream code development that helps reduce their technical debt.   |
-| 战略性地为产品和服务中常用的项目做出贡献，以保持其必要性、合理性和可资助性。 | 为开源开发人员（尤其是维护人员）分配时间来履行上游职责。 | 与产品团队合作进行上游代码开发，帮助减少他们的技术债务。 |
+| 为产品和服务中常用的项目做出战略性贡献，以保持其必要性、合理性和可资助性。 | 为开源开发人员（尤其是维护人员）分配时间来履行上游职责。 | 与产品团队合作进行上游代码开发，帮助减少他们的技术债务。 |
 | Develop open source talent internally, and encourage involvement in open source from developers across the organization.  | Create a mentorship program to support the growth of junior developers and increase the quality and quantity of code accepted in open source projects.  | Participate in and host open source events to build developer networks, participate in technical discussions, and increase visibility. |
-| 在内部培养开源人才，并鼓励整个组织的开发人员参与开源。 | 创建指导计划以支持初级开发人员的成长，并提高开源项目中接受的代码的质量和数量。 | 参与和主持开源活动以建立开发者网络、参与技术讨论并提高知名度。 |
+| 在企业内部培养开源人才，并鼓励整个企业的开发人员参与开源。 | 创建一个导师计划以支持初级开发人员的成长，并提高开源项目中接受的代码的质量和数量。 | 参与和主持开源活动以建立开发者网络、参与技术讨论并提高知名度。 |
 
 Introduction
 ============
@@ -181,8 +183,8 @@ enterprise) participation continues to evolve as organizations
 increasingly discover that open sourcing proprietary technologies can
 create new sources of value and more robust product ecosystems.
 
-企业对开源的参与度创历史新高并随着组织意识到消费的价值而继续增长并为开源项目做出贡献
-（**图1**）。此外，公司的性质（也称为企业）的参与随着组织的发展而不断发展越来越多的发现开源专有技术可以创造新的价值来源和更强大的产品生态系统。
+随着企业逐渐意识到消费和贡献开源项目的价值，企业对开源项目的参与程度达到了历史最高水平，并仍然在持续增长（**图1**）。
+此外，随着组织越来越多地发现，开源专有技术可以创造新的价值来源和更强大的产品生态体系，公司（也称为企业）参与的性质也在不断演变。
 
 Enterprise open source development has challenges, which we discussed
 in detail in "[[A Deep Dive into Open Source
@@ -198,9 +200,8 @@ leadership. If the organization has a clear plan to implement internal practices
 becomes easier. For instance, the Linux Kernel is the largest collaborative software project in the world, and getting involved in
 the development process can be overwhelming.
 
-企业开源之旅充满挑战（**图 2**），并且组织需要解决这个问题来构建其开源
-领导。如果组织有明确的实施计划内部实践和解决那些已知的挑战，开源之旅变得更容易。
-例如，Linux内核是最大的全球协作软件项目，并参与其中开发过程可能会让人不知所措。
+企业开源之旅充满挑战（**图 2**），但企业需要解决这一问题，以建立其开源领导力。如果组织有一个明确的计划，来实施内部实践并解决这些已知的挑战，那么开源之旅会变得更容易。
+例如，Linux内核是全球最大的协作软件项目，参与开发的过程是超级难的。
 
 If you are one of the organizations that rely on the Linux Kernel for
 their products and services, investing time and resources into
@@ -208,15 +209,14 @@ improving your internal development abilities, contributions process,
 and syncing your development with the upstream project can pay off
 immensely in the long run.
 
-如果您是依赖 Linux 内核的组织之一他们的产品和服务，投入时间和资源提高您的内部发展能力，贡献过程，
-将您的开发与上游项目同步可以带来回报从长远来看，这是非常巨大的。
+如果您是依赖 Linux 内核提供产品和服务的企业之一，那么投入时间和资源提高你们企业的内部开发能力、贡献过程，并将企业的开发与上游项目同步，长远来看可以带来巨额的回报。
 
 Fortunately, since so many organizations and individuals have been
 successful at contributing to the Linux Kernel, there is a clear path
 to improve your own Linux Kernel contributions and aim for a
 leadership role.
 
-幸运的是，由于如此多的组织和个人成功为 Linux 内核做出贡献，有一条清晰的路径改进您自己的 Linux 内核贡献，并致力于起到领导作用。
+幸运的是，由于如此多的组织和个人已经成功地为 Linux 内核做出了贡献，因此有一条清晰的路线，可以改进您自己对 Linux 内核的贡献，并起到领导者的作用。
 
 **FIGURE 1**
 **图1**
