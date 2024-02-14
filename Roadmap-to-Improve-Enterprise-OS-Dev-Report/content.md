@@ -2,19 +2,17 @@
 
 提升企业开源开发有效性和影响力的路线图
 
-**2月 2023**
+**2023 2月**
 
 Ibrahim Haddad 博士
 
 战略计划副总裁（AI 和数据）
 
-序言 Jessica Murillo
-
-IBM 副总裁兼交付实践负责人
+序言：Jessica Murillo，IBM 副总裁兼交付实践负责人
 
 Contents
 ==========
-
+```text
 Foreword..................................3
 
 Introduction................................5
@@ -66,7 +64,7 @@ Feedback........................................................................
 Linux Foundation resources .............................................17
 
 About the author.................................................... 18
-
+```
 目录
 ========
 
@@ -130,7 +128,7 @@ About the author.................................................... 18
 
 “在真正的开源中，你有权掌握自己的命运。”
 
-**-- LINUS TORVALDS，Linux 内核的创造者**
+**-- LINUS TORVALDS，Linux 内核的创始人**
 
 A lot has changed in the past 20 years since technology
 companies, like IBM, began their open source journey. In the
@@ -143,10 +141,8 @@ shifted from being passive consumers to proactive participants in
 open source communities. This heightened collaboration spurred
 even faster innovation.
 
-过去的 20 年发生了很多变化，像 IBM 这样的公司也踏上了开源之旅。在前 10 年间，
-企业为了满足自己的需求，开始贡献开源项目；他们在技术、协作和社区方面进行了战略投资，
-并建立起一个全新的生态系统。随后的 10 年，我们在开源社区逐渐看到了超大规模的云提供商和财富 500 强
-公司，他们从被动的消费者转变为主动参与者。合作的紧密程度激发了更快的创新。
+
+过去 20 年间，自 IBM 等科技公司开启开源之旅后，发生了许多变化。在最初的 10 年里，企业开始通过贡献开源项目来满足自身需求；他们对技术、协作和社区进行战略性投资，建立了全新的生态系统。接下来的 10 年，我们看到了超大规模云提供商和财富 500 强公司的出现，它们从被动的消费者转变为开源社区积极的参与者。这种加强的合作推动了更快的创新。
 
 We have learned that companies who only participate in open
 source on an ad-hoc basis cannot achieve long-term success.
@@ -165,11 +161,7 @@ open source software if they arise. That is what it means to be a
 good member of an open source community.
 
 
-我们已经了解到，那些只是临时参与开源的公司无法获得长期的成功。关键是公司要采取更加结构化的企业方法，
-将开源置于其技术战略的核心。为了能够真正从开源社区模式中受益，每个贡献者都有责任对社区进行必要的投资。
-这包括为公司的开源项目开发人员提供适当的工具、培训和指导，使其成为强大的社区贡献者，进而成为领导者。
-这就意味着我们需要共同努力，不仅要解决我们自己的痛点，还要通过扩大影响范围，集中时间
-和人才来改进代码库，并在开源软件出现问题时进行补救。这就是成为一个开源社区优秀成员的意义。
+我们已经深刻意识到，仅仅偶尔参与开源项目的企业无法获得长期成功。关键在于企业采用更具结构化、更具企业化的方法，将开源置于其技术战略的核心。为了真正从开源社区模式中获益，每个贡献者都应该对这些社区进行必要的投资。这包括为来自贵公司的开源开发人员提供合适的工具、培训和指导，帮助他们成为强大社区贡献者并成长为领导者。这意味着我们需要齐心协力，不仅要解决自己迫切的问题，还要拓宽影响范围，将我们的时间和才能投入到改善开源软件代码库和修复出现的漏洞上。这才是成为一个优秀开源社区成员的真正含义。
 
 This document provides an overview and step by step guide for
 companies to engage in open source development, no matter
@@ -196,11 +188,7 @@ where you are on your journey.
 # 介绍
 
 Corporate participation in open source has reached an all-time high
-and continues to grow as organizations realize the value of consuming
-and contributing to open source projects (**FIGURE 1**). In addition, the nature of corporate (also called
-enterprise) participation continues to evolve as organizations
-increasingly discover that open sourcing proprietary technologies can
-create new sources of value and more robust product ecosystems.
+and continues to grow as organizations realize the value of consuming and contributing to open source projects (**FIGURE 1**). In addition, the nature of corporate (also called enterprise) participation continues to evolve as organizations increasingly discover that open sourcing proprietary technologies can create new sources of value and more robust product ecosystems.
 
 随着企业逐渐意识到消费和贡献开源项目的价值，企业对开源项目的参与程度达到了历史最高水平，并仍然在持续增长（**图1**）。
 此外，随着组织越来越多地发现，开源专有技术可以创造新的价值来源和更强大的产品生态体系，公司（也称为企业）参与的性质也在不断演变。
@@ -228,6 +216,7 @@ improving your internal development abilities, contributions process,
 and syncing your development with the upstream project can pay off
 immensely in the long run.
 
+
 如果您是依赖 Linux 内核提供产品和服务的企业之一，那么投入时间和资源提高你们企业的内部开发能力、贡献过程，并将企业的开发与上游项目同步，长远来看可以带来巨额的回报。
 
 Fortunately, since so many organizations and individuals have been
@@ -238,6 +227,7 @@ leadership role.
 幸运的是，由于如此多的组织和个人已经成功地为 Linux 内核做出了贡献，因此有一条清晰的路线，可以改进您自己对 Linux 内核的贡献，并起到领导者的作用。
 
 **FIGURE 1**
+
 **图1**
 
 ![FIGURE 1](./images/figure1.png)
@@ -283,8 +273,7 @@ projects:
 
 - 减少产品团队所需的工作量
 
-- Minimizing the cost to maintain source code and internal software
-    branches
+- Minimizing the cost to maintain source code and internal software branches
 
 - 最大限度地降低维护源代码和内部软件分支的成本
 
@@ -326,10 +315,12 @@ grow their footprint in open source projects.
 ![FIGURE 2](./images/figure2.png)
 
 FIGURE 2
+
 CHALLENGES ENTERPRISES FACE AS PART OF
 INSTITUTIONALIZING OPEN SOURCE DEVELOPMENT PRACTICES
 
 图2
+
 企业在推行开源开发实践时面临的挑战
 
 | Culture <br> 文化 | Operations <br> 运营 |  Tools <br> 工具 | Continuity <br>  连续性 |Education  <br> 教育|
@@ -370,13 +361,14 @@ match in interests is critical.
 至关重要的。
 
 #  Support and allocate time for upstream contributions
+
 #  支持并分配时间用于上游贡献
 
 The core principle for hiring open source developers is to support an
 organization's open source strategy, development, and upstream
 activities; however, in most cases, there is the expectation that open
 source developers will need to be available to support product teams
-due to their expertise and influence 
+due to their expertise and influence
 in their respective open source projects. It is also common for
 product teams to exercise their influence in an attempt to hijack the
 time of the open source developers by having them work on product
