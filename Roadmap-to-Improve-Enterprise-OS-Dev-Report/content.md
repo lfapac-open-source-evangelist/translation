@@ -2,19 +2,17 @@
 
 提升企业开源开发有效性和影响力的路线图
 
-**2月 2023**
+**2023 2月**
 
 Ibrahim Haddad 博士
 
 战略计划副总裁（AI 和数据）
 
-序言 Jessica Murillo
-
-IBM 副总裁兼交付实践负责人
+序言：Jessica Murillo，IBM 副总裁兼交付实践负责人
 
 Contents
 ==========
-
+```text
 Foreword..................................3
 Introduction................................5
 Hire developers from the project’s community........................... 7
@@ -41,7 +39,7 @@ Acknowledgments.........................................................17
 Feedback........................................................................17
 Linux Foundation resources .............................................17
 About the author.................................................... 18
-
+```
 目录
 ========
 
@@ -108,7 +106,7 @@ Foreword
 
 “在真正的开源中，你有权掌握自己的命运。”
 
-**-- LINUS TORVALDS，Linux 内核的创造者**
+**-- LINUS TORVALDS，Linux 内核的创始人**
 
 A lot has changed in the past 20 years since technology
 companies, like IBM, began their open source journey. In the
@@ -120,6 +118,8 @@ of hyperscale cloud providers and Fortune 500 companies that
 shifted from being passive consumers to proactive participants in
 open source communities. This heightened collaboration spurred
 even faster innovation.
+
+过去 20 年间，自 IBM 等科技公司开启开源之旅后，发生了许多变化。在最初的 10 年里，企业开始通过贡献开源项目来满足自身需求；他们对技术、协作和社区进行战略性投资，建立了全新的生态系统。接下来的 10 年，我们看到了超大规模云提供商和财富 500 强公司的出现，它们从被动的消费者转变为开源社区积极的参与者。这种加强的合作推动了更快的创新。
 
 We have learned that companies who only participate in open
 source on an ad-hoc basis cannot achieve long-term success.
@@ -137,15 +137,7 @@ time and talent to improve the code base and remediate issues in
 open source software if they arise. That is what it means to be a
 good member of an open source community.
 
-在过去 20 年中发生了很多变化，像 IBM 这样的公司踏上了开源之旅。在前 10 年，
-企业开始通过贡献开源项目来满足自己的需求；他们在技术、协作和社区方面进行了战略投资，
-并建立起一个全新的生态系统。随后的 10 年，我们看到了超大规模的云提供商和财富 500 强
-公司的出现，他们从被动的消费者转变为开源社区的主动参与者。合作的提升激发了更快的创新。
-我们了解到那些仅临时参与开源的公司无法获得长期成功。关键是公司要采取更加结构化的企业方法，
-将开源置于其技术战略的核心。为了能够真正从开源社区模型受益，每个贡献者都有责任对社区进行必要的投资。
-这包括为公司的开源开发人员提供适当的工具、培训和指导，使其成为强大的社区贡献者进而成长为领导者。
-这就意味着我们需要共同努力，不仅要解决那些能挠到我们自己痒处的问题，还要通过扩大影响范围，集中时间
-和人才来改进代码库，并在开源软件出现问题时进行补救。这就是成为一个开源社区优秀成员的意义。
+我们已经深刻意识到，仅仅偶尔参与开源项目的企业无法获得长期成功。关键在于企业采用更具结构化、更具企业化的方法，将开源置于其技术战略的核心。为了真正从开源社区模式中获益，每个贡献者都应该对这些社区进行必要的投资。这包括为来自贵公司的开源开发人员提供合适的工具、培训和指导，帮助他们成为强大社区贡献者并成长为领导者。这意味着我们需要齐心协力，不仅要解决自己迫切的问题，还要拓宽影响范围，将我们的时间和才能投入到改善开源软件代码库和修复出现的漏洞上。这才是成为一个优秀开源社区成员的真正含义。
 
 This document provides an overview and step by step guide for
 companies to engage in open source development, no matter
@@ -175,11 +167,7 @@ Introduction
 ============
 
 Corporate participation in open source has reached an all-time high
-and continues to grow as organizations realize the value of consuming
-and contributing to open source projects (**FIGURE 1**). In addition, the nature of corporate (also called
-enterprise) participation continues to evolve as organizations
-increasingly discover that open sourcing proprietary technologies can
-create new sources of value and more robust product ecosystems.
+and continues to grow as organizations realize the value of consuming and contributing to open source projects (**FIGURE 1**). In addition, the nature of corporate (also called enterprise) participation continues to evolve as organizations increasingly discover that open sourcing proprietary technologies can create new sources of value and more robust product ecosystems.
 
 企业对开源的参与度创历史新高并随着组织意识到消费的价值而继续增长并为开源项目做出贡献
 （**图1**）。此外，公司的性质（也称为企业）的参与随着组织的发展而不断发展越来越多的发现开源专有技术可以创造新的价值来源和更强大的产品生态系统。
@@ -208,8 +196,7 @@ improving your internal development abilities, contributions process,
 and syncing your development with the upstream project can pay off
 immensely in the long run.
 
-如果您是依赖 Linux 内核的组织之一他们的产品和服务，投入时间和资源提高您的内部发展能力，贡献过程，
-将您的开发与上游项目同步可以带来回报从长远来看，这是非常巨大的。
+如果您的公司是一家依赖 Linux 内核的组织自己的产品和服务的公司，投入时间和资源提高您的内部发展能力，贡献过程，将您的开发与上游项目同步可以带来回报，从长远来看，这是非常巨大的。
 
 Fortunately, since so many organizations and individuals have been
 successful at contributing to the Linux Kernel, there is a clear path
@@ -219,6 +206,7 @@ leadership role.
 幸运的是，由于如此多的组织和个人成功为 Linux 内核做出贡献，有一条清晰的路径改进您自己的 Linux 内核贡献，并致力于起到领导作用。
 
 **FIGURE 1**
+
 **图1**
 
 ![FIGURE 1](./images/figure1.png)
@@ -264,8 +252,7 @@ projects:
 
 - Reducing the amount of work needed from product teams
 
-- Minimizing the cost to maintain source code and internal software
-    branches
+- Minimizing the cost to maintain source code and internal software branches
 
 - Improving code quality
 
@@ -311,10 +298,12 @@ grow their footprint in open source projects.
 ![FIGURE 2](./images/figure2.png)
 
 FIGURE 2
+
 CHALLENGES ENTERPRISES FACE AS PART OF
 INSTITUTIONALIZING OPEN SOURCE DEVELOPMENT PRACTICES
 
 图2
+
 企业在推行开源开发实践时面临的挑战
 
 Culture
@@ -425,26 +414,22 @@ toward making a noticeable impact on a large project, such as the
 Linux Kernel, attracting further hires and allowing enough resources
 to mentor existing junior developers.
 
-It is crucial to align corporate interests with individual interests.
-
-It will be hard to motivate a senior open source developer to work on
-a given project when their interests do not match those of their
-employers. For instance, a memory management expert may
-
-not be interested in working on file systems; therefore, finding a
-match in interests is critical.
-
 这是可以让你的组织立即获得技能和认可的关键步骤。想对一个大型项目（例如Linux
 内核）产生明显的影响，雇佣两三个人是一个很好的开始，这样可以吸引更多的员工，
 并有足够的资源来指导已有的初级开发人员。
 
-让个人兴趣与公司利益保持一致非常重要。
+It is crucial to align corporate interests with individual interests.
+It will be hard to motivate a senior open source developer to work on
+a given project when their interests do not match those of their
+employers. For instance, a memory management expert may
+not be interested in working on file systems; therefore, finding a
+match in interests is critical.
 
-当高级开源开发人员的兴趣与雇主的不匹配时，会很难激励他们在被指定的项目上工作。
+让个人兴趣与公司利益保持一致非常重要。当高级开源开发人员的兴趣与雇主的不匹配时，会很难激励他们在被指定的项目上工作。
 例如一位内存管理专家可能对在文件系统工作根本不感兴趣；因此，找兴趣的匹配点是
 至关重要的。
 
- Support and allocate time for upstream contributions
+Support and allocate time for upstream contributions
 
 ====================================================
 
@@ -457,12 +442,10 @@ organization's open source strategy, development, and upstream
 activities; however, in most cases, there is the expectation that open
 source developers will need to be available to support product teams
 due to their expertise and influence
-
 in their respective open source projects. It is also common for
 product teams to exercise their influence in an attempt to hijack the
 time of the open source developers by having them work on product
 development as much as possible. If this happens,
-
 many open source developers will head to the door, seeking new
 opportunities that allows them to work on their upstream project
 before an organization realizes what just happened.
@@ -489,43 +472,43 @@ BENEFITS OF UPSTREAMING CODE
 Lower maintenance efforts for internally managed
 code, i.e., minimizes technical debt.
 
+减少内部托管代码的维护工作量，例如最大限度地减少了技术债。
+
 Upstreamed code becomes visible to others and receives peer review and
 feedback, leading to improvements.
+
+上游的代码对其他人可见，接收同行评审和反馈，进而可以优化改进。
 
 Upstream contributions provide stability to the project. They send a
 signal that the project is useful and important, which helps attract
 new contributors.
 
+上游贡献为项目提供了稳定性。它们发出了该项目是有用的和重要的信号，这有
+助于吸引新的贡献者。
+
 Builds a positive relationship between the contributing organization
 and the project community.
+
+在贡献组织和项目社区之间建立积极正向的关系。
 
 Upstreaming code is an effective way to provide technical leadership
 and influence the project.
 
+上游代码是构建技术领导力和影响项目的有效方法。
+
 Upstreaming contributes to easier compliance and improved security due
 to centralizing code in upstream repos.
-
-Upstream contributions are an effective means of ensuring stability in
-a company's software supply chain.
-
-Helps organizations recruit talent from projects and retain their own
-developers by engaging them with the open source innovation engine.
-
-减少内部托管代码的维护工作量，例如最大限度地减少了技术债。
-
-上游的代码对其他人可见，接收同行评审和反馈，进而可以优化改进。
-
-上游贡献为项目提供了稳定性。它们发出了该项目是有用的和重要的信号，这有
-助于吸引新的贡献者。
-
-在贡献组织和项目社区之间建立积极正向的关系。
-
-上游代码是构建技术领导力和影响项目的有效方法。
 
 由于将代码集中在上游项目仓库中，上游贡献有助于更容易地实现合规遵从和提高
 安全性。
 
+Upstream contributions are an effective means of ensuring stability in
+a company's software supply chain.
+
 上游贡献是保护公司软件供应链稳定的有效手段。
+
+Helps organizations recruit talent from projects and retain their own
+developers by engaging them with the open source innovation engine.
 
 帮助组织从项目中招募人才，同时通过让组织现有的开放人员参与开源创新引擎来吸
 引留住他们。
@@ -746,7 +729,7 @@ strategy.
 
 例如，我们可以利用这些参数，与Kernel生态系统中的其他组织进行性能方面的比较。这种方法可以帮助我们更好地了解项目开发人员的整体生态系统。还可以更好地了解自身的优势和不足，从而影响整体开发策略。
 
- Identify focus areas with a broad impact
+Identify focus areas with a broad impact
 ========================================
 
 确定具有广泛影响的重点领域
@@ -930,7 +913,7 @@ metrics we track account for things like this.
 
 ### 采用适当的成功度量标准
 
-适当的开源度量标准推动期望的开发行为。不幸的是，在产品组织中通常使用的传统度量标准只适用于开源开发的上下文。例如，由于OSG开发人员游说社区支持，我们曾多次看到期望功能的上游实现。
+适当的开源度量标准推动期望的开发行为。不幸的是，在产品组织中通常使用的传统度量标准只适用于开源开发的上下文。例如，由于 OSG 开发人员游说社区支持，我们曾多次看到期望功能的上游实现。
 
 在这种情况下，变更集或代码行数并不那么重要，因为技术领导团队成员提供的是将代码上游并减少我们的下游维护工作。我们跟踪的度量标准涵盖了这些方面。
 
