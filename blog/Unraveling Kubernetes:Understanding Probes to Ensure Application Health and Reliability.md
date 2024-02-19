@@ -15,14 +15,14 @@ Let’s explore their benefits.
 - **Faster scaling**: With accurate health information, Kubernetes can make informed decisions about scaling your applications up or down based, on actual demand.
 - **Simplified troubleshooting**: Probes provide valuable insights into your application’s health, making it easier to diagnose and fix issues.
 
-## Kubernetes 中探针的关键方面
+## Kubernetes 中探针的关键优势
 
-让我们探索它们的好处。
+让我们探索它们的好处：
 
-- **提高正常运行时间和可靠性**：通过快速重新启动不健康的 Pod，探针确保您的应用程序始终可用和可响应。
-- **改善资源利用率**：通过阻止流量到达未就绪的 Pod，探针为健康的 Pod 释放资源，优化集群的性能。
-- **更快的扩展**：凭借准确的健康信息，Kubernetes 可以根据实际需求做出关于扩缩应用程序的决策。
-- **简化故障排除**：探针为您的应用程序健康提供了宝贵的见解，使诊断和解决问题变得更加容易。
+- **提高正常运行时间和可靠性：** 通过快速重新启动不健康的 Pod，探针确保您的应用程序始终可用和可响应。
+- **改善资源利用率：** 通过阻止流量到达未就绪的 Pod，探针为健康的 Pod 释放资源，优化集群的性能。
+- **更快的扩展：** 凭借准确的健康信息，Kubernetes 可以根据实际需求做出关于扩缩应用程序的决策。
+- **简化故障排除：** 探针为您的应用程序健康提供了宝贵的见解，使诊断和解决问题变得更加容易。
 
 ## Types of Probes
 
@@ -32,11 +32,11 @@ Let’s explore their benefits.
 
 Let’s look at the probes with the help of an example, by imagining a bustling restaurant during peak hour.
 
-## 探针的类型
+## 探针类型
 
-- **存活探针**：确定容器是否正常运行。如果存活探针失败，Kubernetes 将重新启动容器。
-- **就绪探针**：检查容器是否准备好提供服务。如果就绪探针失败，Kubernetes 将停止将流量路由到该 Pod，直到它通过为止。
-- **启动探针**：用于需要较长时间启动的容器。如果配置了启动探针，存活和就绪检查将在其成功之前被禁用，确保应用有足够的时间启动。
+- **存活探针：** 确定容器是否正常运行。如果存活探针失败，Kubernetes 将重新启动容器。
+- **就绪探针：** 检查容器是否准备好提供服务。如果就绪探针失败，Kubernetes 将停止将流量路由到该 Pod，直到它通过为止。
+- **启动探针：** 用于需要较长时间启动的容器。如果配置了启动探针，存活和就绪检查将在其成功之前被禁用，确保应用有足够的时间启动。
 
 让我们通过一个例子来看看探针的作用，想象一家在高峰时段繁忙的餐厅。
 
@@ -49,14 +49,14 @@ Let’s look at the probes with the help of an example, by imagining a bustling 
   - Confirming that key services are up and running
 - If any of these checks fail, the maitre d’ informs the host (Kubernetes) that the table isn’t ready (application not ready). The host then delays sending new customers (traffic) until the table is prepared. This prevents frustrated diners (unhappy users) from receiving incomplete or slow service.
 
-### 1. 就绪探针 - 餐厅领班的清单
+### 1. 就绪探针 - 餐厅服务员的清单
 
-- 想象餐厅领班就像就绪探针一样。他们的工作是在客人入座之前确保餐桌干净整洁。这可以理解为检查容器内的应用程序（就像是厨房）是否完全准备好处理传入的流量。
+- 想象餐厅服务员就像就绪探针一样。他们的工作是在客人入座之前确保餐桌干净整洁。这可以理解为检查容器内的应用程序（就像是厨房）是否完全准备好处理传入的流量。
 - 就绪探针可能涉及以下一项或多项工作：
   - 验证 Web 服务器是否在正确的端口上监听；
   - 测试数据库连接性；
   - 确认关键服务是否已经启动运行。
-- 如果这些检查中有任何一项失败，餐厅领班会通知主人（Kubernetes）餐桌还没有准备好（应用程序还没有准备好）。主人会延迟发送新的顾客（流量），直到餐桌准备好。这样就可以避免让沮丧的用餐者（不满意的用户）收到不完整或者缓慢的服务。
+- 如果这些检查中有任何一项失败，餐厅服务员会通知主人（Kubernetes）餐桌还没有准备好（应用程序还没有准备好）。主人会延迟发送新的顾客（流量），直到餐桌准备好。这样就可以避免让沮丧的用餐者（不满意的用户）收到不完整或者缓慢的服务。
 
 ### 2. Liveness Probe – The Kitchen Manager’s Patrol
 
@@ -76,7 +76,7 @@ Let’s look at the probes with the help of an example, by imagining a bustling 
     - 测试正在运行的进程的健康状况；
     - 监控资源利用率（CPU、内存）；
     - 检查错误或崩溃情况。
-- 如果经理发现任何问题，他们会警告员工（Kubernetes）厨房出现问题（应用程序崩溃）。然后员工会重新启动容器（重新启动应用程序）以使一切恢复正常。这样可以确保用餐者（用户）不会遇到关闭的厨房（无响应的应用程序）。
+- 如果经理发现任何问题，他们会警告员工（Kubernetes）厨房出现问题（应用程序崩溃）。然后工作人员会重新启动容器（重新启动应用程序）以使一切恢复正常。这样可以确保用餐者（用户）不会遇到关闭的厨房（无响应的应用程序）。
 
 ### 3. Startup Probe – The Chef’s Warm-up Time
 
@@ -114,7 +114,7 @@ I hope this blog post clarifies the role of probes in Kubernetes and empowers yo
 
 **Read the first part in the Unraveling Kubernetes series [here](https://training.linuxfoundation.org/blog/unraveling-kubernetes/)** and stay tuned for further posts delving deeper into specific use cases, technical implementation details and best practices for leveraging Kubernetes!
 
-## 额外需要考虑的要点
+## 其他注意事项
 
 - 探针可以通过各种方法进行配置，包括使用YAML文件和注释。
 - 不同类型的探针（HTTP、exec、TCP）可供选择，以满足应用程序的需求。
