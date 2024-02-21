@@ -143,9 +143,9 @@ While open source principles are relatively straightforward, "getting it right" 
 
 
 虽然开源原则相对简单,
-但是"正确行事"可就具有挑战性了;
-开源位于技术/社区/商业和个人身份的交处,
-因此,理所当然的是一定数量的工具和严格性 --- 最佳实践 --- 将有助于铺平通往成功的道路;
+但是"正确实施"就具有挑战性了;
+开源位于技术/社区/商业和个人身份的知识跨界点,
+因此，很显然，使用一些工具，总结一些经验（最佳实践）将有助于铺平通往成功的道路;
 
  In my time as the Director of the Microsoft Open Source Programs Office (OSPO), the company evolved from having a few hundred developers and repos on GitHub to having tens of thousands of each. We moved from *ad hoc* operations to formal but still manual processes to near-full automation of our presence on GitHub and from project communities of dozens to thousands. We developed a ton of tools and best practices to smooth that path.
 
@@ -161,23 +161,23 @@ While open source principles are relatively straightforward, "getting it right" 
 
 将近五年前, 我在 GitHub 工作的目标
 是将其中一些工具和知识带入 GitHub 产品中, 
-并最终带到你面前, 世界上的开源开发者们;
+并最终带给你以及世界上的开源开发者们;
 今天,
 GitHub 有很多工具和可能性,
 从讨论到操作/检验/打包和发布, 再到安全性,
-都可以帮助你和你和项目;
-我甚至无法逐一列举;
+都可以帮助你和你的项目;
+在此就不做逐一列举;
 
  Successful open source is as much about people and communities as it is about the code. With this article, Ibrahim applies his long history in open source to create a jumping-off point for you to make the most of your open source efforts on GitHub. Using the best practices outlined here will help you create a secure, robust, and vibrant community around your project. GitHub supplies much of the infrastructure, and you provide the innovation and community.
 
 
-成功的开源不仅关乎代码,
-也关乎人和社区;
-在这篇文章中, Ibrahim 运用他在开源领域的悠久经历为你构建了一个起点,
-以便你在 GitHub 上充分开展你的开源成果;
-使用在此概述的最佳实践将帮助你围绕项目创建一个安全/强大且充满澳门的社区;
+成功的开源不仅仅是代码,
+还涉及到人与社区;
+在这篇文章中, Ibrahim 用他在开源领域的丰富经历为你的开源旅程打造了一个开端,
+以便在 GitHub 上充分开展你的开源成果;
+本篇简述的最佳实践将引导你围绕项目创建一个安全、强大且充满活力的社区;
 GitHub 提供大部分基础设施,
-而你提供创新和社区;
+而你将在这基础上开展创新和运营社区;
 
 See you in a repo.
 
