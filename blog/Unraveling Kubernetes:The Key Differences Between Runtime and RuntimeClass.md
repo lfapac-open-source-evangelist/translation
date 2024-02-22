@@ -10,7 +10,7 @@ Greetings, Kubernetes Community! Today, I’m going to shed some light on a topi
 Let’s start with Runtime. Imagine it as the engine of a car. In Kubernetes, the runtime is what powers your containers, providing the necessary environment for them to run. It’s where the magic happens, transforming your container images into running applications. Containerd, for instance, is a popular choice of container runtime.
 
 ## Kubernetes 中的 Runtime：基石
-让我们从 Runtime 开始谈起。可以将其想象为一辆车的引擎。在 Kubernetes 中，runtime 是推动你的容器运行的动力，它提供了运行容器所需的环境。它是魔法发生的地方，把你的容器镜像变为正在运行的应用程序。例如，Containerd 是一种广泛使用的容器运行环境。
+让我们从 Runtime 开始谈起。可以将其想象为一辆车的引擎。在 Kubernetes 中，runtime 是推动你的容器运行的动力，它提供了运行容器所需的环境。这里可以被视为“魔法发生的地方”，它将你的容器镜像转换成实际运行应用。例如，Containerd 是一种广泛使用的容器运行环境。
 
 ## Enter RuntimeClass: Customizing the Experience
 Now, let’s talk about RuntimeClass. Think of it as the customizable settings for your car’s engine, allowing you to tweak its performance. In Kubernetes, RuntimeClass gives you the flexibility to specify different runtime configurations for different containers. This feature is particularly useful in scenarios where you need to run containers with specialized requirements or constraints. Like adding additional layers of isolation for secure workloads.
