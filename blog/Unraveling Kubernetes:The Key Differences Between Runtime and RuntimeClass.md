@@ -4,19 +4,19 @@ Greetings, Kubernetes Community! Today, I’m going to shed some light on a topi
 
 # 理解 Kubernetes 中 Runtime 与 RuntimeClass 的关键区别
 
-你好，Kubernetes 社区！今天，我想深入探讨一个经常被视为难以捉摸的主题：Kubernetes 中的 Runtime 与 RuntimeClass 的区别。无论你是资深的专家还是刚刚入门的新手，掌握这些概念对于有效地导航复杂的容器编排领域至关重要。
+你好，Kubernetes 社区！今天，我想深入探讨一个经常看似难以捉摸的话题：Kubernetes 中的 Runtime 与 RuntimeClass 的区别。无论你是资深的专家还是刚刚入门的新手，掌握这些概念对于有效地导航复杂的容器编排领域至关重要。
 
 ## Runtime in Kubernetes: The Foundation
 Let’s start with Runtime. Imagine it as the engine of a car. In Kubernetes, the runtime is what powers your containers, providing the necessary environment for them to run. It’s where the magic happens, transforming your container images into running applications. Containerd, for instance, is a popular choice of container runtime.
 
-## Kubernetes 中的 Runtime：基石
-让我们从 Runtime 开始谈起。可以将其想象为一辆车的引擎。在 Kubernetes 中，runtime 是推动你的容器运行的动力，它提供了运行容器所需的环境。这里可以被视为“魔法发生的地方”，它将你的容器镜像转换成实际运行应用。例如，Containerd 是一种广泛使用的容器运行环境。
+## Kubernetes 中的 Runtime：基础
+让我们从 Runtime 开始谈起。把它想象成汽车的引擎。在 Kubernetes 中，runtime 是推动你的容器运行的动力，它提供了运行容器所需的环境。这里可以被视为“魔法发生的地方”，它将你的容器镜像转换成实际运行应用。例如，Containerd 是一种广泛使用的容器运行环境。
 
 ## Enter RuntimeClass: Customizing the Experience
 Now, let’s talk about RuntimeClass. Think of it as the customizable settings for your car’s engine, allowing you to tweak its performance. In Kubernetes, RuntimeClass gives you the flexibility to specify different runtime configurations for different containers. This feature is particularly useful in scenarios where you need to run containers with specialized requirements or constraints. Like adding additional layers of isolation for secure workloads.
 
 ## 引入 RuntimeClass：自定义体验
-现在，让我们来谈谈 RuntimeClass。将其想象为你的汽车引擎的可定制设置，这些设置允许你调整性能。在 Kubernetes 中，RuntimeClass 让你可以为不同的容器指定不同的运行时配置。这个特性在需要运行具有特殊要求或限制的容器的场景下尤为有用，例如为安全负载添加额外的隔离层。
+现在，让我们来谈谈 RuntimeClass。将其想象为汽车引擎的可定制设置，这些设置允许你调整性能。在 Kubernetes 中，RuntimeClass 让你可以为不同的容器指定不同的运行时配置。这个特性在需要运行具有特殊要求或限制的容器的场景下尤为有用，例如为安全负载添加额外的隔离层。
 
 ## The Difference: It’s All About Choice and Flexibility
 So, what’s the key difference? While Runtime is about the actual environment where containers run, RuntimeClass offers the choice and flexibility to use different runtime configurations in the same Kubernetes cluster. It’s like having multiple engines (or engine settings) to choose from, each suited for different types of journeys (or containers).
