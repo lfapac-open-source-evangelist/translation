@@ -142,7 +142,7 @@ Linux 基金会资源 .... 16
 While open source principles are relatively straightforward, "getting it right" can be challenging. Open source sits at the intersection of technology, community, business, and personal identity, so it stands to reason that some amount of tooling and rigor---best practices---will help smooth the path to success.
 
 
-虽然开源原则相对简单,但是"正确行事"可就具有挑战性了;开源位于技术/社区/商业和个人身份的交处,因此,理所当然的是一定数量的工具和严格性 --- 最佳实践 --- 将有助于铺平通往成功的道路;
+虽然开源原则相对简单,但是"正确行事"可就具有挑战性了;开源位于技术/社区/商业和个人身份的交处,因此,理所当然的是一定数量的工具和严格性 —— 最佳实践 —— 将有助于铺平通往成功的道路;
 
  In my time as the Director of the Microsoft Open Source Programs Office (OSPO), the company evolved from having a few hundred developers and repos on GitHub to having tens of thousands of each. We moved from *ad hoc* operations to formal but still manual processes to near-full automation of our presence on GitHub and from project communities of dozens to thousands. We developed a ton of tools and best practices to smooth that path.
 
