@@ -1,11 +1,11 @@
-This life prensents all the achievements from SIG translation team, icnluding translation work, recognization and awards in Open Source community.
- 
-
-
-
 # Translation Work(翻译成果)
+
+This life prensents all the achievements from SIG translation team, icnluding translation work, recognization and awards in Open Source community.
+
 | Year to Complete Work | English Name|Chinese Name| Type|Authors|Translators | Publish Date | Publish Access URLs|Comments|
 |------------|-------------|----------|----------|---------|----------|---------|----------|----------|
+|2024|The Key Differences Between Runtime and RuntimeClass|揭秘 Kubernetes系列： 理解 Kubernetes 中 Runtime 与 RuntimeClass 的关键区别](https://mp.weixin.qq.com/s/YJDlbVPY-VYJONd8WDxauQ) | Blog | Fazlur Rahman Khan | 翻译：千石   校对：Rich Zhao | |||
+|2024|Understanding Probes to Ensure Application Health and Reliability|[揭秘 Kubernetes系列： 理解确保应用程序的健康和可靠性的探针](https://mp.weixin.qq.com/s/lTeq5LRIh4VkxaySMtnx9Q)| Blog | Fazlur Rahman Khan | 翻译：贾子甲   校对：Rich Zhao | |||
 |2023|Addressing cybersecurity challenges- n-oss|[解决开源软件中的网络安全挑战](https://github.com/lfapac-open-source-evangelist/translation/blob/main/completed/Addressing-Cybersecurity-Challenges-in-Open-Source-Software-CN.pdf)  |pdf文档|Brian Behlendorf,General Manager, Open Source Security Foundation and LF| 吴昊, 李昌华, 赵振华, Donald Liu（Linux Foundation APAC）, Maggie Cheung（Linux Foundation APAC）, Wendy Tse（Linux Foundation APAC） | |||
 |2023|Mentorship in Open Source - exploring the Intrinsic, Economic, and Career Value of Mentorship Programs|[开源世界的导师关系](https://github.com/lfapac-open-source-evangelist/translation/blob/main/completed/LFX-Mentorship-Report_CN_081123-finalized.pdf)  |pdf文档|Jason Perlow, Editorial Director, The Linux Foundation| 杨振涛, 赵振华, 徐斌, 腾召智, 皮冰峰, 周黎, Donald Liu（Linux Foundation APAC）, Maggie Cheung（Linux Foundation APAC）, Wendy Tse（Linux Foundation APAC） |
 |2023|The Business Value of the OSPO - An Exploration of Why Organizations Create, Sustain,and Expand Open Source Program Offices (OSPOs) | [OSPO 的商业价值](https://github.com/lfapac-open-source-evangelist/translation/blob/main/completed/The-Business-Value-of-OSPO.pdf) |pdf文档|Emily Omier, Positioning & Messaging Consultant, Emily Omier Consulting Chris Aniszczyk, CTO, Cloud Native Computing Foundation Ana Jiménez Santamaría, OSPO Program Manager, TODO Group| 杨振涛, 赵振华, 徐斌, 皮冰峰, 周冉, Donald Liu（Linux Foundation APAC）, Maggie Cheung（Linux Foundation APAC）, Wendy Tse（Linux Foundation APAC） |||| 
