@@ -55,7 +55,7 @@ GitHub 是一个**支持开发者协作和共享代码**的平台，提供了各
 
 **Choose a type of license that support the level of use**，modification,and sharing required for your project,such as those approved by Open Source Initiative.
 
-**选择一种满足项目需求的使用**、修改和共享级别的许可证类型，例如开放源代码促进会批准的许可证。
+**选择一种满足项目需求的使用**、修改和共享级别的许可证类型，例如开源促进会批准的许可证。
 
 **Protect project code by implementing security features** such as two-factor authentication,access control,code reviews,and scanning tools.
 
@@ -150,12 +150,7 @@ While open source principles are relatively straightforward, "getting it right" 
  In my time as the Director of the Microsoft Open Source Programs Office (OSPO), the company evolved from having a few hundred developers and repos on GitHub to having tens of thousands of each. We moved from *ad hoc* operations to formal but still manual processes to near-full automation of our presence on GitHub and from project communities of dozens to thousands. We developed a ton of tools and best practices to smooth that path.
 
 
-在我担任微软开源项目办公室(OSPO)主任期间,
-公司从拥有数百名开发者发展到和 GitHub 中每个代码仓库都有上万名开发者;
-我们也从临时操作迁移为正式但是仍需手动的流程,
-再到我们在 GitHub 上的操作几乎全部自动化,
-从数十个到数千个项目社区;
-我们开发了大量工具和最佳实践来铺平这一道路;
+在我担任微软开源项目办公室(OSPO)主任期间,公司从拥有数百名开发者发展到和 GitHub 中每个代码仓库都有上万名开发者;我们也从临时操作迁移为正式但是仍需手动的流程,再到我们在 GitHub 上的操作几乎全部自动化,从数十个到数千个项目社区;我们开发了大量工具和最佳实践来铺平这一道路;
 
  My move to work at GitHub nearly five years ago was meant to bring some of those tools and learnings to the GitHub product and, ultimately, you, the open source developers of the world. Today, GitHub has many facilities and possibilities, from discussions to actions / checks, packages, and releases, to security, that help you and your project. I can't even list them all.
 
@@ -183,7 +178,6 @@ See you in a repo.
 
 我们在仓库中见。
 
-**Jeff McAffer GitHub**
 
 **Jeff McAffer GitHub**
 
@@ -204,7 +198,7 @@ OSS 是科技行业的命脉;
  The use of GitHub for open source development has become increasingly popular in recent years, providing a platform for collaboration and sharing code.
 
 近年来, 使用 GitHub 进行开源开发越来越流行,
-在这里提供了一个协作和共享代码的平台;
+这里提供了一个协作和共享代码的平台。
 
  Managing an open source project on GitHub can become less challenging with proper guidelines. This paper provides an overview of best practices for using GitHub for open source development. By following
  these practices, open source developers can improve the organization, understandability, and collaboration of their projects on GitHub, making it easier for other developers to adopt and contribute.
@@ -212,8 +206,8 @@ OSS 是科技行业的命脉;
 通过适当的指导, 在 GitHub 上管理开源项目会变得不那么具有挑战性;
 本文概述了使用 GitHub 进行开源开发的最佳实践;
 依照指示,通过这些实践, 
-开源开发者可以改进他们在 GitHub 上的项目组织/可理解性以及协作,
-使其它开发者更容易就项目采用和贡献;
+开源开发者可以改进他们在 GitHub 上的项目组织、可理解性以及协作,
+使其它开发者更容易对项目进行利用和贡献;
 
 ## Introduction
 
@@ -289,7 +283,7 @@ OSS allows shared development and lowers research and development costs by enabl
 
  Where does most open source development happen? **GitHub**. GitHub is a crucial platform for open source development. It is a web-based hosting service that uses the Git version control system to allow developers to collaborate and share their code.
 
- 大多数开源开发发生在哪里？**GitHub**。GitHub 是开源开发的关键平台。它是一个基于网络的托管服务，使用 Git 版本控制系统，允许开发者协作和共享他们的代码。
+ 大多数开源开发出现在哪里？答案是**GitHub**。GitHub 是开源开发的关键平台。它是一个基于网络的托管服务，使用 Git 版本控制系统，允许开发者协作和共享他们的代码。
 
  It provides a centralized platform for open source developers to store, manage, and track changes to their codebase and collaborate on development efforts with other contributors.
 
@@ -676,41 +670,37 @@ OSS allows shared development and lowers research and development costs by enabl
 4. 对于由发起方自行托管的项目，可考虑使用  [CLA 助手](https://cla-assistant.io/)。建议员工向公司法务咨询处理 CLA 的最佳方式。
 
 ## Language
-## 语言 
 
 ##  语言
 
  At the Linux Foundation, we work with open source projects from around the globe. Some projects come to the Linux Foundation for hosting from countries where English is not the official language. Much of the project's documentation on GitHub is sometimes not provided in English. Our recommendation has always been to use the English language for any content published on GitHub targeted at a global audience. It is the most common language in software development and open source communities. When a project makes available documentation in English, it can be easily under- stood and utilized by a much larger audience.
  
-  Linux 基金会与来自全球各地的开放源码项目都有合作。Linux 基金会托管的一些项目的所属国家并不以英语为官方语言。GitHub 上的许多项目文档也没有英文版。我们一直建议在 GitHub 上发布的面向全球受众的内容都使用英语。英语是软件开发和开源社区中最常见的语言。一个项目提供英文版文档，它可以被更多的受众轻松理解和使用。
 
 在Linux基金会，我们与来自全球各地的开源项目合作。一些项目是从英语不是官方语言的国家来到Linux基金会进行托管的。该项目在GitHub上的大部分文档有时不是用英语提供的。我们一直建议在GitHub上发布的任何面向全球受众的内容都使用英语。它是软件开发和开源社区中最常见的语言。当一个项目提供英文文档时，它可以很容易地被更多的受众所理解和使用。
 
 
 ### Adopt core open source principles
-### 采用核心开源原则
 
 ### 采用核心开源原则
 
  Open source development is a collaborative approach to software development in which the source code is freely available for anyone to use, modify, and distribute. A defining characteristic of the development process is openness throughout the entire life cycle, from design to release. All aspects of the development process, including design, planning, implementation, testing, and release, are transparent and open to contributions from the wider community. This allows for a collaborative approach to software development, where individuals and organizations can share their expertise, knowledge, and resources to create high-quality software that meets the needs of a diverse set of users.
  
- 开源开发是一种协作性的软件开发方式，源代码可以轻松地被所有人使用、修改和发布。开发过程的一个显著特征就是开放性贯穿从设计到发布的整个生命周期。开发过程中的设计、规划、实施、测试和发布等等所有方面都是透明的，并接受广大社区的贡献。这些特征使得软件开发可以以协作的方式进行，个人和组织可以分享他们的专长、知识和资源，以能满足不同用户的需求创造高质量的软件。
+ 开源开发是一种协作的软件开发方式，源代码可以被所有人自由使用、修改和发布。开发过程的一个显著特征就是开放性贯穿从设计到发布的整个生命周期。开发过程中的设计、规划、实施、测试和发布等等所有方面都是透明的，对广大社区开放并接受贡献。这些特征使得软件开发可以以协作的方式进行，个人和组织可以分享他们的专长、知识和资源，以能满足不同用户的需求创造高质量的软件。
 
-开源开发是一种软件开发的协作方法，其中源代码可供任何人自由使用、修改和发布。开发过程的一个决定性特征是从设计到发布的整个生命周期的开放性。开发过程的所有方面，包括设计、规划、实施、测试和发布，都是透明的，并向更广泛的社区开放。这允许软件开发的协作方法，个人和组织可以共享他们的专业知识、知识和资源，以创建满足不同用户需求的高质量软件。
+
 
  Core concepts of open source development that enable the collab- orative aspect at scale include peer review, release early and release often, and continuous testing and integration.
  
- 能促成规模化的协作的开源开发的核心概念包括同侪审查、早发布并常发布、持续测试和集成等。
+ 开源开发的核心概念在于实现大规模的协作，包括同行评审、快速发布和高频迭代、持续测试和集成等。
 
-开源开发的核心概念能够实现大规模的协作，包括同行评审、尽早且频繁发布，以及持续的测试和集成。
 
 - Peer review is having other developers review and critique the code, which helps improve the quality of the software.
 
-- 同侪评审是指让其他开发者对代码进行审查和评论，这有助于提高软件的质量。
+- 同行评审是指让其他开发者对代码进行审查和评论，这有助于提高软件的质量。
 
 - Release early and release often is a strategy for making software available to users as soon as possible, with frequent updates and improvements.
 
-- 早发布常发布是一种使软件尽早面世的策略，软件上线后进行频繁的更新和改进。
+- 快速发布和高频迭代是一种使软件尽早面世的策略，软件上线后进行频繁的更新和改进。
 
 - Continuous testing and integration is constantly testing and integrating new code changes, which helps to identify and fix bugs early in the development process.
 
@@ -726,7 +716,7 @@ OSS allows shared development and lowers research and development costs by enabl
 
  The peer review practice reduces variations in style, prompts valuable conversations, and preserves the project's quality standards. GitHub manages it through the PR feature. A PR is a way for developers to submit changes they have made to a project\'s code for review by other collaborators. With the creation of a PR, other collaborators can review the code changes, leave comments, and approve or request changes before there is a merger of the code into the proj- ect\'s main branch. To ensure peer review, it is recommended that the owner of the GitHub org adjusts the settings and enables the [branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-pull-request-reviews-before-merging)
  
- 同侪审查减少了风格上的差异，引发了有价值的对话，并保持了项目的质量标准。GitHub 通过 PR 功能对其进行管理。PR 是一种让开发者提交他们对项目代码所做的修改，供其他合作者审查的方式。通过创建 PR，其他合作者可以审查变更的代码，进行评论，并在代码合并到项目的主分支之前批准或要求修改。为了确保有同侪审查的流程，建议 GitHub 组织的所有者修改设置，开启[分支](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-pull-request-reviews-before-merging)。
+ 同行审查减少了风格上的差异，引发了有价值的对话，并保持了项目的质量标准。GitHub 通过 PR 功能对其进行管理。PR 是一种让开发者提交他们对项目代码所做的修改，供其他合作者审查的方式。通过创建 PR，其他合作者可以审查变更的代码，进行评论，并在代码合并到项目的主分支之前批准或要求修改。为了确保有同行审查的流程，建议 GitHub 组织的所有者修改设置，开启[分支](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-pull-request-reviews-before-merging)。
 
  [protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-pull-request-reviews-before-merging) (either for the org or specific report) to require a PR.
  
@@ -747,20 +737,15 @@ GitHub通过[分支](https://docs.github.com/en/pull-requests/collaborating-with
 
 By using a development branch for ongoing work and a separate release branch for stable, production-ready code, developers work on new features and bug fixes in the development branch and periodically merge the changes into the release branch.
  
- 通过使用一个开发分支来处理正在进行的工作，一个单独的发布分支来处理稳定的、可用于生产的代码，开发人员在开发分支中处理新的功能和错误修复，并定期将这些变更合并到发布分支中。
+ 通过使用一个开发分支来处理正在进行的工作，一个单独的发布分支来处理稳定的、可用于生产的代码，开发人员在开发分支中处理新的功能和 bug 修复，并定期将这些变更合并到发布分支中。
 
 
  Another way is using feature branches, where developers create a new branch for each feature or bug fix they are working on. Once the work on a feature branch is complete, its merger into the development branch and eventually into the release branch can take place.
  
- 另一种方法是使用特性分支，即开发人员为他们正在开发的每个特性或错误修复创建一个新的分支。当某个特性分支的工作完成后，就可以将其合并到开发分支，并最终合并到发布分支。
+ 另一种方法是使用功能分支，即开发人员为他们正在开发的每个功能或 bug 修复创建一个新的分支。一旦某个功能分支的工作完成，就可以将其合并到开发分支，并最终合并到发布分支。
 
  Additionally, GitHub has a feature called releases, which allows packaging, tagging, and the distribution of software versions. This feature can mark specific versions of the code as a release and provide a way for users to download and use the release version. Users can also view the release notes and see the changes made in each release.
  
- 此外，GitHub 还有一个叫做发布的功能，可以对软件版本进行打包、标记和发布。这个功能可以将特定版本的代码标记为发布版本，并为用户提供下载和使用发布版本的途径。用户还可以查看发布说明，并查看每个版本的变更。
-
-通过使用一个开发分支进行正在进行的工作，使用一个单独的发布分支进行稳定的、可用于生产的代码，开发人员在开发分支中处理新功能和错误修复，并定期将更改合并到发布分支中。
-
-另一种方法是使用功能分支，开发人员为他们正在处理的每个功能或bug修复创建一个新的分支。一旦功能分支的工作完成，就可以合并到开发分支，并最终合并到发布分支。
 
 此外，GitHub还有一个称为release的功能，它允许打包、标记和发布软件版本。此功能可以将代码的特定版本标记为release版本，并为用户提供下载和使用发布版本的方式。用户还可以查看release notes，并查看每个发行版中所做的更改。
 
@@ -772,34 +757,27 @@ By using a development branch for ongoing work and a separate release branch for
  
  GitHub 的持续测试和集成是通过一系列工具来管理的，比如 [GitHub Actions](https://github.com/features/actions) 和其他 CI / CD 工具。
 
-GitHub中的持续测试和集成通过多种工具的组合进行管理，如[GitHub Actions](https://github.com/features/actions)以及其他CI/CD工具。
 
  GitHub Actions is a feature that allows developers to automate their build and test workflow by creating custom actions triggered by specific events, such as a push to a branch or a PR. With GitHub Actions, developers can set up automated tests and integration steps that run whenever specific events occur. For example, with the creation of a PR, developers can set up GitHub Actions and [Status Checks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks) to run a suite of tests on the code changes to ensure that they work as expected before merging into the main branch.
  
- 开发者可以通过 GitHub Actions 来创建由特定事件（如推送到分支或 PR）触发的自定义动作来实现构建和测试工作流程的自动化。设置好 GitHub Actions 后，开发者可以随时通过事件触发自动化流程。例如，创建 PR 后，开发者可以设置 GitHub Actions和[状态检测](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks)，对代码变更运行一套测试，以确保它们在合并到主分支之前符合预期。
+ 开发者可以通过 GitHub Actions 来创建由特定事件触发的自定义动作（如推送到分支或 PR）来实现自动化构建和测试工作流程。通过配置 GitHub Actions ，开发者可以定义自动测试和集成步骤，并在特定事件触发时自动运行。例如，当 PR 被创建，开发者可以设置 GitHub Actions和[状态检测](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks)，对代码变更运行一套测试，以确保它们在合并到主分支之前符合预期。
 
  Another way to manage continuous testing and integration is by using third-party CI / CD tools such as [CircleCI](https://circleci.com/), [TravisCI](https://www.travis-ci.com/), [Jenkins](https://www.jenkins.io/), etc. These tools integrate with GitHub and allow developers to set up a pipeline of tests and integration steps that run automat- ically whenever there are code changes pushed to a repository.
  
- 另一种管理持续测试和集成的方法是使用第三方 CI/CD 工具，如 [CircleCI](https://circleci.com/)、[TravisCI](https://www.travis-ci.com/)、[Jenkins](https://www.jenkins.io/)等。借助于 GitHub 与这些工具的集成，开发人员可以设置测试和集成步骤的工作流，当有代码被推送到仓库时就自动运行。
+ 另一种管理持续测试和集成的方法是使用第三方 CI/CD 工具，如 [CircleCI](https://circleci.com/)、[TravisCI](https://www.travis-ci.com/)、[Jenkins](https://www.jenkins.io/)等。通过 GitHub 与这些工具集成，开发人员可以设置测试和集成步骤的工作流，当有代码被推送到仓库时就自动运行。
 
  For example, when there are code changes pushed to the develop- ment branch, the CI / CD tool can automatically run tests, build and deploy the code to a staging environment, and then run additional tests to ensure that everything is working as expected before deploying to production.
  
- 例如，当有代码被推送到开发分支时，CI/CD 工具可以自动运行测试、构建并部署代码到预发布环境，然后运行其他的测试，以确保在部署到生产之前一切都符合预期。
+ 例如，当有代码变更被推送到开发分支时，CI/CD 工具可以自动运行测试、构建并部署代码到预发布环境，然后运行附加测试，以确保在合并到产品之前一切正常。
 
  Additionally, many third-party tools offer various testing options, such as unit testing, integration testing, and end-to-end testing, which allows for testing different aspects of the application. The design of both GitHub Actions and third-party CI / CD tools makes the continuous testing and integration process as seamless and efficient as possible.
  
- 此外，许多第三方工具提供了各种测试选项，如单元测试、集成测试和端到端测试，从而可以测试应用程序的不同方面。GitHub Actions 和第三方 CI/CD 工具的设计使持续测试和集成过程变得尽可能地无缝和高效。
+ 此外，许多第三方工具提供了各种测试选项，如单元测试、集成测试和端到端测试，从而可以从不同角度对应用程序进行测试。GitHub Actions 和第三方 CI/CD 工具的设计使持续测试和集成过程变得尽可能地无缝和高效。
 
-GitHub Actions是一项功能，允许开发人员通过创建由特定事件触发的自定义操作（如推送到分支或PR）来自动化构建和测试工作流程。使用GitHub Action，开发人员可以设置自动测试和集成步骤，这些步骤在特定事件发生时运行。例如，通过创建PR，开发人员可以设置GitHub Actions和[Status Checks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks)对代码更改运行一套测试，以确保它们在合并到主分支之前按预期工作。
 
-管理连续测试和集成的另一种方法是使用第三方CI/CD工具，如[CirleCI](https://circleci.com/)，[TravisCI](https://www.travis-ci.com/)，[Jenkins](https://www.jenkins.io/)等。这些工具与GitHub集成，并允许开发人员建立一个测试和集成步骤的管道，每当代码更改被推送到存储库时，这些步骤都会自动运行。
-
-例如，当代码更改被推送到开发分支时，CI/CD工具可以自动运行测试，构建代码并将其部署到暂存环境，然后运行额外的测试，以确保在部署到生产环境之前一切正常。
-
-此外，许多第三方工具提供了各种测试选项，如单元测试、集成测试和端到端测试，这允许测试应用程序的不同方面。GitHub Actions和第三方CI/CD工具的设计使持续的测试和集成过程尽可能无缝高效。
 
 ## Conclusion
-## 总结
+
 
 ## 总结
 
