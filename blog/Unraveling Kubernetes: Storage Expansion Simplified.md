@@ -93,4 +93,4 @@ CKA, CKS, CKAD, KCNA
 Liunx 基金会，技术培训师
 
 翻译：赵梅 
-校对：
+校对：马冬梅
