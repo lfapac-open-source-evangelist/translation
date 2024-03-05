@@ -2,7 +2,7 @@
 # 揭秘 Kubernetes 系列: 理解简化存储扩展
 Greetings, Kubernetes Community! Remember the days of scrambling to migrate data and rebuild entire Kubernetes deployments just to increase storage capacity? Those days are officially over, thanks to the volume expansion feature in Kubernetes. Today, I’m excited to delve into a storage expansion in our Kubernetes ecosystem by **Simplifying Storage Volume Expansion**.
 
-问候，Kubernetes 社区！还记得仅仅为增加存储容量而争分夺秒匆忙迁移数据和重建整个 Kubernetes 部署调度的日子吗？由于 Kubernetes 中的卷扩展功能，那些日子正式结束了。今天我异常兴奋，将通过简化存储卷扩展这项功能深入探讨Kubernetes生态系统中的存储扩展。
+你好，Kubernetes 社区！还记得仅仅为增加存储容量而争分夺秒匆忙迁移数据和重建整个 Kubernetes 部署调度的日子吗？由于 Kubernetes 中的卷扩展功能，那些日子正式结束了。今天我异常兴奋，将通过简化存储卷扩展这项功能深入探讨Kubernetes生态系统中的存储扩展。
 
 ## What is the Volume Expansion Feature?
 ## 什么是卷扩展功能？
@@ -39,9 +39,9 @@ The magic happens behind the scenes with Kubernetes orchestrating the following:
   3. **Minimal Disruption**: If possible, the entire process happens online, meaning your applications experience minimal to no downtime.
 
 
-1. **存储后端扩展**：Kubernetes 与底层存储提供商（例如 AWS EBS、Ceph RBD）通信，以增加物理卷大小。
-2. **文件系统调整大小**：对于支持的文件系统（XFS、Ext3/4），Kubernetes 自动扩展 Pod 内的文件系统，使附加存储立即可访问。
-3. **最小中断**：如果可能，整个过程在线进行，意味着你的应用程序经历最小停机或压根没有停机。
+  1. **存储后端扩展**：Kubernetes 与底层存储提供商（例如 AWS EBS、Ceph RBD）通信，以增加物理卷大小。
+  2. **文件系统调整大小**：对于支持的文件系统（XFS、Ext3/4），Kubernetes 自动扩展 Pod 内的文件系统，使附加存储立即可访问。
+  3. **最小中断**：如果可能，整个过程在线进行，意味着你的应用程序经历最小停机或压根没有停机。
 
 
 
@@ -52,9 +52,9 @@ Getting Started with Volume Expansion:
  2. **Enable the Feature**: Set the **allowVolumeExpansion** field to **true** in your StorageClass definition.
  3. **Expand Your PVCs**: Simply edit your PVCs and specify the desired new size. Kubernetes will take care of the rest!
    
-4. **检查兼容性**：确保您的 Kubernetes 版本支持卷扩展（最低 v1.24），并确认你的存储提供商的兼容性。
-5. **启用功能**：在你的 StorageClass 定义中将 **allowVolumeExpansion** 字段设置为 **true**。
-6. **扩展PVC**：简单地编辑你的 PVC ，并指明所需的新大小。Kubernetes 将处理其余的事
+ 1. **检查兼容性**：确保您的 Kubernetes 版本支持卷扩展（最低 v1.24），并确认你的存储提供商的兼容性。
+ 2. **启用功能**：在你的 StorageClass 定义中将 **allowVolumeExpansion** 字段设置为 **true**。
+ 3. **扩展PVC**：简单地编辑你的 PVC ，并指明所需的新大小。Kubernetes 将处理其余的事
 
 ## Beyond the Basics
 ## 进阶内容
@@ -71,7 +71,7 @@ While core functionality is impressive, keep in mind some additional points:
   - **集群管理员控制**：集群管理员可以授予或限制特定 StorageClasses 和用户的卷扩展能力。
   
 The volume expansion is a nice feature in Kubernetes storage management. With the ability to easily resize volumes on-demand, you can now manage your storage resources with greater agility, efficiency and peace of mind. So, go forth and build with confidence, knowing your data has the space to grow alongside your ambitions!
-卷扩展是 Kubernetes 存储管理中的一个不错的功能。通过轻松调整卷大小的能力，你现在能够以更大的灵活性、效率和放心来管理你的存储资源。所以，继续前进，并充满信心地构建你的软件，知道数据有足够的空间可以与你的雄心一起成长！
+卷扩展是 Kubernetes 存储管理中的一个不错的功能。通过轻松调整卷大小的能力，你现在能够以更大的灵活性、效率和来放心管理你的存储资源。所以，继续前进，并充满信心地构建你的软件，知道数据有足够的空间可以与你的雄心一起成长！
 
 Stay tuned for further posts delving deeper into specific use cases, technical implementation details and best practices for leveraging this powerful feature!
 请继续关注更多深入探讨特定用例、技术实现细节和最佳实践的文章，以便利用这个强大的功能！
