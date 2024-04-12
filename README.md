@@ -17,7 +17,12 @@
 6. 皮冰峰 @winterpi
 
 ## Review 小组名单
+
 1. 赵振华 @zRich
+2. 赵梅 @terizhao
+3. 杨振涛 @node 
+5. 周冉 @JuliaZhou2022
+6. 皮冰峰 @winterpi
 
 ## 译道师SIG背景
 
