@@ -8,6 +8,22 @@
   <img src="https://contributors-img.web.app/image?repo=lfapac-open-source-evangelist/translation&max=600" />
 </a>
 
+## 2024 运营小组名单
+
+1. 赵振华 @zRich
+2. 赵梅 @terizhao
+3. 杨振涛 @node 
+5. 周冉 @JuliaZhou2022
+6. 皮冰峰 @winterpi
+
+## Review 小组名单
+
+1. 赵振华 @zRich
+2. 赵梅 @terizhao
+3. 杨振涛 @node 
+5. 周冉 @JuliaZhou2022
+6. 皮冰峰 @winterpi
+
 ## 译道师SIG背景
 
 LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translation SIG，是LFAPAC布道师团队下的翻译小组。本小组主要翻译开源相关的书籍、文章、报告等。
