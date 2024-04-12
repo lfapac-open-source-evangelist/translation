@@ -82,40 +82,24 @@ One tap mobile
 联系人：赵振华 微信ID：richzhao
 
 ## 待认领翻译任务
-<!-- 
-## 1. [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](attachments/comprehensive-gpl-guide.pdf)
 
-[我要认领](gpl-compliance/comprehensive_gpl_guide/role_responsibilities.md) -->
+- [TODO Group OSPO ](https://github.com/lfapac-open-source-evangelist/todogroup.org/issues)
 
-## 1. [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
+[我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2/views/16)
+
+- [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
 
 [我要认领](gpl-compliance/practical_gpl_compliance/role_responsibilities.md)
 
-<!-- ## 3. [Releasing Internal Code](attachments/LFResearch_AI_Data_Releasing_Internal_Code_Report.pdf)
-
-[我要认领](LFResearch_AI_Data_Releasing_Internal_Code_Report/role_responsibilities.md) -->
-
-## 2. [Address Cybersecurity Challenges in OSS](attachments/Addressing%20Cybersecurity%20Challenges%20in%20Open%20Source%20Software%20-%20Report.pdf)
-
-[我要认领](addressing-cybersecurity-challenges-in-oss/role_responsibilities.md)
-<!-- 
-## 3. [Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation](attachments/Enabling-Global-Collaboration.pdf)
-
-[我要认领](enable-golbal-collaboration/role_responsibilities.md) -->
-
-## 3. [Mentorship in Open Source](attachments/Mentorship-in-Open-Source.pdf)
+- [Mentorship in Open Source](attachments/Mentorship-in-Open-Source.pdf)
 
 [我要认领](Mentorship-in-open-source/role_responsibilities.md)
 
-## 4. [Roadmap to Improve Enterprise OS Dev](attachments/Roadmap-to-Improve-Enterprise-OS-Dev-Report.pdf)
-
-[我要认领](Roadmap-to-Improve-Enterprise-OS-Dev-Report/role_responsibilities.md)
-
-## 5. [Managing OS Projects on Github](attachments/Managing-OS-Projects-on-Github.pdf)
+- [Managing OS Projects on Github](attachments/Managing-OS-Projects-on-Github.pdf)
 
 [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
-## 6. [State of Tech Talent Report 2023](attachments/Training-State-of-Tech-Talent-2023-Report.pdf)
+- [State of Tech Talent Report 2023](attachments/Training-State-of-Tech-Talent-2023-Report.pdf)
 
 [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
