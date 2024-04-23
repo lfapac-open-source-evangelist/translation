@@ -1,6 +1,6 @@
 Author: Cakery
-Date: A;pril 17, 2024
-The MOF in a Nutshell
+Date: April 17, 2024
+Title: The MOF in a Nutshell
 
 The field of artificial intelligence (AI) is at an inflection point. The rapid rise of generative AI systems and large language models (LLMs) has unlocked unprecedented capabilities in natural language processing, image and video generation, and more. From GPT-4 to Stable Diffusion, these models are capturing the public imagination and driving a new wave of applications and research.
 
@@ -13,12 +13,13 @@ This “open-washing” trend threatens to undermine the very premise of opennes
 It is in this context that we introduce the Model Openness Framework (MOF). The MOF is a comprehensive framework for objectively evaluating and classifying the completeness and openness of machine learning models. It does so by assessing which components of the model development lifecycle are publicly released and under what licenses.
 
 The framework identifies 16 critical components that constitute a truly complete model release:
-
+![2024 Model Openness Framework v1-15M](./2024-Model-Openess-Framework_v1-15M.png)
 
 
 For each component, the MOF stipulates the use of standard open licenses based on the artifact type – open-source licenses for code (e.g. Apache 2.0, MIT), open-data licenses for datasets and model parameters (e.g. CDLA-Permissive, CC-BY), and open-content licenses for documentation and content/unstructured data (e.g. CC-BY).
 
 Using these building blocks, the MOF defines three progressively broader classes of model openness:
+![MOF Calss](./MOF%20class.png)
 
 
 
