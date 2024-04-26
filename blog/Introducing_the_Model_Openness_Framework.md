@@ -23,7 +23,25 @@ It is in this context that we introduce the Model Openness Framework (MOF). The 
 The framework identifies 16 critical components that constitute a truly complete model release:
 本框架确定了构成完备模型发布的16个关键组件：
 ![2024 Model Openness Framework v1-15M](./2024-Model-Openess-Framework_v1-15M.png)
-
+译者注释：
+MOF Components: MOF主件
+Datasets：数据集
+Preprocessing：预处理
+Model Architecture: 模型架构
+Model Weights & Parameters:模型权重和参数
+Training Code:训练代码
+Inference Code:推理代码
+Evaluation Code:评估代码
+Evaulation Data:评估数据
+Evaluation Results:评估结果
+Technical Report:技术报告
+Model Metadata:模型元数据
+Model Card:模型卡
+Data Card:数据卡
+Research Paper:研究论文
+Sample Model Outputs:模型样本输出
+Configuration File:配置文件
+Libraries & Tools:库和工具
 
 For each component, the MOF stipulates the use of standard open licenses based on the artifact type – open-source licenses for code (e.g. Apache 2.0, MIT), open-data licenses for datasets and model parameters (e.g. CDLA-Permissive, CC-BY), and open-content licenses for documentation and content/unstructured data (e.g. CC-BY).
 对于每个组件，MOF规定了基于工件类型的标准开放许可证如何使用——对于代码采用开源许可证（例如Apache 2.0、MIT），对于数据集和模型参数采用开放数据许可证（例如CDLA-Permissive、CC-BY），对于文档和内容/非结构化数据采用开放内容许可证（例如CC-BY）。
@@ -31,35 +49,51 @@ For each component, the MOF stipulates the use of standard open licenses based o
 Using these building blocks, the MOF defines three progressively broader classes of model openness:
 利用这些模块，MOF定义了三个逐渐扩展的模型开放类别：
 ![MOF Calss](./MOF%20class.png)
-
-
+译者注释：
+MOF Class：MOF分类
+Components Included:组成模块
+Class I - Open Sicence: I类 - 开放科学
+Research Paper:研究论文
+Datasets:数据集
+Data Preprocessing Code:数据预处理代码
+Mode Parameters and Metadata(Intermediate Checkpoints and Optimizer States):模型参数和元数据
+Class II - Open Tooling:II类-开放工具
+Training Code:训练代码
+Inference Code:推理代码
+Evaluation Code:评估代码
+Evaluation Data:评估数据
+Supporting Libraries & Tools:支撑库&工具
+Class III - Open Model:III类 - 开放模型
+Model Architecture:模型架构
+Model Card:模型卡
+Data Card:数据卡
 
 Class III – Open Model: The minimum bar for entry, Class III requires the public release of the core model (architecture, parameters, basic documentation) under open licenses. This allows model consumers to use, analyze, and build on the model, but limits insight into the development process.
-III类 – 开放模型：作为进入的最低标准，III类要求将核心模块（架构、参数、基本文档）公开发布，并采用开放许可证。这使得模型使用者能够使用、分析和构建模型，但限制了对开发过程的洞察力。
+III级 – 开放模型：作为入门标准，III类要求将核心模块（架构、参数、基本文档）公开发布，并采用开放许可证。这使得模型使用者能够使用、分析和构建模型，但限制了使用者对开发过程的深入了解。
 
 Class II – Open Tooling: Building on Class III, this tier includes the full suite of code used to train, evaluate, and run the model, plus key datasets. Releasing these components enables the community to better validate the model and investigate issues. It is a significant step towards reproducibility.
-II类 – 开放工具：在III类基础上，这一级别包括用于训练、评估和运行模型的全部代码套件，以及关键数据集。公开这些组件可以使社区更好地验证模型并调查问题。这是迈向可重现性的重要一步。
+II级– 开放工具：在III类基础上，这一级别的开放还涵盖了用于训练、评估和运行模型的全部代码，以及关键数据集。公开这些组件可以使社区更好地验证模型并探查其中的问题。这是迈向可重现性的重要一步。
 
 Class I – Open Science: The apex, Class I entails releasing all artifacts following open science principles. In addition to the Class II components, it includes the raw training datasets, a thorough research paper detailing the entire model development process, intermediate checkpoints, log files, and more. This provides unparalleled transparency into the end-to-end development pipeline, empowering collaboration, auditing, and cumulative progress.
-I类 – 开放科学：顶级，I类要求按照开放科学原则发布所有工件。除了II类组件外，还包括原始训练数据集、详尽的研究论文，详细说明整个模型开发过程，中间检查点、日志文件等。这提供了端到端开发流程的无与伦比的透明度，增强了协作、审计和累积进展。
+I级 – 开放科学：顶级，I级要求按照开放科学原则发布所有工件。除了II级开放组件外，还包括原始训练数据集、详尽的研究论文，详细说明整个模型开发过程，中间检查点、日志文件等。这提供了端到端开发流程的无与伦比的透明度，增强了协作、审计和累积进展。
 
 By laying out these requirements, the MOF provides both a north star to strive for and a practical roadmap to get there. It turns openness from an abstract ideal to an actionable framework. Model producers have clear guideposts for what and how to release. Model consumers can readily discern the degree of openness and make informed usage decisions.
-通过明确这些要求，MOF既提供了一个可追寻的北极星指导，又提供了一个实用的实现路线图。它将开放性从抽象的理念转化为可行的框架。模型生产者可以清楚地了解具体内容以及如何发布。模型使用者可以轻松辨别开放程度，并做出知情的使用决策。
+通过明确这些要求，MOF既提供了一个可追寻的北极星方向，又提供了一个实用的实现路线图。它将开放性从抽象的理念转化为可行的框架。模型生产者可以清楚地了解该发布什么以及如何发布。模型使用者可以轻松辨别开放程度，并做出知情的使用决策。
 
 The Merits of Openness in AI
-AI中的开放性优势
+开放AI的优势
 
 The power of open science and open source: The MOF reflects a conviction that openness is not just a nice-to-have, but an ethical and scientific imperative in the development of consequential AI systems. It builds on the hard-won lessons and successes of the open science and open source software movements.
 开放科学和开源软件的力量：MOF反映了一种信念，即在开发具有重大影响的AI系统时，开放性不仅是一种美好的品质，而且是一种道德和科学的必要条件。它建立在开放科学和开源软件运动的艰苦实践和成功之上。
 
 Open science has become a clarion call across the research community. From the life sciences to physics and psychology, scholars are embracing practices like code sharing, data sharing, and open access publication for research papers. The benefits have been manifold – greater reproducibility, faster dissemination of results, increased trust, and accelerated discovery through collaboration. The MOF brings this ethos to AI development.
-开放科学已经成为研究界的一种号召。从生命科学到物理学和心理学，学者们正在拥抱很多实践，像代码共享、数据共享和研究论文出版物的公开获取。这些做法带来了许多好处——更可靠的可重现性、结果更快地传播、增强的信任和通过协作而加速的发现。是MOF将这种理念引入到了AI开发中。
+开放科学已经成为整个研究界的共同呼吁。从生命科学到物理学和心理学，学者们正在拥抱很多实践，像代码共享、数据共享和研究论文出版物的公开获取。这些做法带来了许多好处——更可靠的可重现性、结果更快地传播、增强的信任和通过协作而加速的发现。是MOF将这种理念引入到了AI开发中。
 
 Similarly, open source software has revolutionized the technology industry. The LAMP stack, Linux, and myriad other projects demonstrate the power of community-driven development. Open code has become infrastructure and spawned multi-billion dollar businesses. Bugs are surfaced and fixed faster, new features iterated more rapidly. The MOF recognizes that AI, too, can be democratized and improved through openness.
-同样，开源软件已经彻底改变了技术行业。LAMP堆栈、Linux和无数其他项目展示了社区驱动开发的力量。开放代码已经成为基础设施，并衍生出价值数十亿美元的企业。错误被更快地发现和修复，新功能被更快地迭代。MOF认识到，通过开放性，AI也可以民主化并得到改进。
+同样，开源软件已经彻底改变了技术行业。LAMP堆栈、Linux和无数其他项目展示了社区驱动开发的力量。开放代码已经成为基础设施，并衍生出价值数十亿美元的企业。错误被更快地发现和修复，新功能被更快地迭代。MOF认同，通过开放性，AI也可以民主化并得到改进。
 
 Indeed, we have already seen the promise of open approaches in AI. The transformative ImageNet dataset was made freely available, catalyzing breakthroughs in computer vision. More recently, initiatives like EleutherAI, The Allen Institute, and RWKV have pioneered the development of open large language models. By making code and models accessible with permissive licensing, they have dramatically expanded participation in AI research and enabled scores of new applications.
-事实上，我们已经看到开放方法在AI中的潜力。革新的ImageNet数据集被免费提供，催生了计算机视觉的突破。最近，像EleutherAI、艾伦研究所和RWKV等倡议推动了开放大型语言模型的发展。通过采用宽松的许可证使代码和模型可获得，它们极大地扩展了AI研究的参与度，并实现了大量新应用的诞生。
+事实上，我们已经看到开放方法在AI中的潜力。革新的ImageNet数据集被免费提供，催生了计算机视觉的突破。最近，像EleutherAI、艾伦研究所和RWKV等倡议推动了开放大型语言模型的发展。通过采用宽松的许可证使代码和模型，它们极大地扩展了AI研究的参与度，并实现了大量新应用的诞生。
 
 The MOF builds on this momentum by providing a systematic framework for open development. It covers not just models, but the entire ML lifecycle, from dataset curation to evaluation and analysis. In doing so, it aims to make open the default, not the exception, in AI.
 MOF借助这种势头提供了一个系统化的开发框架。它涵盖了整个机器学习生命周期，从数据集筛选到评估和分析。通过这样做，它旨在使开放成为AI中的默认选择，而不是例外。
