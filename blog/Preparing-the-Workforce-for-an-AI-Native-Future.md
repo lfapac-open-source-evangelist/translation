@@ -76,12 +76,12 @@ The current AI landscape is marked by a strong push across industries to integra
 
 The pressure is intense and is driven by AI's potential to revolutionise various business processes, such as paralegal research or summarising market news, which have proven to be strong use cases. However, the technology still faces significant challenges in more complex applications like self-driving vehicles and critical health and safety scenarios.
 
-这些强大的推力是由 AI 所具有的对各种业务流程进行改造的潜力驱动的，例如律师助理研究或市场新闻总结，这些已被证明是强有力的应用案例。然而，AI 技术在更复杂的应用程序，如汽车自动驾驶和健康与安全等关键场景方面仍面临重大挑战。
+这些强大的推力是由 AI 所具有的对各种业务流程进行改造的潜力驱动的，例如律师助理研究或市场新闻总结，这些已被证明是强有力的案例。然而，AI 技术在更复杂的应用程序，如汽车自动驾驶和健康与安全等关键场景方面仍面临重大挑战。
 
 
 Companies face difficult choices about where to place their AI bets and how fast they should move. They must balance the potential benefits against the limitations and current state of AI technology to make informed decisions about AI implementation and investment. Part of the challenge of evaluating and implementing AI solutions is ensuring that talent is available in your organisation. 
 
-企业应该在何处对 AI 进行“下注”和应该以多快的速度“下注”方面往往面临艰难选择。他们必须权衡 AI 技术的潜在收益与限制以及当前状况，以便就 AI 实施和投资做出明智的决策。评估和实施 AI 解决方案的挑战之一是确保组织中具备可用的人才。
+企业应该在何处对 AI 展开行动和应该以多快的速度展开行动方面往往面临艰难选择。他们必须权衡 AI 技术的潜在收益与限制以及当前状况，以便就 AI 实施和投资做出明智的决策。评估和实施 AI 解决方案的挑战之一是确保组织中具备可用的人才。
 
 
 Our 2024 State of Tech Talent survey shows that AI/ML is a priority skill for 48% of organisations. Additionally, 98% of organisations consider upskilling a critical strategy, with 48% prioritising upskilling or cross-skilling existing staff over hiring new employees or consultants. Organisations like Linux Foundation Training and Certification play a role in providing trusted training and certification programs.
