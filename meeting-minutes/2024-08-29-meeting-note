@@ -1,0 +1,8 @@
+Participants:Chris Yang, Leo Wang, Vanessa, Li Zhou, Xiangke Wang
+Meeting notes：
+1. Walk through TODO group translation: done and merging into the upstream is on-going slowly due to some signature missing.
+2. Walk through on-gong project: tech talent report. Need to speed up this project.
+3. Will build a project to translate https://www.linuxfoundation.org/research/sbom-guide-for-enterprise?hsLang=en. Source file: https://www.linuxfoundation.org/hubfs/LF%20Research/lfr_sbom_adoption24_082324a.pdf?hsLang=en
+   a) download source file and  convert it to be markdown file, upload into our repository. 
+   b) Create a project in our Projects" and break down tasks.
+4. Feedback: do retrospect after each project and share it in our monthly meeting. Next month, let's do retrospect on TOGO group translation projects.
