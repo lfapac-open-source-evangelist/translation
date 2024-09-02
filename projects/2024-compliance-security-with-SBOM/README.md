@@ -10,7 +10,20 @@ Ibrahim Haddad, Ph.D, The Linux Foundation
 
 Foreword by Melissa Evers, Intel Corporation Vice President, Software and Advanced Technology
 
-Contents
+### Tasks
+|Task| Pages|
+|--|--|
+| 01.md | 1~2 |
+| 02.md | 3~4 |
+| 03.md | 5~6 |
+| 04.md | 7~8 |
+| 05.md | 9~10 |
+| 06.md | 11 |
+| 07.md | 12~13 |
+| 08.md | 14~15 |
+
+
+### Contents
 <pre>
 Foreword............................................................................................... 5
 Introduction........................................................................................ 6
