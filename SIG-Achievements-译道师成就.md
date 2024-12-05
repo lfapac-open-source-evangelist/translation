@@ -32,3 +32,5 @@ This life prensents all the achievements from SIG translation team, icnluding tr
 译道师SIG 获得 **2022年度开源推广大使** （唯一团队奖）-
 [2022年度 LFOSSA 开源教育・年度盛典](https://mp.weixin.qq.com/s/roNZQ8B0KFxFj3U6BFrNSg)
 
+开源社 OpenGood 开源公益优秀案例
+![OpenGood 开源公益优秀案例](./images/kaiyuanshe_award_2024.jpg)
