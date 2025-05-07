@@ -4,6 +4,8 @@
 
 部署网站 https://ospobook.todogroup.org/ | 中文版 https://ospobook.todogroup.org/ 
 
+翻译协作仓库 https://github.com/lfapac-open-source-evangelist/ospology/tree/main/ospo-book 
+
 ```
 目录
 关于本书
