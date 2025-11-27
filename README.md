@@ -8,6 +8,26 @@
   <img src="https://contributors-img.web.app/image?repo=lfapac-open-source-evangelist/translation&max=600" />
 </a>
 
+## 2025 运营小组名单
+
+1. 李明康 （小明） @nliver
+2. 赵振华 @zRich
+3. 赵梅 @terizhao
+4. 杨振涛 @node 
+5. 周冉 @JuliaZhou2022
+6. 张立秋 @Francis-LQ
+
+## Review 小组名单
+
+1. 李明康 （小明） @nliver
+2. 赵振华 @zRich
+3. 赵梅 @terizhao
+4. 杨振涛 @node 
+5. 周冉 @JuliaZhou2022
+6. 张立秋 @Francis-LQ
+7. 滕召智 @freet15
+8. 陈泳 @gzchenyong
+
 ## 2024 运营小组名单
 
 1. 赵振华 @zRich
@@ -82,10 +102,8 @@ One tap mobile
 联系人：赵振华 微信ID：richzhao
 
 ## 待认领翻译任务
-
-- [TODO Group OSPO ](https://github.com/lfapac-open-source-evangelist/todogroup.org/issues)
-
-[我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2/views/16)
+- [The State of Global Open Source 2025](https://www.linuxfoundation.org/hubfs/Research%20Reports/2025GlobalSpotlight_Oct-27-2025%20V4.pdf)
+- [我要认领](https://github.com/lfapac-open-source-evangelist/translation/issues/434)
 
 - [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
 
