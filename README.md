@@ -92,34 +92,31 @@ One tap mobile
 
 会议记录：
 
-- 2023年[LF APAC 译道师会议记录](https://docs.qq.com/doc/DVVRMVklrWU9LUElV)
+- 2023年[LFAPAC 译道师会议记录](https://docs.qq.com/doc/DVVRMVklrWU9LUElV)
 
-- 2022年[LFAPAC 开源布道者译道师会议记录](https://docs.qq.com/doc/DVWtzWE9vakxTYUdj)
+- 2022年[LFAPAC 译道师会议记录](https://docs.qq.com/doc/DVWtzWE9vakxTYUdj)
 
 ## 志愿者招募
 
 本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
 联系人：赵振华 微信ID：richzhao
+联系人：李小明 微信ID：Github_Li
 
 ## 待认领翻译任务
 - [The State of Global Open Source 2025](https://www.linuxfoundation.org/hubfs/Research%20Reports/2025GlobalSpotlight_Oct-27-2025%20V4.pdf)
-- [我要认领](https://github.com/lfapac-open-source-evangelist/translation/issues/434)
+  - [我要认领](https://github.com/lfapac-open-source-evangelist/translation/issues/434)
 
 - [GNU General Public License: A Comprehensive Tutorial and Guide](attachments/Practical_GPL_Compliance_Digital.pdf)
-
-[我要认领](gpl-compliance/practical_gpl_compliance/role_responsibilities.md)
+  - [我要认领](gpl-compliance/practical_gpl_compliance/role_responsibilities.md)
 
 - [Mentorship in Open Source](attachments/Mentorship-in-Open-Source.pdf)
-
-[我要认领](Mentorship-in-open-source/role_responsibilities.md)
+  - [我要认领](Mentorship-in-open-source/role_responsibilities.md)
 
 - [Managing OS Projects on Github](attachments/Managing-OS-Projects-on-Github.pdf)
-
-[我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
+  - [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
 - [State of Tech Talent Report 2023](attachments/Training-State-of-Tech-Talent-2023-Report.pdf)
-
-[我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
+  - [我要认领](https://github.com/orgs/lfapac-open-source-evangelist/projects/2)
 
 ## [译道师成就](SIG-Achievements-译道师成就.md)
 
