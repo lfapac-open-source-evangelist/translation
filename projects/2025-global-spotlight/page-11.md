@@ -6,7 +6,7 @@ Production OSS demands enterprise-level support
 
 生产环境中的开源软件需要企业级的服务支持
 
-Organizations treat open source technologies as businesscritical infrastructure, with expectations for support that mirror commercial software standards. Figure 7 demonstrates that 71% of organizations expect response times of less than 12 hours from support providers for open source software in production environments. This expectation signals a fundamental shift from the traditional “community support” model to enterprise-grade service requirements, reflecting open source’s role as foundational business systems.
+Organizations treat open source technologies as business-critical infrastructure, with expectations for support that mirror commercial software standards. Figure 7 demonstrates that 71% of organizations expect response times of less than 12 hours from support providers for open source software in production environments. This expectation signals a fundamental shift from the traditional “community support” model to enterprise-grade service requirements, reflecting open source’s role as foundational business systems.
 
 企业已将开源技术视为业务关键基础设施，对其支持服务的期望也已与商业软件标准看齐。图 7 显示，71% 的各组织期望在生产环境中的开源软件服务提供商能在 12 小时内做出响应。这一期望标志着从传统的开源软件"社区支持（Community Support）"模式向企业级服务需求的根本性转变，反映了开源软件已成为基础业务系统（Foundational Business Systems）的角色。
 
