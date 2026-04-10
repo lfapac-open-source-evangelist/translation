@@ -8,6 +8,14 @@
   <img src="https://contributors-img.web.app/image?repo=lfapac-open-source-evangelist/translation&max=600" />
 </a>
 
+## 2026 运营小组名单
+
+- SIG 主席：李明康 （小明） @nliver
+- SIG 运营组成员：
+  - 杨振涛 @node
+  - 张立秋 @Francis-LQ
+  - 吕峰军（明城）@mingcheng
+
 ## 2025 运营小组名单
 
 1. 李明康 （小明） @nliver
@@ -17,7 +25,7 @@
 5. 周冉 @JuliaZhou2022
 6. 张立秋 @Francis-LQ
 
-## Review 小组名单
+### Review 小组名单
 
 1. 李明康 （小明） @nliver
 2. 赵振华 @zRich
@@ -36,7 +44,7 @@
 5. 周冉 @JuliaZhou2022
 6. 皮冰峰 @winterpi
 
-## Review 小组名单
+### Review 小组名单
 
 1. 赵振华 @zRich
 2. 赵梅 @terizhao
@@ -46,7 +54,7 @@
 
 ## 译道师SIG背景
 
-LFAPAC 开源布道者译道师 SIG 英文LFAPAC Open Source Evangelist Translation SIG，是LFAPAC布道师团队下的翻译小组。本小组主要翻译开源相关的书籍、文章、报告等。
+LFAPAC 开源布道者译道师 SIG 英文 LFAPAC Open Source Evangelist Localization & Advocacy SIG，是LFAPAC布道师团队下的翻译小组。本小组主要翻译开源相关的书籍、文章、报告等。
 
 ## 活跃志愿者
 
@@ -92,14 +100,13 @@ One tap mobile
 
 会议记录：
 
+- 2025-2026年[LFAPAC 译道师会议记录](https://docs.qq.com/doc/DRHZBRWZKcGZ2TWdm)
 - 2023年[LFAPAC 译道师会议记录](https://docs.qq.com/doc/DVVRMVklrWU9LUElV)
-
 - 2022年[LFAPAC 译道师会议记录](https://docs.qq.com/doc/DVWtzWE9vakxTYUdj)
 
 ## 志愿者招募
 
 本SIG长期招募志愿者，有意参与的朋友可联系我们报名参加。
-联系人：赵振华 微信ID：richzhao
 联系人：李小明 微信ID：Github_Li
 
 ## 待认领翻译任务
